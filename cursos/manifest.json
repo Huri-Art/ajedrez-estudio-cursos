@@ -1,5 +1,15 @@
 {
   "version": 1,
   "actualizado": "2026-05-02",
-  "cursos": []
+  "cursos": [
+    {
+      "id": "curso-test",
+      "titulo": "Curso de prueba",
+      "descripcion": "Descripción corta",
+      "imagenUrl": "https://...",
+      "version": 1,
+      "tamañoKB": 25,
+      "bundleUrl": "cursos/curso-test.json"
+    }
+  ]
 }
