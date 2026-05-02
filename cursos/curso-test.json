@@ -1,0 +1,1958 @@
+{
+  "id": "c_1774042840347",
+  "titulo": "¡Bienvenido a tu Kit de Inicio Intermedio",
+  "descripcion": "",
+  "imagenUrl": "https://assets-courses.chess.com/image/courses/291847_course_square_opt.jpeg",
+  "lecciones": [
+    {
+      "id": "l_17740428403500",
+      "titulo": "¡Bienvenido a tu Kit de Inicio Intermedio",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "INFO",
+          "titulo": "¡Bienvenido a tu Kit de Inicio Intermedio",
+          "texto": "",
+          "mostrarTablero": true,
+          "orientacion": "blanca",
+          "pgn": "{Hola a todos y bienvenidos a este Kit de Inicio Intermedio! Este curso está diseñado para mejorar tu juego en todas sus fases: apertura, medio juego y final. No es necesario que estudies los siguientes capítulos en el orden en que se presentan, ya que son secciones independientes. Hablemos un poco sobre el contenido del curso. 1) Apertura:Examinaremos la Escocesa para las Blancas. Decidir qué jugar después.} 1. e4 e5 2. Nf3 Nc6 3. d4 {Me gusta la Escocesa porque es agresiva. La posición se abre al instante y, a menudo, la partida se vuelve aguda y táctica. Presionamos inmediatamente a nuestro oponente. 2) Finales: Aprenderemos dos conceptos básicos en los finales de peones (la oposición y las rupturas de peones) y un final básico de torres (la posición de Lucena). En posiciones simples, no es necesario calcular variantes, sino conocer los conceptos clave. En este capítulo, podrás practicar la técnica y luego ponerte a prueba.3) Tácticas: En posiciones tácticas, es importante organizar nuestro pensamiento. ?Qué movimientos debemos comprobar primero? ?Qué debemos buscar? De nuevo, repasaremos algunos ejemplos y luego encontrarás algunos acertijos para resolver. Esperamos que el estudio del material te ayude a ordenar tu proceso de pensamiento para encontrar soluciones tácticas en tus partidas.3) Estrategia: En esta sección, veremos consideraciones más generales. Nos centraremos en las piezas buenas y malas y en cómo se relaciona su potencial con la estructura de peones. Aprenderemos a mejorar nuestra posición con un pensamiento estratégico a largo plazo. ?Qué piezas deberíamos cambiar o conservar? ?Cómo deberíamos jugar en posiciones abiertas o cerradas? Espero que disfrutes de este curso y te beneficies de él. !Nos vemos dentro!} ({El juego tomará una dirección diferente a la italiana con } 3. Bc4 {o el Ruy López (Ab5)}) *"
+        }
+      ]
+    },
+    {
+      "id": "l_17740428403501",
+      "titulo": "Introduccion a la apertura Escosesa",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "INFO",
+          "titulo": "Introduccion a la apertura Escosesa",
+          "texto": "",
+          "mostrarTablero": true,
+          "orientacion": "blanca",
+          "pgn": "1. e4 e5 {Dependiendo de la oposición, podrías enfrentarte a este movimiento en el 50% de tus juegos, !así que aprendamos algo para contrarrestarlo!} 2. Nf3 Nc6 3. d4 {El movimiento inicial de la Apertura Escocesa, que genera posiciones abiertas con más frecuencia que la Italiana o la Ruy López. Inmediatamente presionamos a nuestro oponente. Ahora, las negras deberían capturar este peón, y entraremos en detalles en las siguientes variantes entrenables.} exd4 ({ pero también aprenderemos qué hacer si simplemente lo protegen con} 3... d6) *"
+        }
+      ]
+    },
+    {
+      "id": "l_17740428403512",
+      "titulo": "Escocesa 3...d6?",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Escocesa 3...d6?",
+          "texto": "",
+          "orientacion": "blanca",
+          "secuenciaCorrecta": [
+            "e2e4",
+            "e7e5",
+            "g1f3",
+            "b8c6",
+            "d2d4",
+            "d7d6",
+            "f1b5",
+            "e5d4",
+            "f3d4",
+            "c8d7",
+            "b1c3",
+            "g8f6",
+            "b5c6",
+            "b7c6",
+            "d1f3",
+            "f8e7",
+            "e4e5",
+            "d6e5",
+            "d4c6",
+            "d7c6",
+            "f3c6",
+            "f6d7",
+            "c1e3",
+            "e8g8",
+            "e1c1",
+            "e7d6",
+            "c3b5"
+          ],
+          "comentariosMovimiento": [
+            "",
+            "",
+            "La posición inicial de la Apertura Escocesa. La única jugada válida para las negras es capturar nuestro peón \"d\" , pero a veces se encuentra con la respuesta pasiva. 3...d6 Para defender el peón e de las negras . Atacamos e5 , lo que limita las opciones de las negras.",
+            "Sugiero esta jugada siguiendo el espíritu de la Ruy López. No ayudamos a las negras intercambiando piezas en e5 , sino que aumentamos la presión sobre el peón de e5 clavando el caballo negro.",
+            "Hemos llegado a la típica estructura de peones escocesa, definida por el intercambio de nuestro peón \"d\" contra el peón \"e\" de las negras",
+            "Simple y sencillo.",
+            "Esta no es a opción obvia, pero sí una jugada sólida. Las blancas responden eficazmente a ambas recapturas.",
+            "Importante recordar! Esta jugada tiende una trampa que las negras no suelen detectar.",
+            "El objetivo de nuestro movimiento de Dama",
+            "",
+            "Las negras están en serios problemas, ya que",
+            "",
+            "",
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_17740428403523",
+      "titulo": "Escocesa 4...Dh4?",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Escocesa 4...Dh4?",
+          "texto": "",
+          "orientacion": "blanca",
+          "secuenciaCorrecta": [
+            "e2e4",
+            "e7e5",
+            "g1f3",
+            "b8c6",
+            "d2d4",
+            "e5d4",
+            "f3d4",
+            "d8h4",
+            "b1c3",
+            "f8b4",
+            "f1e2",
+            "h4e4",
+            "d4b5",
+            "b4c3",
+            "b2c3",
+            "e8d8",
+            "e1g1",
+            "a7a6",
+            "e2f3",
+            "e4g6",
+            "b5d4",
+            "c6d4",
+            "d1d4",
+            "g8f6",
+            "c1f4",
+            "d7d6",
+            "f4d6"
+          ],
+          "comentariosMovimiento": [
+            "",
+            "",
+            "La posición inicial de la Apertura Escocesa. La única jugada válida para las negras es capturar nuestro peón \"d\" ,",
+            "Las negras tienen ahora una decisión importante. ?Cómo desarrollamos el flanco de rey y luchamos por el centro? Repasemos las opciones. Las negras tienen dos líneas principales 4...Ac5 y 4... Cf6 pero también veremos movimientos menos respetables, ya que es probable que también los encuentres en tus juegos.",
+            "Desarrollamos nuestro caballo y cubrimos nuestro peón central, fácil.",
+            "",
+            "La temprana aventura de las negras con la dama dejó al peón c sin defensa.",
+            "Y ahora las negras necesitan jugar...",
+            "Tenemos una compensación fantástica por un solo peón. El rey negro permanecerá inseguro mientras nuestros alfiles dominan el tablero abierto. Analicemos brevemente dos ejemplos:",
+            "",
+            "",
+            "",
+            "y las negras no tienen ningún movimiento razonable, ya que",
+            "Ya se abre paso. La línea 4...Dh4 es, en el mejor de los casos, muy dudosa. Necesitamos sacrificar un peón, pero a cambio obtenemos un ataque fantástico."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_17740428403534",
+      "titulo": "Escocesa 4...Cxd4?! #1",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Escocesa 4...Cxd4?! #1",
+          "texto": "",
+          "orientacion": "blanca",
+          "secuenciaCorrecta": [
+            "e2e4",
+            "e7e5",
+            "g1f3",
+            "b8c6",
+            "d2d4",
+            "e5d4",
+            "f3d4",
+            "c6d4",
+            "d1d4",
+            "d8f6",
+            "e4e5",
+            "f6b6",
+            "d4b6",
+            "a7b6",
+            "b1c3",
+            "f8b4",
+            "c1d2",
+            "g8e7",
+            "a2a3",
+            "b4c3",
+            "d2c3"
+          ],
+          "comentariosMovimiento": [
+            "",
+            "",
+            "La posición inicial de la Apertura Escocesa. La única jugada válida para las negras es capturar nuestro peón \"d\" ,",
+            "Las negras tienen ahora una decisión importante.Cómo desarrollamos el flanco de rey y luchamos por el centro? Repasemos las opciones. Las negras tienen dos líneas principales: Ac5 y Cf6, pero también veremos movimientos menos respetables, ya que es probable que también los encuentres en tus juegos.",
+            "Ahora las negras tienen dificultades para desarrollar sus alfiles. Nuestra dama le quita casillas al alfil de f8 y apunta a g7",
+            "",
+            "Un momento mucho mejor para intercambiar piezas que en la jugada anterior. Debilitamos la estructura de peones de las negras y tenemos una forma efectiva de continuar tras la recaptura.",
+            "Simple y fuerte. Queremos jugar Cb5 o Cd5 , atacando directamente el flanco de dama débil de las negras. El peón \"c\" es, naturalmente, difícil de proteger.",
+            "Desclavamo s y renovamos nuestra idea de Cd5 . El problema con el concepto de las negras es que no siempre pueden evitar el intercambio de Axc3 , que nos proporciona una fuerte pareja de alfiles.",
+            "",
+            "Las negras están en una situación terrible. Nuestros alfiles son piezas fantásticas, mientras que se ve ninguna posibilidad de que el Alfil de c8 entre en juego."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_17740428403535",
+      "titulo": "Escocesa 4...Cxd4?! #2",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Escocesa 4...Cxd4?! #2",
+          "texto": "",
+          "orientacion": "blanca",
+          "secuenciaCorrecta": [
+            "e2e4",
+            "e7e5",
+            "g1f3",
+            "b8c6",
+            "d2d4",
+            "e5d4",
+            "f3d4",
+            "c6d4",
+            "d1d4",
+            "d7d6",
+            "b1c3",
+            "g8f6",
+            "c1f4",
+            "f8e7",
+            "e1c1",
+            "e8g8",
+            "f2f3",
+            "c8e6",
+            "g2g4",
+            "c7c5",
+            "d4e3"
+          ],
+          "comentariosMovimiento": [
+            "",
+            "",
+            "La posición inicial de la Apertura Escocesa. La única jugada válida para las negras es capturar nuestro peón \"d\" ,",
+            "Las negras tienen ahora una decisión importante.Cómo desarrollamos el flanco de rey y luchamos por el centro? Repasemos las opciones. Las negras tienen dos líneas principales: Ac5 y Cf6, pero también veremos movimientos menos respetables, ya que es probable que también los encuentres en tus juegos.",
+            "Ahora las negras tienen dificultades para desarrollar sus alfiles. Nuestra dama le quita casillas al alfil de f8 y apunta a g7",
+            "Tenemos un plan simple pero efectivo: desarrollar el flanco de dama, enrocar hacia este lado y avanzar los peones del flanco de rey. Veamos cómo se desarrolla este concepto.",
+            "Prefiero esta casilla para el alfil.",
+            "",
+            "Una parte importante de nuestra estrategia. Nuestro peón \"e\" está ahora bien cubierto, pero lo principal es preparar nuestra avalancha de peones en el flanco de rey.",
+            "Aquí vamos! Tenemos una gran posición. Veamos dos posibles respuestas para ilustrar la jugada. A)",
+            "pone una enor me presión sobre el peón d6 ...y todavía tenemos nuestro ataque del flanco rey."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_17740428403546",
+      "titulo": "Escocesa  4...Cf6 #1",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Escocesa  4...Cf6 #1",
+          "texto": "",
+          "orientacion": "blanca",
+          "secuenciaCorrecta": [
+            "e2e4",
+            "e7e5",
+            "g1f3",
+            "b8c6",
+            "d2d4",
+            "e5d4",
+            "f3d4",
+            "g8f6",
+            "d4c6",
+            "b7c6",
+            "e4e5",
+            "f6d5",
+            "c2c4",
+            "d5b6",
+            "f1d3",
+            "f8c5",
+            "d1g4",
+            "e8g8",
+            "c1h6",
+            "g7g6",
+            "h6f8"
+          ],
+          "comentariosMovimiento": [
+            "",
+            "",
+            "La posición inicial de la Apertura Escocesa. La única jugada válida para las negras es capturar nuestro peón \"d\" ,",
+            "Las negras tienen ahora una decisión importante.Cómo desarrollamos el flanco de rey y luchamos por el centro? Repasemos las opciones. Las negras tienen dos líneas principales: Ac5 y Cf6, pero también veremos movimientos menos respetables, ya que es probable que también los encuentres en tus juegos.",
+            "Tomamos el caballo negro para habilitar e4 - e5 en el siguiente movimiento.",
+            "El punto ante rior. El avance del peón central conduce a posiciones poco convencionales que requieren un juego preciso. Un agudo 6.e5 o un 6.Ad3 son una ventaja práctica considerable para nuestra línea elegida. e5 es la jugada mas desafiante para las negras...(1)",
+            "Esta posición se puede comparar con la linea en donde insertamos las damas, cuando las negras tienen la opción adicional de 8...Aa6 Para mantener el caballo centralizado en su posición. Ahora, sin los movimientos de dama en el tablero, las negras deben retirarse.",
+            "Tenemos más espacio, fácil desarrollo y una mejor estructura de peones. Esta evaluación no depende mucho de nuestra elección de movimiento, sino que se aplica a movimientos como 8.Cc3 o 8.Ac3, por ejemplo. Yo prefiero 8.Ad3 para acelerar el enroque, pero las alternativas mencionadas no son peores.",
+            "No deberías mover la dama demasiado pronto en la apertura... un consejo bien conocido. Bueno, aquí es fuerte! Deberías considerar la salida de la dama cuando pueda atacar el peón de g7 , y las negras no tengan una buena defensa contra la amenaza. A)",
+            "",
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_17740428403557",
+      "titulo": "Escocesa 4...Cf6 #2",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Escocesa 4...Cf6 #2",
+          "texto": "",
+          "orientacion": "blanca",
+          "secuenciaCorrecta": [
+            "e2e4",
+            "e7e5",
+            "g1f3",
+            "b8c6",
+            "d2d4",
+            "e5d4",
+            "f3d4",
+            "g8f6",
+            "d4c6",
+            "b7c6",
+            "e4e5",
+            "d8e7",
+            "d1e2",
+            "f6d5",
+            "c2c4",
+            "d5b6",
+            "b1c3",
+            "e7e6",
+            "e2e4",
+            "c8a6",
+            "b2b3",
+            "f8b4",
+            "c1d2",
+            "b4c3",
+            "d2c3",
+            "d7d5",
+            "e4f3",
+            "d5c4",
+            "f1e2"
+          ],
+          "comentariosMovimiento": [
+            "",
+            "",
+            "La posición inicial de la Apertura Escocesa. La única jugada válida para las negras es capturar nuestro peón \"d\" ,",
+            "Las negras tienen ahora una decisión importante.Cómo desarrollamos el flanco de rey y luchamos por el centro? Repasemos las opciones. Las negras tienen dos líneas principales: Ac5 y Cf6, pero también veremos movimientos menos respetables, ya que es probable que también los encuentres en tus juegos.",
+            "Tomamos el caballo negro para habilitar e4 - e5 en el siguiente movimiento.",
+            "El punto ante rior. El avance del peón central conduce a posiciones poco convencionales que requieren un juego preciso. Un agudo 6.e5 o un 6.Ad3 son una ventaja práctica considerable para nuestra línea elegida. e5 es la jugada mas desafiante para las negras...",
+            "Necesitábamos cubrir nuestro peón. Ahora, el caballo negro está colgado y necesita mover.",
+            "Cuando Kasparov volvió a poner la escocesa sobre la mesa, siempre optó por esta jugada. Es la continuación lógica de la jugada anterior de las blancas: avanzamos nuestros peones para perseguir al caballo negro y ganar espacio.",
+            "Nuestra idea es mover la Dama a e4 , permitiendo al alfil desarrollar d3 .",
+            "",
+            "",
+            "Muy importante...(1) Después de este movimiento muy sensato generalmente se continúa con",
+            "",
+            "",
+            "donde las negras no pueden capturar b3 debido al alfil de a6 desprotegido . Las blancas tienen una pareja de alfiles fuerte, pero las negras tienen un peón de ventaja. Esto es menos problemático, ya que la estructura de peones de nuestro oponente es bastante débil."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_17740428403568",
+      "titulo": "Escocesa 4...Cf6 #3",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Escocesa 4...Cf6 #3",
+          "texto": "",
+          "orientacion": "blanca",
+          "secuenciaCorrecta": [
+            "e2e4",
+            "e7e5",
+            "g1f3",
+            "b8c6",
+            "d2d4",
+            "e5d4",
+            "f3d4",
+            "g8f6",
+            "d4c6",
+            "b7c6",
+            "e4e5",
+            "d8e7",
+            "d1e2",
+            "f6d5",
+            "c2c4",
+            "d5b6",
+            "b1c3",
+            "c8a6",
+            "e2e4",
+            "g7g6",
+            "c1f4",
+            "f8g7",
+            "c4c5",
+            "a6f1",
+            "c5b6",
+            "f1a6",
+            "b6c7",
+            "a8c8",
+            "e1c1",
+            "c8c7",
+            "e5e6"
+          ],
+          "comentariosMovimiento": [
+            "",
+            "",
+            "La posición inicial de la Apertura Escocesa. La única jugada válida para las negras es capturar nuestro peón \"d\" ,",
+            "Las negras tienen ahora una decisión importante.Cómo desarrollamos el flanco de rey y luchamos por el centro? Repasemos las opciones. Las negras tienen dos líneas principales: Ac5 y Cf6, pero también veremos movimientos menos respetables, ya que es probable que también los encuentres en tus juegos.",
+            "Tomamos el caballo negro para habilitar e4 - e5 en el siguiente movimiento.",
+            "El punto ante rior. El avance del peón central conduce a posiciones poco convencionales que requieren un juego preciso. Un agudo 6.e5 o un 6.Ad3 son una ventaja práctica considerable para nuestra línea elegida. e5 es la jugada mas desafiante para las negras...",
+            "Necesitábamos cubrir nuestro peón. Ahora, el caballo negro está colgado y necesita mover.",
+            "Cuando Kasparov volvió a poner la escocesa sobre la mesa, siempre optó por esta jugada. Es la continuación lógica de la jugada anterior de las blancas: avanzamos nuestros peones para perseguir al caballo negro y ganar espacio.",
+            "Nuestra idea es mover la Dama a e4 , permitiendo al alfil desarrollar d3 .",
+            "Una buena manera de desenredar y cubrir c4 simultáneamente.",
+            "Necesitamos proteger el peón, ya que las negras estaban listas para presionarlo con ... Ag7 . También les tendimos una trampa tortuosa, ya que esta respuesta, aparentemente obvia, !es ahora un error!",
+            "Una táctica típica, basada en el alfil de a6 desprotegido . La siguiente secuencia es forzada y excelente para las blancas.",
+            "",
+            "Buen trabajo, peón c! Las negras están en una situación terrible, ya que no hay una buena manera de ganar el peón héroe en c7 . La línea...",
+            "",
+            "muestra uno de los problemas."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_17740428403579",
+      "titulo": "Escocesa 4...Cf6 #4",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Escocesa 4...Cf6 #4",
+          "texto": "",
+          "orientacion": "blanca",
+          "secuenciaCorrecta": [
+            "e2e4",
+            "e7e5",
+            "g1f3",
+            "b8c6",
+            "d2d4",
+            "e5d4",
+            "f3d4",
+            "g8f6",
+            "d4c6",
+            "b7c6",
+            "e4e5",
+            "d8e7",
+            "d1e2",
+            "f6d5",
+            "c2c4",
+            "c8a6",
+            "g2g3",
+            "e8c8",
+            "b2b3",
+            "d8e8",
+            "c1b2",
+            "f7f6",
+            "f1g2",
+            "f6e5",
+            "e1g1",
+            "h7h5",
+            "e2d2",
+            "d5f6",
+            "f1e1",
+            "e7d6",
+            "d2a5"
+          ],
+          "comentariosMovimiento": [
+            "",
+            "",
+            "La posición inicial de la Apertura Escocesa. La única jugada válida para las negras es capturar nuestro peón \"d\" ,",
+            "Las negras tienen ahora una decisión importante.Cómo desarrollamos el flanco de rey y luchamos por el centro? Repasemos las opciones. Las negras tienen dos líneas principales: Ac5 y Cf6, pero también veremos movimientos menos respetables, ya que es probable que también los encuentres en tus juegos.",
+            "Tomamos el caballo negro para habilitar e4 - e5 en el siguiente movimiento.",
+            "El punto ante rior. El avance del peón central conduce a posiciones poco convencionales que requieren un juego preciso. Un agudo 6.e5 o un 6.Ad3 son una ventaja práctica considerable para nuestra línea elegida. e5 es la jugada mas desafiante para las negras...",
+            "Necesitábamos cubrir nuestro peón. Ahora, el caballo negro está colgado y necesita mover.",
+            "Cuando Kasparov volvió a poner la escocesa sobre la mesa, siempre optó por esta jugada. Es la continuación lógica de la jugada anterior de las blancas: avanzamos nuestros peones para perseguir al caballo negro y ganar espacio.",
+            "(1)",
+            "De manera similar a 9... g6 10.b3 , necesitamos preparar Ab2 para cubrir e5 .",
+            "",
+            "El peón e no es importante; pongamos al Rey a salvo.",
+            "Misión cump lida. Las blancas han perdido un peón, pero estamos listos para centrarnos en el rey negro. La sorprendente ruta de ataque es Dd2 - a5!, atacando los puntos débiles del flanco de dama. Aquí Karpov jugó",
+            "",
+            "(incluso mejor que la 15.Da5 de Kasparov)",
+            "conduce a un fuerte ataque de las blancas."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_177404284035810",
+      "titulo": "Escocesa 4...Cf6 #5",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Escocesa 4...Cf6 #5",
+          "texto": "",
+          "orientacion": "blanca",
+          "secuenciaCorrecta": [
+            "e2e4",
+            "e7e5",
+            "g1f3",
+            "b8c6",
+            "d2d4",
+            "e5d4",
+            "f3d4",
+            "g8f6",
+            "d4c6",
+            "b7c6",
+            "e4e5",
+            "d8e7",
+            "d1e2",
+            "f6d5",
+            "c2c4",
+            "c8a6",
+            "g2g3",
+            "g7g6",
+            "b2b3",
+            "f8g7",
+            "c1b2",
+            "e8g8",
+            "f1g2",
+            "f8e8",
+            "e1g1",
+            "g7e5",
+            "b2e5",
+            "e7e5",
+            "e2e5",
+            "e8e5",
+            "c4d5",
+            "a6f1",
+            "g1f1",
+            "c6d5",
+            "b1c3",
+            "c7c6",
+            "c3a4",
+            "a8e8",
+            "g2f3"
+          ],
+          "comentariosMovimiento": [
+            "",
+            "",
+            "La posición inicial de la Apertura Escocesa. La única jugada válida para las negras es capturar nuestro peón \"d\" ,",
+            "Las negras tienen ahora una decisión importante.Cómo desarrollamos el flanco de rey y luchamos por el centro? Repasemos las opciones. Las negras tienen dos líneas principales: Ac5 y Cf6, pero también veremos movimientos menos respetables, ya que es probable que también los encuentres en tus juegos.",
+            "Tomamos el caballo negro para habilitar e4 - e5 en el siguiente movimiento.",
+            "El punto ante rior. El avance del peón central conduce a posiciones poco convencionales que requieren un juego preciso. Un agudo 6.e5 o un 6.Ad3 son una ventaja práctica considerable para nuestra línea elegida. e5 es la jugada mas desafiante para las negras...",
+            "Necesitábamos cubrir nuestro peón. Ahora, el caballo negro está colgado y necesita mover.",
+            "Cuando Kasparov volvió a poner la escocesa sobre la mesa, siempre optó por esta jugada. Es la continuación lógica de la jugada anterior de las blancas: avanzamos nuestros peones para perseguir al caballo negro y ganar espacio.",
+            "(1)",
+            "Otro movimiento de peón, pero es el camino a seguir. Necesitamos Ab2 para proteger e5 .",
+            "",
+            "",
+            "Finalmente hemos enrocado y nos hemos puesto al día con el desarrollo. La mejor apuesta de las negras es capturar el peón de e5 , lo que nos lleva a un final fascinante. Analicemos esta línea y por qué otras son mejores para las blancas.",
+            "",
+            "",
+            "",
+            "",
+            "Hemos llegado al final ya mencionado. La teoría considera que las posibilidades son iguales, pero las blancas lo hacen bien en la práctica si siguen la estrategia correcta.Las blancas deberían conservar su torre e impedir que las torres negras se vuelvan demasiado activas. Al mismo tiempo, las blancas necesitan presionar la masa de peones negras en el centro. Esto conduce a la secuencia de movimientos.",
+            "apuntando a c5",
+            "deteniendo... Re2 . Los motores consideran que la situación es igual, pero se avecina una interesante batalla final. Es fundamental seguir las pautas generales anteriores."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_177404284035911",
+      "titulo": "Escocesa 4...Ac5 #1",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Escocesa 4...Ac5 #1",
+          "texto": "",
+          "orientacion": "blanca",
+          "secuenciaCorrecta": [
+            "e2e4",
+            "e7e5",
+            "g1f3",
+            "b8c6",
+            "d2d4",
+            "e5d4",
+            "f3d4",
+            "f8c5",
+            "d4b3",
+            "c5b6",
+            "b1c3",
+            "d7d6",
+            "d1e2",
+            "g8e7",
+            "c1e3",
+            "e8g8",
+            "e1c1",
+            "f7f5",
+            "e4f5",
+            "e7f5",
+            "e3b6",
+            "a7b6",
+            "c1b1",
+            "f8e8",
+            "e2d2",
+            "c8e6",
+            "h2h3"
+          ],
+          "comentariosMovimiento": [
+            "",
+            "",
+            "La posición inicial de la Apertura Escocesa. La única jugada válida para las negras es capturar nuestro peón \"d\" ,",
+            "Las negras tienen ahora una decisión importante.Cómo desarrollamos el flanco de rey y luchamos por el centro? Repasemos las opciones. Las negras tienen dos líneas principales: Ac5 y Cf6, pero también veremos movimientos menos respetables, ya que es probable que también los encuentres en tus juegos.",
+            "Después de la respuesta natural",
+            "para acelerar el desarrollo del flanco de dama y enrocar hacia este lado del tablero.Un paso más cerca del enroque en el flanco de dama. ?Cómo desarrollamos nuestro alfil de c1 y la dama para completar nuestra tarea? La forma estándar es mover la dama a e2 , seguido de Ae3 . De esta manera, neutralizamos el alfil negro en el proceso. Hay una excepción importante a tener en cuenta: si las negras juegan 6...Cf6 , clavar el caballo con Ag5 es crucial. Repasemos las opciones de las negras. C)",
+            "Nuestro movimiento habitual.(1) Las negras tienen una elección crucial entre 7...Cf6 y 7...Cge7",
+            "",
+            "",
+            "",
+            "No tenemos una buena casilla para el alfil y necesitamos intercambiar piezas. No hay problema, ya que las negras no pueden hacer nada con la columna a .",
+            "Una profilaxis necesaria, cubriendo el peón a . Así, podemos hacer que nuestro caballo c3 vuelva a ser móvil. Como se indicó anteriormente, queremos comenzar a expandirnos en el flanco de rey pronto, por ejemplo, después de",
+            "",
+            "Preparando el avance del peón. También nos gusta incluir f4 , controlando la casilla e5 . Sus posiciones parecen un poco más fáciles de jugar para las blancas."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_177404284035912",
+      "titulo": "Escocesa 4...Ac5 #2",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Escocesa 4...Ac5 #2",
+          "texto": "",
+          "orientacion": "blanca",
+          "secuenciaCorrecta": [
+            "e2e4",
+            "e7e5",
+            "g1f3",
+            "b8c6",
+            "d2d4",
+            "e5d4",
+            "f3d4",
+            "f8c5",
+            "d4b3",
+            "c5b6",
+            "b1c3",
+            "d7d6",
+            "d1e2",
+            "g8f6",
+            "c1e3",
+            "e8g8",
+            "e1c1",
+            "f8e8",
+            "f2f3",
+            "c8e6",
+            "g2g4",
+            "c6e5",
+            "h2h3"
+          ],
+          "comentariosMovimiento": [
+            "",
+            "",
+            "La posición inicial de la Apertura Escocesa. La única jugada válida para las negras es capturar nuestro peón \"d\" ,",
+            "Las negras tienen ahora una decisión importante.Cómo desarrollamos el flanco de rey y luchamos por el centro? Repasemos las opciones. Las negras tienen dos líneas principales: Ac5 y Cf6, pero también veremos movimientos menos respetables, ya que es probable que también los encuentres en tus juegos.",
+            "Después de la respuesta natural",
+            "para acelerar el desarrollo del flanco de dama y enrocar hacia este lado del tablero.Un paso más cerca del enroque en el flanco de dama. ?Cómo desarrollamos nuestro alfil de c1 y la dama para completar nuestra tarea? La forma estándar es mover la dama a e2 , seguido de Ae3 . De esta manera, neutralizamos el alfil negro en el proceso. Hay una excepción importante a tener en cuenta: si las negras juegan 6...Cf6 , clavar el caballo con Ag5 es crucial. Repasemos las opciones de las negras. C)",
+            "Nuestro movimiento habitual.(1) Las negras tienen una elección crucial entre 7...Cf6 y 7...Cge7",
+            "Me gusta mante ner nuestra configuración estándar siempre que sea posible; así es más fácil de recordar.",
+            "Ahora estamos listos para la tormenta de peones del flanco rey.",
+            "Necesitábamos cubrir e4 , pero también prepara nuestro juego de ataque en el flanco de rey. Una continuación lógicaes",
+            "",
+            "Es una jug ada fuerte, preparando f3 - f4 a continuación. Nuestra ofensiva de peones es peligrosa para las negras, pero debemos ejecutarla con precisión."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_177404284036013",
+      "titulo": "Escocesa 4...Ac5 #3",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "INFO",
+          "titulo": "Escocesa 4...Ac5 #3",
+          "texto": "",
+          "mostrarTablero": true,
+          "orientacion": "blanca",
+          "pgn": "1. e4 e5 2. Nf3 Nc6 3. d4 {La posición inicial de la Apertura Escocesa. La única jugada válida para las negras es capturar nuestro peón \"d\" ,} exd4 { La única jugada válida disponible, que conduce a la típica estructura de peones escoceses. Las negras intercambian su peón e por nuestro peón d , lo que resulta en un desequilibrio central. Nuestro peón e4 restante ayuda a controlar el centro y nos da ventaja de espacio. Las negras tienen dos maneras principales de contrarrestar nuestra ventaja de espacio: preparar... d7 - d5 o presionar elcentroconpiezas} 4. Nxd4 {Las negras tienen ahora una decisión importante.Cómo desarrollamos el flanco de rey y luchamos por el centro? Repasemos las opciones. Las negras tienen dos líneas principales: Ac5 y Cf6, pero también veremos movimientos menos respetables, ya que es probable que también los encuentres en tus juegos.} Bc5 {Una elección muy natural. Las negras desarrollan una pieza y atacan nuestro caballo. Veremos que esto conduce a un juego interesante y agudo. Las negras suelen tener problemas, ya que el conocimiento de las ideas es crucial.} 5. Nb3 { Después de la respuesta natural} ({Las blancas tienen alternativas valiosas en } 5. Be3 {y Cxc6 pero nuestra preferencia nos lleva al juego más agudo.}) 5... Bb6 {Una buena diagonal para el alfil negro, mirando hacia el delicado punto f2 . continuamos} 6. Nc3 {para acelerar el desarrollo del flanco de dama y enrocar hacia este lado del tablero.Un paso más cerca del enroque en el flanco de dama. Cómo desarrollamos nuestro alfil de c1 y la dama para completar nuestra tarea? La forma estándar es mover la dama a e2 , seguido de Ae3 . De esta manera, neutralizamos el alfil negro en el proceso. Hay una excepción importante a tener en cuenta: si las negras juegan 6...Cf6 , clavar el caballo con Ag5 es crucial.} Qf6 {!Alerta de Mate del Pastor! Bueno, si lo analizamos con más detalle, no se trata solo de la amenaza de un solo movimiento. Las negras tienen en mente una configuración basada en ... Cge7 y ... d6 , pero quieren activar la dama primero} 7. Qe2 { Cubrimos el mate utilizando nuestra colocación estándar de Dama} Nge7 { El movimiento natural: las negras quieren desarrollarse y también necesitan detener nuestra idea de Cd5 .} 8. Be3 ({ Una buena alternativa para las blancas es} 8. h4 { preparando Ag5 para atacar a la dama negra.}) 8... O-O ({ Las negras también pueden preparar el enroque del flanco de dama con} 8... d6 9. O-O-O Bd7 { donde deberíamos expandirnos en el flanco de rey con una línea como} 10. f3 O-O-O 11. h4 {lo que da a las blancas una ligera ventaja. La posición de las negras es sólida, pero avanzar nuestros peones del flanco de rey es un plan fácil de seguir. Las ideas de contrajuego de las negras son menos obvias.}) 9. O-O-O d6 {Movimientos bastante obvios de ambos bandos.Cómo continuamos ahora? Queremos empezar nuestra jugada en el flanco de rey, que parece especialmente atractiva debido a la dama expuesta de las negras. g4 - g5 ganarían un tiempo, por ejemplo.} 10. h4 { Las blancas tienen una lista completa de buenas jugadas alternativas.} ({ las buenas alternativas son las profilácticas.} 10. Kb1) ({o} 10. f3 { para preparar el avance del peón g.}) ({Nótese que} 10. g4 { es cuestionable debido a} Bxe3+ {donde} 11. Qxe3 Bxg4 {Las negras pierden un peón. Las blancas buscan combinar las jugadas h4 - h5 , f2 - f3 y g3 - g4 - g5 . Se puede empezar con el peón f o el peón h ; ambos órdenes parecen adecuados. Las blancas tienen mejores posibilidades: tenemos un ataque en el flanco de rey, donde se encuentra el rey negro.}) *"
+        }
+      ]
+    },
+    {
+      "id": "l_177404284036014",
+      "titulo": "Escocesa 4...Ac5 #4",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "INFO",
+          "titulo": "Escocesa 4...Ac5 #4",
+          "texto": "",
+          "mostrarTablero": true,
+          "orientacion": "blanca",
+          "pgn": "1. e4 e5 2. Nf3 Nc6 3. d4 {La posición inicial de la Apertura Escocesa. La única jugada válida para las negras es capturar nuestro peón \"d\" ,} exd4 { La única jugada válida disponible, que conduce a la típica estructura de peones escoceses. Las negras intercambian su peón e por nuestro peón d , lo que resulta en un desequilibrio central. Nuestro peón e4 restante ayuda a controlar el centro y nos da ventaja de espacio. Las negras tienen dos maneras principales de contrarrestar nuestra ventaja de espacio: preparar... d7 - d5 o presionar elcentroconpiezas} 4. Nxd4 {Las negras tienen ahora una decisión importante.Cómo desarrollamos el flanco de rey y luchamos por el centro? Repasemos las opciones. Las negras tienen dos líneas principales: Ac5 y Cf6, pero también veremos movimientos menos respetables, ya que es probable que también los encuentres en tus juegos.} Bc5 {Una elección muy natural. Las negras desarrollan una pieza y atacan nuestro caballo. Veremos que esto conduce a un juego interesante y agudo. Las negras suelen tener problemas, ya que el conocimiento de las ideas es crucial.} 5. Nb3 { Después de la respuesta natural} ({Las blancas tienen alternativas valiosas en } 5. Be3 {y Cxc6 pero nuestra preferencia nos lleva al juego más agudo.}) 5... Bb6 {Una buena diagonal para el alfil negro, mirando hacia el delicado punto f2 . continuamos} 6. Nc3 {para acelerar el desarrollo del flanco de dama y enrocar hacia este lado del tablero.Un paso más cerca del enroque en el flanco de dama. Cómo desarrollamos nuestro alfil de c1 y la dama para completar nuestra tarea? La forma estándar es mover la dama a e2 , seguido de Ae3 . De esta manera, neutralizamos el alfil negro en el proceso. Hay una excepción importante a tener en cuenta: si las negras juegan 6...Cf6 , clavar el caballo con Ag5 es crucial.} Nge7 ({Este desarrollo del caballo (6...Cge7) tiene dos puntos: evitar una posible clavada Ag5 después de} 6... Nf6 7. Qe2 O-O 8. Bg5 { es una línea común que presenta la clavada) y permite un posterior ...f5 para desafiar el centro de las blancas.}) 7. Qe2 ({ Según nuestra configuración estándar, una buena alternativa a considerar es} 7. Bf4 {planificando Qd2 y OOO .}) 7... O-O ({o} 7... d6 8. Be3 { que cubrimos aquí a través del orden de movimiento más común 6...d6 .}) 8. Be3 {...(1)} f5 {...(2)} ({(1)No hay puntos extra por esto. Ahora las negras pueden transponer de nuevo a las líneas tempranas de ...d6 con} 8... d6 { pero hay una opción más directa para examinar.}) ({(2) Si las negras quieren evitar la más lenta 8...d6 Así es como se hace. No pueden jugar} 8... d5 9. O-O-O d4 10. Nb5 {donde el peon caeria.}) 9. O-O-O fxe4 ({ Capturar nuestro peon central es la mas logico} 9... f4 10. Bxb6 axb6 11. f3 d6 12. Qd2 Be6 13. a3 Ng6 14. Nd5 {Nos parece un poco mejor gracias al fuerte puesto avanzado de d5 . No nos importa tomar en b6 , ya que las negras no pueden aprovechar la columna a semiabierta .}) ({Otra opción sería} 9... d6 { pero cubrimos esta posición mediante el orden de movimiento 6...d6 .}) 10. Bxb6 {Realizamos este movimiento para habilitar Dxe4 en el siguiente movimiento} axb6 11. Qxe4 { A continuación jugaremos Ac4 o Ad3 , completando nuestro desarrollo.} { Tenga en cuenta que} Rxf2 {es arriesgado para las negras, ya que} 12. Bd3 Ng6 13. h4 d6 14. h5 Nf8 15. h6 {nos da un ataque peligroso.} *"
+        }
+      ]
+    },
+    {
+      "id": "l_177404284036115",
+      "titulo": "Escocesa 4...Ac5 #5",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "INFO",
+          "titulo": "Escocesa 4...Ac5 #5",
+          "texto": "",
+          "mostrarTablero": true,
+          "orientacion": "blanca",
+          "pgn": "1. e4 e5 2. Nf3 Nc6 3. d4 {La posición inicial de la Apertura Escocesa. La única jugada válida para las negras es capturar nuestro peón \"d\" ,} exd4 { La única jugada válida disponible, que conduce a la típica estructura de peones escoceses. Las negras intercambian su peón e por nuestro peón d , lo que resulta en un desequilibrio central. Nuestro peón e4 restante ayuda a controlar el centro y nos da ventaja de espacio. Las negras tienen dos maneras principales de contrarrestar nuestra ventaja de espacio: preparar... d7 - d5 o presionar elcentroconpiezas} 4. Nxd4 {Las negras tienen ahora una decisión importante.Cómo desarrollamos el flanco de rey y luchamos por el centro? Repasemos las opciones. Las negras tienen dos líneas principales: Ac5 y Cf6, pero también veremos movimientos menos respetables, ya que es probable que también los encuentres en tus juegos.} Bc5 {Una elección muy natural. Las negras desarrollan una pieza y atacan nuestro caballo. Veremos que esto conduce a un juego interesante y agudo. Las negras suelen tener problemas, ya que el conocimiento de las ideas es crucial.} 5. Nb3 { Después de la respuesta natural} ({Las blancas tienen alternativas valiosas en } 5. Be3 {y Cxc6 pero nuestra preferencia nos lleva al juego más agudo.}) 5... Bb6 {Una buena diagonal para el alfil negro, mirando hacia el delicado punto f2 . continuamos} 6. Nc3 {para acelerar el desarrollo del flanco de dama y enrocar hacia este lado del tablero.Un paso más cerca del enroque en el flanco de dama. Cómo desarrollamos nuestro alfil de c1 y la dama para completar nuestra tarea? La forma estándar es mover la dama a e2 , seguido de Ae3 . De esta manera, neutralizamos el alfil negro en el proceso. Hay una excepción importante a tener en cuenta: si las negras juegan 6...Cf6 , clavar el caballo con Ag5 es crucial.} Nf6 {Las negras optan por el desarrollo más activo del caballo, pero permiten la clavada de Ag5 .} 7. Qe2 ({No estaría mal empezar con } 7. Bg5 {En todas las demás líneas, siempre empezamos con el movimiento de la Dama, así que mantengámonos así.}) 7... O-O 8. Bg5 {Un momento crucial! Nuestra elección es mucho más peligroso para las negras. En primer lugar, ahora amenazamos con Cd5 , lo que aumentaría la presión sobre f6 y dañaría seriamente el refugio de peones del flanco de rey de las negras} ({Despues del enroque debemos darnos cuenta que las negras estan listas para contestar al rutinario} 8. Be3 {con} d5 { destacando el punto del orden de movimientos de las negras} {Después de} 9. O-O-O d4 {Las complicaciones funcionan bien para las negras.}) { Por eso una jugada como} 8... Re8 {es insatisfactoria para nuestro oponente. Veamos por qué falla este movimiento lento} ({Lo mismo aplica para} 8... d6 { donde} 9. Nd5 {También es poderosa.}) 9. Nd5 {Hay que tener cuidado al mover piezas repetidamente en la apertura. En este caso, está justificado, ya que la presión sobre f6 debilitará considerablemente la posición del rey negro.} d6 ({ Despues de} 9... Rxe4 10. Qxe4 Nxe4 11. Bxd8 { Las blancas sólo pueden cambiar un peón: una enorme ventaja.}) 10. O-O-O { No es necesario apresurarse con la captura en f6.} Be6 11. Bxf6 { Tomar con el caballo también es excelente para las blancas.} gxf6 12. Qh5 { Las blancas tienen un fuerte ataque contra el flanco de rey debilitado de las negras.} *"
+        }
+      ]
+    },
+    {
+      "id": "l_177404284036116",
+      "titulo": "Escocesa 4...Ac5 #6",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "INFO",
+          "titulo": "Escocesa 4...Ac5 #6",
+          "texto": "",
+          "mostrarTablero": true,
+          "orientacion": "blanca",
+          "pgn": "1. e4 e5 2. Nf3 Nc6 3. d4 {La posición inicial de la Apertura Escocesa. La única jugada válida para las negras es capturar nuestro peón \"d\" ,} exd4 { La única jugada válida disponible, que conduce a la típica estructura de peones escoceses. Las negras intercambian su peón e por nuestro peón d , lo que resulta en un desequilibrio central. Nuestro peón e4 restante ayuda a controlar el centro y nos da ventaja de espacio. Las negras tienen dos maneras principales de contrarrestar nuestra ventaja de espacio: preparar... d7 - d5 o presionar elcentroconpiezas} 4. Nxd4 {Las negras tienen ahora una decisión importante.Cómo desarrollamos el flanco de rey y luchamos por el centro? Repasemos las opciones. Las negras tienen dos líneas principales: Ac5 y Cf6, pero también veremos movimientos menos respetables, ya que es probable que también los encuentres en tus juegos.} Bc5 {Una elección muy natural. Las negras desarrollan una pieza y atacan nuestro caballo. Veremos que esto conduce a un juego interesante y agudo. Las negras suelen tener problemas, ya que el conocimiento de las ideas es crucial.} 5. Nb3 { Después de la respuesta natural} ({Las blancas tienen alternativas valiosas en } 5. Be3 {y Cxc6 pero nuestra preferencia nos lleva al juego más agudo.}) 5... Bb6 {Una buena diagonal para el alfil negro, mirando hacia el delicado punto f2 . continuamos} 6. Nc3 {para acelerar el desarrollo del flanco de dama y enrocar hacia este lado del tablero.Un paso más cerca del enroque en el flanco de dama. Cómo desarrollamos nuestro alfil de c1 y la dama para completar nuestra tarea? La forma estándar es mover la dama a e2 , seguido de Ae3 . De esta manera, neutralizamos el alfil negro en el proceso. Hay una excepción importante a tener en cuenta: si las negras juegan 6...Cf6 , clavar el caballo con Ag5 es crucial.} Nf6 {Las negras optan por el desarrollo más activo del caballo, pero permiten la clavada de Ag5 .} 7. Qe2 ({No estaría mal empezar con } 7. Bg5 {En todas las demás líneas, siempre empezamos con el movimiento de la Dama, así que mantengámonos así.}) 7... O-O 8. Bg5 {Un momento crucial! Nuestra elección es mucho más peligroso para las negras. En primer lugar, ahora amenazamos con Cd5 , lo que aumentaría la presión sobre f6 y dañaría seriamente el refugio de peones del flanco de rey de las negras} ({Despues del enroque debemos darnos cuenta que las negras estan listas para contestar al rutinario} 8. Be3 {con} d5 { destacando el punto del orden de movimientos de las negras} {Después de} 9. O-O-O d4 {Las complicaciones funcionan bien para las negras.}) 8... Nd4 { Una jugada bastante rara, pero no está mal para las negras.} ({Debemos analizar la con más atención, ya que es fácil confundir esta posición con otra similar. } 8... h6 9. Bh4 Nd4 {lo que requiere una respuesta diferente! (2) Ahora bien, la diferencia clave es que ahora} 10. Qd2 {falla por} Nxe4 {debido al alfil h4 desprotegido. Por lo tanto,Se requiere 10.Dd3 tras los movimientos ... h6 / Ah4 . Estos matices tácticos son muy instructivos: asegúrese de evitarlos!}) 9. Qd2 {La única buena respuesta.} (9. Nxd4 Bxd4 {es demasiado inofensivo...(1)}) ({(1) mientras que} 9. Qd3 {es un gran error debido a} Nxb3 10. axb3 Bxf2+ 11. Kxf2 Ng4+ {donde las negras ganan...(2)}) 9... Nxb3 10. axb3 h6 ({ El negro tambien ha intentado} 10... Re8 { Cuando tienes dos buenas respuestas, los motores sugieren lo salvaje} 11. O-O-O ({Una alternativa más sensata es...} 11. f3 h6 12. Bf4 d5 13. O-O-O { lo que parece mejor para las blancas.}) 11... h6 12. h4 { lo que le da a las blancas un ataque aplastante después} hxg5 13. hxg5 Nxe4 14. Nxe4 Rxe4 15. Bd3 {Esta es una línea interesante, pero las negras no están obligadas a tomar nuestro alfil.}) {Después de la correcta} 11. Be3 {estamos li stos para enrocar en el flanco de dama, con una buena posición. Tenemos una buena ventaja central y conservamos la posibilidad de un ataque posterior en el flanco de rey basado en f3 + g4 .} ({Tenga siempre presente que} 11. Bh4 Nxe4 {Es una táctica estándar a evitar!}) *"
+        }
+      ]
+    },
+    {
+      "id": "l_177404284036217",
+      "titulo": "Escocesa 4...Ac5 #7",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "INFO",
+          "titulo": "Escocesa 4...Ac5 #7",
+          "texto": "",
+          "mostrarTablero": true,
+          "orientacion": "blanca",
+          "pgn": "1. e4 e5 2. Nf3 Nc6 3. d4 {La posición inicial de la Apertura Escocesa. La única jugada válida para las negras es capturar nuestro peón \"d\" ,} exd4 { La única jugada válida disponible, que conduce a la típica estructura de peones escoceses. Las negras intercambian su peón e por nuestro peón d , lo que resulta en un desequilibrio central. Nuestro peón e4 restante ayuda a controlar el centro y nos da ventaja de espacio. Las negras tienen dos maneras principales de contrarrestar nuestra ventaja de espacio: preparar... d7 - d5 o presionar elcentroconpiezas} 4. Nxd4 {Las negras tienen ahora una decisión importante.Cómo desarrollamos el flanco de rey y luchamos por el centro? Repasemos las opciones. Las negras tienen dos líneas principales: Ac5 y Cf6, pero también veremos movimientos menos respetables, ya que es probable que también los encuentres en tus juegos.} Bc5 {Una elección muy natural. Las negras desarrollan una pieza y atacan nuestro caballo. Veremos que esto conduce a un juego interesante y agudo. Las negras suelen tener problemas, ya que el conocimiento de las ideas es crucial.} 5. Nb3 { Después de la respuesta natural} ({Las blancas tienen alternativas valiosas en } 5. Be3 {y Cxc6 pero nuestra preferencia nos lleva al juego más agudo.}) 5... Bb6 {Una buena diagonal para el alfil negro, mirando hacia el delicado punto f2 . continuamos} 6. Nc3 {para acelerar el desarrollo del flanco de dama y enrocar hacia este lado del tablero.Un paso más cerca del enroque en el flanco de dama. Cómo desarrollamos nuestro alfil de c1 y la dama para completar nuestra tarea? La forma estándar es mover la dama a e2 , seguido de Ae3 . De esta manera, neutralizamos el alfil negro en el proceso. Hay una excepción importante a tener en cuenta: si las negras juegan 6...Cf6 , clavar el caballo con Ag5 es crucial.} Nf6 {Las negras optan por el desarrollo más activo del caballo, pero permiten la clavada de Ag5 .} 7. Qe2 ({No estaría mal empezar con } 7. Bg5 {En todas las demás líneas, siempre empezamos con el movimiento de la Dama, así que mantengámonos así.}) 7... O-O 8. Bg5 {Un momento crucial! Nuestra elección es mucho más peligroso para las negras. En primer lugar, ahora amenazamos con Cd5 , lo que aumentaría la presión sobre f6 y dañaría seriamente el refugio de peones del flanco de rey de las negras} ({Despues del enroque debemos darnos cuenta que las negras estan listas para contestar al rutinario} 8. Be3 {con} d5 { destacando el punto del orden de movimientos de las negras  Después de} 9. O-O-O d4 {Las complicaciones funcionan bien para las negras.}) 8... h6 { Realizar este movimiento hace una gran diferencia, como veremos.} 9. Bh4 { Mantenemos la clavada, por supuesto.} { Si las negras quieren jugar la idea ...Cd4 , comenzando con} a5 {Parece la mejo r manera de emplearlo. El punto es que las blancas más o menos necesitan responder} ({Ahora, quiero examinar dos posibles defensas para las negras. Pueden continuar con el desarrollo jugando} 9... Re8 { o iniciar un contrajuego basado en la jugada... Cd4 , una idea que ya vimos .}) ({(1)Vamos a comparar con} 9... Nd4 10. Qd3 {y no 10.Dd2 claro esta!} Nxb3 11. axb3 {lo que genera una estructura de peones más estable en el flanco de dama de las blancas. Queremos enrocar hacia este lado del tablero, así que cuanto más sólida sea la estructura de peones, mejor.}) 10. a4 {donde} ({ Tenemos que detener el peón a!} 10. O-O-O a4 11. Nd2 a3 {luce terrible!}) 10... Nd4 {gana en fuerza porque después de... Cxb3 las blancas se ven obligadas a capturar con el peón c ...(1)} 11. Qd3 ({ Ya lo hemos hablado antes, pero por si acaso: no caigas en} 11. Qd2 Nxe4 { como miles y miles de víctimas antes.}) 11... Nxb3 12. cxb3 c6 ({ Las negras necesitan realizar este movimiento ahora o después.} 12... Re8 13. O-O-O c6 {deteniendo la amenaza Cd5 .}) 13. O-O-O {Las negras están bajo presión. Tenemos una fuerte acumulación en la columna \"d\" , y aún necesitan encontrar la manera de poner en juego su alfil de c8 .} { Resulta que las negras pueden jugar} d5 {porque} 14. exd5 ({ La forma correcta de jugar es la más lenta.} 14. Qc2 {que se aparta para abrir nuestra torre contra la dama negra. Los motores prefieren ligeramente a las blancas, pero es una posición complicada.}) 14... cxd5 15. Nxd5 g5 { prácticamente funciona.} *"
+        }
+      ]
+    },
+    {
+      "id": "l_177404284036218",
+      "titulo": "Escocesa 4...Ac5 #8",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "INFO",
+          "titulo": "Escocesa 4...Ac5 #8",
+          "texto": "",
+          "mostrarTablero": true,
+          "orientacion": "blanca",
+          "pgn": "1. e4 e5 2. Nf3 Nc6 3. d4 {La posición inicial de la Apertura Escocesa. La única jugada válida para las negras es capturar nuestro peón \"d\" ,} exd4 { La única jugada válida disponible, que conduce a la típica estructura de peones escoceses. Las negras intercambian su peón e por nuestro peón d , lo que resulta en un desequilibrio central. Nuestro peón e4 restante ayuda a controlar el centro y nos da ventaja de espacio. Las negras tienen dos maneras principales de contrarrestar nuestra ventaja de espacio: preparar... d7 - d5 o presionar elcentroconpiezas} 4. Nxd4 {Las negras tienen ahora una decisión importante.Cómo desarrollamos el flanco de rey y luchamos por el centro? Repasemos las opciones. Las negras tienen dos líneas principales: Ac5 y Cf6, pero también veremos movimientos menos respetables, ya que es probable que también los encuentres en tus juegos.} Bc5 {Una elección muy natural. Las negras desarrollan una pieza y atacan nuestro caballo. Veremos que esto conduce a un juego interesante y agudo. Las negras suelen tener problemas, ya que el conocimiento de las ideas es crucial.} 5. Nb3 { Después de la respuesta natural} ({Las blancas tienen alternativas valiosas en } 5. Be3 {y Cxc6 pero nuestra preferencia nos lleva al juego más agudo.}) 5... Bb6 {Una buena diagonal para el alfil negro, mirando hacia el delicado punto f2 . continuamos} 6. Nc3 {para acelerar el desarrollo del flanco de dama y enrocar hacia este lado del tablero.Un paso más cerca del enroque en el flanco de dama. Cómo desarrollamos nuestro alfil de c1 y la dama para completar nuestra tarea? La forma estándar es mover la dama a e2 , seguido de Ae3 . De esta manera, neutralizamos el alfil negro en el proceso. Hay una excepción importante a tener en cuenta: si las negras juegan 6...Cf6 , clavar el caballo con Ag5 es crucial.} Nf6 {Las negras optan por el desarrollo más activo del caballo, pero permiten la clavada de Ag5 .} 7. Qe2 ({No estaría mal empezar con } 7. Bg5 {En todas las demás líneas, siempre empezamos con el movimiento de la Dama, así que mantengámonos así.}) 7... O-O 8. Bg5 {Un momento crucial! Nuestra elección es mucho más peligroso para las negras. En primer lugar, ahora amenazamos con Cd5 , lo que aumentaría la presión sobre f6 y dañaría seriamente el refugio de peones del flanco de rey de las negras} ({Despues del enroque debemos darnos cuenta que las negras estan listas para contestar al rutinario} 8. Be3 {con} d5 { destacando el punto del orden de movimientos de las negras Después de} 9. O-O-O d4 {Las complicaciones funcionan bien para las negras.}) 8... h6 { Realizar este movimiento hace una gran diferencia, como veremos.} 9. Bh4 { Mantenemos la clavada, por supuesto.  Si las negras quieren jugar la idea ... Cd4 , comenzandocon} Re8 {La jugada más popular y natural. La torre está bien ubicada en e8 , frente a nuestra dama.} 10. O-O-O ({ El movimiento más normal del mundo, pero pensemos} 10. Nd5 { Aquí.No es fuerte? El problema es} g5 { destacando por qué las negras necesitaban jugar 8... h6! primero.}) 10... d6 11. f3 { Estamos listos para comenzar nuestro juego del lado rey, por ejemplo, después} ({Una vez más, tenemos que evitar} 11. Nd5 g5 { cuando nuestra idea fracasa estrepitosamente.}) 11... Be6 ({ Un intento interesante para las negras es} 11... a5 { donde sugiero 12.a4 para detener el peón.} 12. Bxf6 Qxf6 13. Nd5 Qe6 14. Nxb6 { Conduce a una buena estructura de peones, pero las negras tienen contrajuego en el flanco de dama. A las computadoras les gusta esto para las blancas, pero creo que 12.a4 es más fácil de manejar. Invertimos un tiempo en la defensa y luego nos centramos en nuestra tormenta de peones planeada en el flanco de rey. }) 12. g4 {lo cual nos parece bien.} *"
+        }
+      ]
+    },
+    {
+      "id": "l_177404284036219",
+      "titulo": "Informacion:Tacticas",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "INFO",
+          "titulo": "Informacion:Tacticas",
+          "texto": "Dominar patrones es fundamental en el estudio de la táctica y el cálculo ajedrecístico. Si bien algunos jugadores tienen un talento natural para detectar y ejecutar ideas tácticas, el resto debemos aprender primero un patrón y practicarlo con regularidad para mantenernos en forma.Los cursos de táctica y cálculo suelen comenzar con una variante informativa, donde puedes leer sobre los elementos clave o elementos entrenables donde ves y repites las jugadas. Te familiarizarás más con los temas al practicar estas jugadas. Después de este calentamiento, es hora de resolver problemas! Encontrarás posiciones similares, a menudo tomadas de partidas reales, donde podrás poner a prueba tu comprensión.Es importante recordar que, al igual que en una partida real, puede haber varias jugadas buenas en una posición, pero solo puedes realizar una. Como aprenderemos a continuación con Christof Sielecki, examinar primero las jugadas forzadas (como jaques y capturas) es un buen hábito para optimizar el cálculo, y una secuencia ganadora puede ser más instructiva que otra en la que no se fuerza la mano del oponente. Si realiza una jugada fuerte que no es la solución prevista por el autor, se le pedirá que la vuelva a intentar sin penalización. Las soluciones alternativas (también conocidas como fallos suaves ) se incorporan automáticamente antes de la publicación del curso. Nos disculpamos de antemano si algunas alternativas válidas no se incluyen, pero una de las ventajas del contenido digital es que los autores o el personal pueden ajustar el material después de su publicación, lo que garantiza una mejor experiencia de aprendizaje.",
+          "mostrarTablero": false,
+          "orientacion": "blanca"
+        }
+      ]
+    },
+    {
+      "id": "l_177404284036220",
+      "titulo": "Introducción a la seccion de tacticas",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "INFO",
+          "titulo": "Introducción a la seccion de tacticas",
+          "texto": "El entrenamiento táctico es esencial para mejorar en ajedrez. !Sin táctica no se puede ganar una partida! A continuación, te mostraré algunas posiciones que te animo a que pruebes y resuelvas por tu cuenta. A medida que analicemos los ejemplos, te ofreceré orientación sobre por qué la táctica funciona o no y cómo organizar tu proceso de pensamiento para que puedas identificar motivos tácticos y aprovechar las oportunidades en tus partidas.",
+          "mostrarTablero": false,
+          "orientacion": "blanca"
+        }
+      ]
+    },
+    {
+      "id": "l_177404284036221",
+      "titulo": "Doble Ataque:Examina todos los jaques",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "INFO",
+          "titulo": "Doble Ataque:Examina todos los jaques",
+          "texto": "",
+          "mostrarTablero": true,
+          "orientacion": "blanca",
+          "fen": "3r2k1/2R3bp/2P1p1p1/p7/6P1/4B3/1r3PP1/2R3K1 b - - 0 34",
+          "pgn": "{Faustino Oro - Vittorio Cina, Titulado Martes 2023} 34... Rbb8 {La posición de las blancas parece prometedora. Tienen la torre activa en la séptima fila, y el peón pasado (c) está más cerca de la coronación que el peón (a) de las negras . Cómo continuar?} 35. Rxg7+ Kxg7 36. c7 {Esta enorme bifurcación recupera el material con interés, una pieza extra. Dos puntos importantes: 1) Siempre que tengas peones avanzados (sexta o séptima fila), busca maneras de promoverlos con una combinación forzada. 2) Acostúmbrate a examinar todas las jugadas con jaque. Los jaques reducen las opciones del oponente y son las jugadas más forzadas. En este caso, el único jaque disponible es la jugada ganadora, lo cual no es casualidad.} a4 37. cxd8=Q Rxd8 38. Rc7+ Kg8 39. Ra7 Rd1+ 40. Kh2 Ra1 41. Bd4 Ra2 42. Rg7+ 1-0"
+        }
+      ]
+    },
+    {
+      "id": "l_177404284036322",
+      "titulo": "Doble ataque:Piezas desprotegidas",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "INFO",
+          "titulo": "Doble ataque:Piezas desprotegidas",
+          "texto": "",
+          "mostrarTablero": true,
+          "orientacion": "blanca",
+          "fen": "r3kb1r/pp3pp1/2p1pn2/q3Nb2/7p/1P3P2/PBPPQ1PP/2KR1BR1 w kq - 0 14",
+          "pgn": "{Joa Max Bornholdt - Alexandru Bogdan Banzea, Titulado Martes 2024} 14. Kb1 { Puedes identificar la táctica oculta en esta posición? Intenta encontrar el problema con la configuración de las blancas.} Bxc2+ ({Nuevamente, permítanme enfatizar la importancia de forzar movimientos y el poder de los ataques dobles. Comenzando con} 14... Qc5 {Vale la pena comprobarlo, ya que es un ataque doble. Sin embargo, no tendría el mismo efecto porque las blancas pueden detener nuestras amenazas con} 15. d4) 15. Kxc2 Qc5+ 16. Kb1 Qxg1 { Las negras han ganado la calidad y un peón! Esta combinación de doble ataque/ tenedor es posible porque la torre g1 de las blancas estaba desprotegida. Siempre tenga cuidado con las piezas y peones desprotegidos en ambos bandos. Estas unidades desprotegidas suelen ser víctimas de dobles ataques. Cuantas más piezas desprotegidas vea, más probable será una táctica.} 17. d4 Qxh2 18. Qe3 Nd5 19. Qf2 Bd6 20. Bd3 Bxe5 21. dxe5 h3 22. Rg1 O-O-O 23. Qxa7 hxg2 24. Be4 Qxg1+ 25. Qxg1 Rh1 26. Bd4 Rxg1+ 27. Bxg1 Nc3+ 28. Kc2 Nxe4 29. fxe4 Rh8 0-1"
+        }
+      ]
+    },
+    {
+      "id": "l_177404284036323",
+      "titulo": "Defensor sobrecargado/con exceso de trabajo",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "INFO",
+          "titulo": "Defensor sobrecargado/con exceso de trabajo",
+          "texto": "",
+          "mostrarTablero": true,
+          "orientacion": "blanca",
+          "fen": "8/1bpq1k2/1p1p2np/pN4p1/2PB4/1P1Q1P1P/P4KP1/8 b - - 0 46",
+          "pgn": "{Faustino Oro - Maksim Chigaev, Titulado Martes 2024} 46... Bc6 {Las negras avanzado los peones alrededor de su rey. El alfil y la dama de las blancas están cerca, pero por el momento, no hay casilla de entrada para la dama. Cómo aprovechar la precaria situación de las negras.} 47. Nxc7 Bb7 ({ Muy bien! Las negras no pueden jugar.} 47... Qxc7 {debido a} 48. Qf5+ { y la dama logra invadir la posición negra. Esta táctica es posible porque la dama negra tiene que cubrir el peón c y la casilla f5 , demasiado difícil de controlar!}) 48. Nb5 d5 49. Bxb6 Qe6 50. Qd4 Nf4 51. Kg3 Qe1+ 52. Kh2 Qe2 53. Qf2 Qxf2 54. Bxf2 dxc4 55. Nd6+ Ke6 56. Nxb7 c3 57. Be3 Nd5 58. Bc1 Nb4 59. a3 Nd3 60. Be3 Kd5 61. Nxa5 c2 62. Nc4 c1=Q 63. Bxc1 Nxc1 64. Nd2 Kd4 65. b4 Kd3 66. Ne4 Nb3 67. b5 Nc5 68. Nxc5+ *"
+        }
+      ]
+    },
+    {
+      "id": "l_177404284036324",
+      "titulo": "Ataque doble de caballo: Atracción",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "INFO",
+          "titulo": "Ataque doble de caballo: Atracción",
+          "texto": "",
+          "mostrarTablero": true,
+          "orientacion": "blanca",
+          "fen": "1r4k1/5pp1/p1p1p2p/2P1qnPP/P3N3/1p1Q4/1P3P2/3R2K1 b - - 0 45",
+          "pgn": "{Faustino Oro - Eduardo Del Blanco, Titled Tuesday 2023} 45... hxg5 {Las blanca s estaban en serios problemas, pero la última jugada de las negras fue un error! Ahora Faustino Oro ve una oportunidad de oro. La ves tú también?} 46. Qd8+ Rxd8 47. Rxd8+ Kh7 48. Nxg5+ {Y despues de} Kh6 49. Nxf7+ {Las blancas recuperan la dama y tienen una torre de ventaja. La conclusión principal es que se deben examinar todos los jaques posibles y DEBEN seguir calculando una secuencia que solo consista en movimientos forzados. Las blancas continúan con jaques, y las negras solo tienen una respuesta razonable en cada turno.} *"
+        }
+      ]
+    },
+    {
+      "id": "l_177404284036325",
+      "titulo": "Tácticas :Rompecabezas n.1",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Tácticas :Rompecabezas n.1",
+          "texto": "",
+          "orientacion": "negra",
+          "fen": "3rr1k1/1p1q1pp1/p1p4p/4n3/2PN1Nn1/3PP2P/PP1Q2P1/3RR1K1 b - - 0 19",
+          "secuenciaCorrecta": [
+            "g4e3",
+            "d2e3",
+            "e5g4",
+            "e3g3",
+            "d7d4",
+            "g1f1",
+            "g4e3",
+            "e1e3",
+            "e8e3",
+            "g3f2",
+            "e3e4",
+            "f2d4",
+            "e4d4",
+            "g2g3",
+            "g7g5",
+            "f4e2",
+            "d4d3",
+            "d1d3",
+            "d8d3",
+            "b2b3",
+            "d3d1",
+            "f1f2",
+            "d1d2",
+            "a2a3",
+            "d2a2",
+            "f2e3",
+            "a2a3",
+            "e2c1",
+            "a6a5",
+            "e3d3",
+            "a5a4",
+            "d3c3",
+            "a4b3",
+            "c1b3",
+            "f7f5",
+            "c3b4",
+            "a3b3",
+            "b4b3",
+            "f5f4",
+            "g3f4",
+            "g5f4",
+            "b3c3",
+            "b7b5",
+            "c4b5",
+            "c6b5",
+            "c3d4",
+            "b5b4",
+            "d4e4",
+            "b4b3",
+            "e4f4",
+            "b3b2",
+            "f4g4",
+            "b2b1q",
+            "g4h5",
+            "b1f5",
+            "h5h6",
+            "g8f7",
+            "h3h4",
+            "f5g6"
+          ],
+          "comentariosMovimiento": [
+            "Esto es un gran error. Ahora tenemos una victoria asegurada.",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_177404284036426",
+      "titulo": "Tácticas :Rompecabezas n.2",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Tácticas :Rompecabezas n.2",
+          "texto": "",
+          "orientacion": "blanca",
+          "fen": "3r4/p1R5/6Bp/2k4P/3n4/3R4/r4PKP/8 b - - 0 35",
+          "secuenciaCorrecta": [
+            "c5b6",
+            "c7c4",
+            "d4e6",
+            "c4e4",
+            "d8f8",
+            "e4e6",
+            "b6c5",
+            "d3f3"
+          ],
+          "comentariosMovimiento": [
+            "El caballo está clavado, pero aún puede retirarse a c6 y e6 . Has visto cómo ganar contra estas jugadas?",
+            "Genial! Nuestra torre de d3 sigue protegida tácticamente, con un motivo de rayos X",
+            "",
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_177404284036427",
+      "titulo": "Tácticas :Rompecabezas n.3",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Tácticas :Rompecabezas n.3",
+          "texto": "",
+          "orientacion": "negra",
+          "fen": "r2q3k/pbp3pp/3p2r1/2n3n1/2Q5/P3PN2/1B2BPPP/3R1RK1 w - - 0 21",
+          "secuenciaCorrecta": [
+            "f3h4",
+            "g5h3",
+            "g1h1",
+            "d8h4",
+            "f2f3",
+            "h3f2",
+            "h1g1",
+            "h4c4",
+            "e2c4",
+            "f2d1",
+            "f1d1",
+            "b7f3",
+            "d1d2",
+            "a8b8"
+          ],
+          "comentariosMovimiento": [
+            "Perdí un encuentro muy tenso contra Alina Kashlinskaya en el Speed Chess Championship de 2020, pero tuve una victoria memorable. Puedes encontrar toda la secuencia de jugadas?",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_177404284036428",
+      "titulo": "Tácticas :Rompecabezas n.4",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Tácticas :Rompecabezas n.4",
+          "texto": "",
+          "orientacion": "negra",
+          "fen": "r1b2rk1/pp2q1bp/2p5/2n4B/3Np3/2N1P2P/PPQ3P1/R3R1K1 w - - 0 22",
+          "secuenciaCorrecta": [
+            "e1f1",
+            "c8h3",
+            "c2e2",
+            "e7g5",
+            "b2b4",
+            "h3g2",
+            "e2c4",
+            "g8h8",
+            "c4c5",
+            "g5g3",
+            "d4e2",
+            "g3h3",
+            "e2f4",
+            "h3h1",
+            "g1f2",
+            "g2f1",
+            "a1f1",
+            "h1h2",
+            "f2e1",
+            "f8f5",
+            "c5c4",
+            "h2c2",
+            "f1f2",
+            "c2c3"
+          ],
+          "comentariosMovimiento": [
+            "La última jugada de las blancas ha desprotegido el peón e3 , y el alfil h5 también está suelto. ?Puedes identificar la táctica para explotar estas debilidades?",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_177404284036429",
+      "titulo": "Informacion: Estrategia",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "INFO",
+          "titulo": "Informacion: Estrategia",
+          "texto": "La mayoría de los puntos desarrollados en el capítulo Introducción a la Táctica y el Cálculo también se aplican al estudio de la estrategia ajedrecística. De nuevo, comenzarás con una variante informativa o entrenable para que te familiarices con el tema estratégico. !Luego, es tu turno! Al estudiar estrategia ajedrecística, especialmente más que táctica, examinar partidas completas puede ser increíblemente revelador. Las partidas completas proporcionan un contexto valioso: qué apertura condujo a la estructura en el tablero, cómo las imprecisiones anteriores resultaron en la posición desequilibrada actual, cómo el bando más fuerte convirtió su ventaja... Si bien estos aspectos pueden quedar fuera del alcance de la lección específica, siguen siendo muy relevantes para el perfeccionamiento del ajedrez.Por esta razón, los cursos de estrategia a menudo incluyen partidas completas o fragmentos largos como variantes informativas. Por supuesto, !no necesitas practicar y memorizar todo! Las probabilidades de que repitas cada movimiento en tus propias partidas son casi inexistentes, pero todo encaja cuando ves el tema en acción en el contexto de una partida real. Al entrenar el patrón, resolver los problemas y jugar las partidas comentadas, podrás aplicar estas lecciones con éxito en tu propio juego. Para este Kit de Inicio Intermedio , el MI Christof Sielecki ha seleccionado partidas recientes donde te mostrará cómo podemos mejorar nuestra posición mediante el pensamiento estratégico a largo plazo. !Y a partir de ahí, tú seguirás! Esperamos que este capítulo mejore tu juego estratégico para que puedas aplicar estos aprendizajes a tus propias partidas.",
+          "mostrarTablero": false,
+          "orientacion": "blanca"
+        }
+      ]
+    },
+    {
+      "id": "l_177404284036430",
+      "titulo": "Introducción a la seccion de Estrategia",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "INFO",
+          "titulo": "Introducción a la seccion de Estrategia",
+          "texto": "El juego estratégico a veces se considera la parte más difícil del ajedrez, ya que necesitamos pensar a largo plazo y seguir consideraciones generales en lugar de reaccionar instantáneamente a jugadas concretas. En este capítulo, veremos algunas pautas para tomar mejores decisiones sobre el posicionamiento de las piezas, los intercambios y los cambios en la estructura de peones. Intentaremos mejorar nuestra posición y frenar los planes de nuestros oponentes. Les mostraré algunos ejemplos donde siempre se les anima a reflexionar. !Comencemos!",
+          "mostrarTablero": false,
+          "orientacion": "blanca"
+        }
+      ]
+    },
+    {
+      "id": "l_177404284036431",
+      "titulo": "Maxime-Sebastian Introducción",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "INFO",
+          "titulo": "Maxime-Sebastian Introducción",
+          "texto": "",
+          "mostrarTablero": true,
+          "orientacion": "blanca",
+          "pgn": "1. e4 e5 2. Nf3 Nf6 3. Nc3 Nc6 4. Bb5 Nd4 5. O-O Nxb5 6. Nxb5 c6 7. Nc3 d6 8. d4 Qc7 9. Bg5 Be7 10. a4 O-O 11. h3 Re8 12. Bxf6 Bxf6 13. d5 Bd7 14. Qd3 Rac8 15. Rfd1 Be7 16. dxc6 Bxc6 {Antes del movimiento 17 de las blancas, llegamos a una estructura de peones típica de la Defensa Siciliana. La partida había comenzado con 1.e4 e5 , pero no se adivinaría si solo se viera la posición y no las jugadas que la condujeron. La formación de peones d6 y e5 de las negras es común en líneas populares como la Najdorf o la Sveshnikov. Estos peones controlan casillas importantes, en particular d4 , pero también presentan desventajas. El peón d6 está atrasado y puede convertirse en un objetivo para las piezas pesadas blancas. El problema más grave es la débil casilla d5 , que ya no se puede controlar con un peón. Las blancas tienen un control fiable de d5 y les encantaría usarla con su caballo. Para obtener una visión completa, debemos examinar las piezas menores. Las negras tienen la pareja de alfiles contra la pareja de caballos de las blancas, una distribución poco común. Rara vez se ve porque este desequilibrio suele favorecer considerablemente a los alfiles. Sin embargo, este no es el caso aquí. Los alfiles tienen funciones puramente defensivas, cubriendo la debilidad de d6 . ?Qué pasa con los caballos blancos? Los caballos necesitan puestos de avanzada estables, y hay uno obvio disponible: la débil casilla d5 .} {Hacer de inmediato} 17. Nd5 Bxd5 18. Qxd5 Qxc2 {Demuestra las posibilidades de las negras en la columna c semiabierta . Antes de iniciar cualquier acción directa, deberíamos intentar mejorar nuestras piezas y ajustar su ubicación a la estructura de peones. ?Cómo proceder?} *"
+        }
+      ]
+    },
+    {
+      "id": "l_177404284036432",
+      "titulo": "Maxime-Sebastian Mejorando nuestra posicion",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "INFO",
+          "titulo": "Maxime-Sebastian Mejorando nuestra posicion",
+          "texto": "",
+          "mostrarTablero": true,
+          "orientacion": "blanca",
+          "fen": "2r1r1k1/ppq1bppp/2bp4/4p3/P3P3/2NQ1N1P/1PP2PP1/R2R2K1 w - - 0 17",
+          "pgn": "17. Nd2 {El caballo de f3 no sirvió de nada en f3 . Debe conectar con la débil casilla d5 . El recorrido del caballo f3 - d2 - f1 - e3 lleva tiempo, pero las negras no tienen posibilidades dinámicas de perturbar a las blancas.} ({ También es posible iniciar el recorrido del caballo con} 17. Nh2 {pero la casil la central d2 parece más natural. Es importante destacar que las blancas no necesitan ir más allá de completar el recorrido del caballo. Implementan un buen miniplan y luego pasan al siguiente paso.}) 17... a6 { Las negras quieren iniciar un avance de peón en el flanco de dama.} 18. Nf1 b5 19. axb5 axb5 20. Ne3 {Misión cumplida.El caballo ahora está conectado a d5 , y Cf5 también podría ser irritante para las negras.} *"
+        }
+      ]
+    },
+    {
+      "id": "l_177404284036433",
+      "titulo": "Vachier Lagrave-Bogner - ¡Tu turno!",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Vachier Lagrave-Bogner - ¡Tu turno!",
+          "texto": "Una jugada perfectamente normal, pero resulta ser un error. Puedes encontrar la manera de crear más debilidades en la posición de las negras?",
+          "orientacion": "blanca",
+          "fen": "2r1r1k1/2q1bppp/2bp4/1p2p3/4P3/2NQN2P/1PP2PP1/R2R2K1 b - - 0 21",
+          "secuenciaCorrecta": [
+            "c7b7",
+            "b2b4"
+          ],
+          "comentariosMovimiento": [
+            "Una decisión estratégica acertada. Las blancas fijan b5 como debilidad, además de las posiciones ya problemáticas en d5 y d6 . Además, las blancas son más rápidas en la columna a , lo que les otorga una ventaja considerable."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_177404284036434",
+      "titulo": "Maltsevskaya-Deshmukh Introducción",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "INFO",
+          "titulo": "Maltsevskaya-Deshmukh Introducción",
+          "texto": "",
+          "mostrarTablero": true,
+          "orientacion": "negra",
+          "pgn": "1. Nf3 Nf6 2. c4 c5 3. g3 Nc6 4. Bg2 d6 5. d4 cxd4 6. Nxd4 Bd7 7. O-O g6 8. b3 Bg7 9. Bb2 h5 10. Nc3 h4 11. Nxc6 Bxc6 12. Nd5 Bxd5 13. cxd5 hxg3 14. hxg3 Qa5 15. Qd3 O-O 16. a4 Rfc8 17. Rfc1 Rab8 18. Bf3 a6 19. Kg2 Rxc1 20. Rxc1 b5 21. Bc3 Qd8 22. Bd4 bxa4 23. bxa4 Qa5 24. Rc4 {Examinemos esta posición crítica de una importante partida de la Olimpiada de Budapest. Los equipos femeninos de Polonia e India luchaban por las medallas y se enfrentaron en la octava ronda de 11. Polonia ganó el encuentro, pero India se alzó con el oro al final. Volvamos a nuestra partida, que Divya Deshmukh ganó de forma instructiva. Analicemos la posición. Aleksandra Maltsevskaya tiene la pareja de alfiles y ventaja de espacio gracias al peón en d5 . Suena bien, pero el alfil de f3 es una pieza bastante pobre. Está limitado por el peón de d5 y no tiene un objetivo claro.La posición de las negras es compacta y difícil de atacar. El peón de a6 podría ser una debilidad, pero las blancas también deben preocuparse por su peón a . ?Cómo pueden las negras mejorar su posición? Piensa en intercambios deseables y en cómo puedes colocar tus piezas de forma más efectiva.} *"
+        }
+      ]
+    },
+    {
+      "id": "l_177404284036535",
+      "titulo": "Maltsevskaya-Deshmukh Mejorando nuestra",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "INFO",
+          "titulo": "Maltsevskaya-Deshmukh Mejorando nuestra",
+          "texto": "",
+          "mostrarTablero": true,
+          "orientacion": "negra",
+          "fen": "1r4k1/4ppb1/p2p1np1/q2P4/P2B4/3Q1BP1/4PPK1/2R5 w - - 0 24",
+          "pgn": "24. Rc4 {Volvamos a nuestra partida, que Divya Deshmukh ganó de forma instructiva. Analicemos la posición. Aleksandra Maltsevskaya tiene la pareja de alfiles y ventaja de espacio gracias al peón en d5 . Suena bien, pero el alfil de f3 es una pieza bastante pobre. Está limitado por el peón de d5 y no tiene un objetivo claro.La posición de las negras es compacta y difícil de atacar. El peón de a6 podría ser una debilidad, pero las blancas también deben preocuparse por su peón a . ?Cómo pueden las negras mejorar su posición? Piensa en intercambios deseables y en cómo puedes colocar tus piezas de forma más efectiva.} Nd7 25. Bxg7 ({Intercambiar los alfiles es un gran logro para las negras. Las blancas no pueden evitar el intercambio, ya que} 25. Be3 { se encuentra con} Ne5) 25... Kxg7 {Los alfiles se han ido, reforzando el control de las negras sobre las casillas oscuras. El caballo estará bien ubicado en c5 , e5 o f6 : las negras pueden probar diversas configuraciones y plantear pequeños problemas, mientras que el alfil blanco permanece inoperante. Es interesante ver que Stockfish evalúa la posición como igualada, pero en una partida práctica, las negras lo tienen mucho más fácil.} *"
+        }
+      ]
+    },
+    {
+      "id": "l_177404284036536",
+      "titulo": "Maltsevskaya-Divya: ¡Tu turno!",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Maltsevskaya-Divya: ¡Tu turno!",
+          "texto": "",
+          "orientacion": "negra",
+          "fen": "1r6/3nppk1/p2p2p1/q2P4/P1R5/3Q1BP1/4PPK1/8 w - - 0 26",
+          "secuenciaCorrecta": [
+            "d3e3",
+            "d7e5",
+            "c4h4",
+            "b8h8",
+            "h4h8",
+            "g7h8",
+            "f3e4",
+            "a5a4",
+            "f2f4",
+            "e5g4",
+            "e3c3",
+            "g4f6"
+          ],
+          "comentariosMovimiento": [
+            "Cómo pueden las negras ejercer más presión después del cambio de alfil?",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_177404284036537",
+      "titulo": "Maltsevskaya-Deshmukh Olimpiada Budapes",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "INFO",
+          "titulo": "Maltsevskaya-Deshmukh Olimpiada Budapes",
+          "texto": "",
+          "mostrarTablero": true,
+          "orientacion": "blanca",
+          "pgn": "1. Nf3 Nf6 2. c4 c5 3. g3 Nc6 4. Bg2 d6 5. d4 cxd4 6. Nxd4 Bd7 7. O-O g6 8. b3 Bg7 9. Bb2 h5 10. Nc3 h4 11. Nxc6 Bxc6 12. Nd5 Bxd5 13. cxd5 hxg3 14. hxg3 Qa5 15. Qd3 O-O 16. a4 Rfc8 17. Rfc1 Rab8 18. Bf3 a6 19. Kg2 Rxc1 20. Rxc1 b5 21. Bc3 Qd8 22. Bd4 bxa4 23. bxa4 Qa5 24. Rc4 {Examinemos esta posición crítica de una importante partida de la Olimpiada de Budapest. Los equipos femeninos de Polonia e India luchaban por las medallas y se enfrentaron en la octava ronda de 11. Polonia ganó el encuentro, pero India se alzó con el oro al final. Volvamos a nuestra partida, que Divya Deshmukh ganó de forma instructiva. Analicemos la posición. Aleksandra Maltsevskaya tiene la pareja de alfiles y ventaja de espacio gracias al peón en d5 . Suena bien, pero el alfil de f3 es una pieza bastante pobre. Está limitado por el peón de d5 y no tiene un objetivo claro. La posición de las negras es compacta y difícil de atacar. El peón de a6 podría ser una debilidad, pero las blancas también deben preocuparse por su peón a . ?Cómo pueden las negras mejorar su posición? Piensa en intercambios deseables y en cómo puedes colocar tus piezas de forma más efectiva.} Nd7 25. Bxg7 ({Intercambiar los alfiles es un gran logro para las negras. Las blancas no pueden evitar el intercambio, ya que} 25. Be3 Ne5 { Examinemos las consecuencias del intercambio de alfiles una vez que este en el tablero.}) 25... Kxg7 {Los alfiles se han ido, reforzando el control de las negras sobre las casillas oscuras. El caballo estará bien ubicado en c5 , e5 o f6 : las negras pueden probar diversas configuraciones y plantear pequeños problemas, mientras que el alfil blanco permanece inoperante. Es interesante ver que Stockfish evalúa la posición como igualada, pero en una partida práctica, las negras lo tienen mucho más fácil.} 26. Qe3 Ne5 { Las negras tienen la mejor pieza menor.} 27. Rh4 Rh8 { Las blancas no tienen nada mejor que aceptar el cambio de torre} 28. Rxh8 Kxh8 29. Be4 ({Un error de apuro de tiempo. Debería haber protegido los peones con una jugada como} 29. Qd4 {Por ejemplo, las negras continuarán con ataques combinados de dama y caballo; a4 es el objetivo más vulnerable. Se juega a dos resultados: las negras podrían ganar o empatar, pero no arriesgan nada al intentar ganar.}) 29... Qxa4 30. f4 Ng4 31. Qc3+ Nf6 { Y las negras tienen un peón extra limpio y una mejor posición.} 32. Bf3 Kh7 33. f5 g5 34. Kh2 Qd7 35. Qe3 g4 36. Bg2 Qc7 37. Qg5 Qc8 38. Qh4+ Kg7 39. Qg5+ Kh7 40. Qh4+ Kg7 41. Qg5+ Kf8 42. e4 Ke8 43. Qf4 Qc3 44. Qh6 Nd7 45. Qg5 Ne5 46. Qg8+ Kd7 47. Qa8 Qc8 48. Qa7+ Ke8 49. Qf2 f6 50. Qa2 Kf7 51. Qd2 Kg7 52. Qa2 Qb7 53. Qa5 Kf7 54. Qd2 Qb6 55. Qh6 Kg8 56. Qh5 Qb8 57. Kh1 Kg7 58. Kg1 a5 59. Bf1 a4 60. Bc4 a3 61. Ba2 Qb2 62. Qe8 Nf3+ 63. Kf1 Qc1+ 64. Ke2 Qd2+ *"
+        }
+      ]
+    },
+    {
+      "id": "l_177404284036538",
+      "titulo": "Alvar A-Goran N. Introducción",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "INFO",
+          "titulo": "Alvar A-Goran N. Introducción",
+          "texto": "",
+          "mostrarTablero": true,
+          "orientacion": "blanca",
+          "pgn": "1. d4 e6 2. Nf3 f5 3. e3 Nf6 4. Be2 d5 5. O-O Bd6 6. b3 Qe7 7. Bb2 O-O 8. c4 c6 9. Nbd2 Nbd7 10. Ne5 Ne4 11. f4 Nxd2 12. Qxd2 Nf6 13. a4 Bd7 14. a5 a6 { La formación de peones d5 / e6 / f5 se denomina \"Muro de Piedra\", lo que indica que se supone que es una sólida configuración defensiva. Hay algo de cierto en ello, ya que las blancas no pueden tener éxito con la fuerza pura, sino que deben recurrir a medidas más sutiles. En la posición actual, ambos bandos tienen una formación de peones \"Muro de Piedra\". Esta simetría se rompe en el flanco de dama, donde las blancas disfrutan de ventaja de espacio. La cadena de peones a6 - b7 - c6 de las negras no es ideal, ya que todos estos peones están en casillas claras. En tal escenario, el alfil de casillas claras puede convertirse en un \"peón alto\" pasivo, mirando fijamente a sus compañeros. Por otro lado, las blancas deben estar atentas a su alfil de casillas oscuras. Este también está limitado por los peones \"Muro de Piedra\" d4 / e3 / f4 . ?Cómo pueden las blancas mejorar suposición?} *"
+        }
+      ]
+    },
+    {
+      "id": "l_177404284036639",
+      "titulo": "Alvar A-Goran N. Mejorando nuestra Posi",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "INFO",
+          "titulo": "Alvar A-Goran N. Mejorando nuestra Posi",
+          "texto": "",
+          "mostrarTablero": true,
+          "orientacion": "blanca",
+          "fen": "r4rk1/pp1bq1pp/2pbpn2/P2pNp2/2PP1P2/1P2P3/1B1QB1PP/R4RK1 b - - 0 15",
+          "pgn": "15... a6 {?Cómo pueden las blancas mejorar su posición?} 16. Qc1 {Genial! El fil blanco no tiene un futuro prometedor, ya que demasiados peones ( d4 , e3 , f4 ) están en el mismo color. Intercambiarlo contra el alfil negro sería un gran logro. Las blancas no solo eliminan una pieza potencialmente mala, sino que también intercambian un importante defensor en el bando negro. Con todos los peones negros en casillas claras, el alfil de d6 tapa los agujeros en la pared, por así decirlo.El intercambio mejora aún más el caballo dominante blanco en e5 , ya que las negras ya no pueden capturarlo con el alfil. Esta es una diferencia crucial con respecto a la situación en torno a la casilla e4 . Las negras pueden llevar el caballo a la jugosa casilla central, pero las blancas pueden desafiarlo con Ad3 o Af3 y podrían capturarlo.} Be8 { Las negras intentan activar o cambiar el alfil a través de h5} 17. Ba3 Bh5 18. Bd3 {!No hay intercambio! Las blancas conservan su mejor alfil, claro.} Nd7 19. Bxd6 {Las blancas han cambiado su alfil malo y han conservado el bueno.} *"
+        }
+      ]
+    },
+    {
+      "id": "l_177404284036640",
+      "titulo": "Alonso Rosell-Todorovic – ¡Tu turno!",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Alonso Rosell-Todorovic – ¡Tu turno!",
+          "texto": "Deberían las blancas intercambiar más piezas o no?",
+          "orientacion": "blanca",
+          "fen": "r4rk1/1p1nq1pp/p1p1p3/P2pNp1b/2PP1P2/1P1BP3/6PP/R1Q2RK1 b - - 0 19",
+          "secuenciaCorrecta": [
+            "e7d6",
+            "c1a3",
+            "d6a3",
+            "a1a3",
+            "d7e5",
+            "f4e5",
+            "a8c8",
+            "a3a4"
+          ],
+          "comentariosMovimiento": [
+            "La idea detrás de esta fuerte jugada se hará evidente en breve. Las negras no podrán evitar los intercambios en las siguientes jugadas.",
+            "",
+            "",
+            "La torre se activa a través de b4 , manteniendo la presión sobre la posición de las negras."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_177404284036741",
+      "titulo": "Alvar A.-Goran N European Rapid Skopje ",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "INFO",
+          "titulo": "Alvar A.-Goran N European Rapid Skopje ",
+          "texto": "",
+          "mostrarTablero": true,
+          "orientacion": "blanca",
+          "pgn": "1. d4 e6 2. Nf3 f5 3. e3 Nf6 4. Be2 d5 5. O-O Bd6 6. b3 Qe7 7. Bb2 O-O 8. c4 c6 9. Nbd2 Nbd7 10. Ne5 Ne4 11. f4 Nxd2 12. Qxd2 Nf6 13. a4 Bd7 14. a5 a6 { La formación de peones d5 / e6 / d5 se denomina \"Muro de Piedra\", lo que indica que se supone que es una sólida configuración defensiva. Hay algo de cierto en ello, ya que las blancas no pueden tener éxito con la fuerza pura, sino que deben recurrir a medidas más sutiles.En la posición actual, ambos bandos tienen una formación de peones \"Muro de Piedra\". Esta simetría se rompe en el flanco de dama, donde las blancas disfrutan de ventaja de espacio. La cadena de peones a6 - b7 - c6 de las negras no es ideal, ya que todos estos peones están en casillas claras. En tal escenario, el alfil de casillas claras puede convertirse en un \"peón alto\" pasivo, mirando fijamente a sus compañeros. Por otro lado, las blancas deben estar atentas a su alfil de casillas oscuras. Este también está limitado por los peones \"Muro de Piedra\" d4 / e3 / f4 . ?Cómo pueden las blancas mejorar suposición?} 15. Qc1 {Genial! El alfil blanco no tiene un futuro prometedor, ya que demasiados peones ( d4 , e3 , f4 ) están en el mismo color. Intercambiarlo contra el alfil negro sería un gran logro. Las blancas no solo eliminan una pieza potencialmente mala, sino que también intercambian un importante defensor en el bando negro. Con todos los peones negros en casillas claras, el alfil de d6 tapa los agujeros en la pared, por así decirlo.El intercambio mejora aún más el caballo dominante blanco en e5 , ya que las negras ya no pueden capturarlo con el alfil. Esta es una diferencia crucial con respecto a la situación en torno a la casilla e4 . Las negras pueden llevar el caballo a la jugosa casilla central, pero las blancas pueden desafiarlo con Ad3 o Af3 y podrían capturarlo.} Be8 { Las negras intentan activar o cambiar el alfil a través de h5} 16. Ba3 Bh5 17. Bd3 {!No hay intercambio! Las blancas conservan su mejor alfil, claro} Nd7 18. Bxd6 Qxd6 19. Qa3 {La idea detrás de esta fuerte jugada se hará evidente en breve. Las negras no podrán evitar los intercambios en las siguientes jugadas.} Qxa3 20. Rxa3 Nxe5 21. fxe5 Rac8 {En un principio, se podría pensar que las negras han simplificado con éxito y no tienen problemas particulares, pero las debilidades en las casillas oscuras son permanentes y pueden explotarse de forma instructiva.} 22. Ra4 {La torre se activa a través de b4 , manteniendo la presión sobre la posición de las negras.} Rc7 23. Rb4 Be8 24. Rc1 Bd7 25. cxd5 exd5 26. Ra4 Be6 27. Ra2 Rd7 28. Rf2 g6 29. g3 Rff7 30. Kf1 Kf8 31. Ke2 Ke8 32. Kd2 Kd8 33. Rcf1 Kc7 34. Rf4 Rde7 35. Rh4 h5 36. Rhf4 Kd7 37. Ke2 Ke8 38. h3 Rh7 39. g4 hxg4 40. hxg4 Rh2+ 41. R1f2 Rxf2+ 42. Kxf2 fxg4 43. Bxg6+ Kd7 44. Kg3 c5 45. dxc5 Kc6 46. b4 Bd7 47. Rf6+ Kb5 48. Rb6+ Kc4 49. Rxb7 *"
+        }
+      ]
+    },
+    {
+      "id": "l_177404284036742",
+      "titulo": "Mikayel-Gawain - Introduccion",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "INFO",
+          "titulo": "Mikayel-Gawain - Introduccion",
+          "texto": "",
+          "mostrarTablero": true,
+          "orientacion": "negra",
+          "pgn": "1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O d6 6. d4 b5 7. dxe5 Nxe5 8. Nxe5 dxe5 9. Qxd8+ Kxd8 10. Bb3 Bc5 11. Nc3 Bb7 12. Bg5 h6 13. Bxf6+ gxf6 14. Bxf7 Bd4 15. Rad1 Ke7 16. Bd5 c6 17. Bb3 a5 18. a3 Ba6 19. Rfe1 Rhd8 20. Rb1 a4 21. Ba2 {Las negras tienen un peón de menos, pero disfrutan de una magnífica compensación por la mínima pérdida de material. Las piezas menores blancas están mal ubicadas y apenas pueden moverse. El alfil de a2 es una pieza particularmente triste. Se encuentra en una diagonal vacía, sin atacar nada y sin poder moverse a ninguna parte. El caballo al menos tiene esperanzas de mejores tiempos, como Ce2 - g3 . El alfil de d4 es el más valioso de las negras, que disfruta de una posición dominante en el centro del tablero. Su colega en a6 parece menos saludable, pero puede mejorarse mediante c8 ?Suena bien? Sí, pero ?cómo avanzar?} *"
+        }
+      ]
+    },
+    {
+      "id": "l_177404284036743",
+      "titulo": "Manvelyan-Jones:Mejorando nuestra posicion",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "INFO",
+          "titulo": "Manvelyan-Jones:Mejorando nuestra posicion",
+          "texto": "",
+          "mostrarTablero": true,
+          "orientacion": "negra",
+          "fen": "r2r4/4k3/b1p2p1p/1p2p3/p2bP3/PBN5/1PP2PPP/1R2R1K1 w - - 0 21",
+          "pgn": "21. Ba2 Bxc3 {Un momento, ?qué? ?Por qué cambiar el fantástico alfil por el caballo? Este es un ejemplo ilustrativo de cómo transformar una ventaja en otra. El alfil tenía una posición fuerte en d4 , pero tapó la columna d . Ahora, la torre negra está lista para entrar en el campamento blanco.} 22. bxc3 Rd2 {Una torre en la séptima (o segunda) fila es una pieza clave. El peón \"c\" de las blancas está atacado y necesita cobertura.} 23. Rbc1 Rad8 {Ahora las bla ncas no pueden desafiar en la columna \"d\" y están condenadas a una defensa pasiva. Una situación tan unilateral siempre es difícil de controlar, sobre todo en partidas de control rápido (esta es una partida blitz).} { La partida continuó.} 24. f3 { Este movimiento añade más debilidad al campamento blanco y acelera su caída.} ( {Los motores recomiendan} 24. h3) 24... h5 {Una jugada fuerte. Las negras evitan el ataque g2 - g4 de las blancas y preparan... h5 - h4 ,... Ac8 y finalmente... h4 - h3 para iniciar su ataque.} *"
+        }
+      ]
+    },
+    {
+      "id": "l_177404284036744",
+      "titulo": "Manvelyan-Jones – ¡Tu turno!",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Manvelyan-Jones – ¡Tu turno!",
+          "texto": "",
+          "orientacion": "negra",
+          "fen": "3r4/4k3/b1p2p2/1p2p2p/p3P3/P1P2P2/B1Pr2PP/2R1R1K1 w - - 0 25",
+          "secuenciaCorrecta": [
+            "g2g3",
+            "a6c8",
+            "c3c4",
+            "c8h3",
+            "c4b5",
+            "d2g2",
+            "g1h1",
+            "d8d2",
+            "a2c4",
+            "g2h2",
+            "h1g1",
+            "d2g2",
+            "g1f1",
+            "h2h1"
+          ],
+          "comentariosMovimiento": [
+            "Puedes mejorar aún más la posición de las negras?",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_177404284036745",
+      "titulo": "Vaishali-Jacek Introducción",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "INFO",
+          "titulo": "Vaishali-Jacek Introducción",
+          "texto": "",
+          "mostrarTablero": true,
+          "orientacion": "blanca",
+          "pgn": "1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 Ne7 5. a3 Bxc3+ 6. bxc3 b6 7. Qg4 Ng6 8. h4 h5 9. Qg3 Ba6 10. Bxa6 Nxa6 11. Ne2 c5 12. Nf4 Nxf4 13. Bxf4 Kf8 14. Bg5 Qd7 15. a4 cxd4 16. cxd4 Rc8 17. O-O Rc4 18. c3 Nb8 19. f4 Nc6 20. Rf3 Ke8 21. Re1 g6 {En algunas posiciones, cada bando se centra en un complejo de color específico, mientras que el otro es vulnerable. Las casillas oscuras de las negras son extremadamente débiles, mientras que el control de las casillas claras es excelente. La torre de c4 se encuentra en una posición estable y ataca dos peones. Hasta aquí, todo bien... pero hay problemas. El alfil blanco es un monstruo, controlando casillas clave cerca del rey negro. Este es el problema más crítico, como veremos. La situación de las negras sería perfectamente correcta si su rey estuviera en b7 , por ejemplo. ?Cómo continuar con las blancas?} *"
+        }
+      ]
+    },
+    {
+      "id": "l_177404284036746",
+      "titulo": "Vaishali-Szwed:Mejorando nuestra posicion",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "INFO",
+          "titulo": "Vaishali-Szwed:Mejorando nuestra posicion",
+          "texto": "",
+          "mostrarTablero": true,
+          "orientacion": "blanca",
+          "fen": "4k2r/p2q1pp1/1pn1p3/3pP1Bp/P1rP1P1P/2P2RQ1/6P1/4R1K1 b - - 0 21",
+          "pgn": "21... g6 {En algunas posiciones, cada bando se centra en un complejo de color específico, mientras que el otro es vulnerable. Las casillas oscuras de las negras son extremadamente débiles, mientras que el control de las casillas claras es excelente. La torre de c4 se encuentra en una posición estable y ataca dos peones. Hasta aquí, todo bien... pero hay problemas.El alfil blanco es un monstruo, controlando casillas clave cerca del rey negro. Este es el problema más crítico, como veremos. La situación de las negras sería perfectamente correcta si su rey estuviera en b7 , por ejemplo. ?Cómo continuar con las blancas?} 22. f5 {!Jugada poderosa! Las blancas deben atacar y abrir la posición rápidamente. Si se realizará una jugada más lenta, las negras tienen... Ce7 - f5 para consolidar.} ({El movimiento} 22. Bf6 { es igual de fuerte, ya que las blancas aún pueden jugar f4 - f5 en elsiguiente  turno.}) 22... exf5 ({La defensa mas solida era} 22... gxf5 23. Bf6 Rf8 { Donde las blancas ganan el peón \"h\" y están mucho mejor, esto probablemente no cambiará el resultado, pero sigue siendo mucho más resistente que lacontinuació n de la partida.}) 23. e6 fxe6 24. Rfe3 *"
+        }
+      ]
+    },
+    {
+      "id": "l_177404284036847",
+      "titulo": "Vaishali-Szwed – ¡Tu turno!",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Vaishali-Szwed – ¡Tu turno!",
+          "texto": "Las blancas abrieron columnas y diagonales para sus piezas?.Y ahora qué?",
+          "orientacion": "blanca",
+          "fen": "4k2r/p2q4/1pn1p1p1/3p1pBp/P1rP3P/2P1R1Q1/6P1/4R1K1 b - - 0 25",
+          "secuenciaCorrecta": [
+            "e8f7",
+            "e3e6",
+            "d7e6",
+            "e1e6",
+            "f7e6",
+            "g3c7"
+          ],
+          "comentariosMovimiento": [
+            "",
+            "",
+            "La amenaza de Dg7 es decisiva."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_177404284036848",
+      "titulo": "Vaishali-Szwed – ¡Tu turno! II",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Vaishali-Szwed – ¡Tu turno! II",
+          "texto": "",
+          "orientacion": "negra",
+          "fen": "4k2r/p2q4/1pn1p1p1/3p1pBp/P1rP3P/2P1R1Q1/6P1/4R1K1 b - - 0 25",
+          "secuenciaCorrecta": [
+            "c6d8",
+            "g5d8",
+            "e8d8",
+            "e3e6",
+            "d8c8",
+            "e6e7"
+          ],
+          "comentariosMovimiento": [
+            "",
+            "",
+            "con un ataque decisivo"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_177404284036849",
+      "titulo": "Fischer Memorial, Heraklion 2022",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "INFO",
+          "titulo": "Fischer Memorial, Heraklion 2022",
+          "texto": "",
+          "mostrarTablero": true,
+          "orientacion": "blanca",
+          "pgn": "{Partida completa- Vaishali Rameshbabu-Jacek Szwed, Fischer Memorial, Heraklion 2022} 1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 Ne7 5. a3 Bxc3+ 6. bxc3 b6 7. Qg4 Ng6 8. h4 h5 9. Qg3 Ba6 10. Bxa6 Nxa6 11. Ne2 c5 12. Nf4 Nxf4 13. Bxf4 Kf8 14. Bg5 Qd7 15. a4 cxd4 16. cxd4 Rc8 17. O-O Rc4 18. c3 Nb8 19. f4 Nc6 20. Rf3 Ke8 21. Re1 g6 22. f5 exf5 23. e6 fxe6 24. Rfe3 Kf7 25. Rxe6 Qxe6 26. Rxe6 Kxe6 27. Qc7 Re8 28. Qg7 Rxc3 29. Qxg6+ Kd7 30. Qxf5+ Re6 31. Qxd5+ Rd6 32. Qf5+ Kc7 33. Bf4 Nxd4 34. Qe5 *"
+        }
+      ]
+    },
+    {
+      "id": "l_177404284036950",
+      "titulo": "Eline Roebers-Erwin L'Ami -Introducción",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "INFO",
+          "titulo": "Eline Roebers-Erwin L'Ami -Introducción",
+          "texto": "",
+          "mostrarTablero": true,
+          "orientacion": "blanca",
+          "pgn": "1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3 O-O 9. h3 Nb8 10. d4 Nbd7 11. Nbd2 c5 12. Nf1 Re8 13. Ng3 Bf8 14. Bc2 Qc7 15. Be3 Bb7 16. d5 c4 17. Nh2 a5 18. Nf5 a4 19. a3 Kh8 {Si alguien te pregunta cómo es una posición cerrada, este sería un buen ejemplo. Tras 19 movimientos, los 16 peones siguen en el tablero, !al igual que todas las piezas!.En una posición sin intercambios previos, no hay columnas abiertas, y ambos bandos suelen operar en su propio bando. La naturaleza cerrada de la posición se acentúa aún más aquí, ya que no hay tensión de peones en ninguna parte. Ningún bando tiene la opción de capturar un peón y cambiar la estructura; las cadenas de peones en el flanco de dama y el centro son inamovibles.Esto significa que toda la batalla se desarrollará en la zona del tablero donde aún quedan opciones. ?Cómo deberían proceder las blancas?} *"
+        }
+      ]
+    },
+    {
+      "id": "l_177404284036951",
+      "titulo": "Roebers-L'Ami-Mejorando  nuestra posicion",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "INFO",
+          "titulo": "Roebers-L'Ami-Mejorando  nuestra posicion",
+          "texto": "",
+          "mostrarTablero": true,
+          "orientacion": "blanca",
+          "fen": "r3rbk1/1bqn1ppp/3p1n2/1p1PpN2/p1p1P3/P1P1B2P/1PB2PPN/R2QR1K1 b - - 0 19",
+          "pgn": "19... Kh8 20. g4 {!Aquí vamos! Todo gira en torno al flanco de rey, ya que el resto del tablero está bloqueado. Las blancas quieren ganar el máximo espacio posible y lanzar un ataque contra el rey negro.} Nc5 21. Qf3 Ng8 {La configurac ión de las negras es puramente defensiva. Considerando la estructura de peones, la única ruptura posible para las negras es... f7 - f5 , pero las blancas controlan esta casilla un millón de veces. Esta es una ventaja adicional de jugar g4 antes. Abre nuevas opciones para las blancas y desalienta las ideas de las negras.} 22. g5 g6 23. Ng3 Be7 24. h4 Rf8 25. h5 { Podemos ver que las blancas han progresado en el flanco de rey.} *"
+        }
+      ]
+    },
+    {
+      "id": "l_177404284036952",
+      "titulo": "Roebers-L'Ami ¡Tu turno!",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Roebers-L'Ami ¡Tu turno!",
+          "texto": "Cómo deberían continuar las blancas el ataque?",
+          "orientacion": "negra",
+          "fen": "r1b2rnk/2q1bp1p/3p2p1/1pnPp1PP/p1p1P3/P1P1B1N1/1PB2P1N/R3R1KQ b - - 0 26",
+          "secuenciaCorrecta": [
+            "c7d7",
+            "f2f4",
+            "d7h3",
+            "h1f3",
+            "e5f4",
+            "e3d4",
+            "f7f6",
+            "f3f4"
+          ],
+          "comentariosMovimiento": [
+            "Un momento mucho más efectivo para lanzar este peón a la batalla, en comparación con el movimiento 20.",
+            "",
+            "",
+            "La posición de las negras ahora se está desmoronando."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_177404284036953",
+      "titulo": "Roebers-L'Ami: Partida Completa",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "INFO",
+          "titulo": "Roebers-L'Ami: Partida Completa",
+          "texto": "",
+          "mostrarTablero": true,
+          "orientacion": "blanca",
+          "pgn": "1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3 O-O 9. h3 Nb8 10. d4 Nbd7 11. Nbd2 c5 12. Nf1 Re8 13. Ng3 Bf8 14. Bc2 Qc7 15. Be3 Bb7 16. d5 c4 17. Nh2 a5 18. Nf5 a4 19. a3 Kh8 {Si alguien te pregunta cómo es una posición cerrada, este sería un buen ejemplo. Tras 19 movimientos, los 16 peones siguen en el tablero, !al igual que todas las piezas! En una posición sin intercambios previos, no hay columnas abiertas. ?Cómo deberían proceder las blancas?} 20. g4 {!Aquí vamos! Todo gira en torno al flanco de rey. Las blancas quieren ganar el máximo espacio posible.} Nc5 21. Qf3 Ng8 { La configuración de las negras es puramente defensiva. El avance g4 abre nuevas opciones para las blancas.} 22. g5 g6 23. Ng3 Be7 24. h4 Rf8 25. h5 Bc8 26. Qh1 Qd7 27. f4 Qh3 28. Qf3 exf4 29. Bd4+ f6 30. Qxf4 Nd7 31. Re3 Ne5 32. Nf5 Qxh5 33. Nxe7 Nxe7 34. gxf6 g5 35. Bxe5 gxf4 36. fxe7+ Kg8 37. exf8=Q+ Kxf8 38. Bxd6+ Ke8 39. Bxf4 Ra7 40. Kh1 Rg7 41. Rg1 Rxg1+ 42. Kxg1 Bg4 43. e5 Bf5 44. Bxf5 Qxf5 45. Bg3 Qb1+ 46. Nf1 1-0"
+        }
+      ]
+    },
+    {
+      "id": "l_177404284037054",
+      "titulo": "Daniel-Dmitry- Introducción",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "INFO",
+          "titulo": "Daniel-Dmitry- Introducción",
+          "texto": "",
+          "mostrarTablero": true,
+          "orientacion": "blanca",
+          "pgn": "1. e4 c5 2. Nf3 Nc6 3. Bb5 Nf6 4. Nc3 g6 5. O-O Bg7 6. Bxc6 dxc6 7. d3 Bg4 8. h3 Bxf3 9. Qxf3 Nd7 10. Be3 O-O 11. Qe2 e5 12. a4 b6 13. a5 Re8 14. Qd2 b5 15. a6 Qe7 {Jugar correctamente en posiciones cerradas puede ser difícil. Sin columnas abiertas, a veces es difícil identificar planes sensatos. Sin embargo, es posible usar diversas herramientas o pautas para encontrar ideas. Analicemos la posición actual antes del movimiento 16 de las blancas y analicemos algunos puntos.1.Debe examinarse si alguno de los bandos tiene una forma obvia de abrir la partida con un avance de peón. Las blancas podrían jugar...} 16. f4 {pero este movimiento sólo ayuda a las negras a activar ambas piezas menores después} exf4 {abriendo el alfil y despejando e5 para el caballo. Parece que f2 - f4 no ayuda a nuestra causa, y no hay otros avances de peón que tengan sentido.2.Viendo que no podemos hacer mucho en términos de juego de peones, deberíamos centrar nuestra atención en nuestras piezas.Un buen enfoque es determinar la pieza peor ubicada y mejorarla. !Hagámoslo!.Las torres no son poderosas en una posición tan cerrada, pero su ubicación actual no deja un margen claro para la mejora. Lo mismo se aplica a la dama y al alfil, lo que nos lleva al caballo. El caballo c3 está claramente fuera de lugar en c3 , ya que solo mira a las casillas o peones protegidos. Queremos que esté en una casilla estable, atacando o amenazando algo. Esta línea de pensamiento nos lleva a la mejor jugada.} *"
+        }
+      ]
+    },
+    {
+      "id": "l_177404284037055",
+      "titulo": "Daniel-Dmitry Mejorando nuestra posició",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "INFO",
+          "titulo": "Daniel-Dmitry Mejorando nuestra posició",
+          "texto": "",
+          "mostrarTablero": true,
+          "orientacion": "blanca",
+          "fen": "r2qr1k1/p2n1pbp/P1p3p1/1pp1p3/4P3/2NPB2P/1PPQ1PP1/R4RK1 b - - 0 15",
+          "pgn": "15... Qe7 16. Ne2 {El caballo está mejor en b3 , donde ataca c5 y tiene la opción de Cb3-a5-b7 , invadiendo la posición de las negras. Esta no es una maniobra letal, sino una pequeña mejora para empezar. Es un miniplan a seguir y luego intentar encontrar el siguiente paso.} Nf8 { Andreikin tiene una idea similar: mejorar el caballo mediante f8 - e6 - d4} 17. Nc1 Ne6 18. Nb3 {Misión cumplida.} *"
+        }
+      ]
+    },
+    {
+      "id": "l_177404284037056",
+      "titulo": "Naroditsky-Andreikin ¡Tu turno!",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Naroditsky-Andreikin ¡Tu turno!",
+          "texto": "Cómo mejoró aún más el blanco su posición?",
+          "orientacion": "blanca",
+          "fen": "r3r1k1/p3qpbp/P1p1n1p1/1pp1p3/4P3/1N1PB2P/1PPQ1PP1/R4RK1 b - - 0 19",
+          "secuenciaCorrecta": [
+            "e7d6",
+            "d2c3",
+            "g7f8",
+            "b3a5",
+            "a8c8",
+            "a5b7"
+          ],
+          "comentariosMovimiento": [
+            "",
+            "",
+            "Ahora las negras no pueden defender c5 y e5 : una de ellas caerá."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_177404284037057",
+      "titulo": "Titulado Martes 2024 Naroditsky-Andreik",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "INFO",
+          "titulo": "Titulado Martes 2024 Naroditsky-Andreik",
+          "texto": "",
+          "mostrarTablero": true,
+          "orientacion": "blanca",
+          "pgn": "1. e4 c5 2. Nf3 Nc6 3. Bb5 Nf6 4. Nc3 g6 5. O-O Bg7 6. Bxc6 dxc6 7. d3 Bg4 8. h3 Bxf3 9. Qxf3 Nd7 10. Be3 O-O 11. Qe2 e5 12. a4 b6 13. a5 Re8 14. Qd2 b5 15. a6 Qe7 {Jugar correctamente en posiciones cerradas puede ser difícil. Sin columnas abiertas, a veces es difícil identificar planes sensatos. Sin embargo, es posible usar diversas herramientas o pautas para encontrar ideas. Analicemos algunos puntos: 1. ?Hay avances de peón?} 16. Ne2 Nf8 17. Nc1 Ne6 18. Nb3 Qd6 19. Qc3 Bf8 20. Na5 Rac8 21. Nb7 Qe7 22. Qxe5 Bg7 23. Qg3 Bxb2 24. Rab1 {Las negras han recuperado el peón, pero ahora el alfil está atacado y Cd6 también es aire: las blancas conservan una ventaja material.} Nd4 25. Bxd4 Bxd4 26. Nd6 b4 27. Nxc8 Rxc8 28. Kh1 Qd8 29. f4 Qa5 30. f5 Qxa6 31. fxg6 hxg6 32. e5 Qa2 33. Rbe1 Re8 34. Rf6 Rxe5 35. Rxe5 Qa1+ 36. Re1 Bxf6 37. Rxa1 Bxa1 38. Qb8+ 1-0"
+        }
+      ]
+    },
+    {
+      "id": "l_177404284037058",
+      "titulo": "Rauf-Nurgyul Introducción",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "INFO",
+          "titulo": "Rauf-Nurgyul Introducción",
+          "texto": "",
+          "mostrarTablero": true,
+          "orientacion": "blanca",
+          "pgn": "1. c4 e6 2. g3 d5 3. Bg2 Nf6 4. Nf3 Be7 5. O-O O-O 6. b3 b6 7. Bb2 Bb7 8. e3 dxc4 9. bxc4 c5 10. Nc3 Nc6 11. Qe2 Nb4 12. d4 cxd4 13. exd4 Rc8 14. Rfd1 Re8 15. a3 Nc6 {Esta posición presenta los \"Peones Colgantes\", el dúo de peones en d4 y c4 . Este tipo de estructura suele conducir a una lucha interesante, ya que influyen consideraciones estratégicas y dinámicas.Los peones pueden convertirse fácilmente en una desventaja, ya que no están protegidos por un peón adyacente. Esta debilidad estática se acentúa con cada cambio.Por otro lado, los peones controlan gran parte del centro y tienen el potencial de abrir la partida favorablemente. Mamedov encuentra la mejor jugada, demostrando el potencial de la posición blanca.} 1-0"
+        }
+      ]
+    },
+    {
+      "id": "l_177404284037159",
+      "titulo": "Rauf-Nurgyul:Mejorando nuestra posición",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "INFO",
+          "titulo": "Rauf-Nurgyul:Mejorando nuestra posición",
+          "texto": "",
+          "mostrarTablero": true,
+          "orientacion": "blanca",
+          "fen": "2rqr1k1/pb2bppp/1p2pn2/8/1nPP4/P1N2NP1/1B2QPBP/R2R2K1 b - - 0 15",
+          "pgn": "15... Nc6 16. d5 {Siempre considere si puede avanzar los peones colgantes. Esta jugada parece atractiva, sobre todo porque la dama negra se opone a la torre blanca. También hablamos de un caso de \"golpear mientras el hierro está caliente\"} exd5 17. Nxd5 ({Mucho mejor que} 17. cxd5 Na5 { donde las blancas no han ganado nada.}) 17... Nxd5 18. Rxd5 {El punto clave de la jugada de Mamedov: la torre alcanzó una posición dominante y ganó un tiempo sobre la dama de Salimova.} Qc7 19. Re1 {!Genial! La peor pieza, la torre en a1 , está activada.Las negras no pueden mover el alfil de e7 ahora, por ejemplo, después} Bxa3 20. Qxe8+ Rxe8 21. Rxe8+ Bf8 22. Ba3 {Gana} *"
+        }
+      ]
+    },
+    {
+      "id": "l_177404284037160",
+      "titulo": "Mamedov-Salimova – ¡Tu turno!",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Mamedov-Salimova – ¡Tu turno!",
+          "texto": "",
+          "orientacion": "blanca",
+          "fen": "2r1r1k1/pbq1bppp/1pn5/3R4/2P5/P4NP1/1B2QPBP/4R1K1 b - - 0 19",
+          "secuenciaCorrecta": [
+            "h7h6",
+            "f3h4",
+            "e7h4",
+            "e2e8",
+            "c8e8",
+            "e1e8",
+            "g8h7",
+            "g2e4",
+            "g7g6",
+            "e8h8"
+          ],
+          "comentariosMovimiento": [
+            "Camino a la casilla ideal f5 . El caballo se traslada a su casilla óptima; la dama puede ir a g4 o h5 , y el alfil de g2 también queda abierto. !Todo en una sola jugada! !Excelentejugada!",
+            "",
+            "",
+            "Las piezas blancas muestran todo su potencial",
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_177404284037161",
+      "titulo": "Introducción a la sección de finales",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "INFO",
+          "titulo": "Introducción a la sección de finales",
+          "texto": "Trabajaremos en tres puntos diferentes: la oposición y las rupturas en los finales de peones, y la posición de Lucena (también conocida como \"el puente\") en los finales de torres.Los dos primeros son conceptos básicos que debes conocer y que servirán de base para un estudio posterior. Pueden presentarse en versiones muy complejas y sofisticadas, pero comenzaremos desde su forma más simple.El tercero es esencial para nuestro desarrollo como ajedrecistas, ya que es muy frecuente en la práctica.",
+          "mostrarTablero": false,
+          "orientacion": "blanca"
+        }
+      ]
+    },
+    {
+      "id": "l_177404284037162",
+      "titulo": "Oposición #1",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "INFO",
+          "titulo": "Oposición #1",
+          "texto": "",
+          "mostrarTablero": true,
+          "orientacion": "blanca",
+          "fen": "3k4/8/8/2K5/3P4/8/8/8 w - - 0 1",
+          "pgn": "{Uno de los conceptos más famosos e importantes de los finales es la <<oposición>>. Ocurre cuando los dos reyes se encuentran a corta distancia. Un bando <<gana la oposición>> moviendo su rey una casilla del rey enemigo, en una casilla del mismo color. En nuestra posición de ejemplo, las blancas pueden ganar la oposición con un solo movimiento.} 1. Kd6 {?Cuál es el punto exacto de Rd6? Si lo realizamos el rey negro ocupa la casilla de coronación que nuestro peón necesita. Nuestro rey necesita trabajar duro para allanar el camino al peón. Después de Rd6 Las negras necesitan 'abandonar la oposición' y permitir que las blancas sigan avanzando.} Ke8 2. Kc7 {Ese es el punto. Ahora, nuestro rey controla las casillas cruciales y escolta al peón ganador hacia la coronación.} Ke7 3. d5 Ke8 4. d6 Kf7 5. d7 Kf6 6. d8=Q+ {Y las blancas ganan.} *"
+        }
+      ]
+    },
+    {
+      "id": "l_177404284037163",
+      "titulo": "Oposición #2",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "INFO",
+          "titulo": "Oposición #2",
+          "texto": "",
+          "mostrarTablero": true,
+          "orientacion": "blanca",
+          "fen": "3k4/8/8/2K5/3P4/8/8/8 b - - 0 1",
+          "pgn": "{La misma posición que antes, pero les toca a las negras mover. Solo hay una jugada para salvar el día, y es la oposición.} 1... Kc7 {Las blancas amenazaban con avanzar con su rey, lo cual ahora está detenido. Después de 1... Rc7 Las blancas no pueden avanzar:} ({Error instructivo} 1... Kd7 2. Kd5 { y Oposición de las blancas.}) ({Error Instructivo} 1... Kc8 2. Kc6 { y Oposición de las Blancas}) 2. Kd5 Kd7 { y llegaremos a una posición similar a nuestro Ejemplo 4.} *"
+        }
+      ]
+    },
+    {
+      "id": "l_177404284037164",
+      "titulo": "Oposición #3",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "INFO",
+          "titulo": "Oposición #3",
+          "texto": "",
+          "mostrarTablero": true,
+          "orientacion": "blanca",
+          "fen": "8/1k6/8/1K6/8/1P6/8/8 w - - 0 1",
+          "pgn": "{Tenemos la oposición, pero es nuestro turno. Si movemos el rey, perderemos la oposición. ?Y ahora qué?} 1. b4 {Normalmente, la oposición se gana moviendo el rey. En algunos casos, se gana con un movimiento de peón. En este caso, era crucial que el peón estuviera en b3 . Si se cambia la posición del peón blanco en b4 al inicio, no hay movimiento de peón disponible; por lo tanto, perderíamos la oposición y serían tablas.} *"
+        }
+      ]
+    },
+    {
+      "id": "l_177404284037265",
+      "titulo": "Oposición #4",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "INFO",
+          "titulo": "Oposición #4",
+          "texto": "",
+          "mostrarTablero": true,
+          "orientacion": "negra",
+          "fen": "8/3k4/3P4/3K4/8/8/8/8 b - - 0 1",
+          "pgn": "{Un momento crítico. Necesitamos mover el rey de vuelta a la octava fila. Las blancas podrían jugar 2.Rc6 o 2.Re6 como respuesta. ?Adónde debemos ir para estar preparados?} 1... Kd8 {!Sólo este movimiento funciona!} 2. Ke6 Ke8 { Ganando la oposición. Ahora, las blancas no pueden avanzar} 3. d7+ Kd8 { Y el empate termina el juego después} 4. Kd6 *"
+        }
+      ]
+    },
+    {
+      "id": "l_177404284037266",
+      "titulo": "Oposición #5",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "INFO",
+          "titulo": "Oposición #5",
+          "texto": "",
+          "mostrarTablero": true,
+          "orientacion": "blanca",
+          "fen": "8/8/4k3/8/8/2KP4/8/8 w - - 0 1",
+          "pgn": "{Veamos un tipo de oposición ligeramente diferente. Las blancas pueden ganar la oposición aquí, pero ?cómo?} 1. Kc4 {Estamos a una casilla del rey enemigo, y es del mismo color (claro). A este tipo de oposición la llamamos \"Oposición Diagonal\". El camino a seguir es acceder a la quinta fila.} ({ Tenga en cuenta que} 1. Kd4 {seria un error debido a} Kd6 { y las negras ganan la oposición, como se ve aquí.}) 1... Kd6 2. Kd4 { De nuevo la Oposición. El rey negro tiene que mover.} Ke6 3. Kc5 Kd7 4. Kd5 { Y otra vez.} Ke7 5. Kc6 {El rey blanco está listo para escoltar al peón.} Ke6 6. d4 Ke7 7. d5 Kd8 8. Kd6 {Y otra vez. Después} Ke8 9. Kc7 { Llegaremos a una posición que hemos estudiado antes.} *"
+        }
+      ]
+    },
+    {
+      "id": "l_177404284037267",
+      "titulo": "Ruptura #1",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "INFO",
+          "titulo": "Ruptura #1",
+          "texto": "",
+          "mostrarTablero": true,
+          "orientacion": "blanca",
+          "fen": "8/5ppp/8/5PPP/8/1k6/8/1K6 w - - 0 1",
+          "pgn": "{Esta situación podría fácilmente resultar mal para las blancas. El rey negro está más cerca de los peones y amenaza con devorarlos. Pero es a las blancas a quienes les toca mover y no solo salvar la partida, !sino incluso ganarla!} 1. g6 fxg6 2. h6 {El objetivo de haber realizado g6} gxh6 3. f6 {Y las blancas coronan el peón. Esta es la clásica ruptura de peón.Tenga en cuenta que las blancas DEBEN atacar inmediatamente.} *"
+        }
+      ]
+    },
+    {
+      "id": "l_177404284037268",
+      "titulo": "Ruptura #2",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "INFO",
+          "titulo": "Ruptura #2",
+          "texto": "",
+          "mostrarTablero": true,
+          "orientacion": "blanca",
+          "fen": "8/2p5/p1p5/8/PPP5/6k1/8/6K1 w - - 0 1",
+          "pgn": "{Una versión diferente de la idea de avance. ?Cómo logran las blancas la coronación del peón?} 1. a5 {!Muy fuerte! El peón a es el que hay que coronar. Necesitamos avanzarlo primero para prepararnos para la ruptura.} ({Lo inmediato } 1. b5 {no lo consigue (entre otros)} cxb5 2. cxb5 a5 { y nuestro peón está detenido y las negras ganan fácilmente.}) 1... Kf4 2. b5 { Ahora todo funciona perfectamente.} cxb5 3. cxb5 axb5 4. a6 { Y promocionamos nuestro peón y ganamos.} *"
+        }
+      ]
+    },
+    {
+      "id": "l_177404284037269",
+      "titulo": "Ruptura #3",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "INFO",
+          "titulo": "Ruptura #3",
+          "texto": "",
+          "mostrarTablero": true,
+          "orientacion": "blanca",
+          "fen": "8/7p/6p1/6P1/3k1P1P/8/3K4/8 w - - 0 1",
+          "pgn": "{Este avance requiere precisión. Echemos un vistazo.} 1. f5 {Cualquier avance en esta posición tiene que comenzar con este movimiento, pero eso es sólo el comienzo.} gxf5 2. h5 Ke5 3. h6 {Necesitamos cambiar el orden de movimientos. Ahora las negras no pueden jugar... Rf6 y realizaremos el avance decisivo de peón en la siguiente jugada.} ({ Parece que las negras llegaron justo a tiempo, ya que} 3. g6 hxg6 4. h6 Kf6 5. h7 Kg7 {Pero hay una solución!}) 3... f4 4. g6 hxg6 5. h7 {Misión cumplida!} *"
+        }
+      ]
+    },
+    {
+      "id": "l_177404284037270",
+      "titulo": "Ruptura #4",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "INFO",
+          "titulo": "Ruptura #4",
+          "texto": "",
+          "mostrarTablero": true,
+          "orientacion": "blanca",
+          "fen": "8/k1K5/8/pp6/1P6/8/P7/8 w - - 0 1",
+          "pgn": "{Las blancas pueden capturar el peón a , pero tras 1...Ra6 , las negras lo recuperan fácilmente. Solo les queda una jugada para ganar: una ruptura de peón.} 1. a4 {!Genial! Hagan lo que hagan las negras, conseguiremos un peón pasado en b . Este peón será mortal, ya que el avance implicará un jaque para ganar tiempo.} bxa4 (1... axb4 2. axb5 {y el peón blanco es imparable.}) (1... Ka6 {Se contesta con} 2. Kc6 {y obtendremos nuestro peón b pasado .}) 2. b5 { Como se ve en los ejemplos de Oposición , el rey blanco controla las casillas críticas y el peón avanza.} a3 3. b6+ {Somos más rápidos gracias a este jaque.} Ka6 4. b7 a2 5. b8=Q a1=Q {Las negras tienen una nueva Dama, pero es jaque mate } 6. Qb7# *"
+        }
+      ]
+    },
+    {
+      "id": "l_177404284037271",
+      "titulo": "Posición de Lucena Construyendo un Puen",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "INFO",
+          "titulo": "Posición de Lucena Construyendo un Puen",
+          "texto": "",
+          "mostrarTablero": true,
+          "orientacion": "blanca",
+          "fen": "4K3/4P1k1/8/8/8/3r4/8/4R3 w - - 0 1",
+          "pgn": "{El método ganador en esta y otras posiciones similares debe su nombre a Luis Ramírez de Lucena, analista español que vivió entre los siglos XV y XVI. No solo es uno de los conceptos más antiguos, sino también uno de los más importantes en el final de torre. Analicemos la situación. El peón \"e \" de las blancas está cerca de coronarse, pero el rey está atascado frente a él. Las blancas necesitan encontrar la manera de forzar la coronación. El primer paso es permitir que el rey mueva.} 1. Rg1+ Kh7 {?Y ahora qué?} ({ Ahora el rey negro debe pisar la columna h , si} 1... Kf6 {gana en el acto.} 2. Kf8) 2. Rg4 {Este movimiento prepara el paso del rey. La torre ayudará a proteger al rey de los jaques.} ({ Jugamos el jaque de torre para liberar a nuestro rey, pero si empezamos con..}  2. Kf7 {Las negras tienen una serie de jaques.} Rf3+ 3. Ke6 Re3+ 4. Kd6 Rd3+ 5. Kc5 Re3 {Esto demuestra el problema. Solo hay una manera de ganar. Esta maniobra también se llama \"Construir un puente\".}) 2... Rd2 { Las negras no tienen nada mejor que un movimiento de espera.} 3. Kf7 Rf2+ 4. Ke6 Re2+ 5. Kf6 Rf2+ (5... Re1 6. Rg5 { preparando a Te5 para construir un puente similar.}) 6. Ke5 Re2+ 7. Re4 { Este es el punto del misterioso movimiento de la torre. Hemos construido un puente, forzando la coronación del peón.} *"
+        }
+      ]
+    },
+    {
+      "id": "l_177526962564172",
+      "titulo": "Final del juego 1: Puzzle 1",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Final del juego 1: Puzzle 1",
+          "texto": "Cómo deben jugar las negras?",
+          "orientacion": "negra",
+          "fen": "8/8/8/2pk4/8/8/3K4/8 b - - 0 1",
+          "secuenciaCorrecta": [
+            "d5d4",
+            "d2c2",
+            "d4c4"
+          ],
+          "comentariosMovimiento": [
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_177526962564173",
+      "titulo": "Final del juego: Puzzle 2",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Final del juego: Puzzle 2",
+          "texto": "Como deben jugar las blancas?",
+          "orientacion": "blanca",
+          "fen": "8/8/5p1k/8/8/8/5K2/8 b - - 0 1",
+          "secuenciaCorrecta": [
+            "h6g5",
+            "f2g3",
+            "g5f5",
+            "g3f3",
+            "f5e5",
+            "f3e3"
+          ],
+          "comentariosMovimiento": [
+            "Manteniendo la oposición para asegurar las tablas.",
+            "",
+            "Manteniendo a raya al Rey enemigo mediante el uso correcto de la oposición."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_177526962564174",
+      "titulo": "Final del juego: Puzzle 3",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Final del juego: Puzzle 3",
+          "texto": "Cómo deben jugar las blancas?",
+          "orientacion": "negra",
+          "fen": "8/1k3p2/4pPp1/6P1/7P/2K5/8/8 b - - 0 1",
+          "secuenciaCorrecta": [
+            "b7c6",
+            "h4h5",
+            "g6h5",
+            "g5g6",
+            "f7g6",
+            "f6f7"
+          ],
+          "comentariosMovimiento": [
+            "Las blancas obtendrán un peón pasado imparable.",
+            "",
+            "Y el peón no puede ser detenido."
+          ]
+        }
+      ]
+    }
+  ]
+}
