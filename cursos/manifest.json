@@ -3,12 +3,12 @@
   "actualizado": "2026-05-02",
   "cursos": [
     {
-      "id": "curso-test",
+      "id": "c_1774042840347",
       "titulo": "Curso de prueba",
       "descripcion": "Descripción corta",
-      "imagenUrl": "https://...",
+      "imagenUrl": "https://assets-courses.chess.com/image/courses/291847_course_square_opt.jpeg",
       "version": 1,
-      "tamañoKB": 25,
+      "tamañoKB": 25
       "bundleUrl": "cursos/Kit-inter.json"
     }
   ]
