@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "actualizado": "2026-05-02",
+  "actualizado": "2026-05-04",
   "cursos": [
     {
       "id": "c_1774042840347",
@@ -9,7 +9,7 @@
       "imagenUrl": "https://assets-courses.chess.com/image/courses/291847_course_square_opt.jpeg",
       "version": 1,
       "bundleUrl": "cursos/Kit-inter.json"
-    }
+    },
     {
       "id": "c_1777914602329",
       "titulo": "El Método Enigma",
@@ -17,6 +17,6 @@
       "imagenUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4pH5_aHWAM0gj9NznUAG9mthKCTchY1dnHXNw2x1JU-i2qozA",
       "version": 1,
       "bundleUrl": "cursos/Enigma.json"
-    {
+    }
   ]
 }
