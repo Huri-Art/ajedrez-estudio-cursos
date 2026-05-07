@@ -17,6 +17,14 @@
       "imagenUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4pH5_aHWAM0gj9NznUAG9mthKCTchY1dnHXNw2x1JU-i2qozA",
       "version": 1,
       "bundleUrl": "cursos/Enigma.json"
+    },
+    {
+      "id": "c_1778114275285",
+      "titulo": "Bobby Fisher enseña a jugar Ajedrez Parte 2",
+      "descripcion": "Capitulo 2 del curso para principiantes",
+      "imagenUrl": "https://imgv2-1-f.scribdassets.com/img/document/250052576/original/78cefe5a94/1?v=1",
+      "version": 1,
+      "bundleUrl": "cursos/Bobby-teach2.json"
     }
   ]
 }
