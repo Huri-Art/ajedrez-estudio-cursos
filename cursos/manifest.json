@@ -33,6 +33,14 @@
       "imagenUrl": "https://images.chesscomfiles.com/uploads/v1/lesson_course/692077ee-5eed-11ea-8cbf-377521826905.4108bc11.728x410o.69cb98c49d89.png",
       "version": 1,
       "bundleUrl": "cursos/3-Finales-peones-C.json"
+    },
+    {
+      "id": "c_1778516802217",
+      "titulo": "1001 Sacrificios y Combinaciones Ganadoras de Ajedrez",
+      "descripcion": "¡Aprende a jugar finales de peones como un profesional! con IM Eric Tangborn & FM Thomas Wolski",
+      "imagenUrl": "https://m.media-amazon.com/images/I/61FFVT10HjL._AC_UF1000,1000_QL80_.jpg",
+      "version": 1,
+      "bundleUrl": "cursos/1001WCC.json"
     }
   ]
 }
