@@ -11,7 +11,7 @@
       "segmentos": [
         {
           "tipo": "VIDEO",
-          "titulo": "Introducción",
+          "titulo": "",
           "texto": "",
           "video_url": "https://drive.google.com/file/d/10AnhsK6_oufHmw3_E8B7SgrpPc_MS65g/view?usp=drive_link"
         }
@@ -24,7 +24,7 @@
       "segmentos": [
         {
           "tipo": "VIDEO",
-          "titulo": "1. Nimzoindia con e3 y Ad3",
+          "titulo": "",
           "texto": "",
           "video_url": "https://drive.google.com/file/d/1TbRdaMp4CZi3QUvh8MA5VAr1gVgMAb5X/view?usp=drive_link"
         }
@@ -32,12 +32,12 @@
     },
     {
       "id": "l_17785210401588580",
-      "titulo": "2. Nimzoindia con e3 y Cge2, a3 o Ad2",
+      "titulo": "2. Nimzoindia con e3 y Cge2, a3 o Ad",
       "descripcion": "",
       "segmentos": [
         {
           "tipo": "VIDEO",
-          "titulo": "2. Nimzoindia con e3 y Cge2, a3 o Ad2.mp4",
+          "titulo": "",
           "texto": "",
           "video_url": "https://drive.google.com/file/d/1YZwpMPkmBX2fp3Sh6D0qwJR2R4mqSc-_/view?usp=drive_link"
         }
@@ -50,7 +50,7 @@
       "segmentos": [
         {
           "tipo": "VIDEO",
-          "titulo": "3. Nimzoindia con Dc2",
+          "titulo": "",
           "texto": "",
           "video_url": "https://drive.google.com/file/d/1jhHOD6ab7koGKHeHkHP948vbswFXC7q8/view?usp=drive_link"
         }
@@ -63,7 +63,7 @@
       "segmentos": [
         {
           "tipo": "VIDEO",
-          "titulo": "4. Nimzoindia con f3",
+          "titulo": "",
           "texto": "",
           "video_url": "https://drive.google.com/file/d/1p3P19pzzPecOy5hvSsbsVbHRB2QWnmf0/view?usp=drive_link"
         }
@@ -76,7 +76,7 @@
       "segmentos": [
         {
           "tipo": "VIDEO",
-          "titulo": "5. Nimzoindia con g3, a3, Ag5, Ad2 o Db3",
+          "titulo": "",
           "texto": "",
           "video_url": "https://drive.google.com/file/d/18b47Hvbk-UJX6SzhWHcRXb7TtReWgpV3/view?usp=drive_link"
         }
@@ -89,7 +89,7 @@
       "segmentos": [
         {
           "tipo": "VIDEO",
-          "titulo": "6. India de dama con g3 y Ad2",
+          "titulo": "",
           "texto": "",
           "video_url": "https://drive.google.com/file/d/1Fx0-GNmxC4zw7vJBdVu0rMuWFNbGG_YE/view?usp=drive_link"
         }
@@ -102,7 +102,7 @@
       "segmentos": [
         {
           "tipo": "VIDEO",
-          "titulo": "8. Catalana Órdenes y Excepciones",
+          "titulo": "",
           "texto": "",
           "video_url": "https://drive.google.com/file/d/1EpMZdPgeLzNvR0V9aw1DMJqdKlWBF7Ii/view?usp=drive_link"
         }
@@ -115,7 +115,7 @@
       "segmentos": [
         {
           "tipo": "VIDEO",
-          "titulo": "9. Catalana Principal",
+          "titulo": "",
           "texto": "",
           "video_url": "https://drive.google.com/file/d/1_xckCOSrBhciNewQOxY4y2R1fiZzGJYA/view?usp=drive_link"
         }
@@ -128,7 +128,7 @@
       "segmentos": [
         {
           "tipo": "VIDEO",
-          "titulo": "10. Sistema Londres y Jobava",
+          "titulo": "",
           "texto": "",
           "video_url": "https://drive.google.com/file/d/1BqGCRiPqDWG2_30W5UYzL8iaHkTaspX3/view?usp=drive_link"
         }
@@ -141,7 +141,7 @@
       "segmentos": [
         {
           "tipo": "VIDEO",
-          "titulo": "11. Sistemas Colle y Ataque Torre",
+          "titulo": "",
           "texto": "",
           "video_url": "https://drive.google.com/file/d/1n-wr5xvmoJBd-z5qirLQZAR69jIlwDb9/view?usp=drive_link"
         }
@@ -154,7 +154,7 @@
       "segmentos": [
         {
           "tipo": "VIDEO",
-          "titulo": "12. Trompowsky",
+          "titulo": "",
           "texto": "",
           "video_url": "https://drive.google.com/file/d/1RNEMpvWMqzOckrRTIagAwcp-VqrTQGuF/view?usp=drive_link"
         }
@@ -167,7 +167,7 @@
       "segmentos": [
         {
           "tipo": "VIDEO",
-          "titulo": "13. 1.c4",
+          "titulo": "",
           "texto": "",
           "video_url": "https://drive.google.com/file/d/1Y5JFIzha3zFbqKoYIUHEeziN8lem28tw/view?usp=drive_link"
         }
@@ -180,7 +180,7 @@
       "segmentos": [
         {
           "tipo": "VIDEO",
-          "titulo": "14. 1.Cf3",
+          "titulo": "",
           "texto": "",
           "video_url": "https://drive.google.com/file/d/1mAqIlXQ1gca3UDEP6h4xbs3FycoUGZ7U/view?usp=drive_link"
         }
