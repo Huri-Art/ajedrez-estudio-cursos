@@ -1,0 +1,3779 @@
+{
+  "id": "c_1778515669205",
+  "titulo": "Finales de Peones Chess.com",
+  "descripcion": "¡Aprende a jugar finales de peones como un profesional! con IM Eric Tangborn & FM Thomas Wolski",
+  "imagenUrl": "https://images.chesscomfiles.com/uploads/v1/lesson_course/692077ee-5eed-11ea-8cbf-377521826905.4108bc11.728x410o.69cb98c49d89.png",
+  "lecciones": [
+    {
+      "id": "l_17785156692080",
+      "titulo": "Finales: La Oposición",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "INFO",
+          "titulo": "Finales: La Oposición",
+          "texto": "",
+          "mostrarTablero": true,
+          "orientacion": "negra",
+          "fen": "8/8/8/8/2K5/8/3k4/8 b - - 0 1",
+          "pgn": "{Por supuesto, una posición que consiste solo en Rey contra Rey es tablas. El objetivo de la posición es ilustrar el concepto de oposición. El rey blanco está tratando de ir hacia la parte inferior del tablero.Tu trabajo es detener el avance del rey blanco} 1... Kc2 *"
+        }
+      ]
+    },
+    {
+      "id": "l_17785156692091",
+      "titulo": "Finales: La Oposición distante",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "INFO",
+          "titulo": "Finales: La Oposición distante",
+          "texto": "",
+          "mostrarTablero": true,
+          "orientacion": "blanca",
+          "fen": "k7/8/8/8/8/8/8/K7 w - - 0 1",
+          "pgn": "{El propósito de esta posición es mostrar un ejemplo de oposición distante. Esta sucede cuando los reyes están en la misma fila columna o diagonal con un número impar de casillas entre ellos.} 1. Ka2 {[%csl Ba3,Ba5,Ba7,Ba4,Ba6]} *"
+        }
+      ]
+    },
+    {
+      "id": "l_17785156692092",
+      "titulo": "Finales: La Oposición diagonal distante",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "INFO",
+          "titulo": "Finales: La Oposición diagonal distante",
+          "texto": "",
+          "mostrarTablero": true,
+          "orientacion": "blanca",
+          "fen": "7k/8/8/8/8/8/8/K7 w - - 0 1",
+          "pgn": "{El propósito de esta posición es mostrar un ejemplo de la oposición distante en diagonal. Esta ocurre cuando los reyes están en la misma diagonal con un número impar de casillas entre ellos. Aquí hay un número par de casillas entre ellos, el lado que mueve puede ganar la oposición diagonal distante.} 1. Kb2 *"
+        }
+      ]
+    },
+    {
+      "id": "l_17785156692093",
+      "titulo": "Finales: Cuadrado del peón",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "INFO",
+          "titulo": "Finales: Cuadrado del peón",
+          "texto": "",
+          "mostrarTablero": true,
+          "orientacion": "blanca",
+          "fen": "8/8/8/8/7P/2k5/8/K7 b - - 0 1",
+          "pgn": "{La meta de un peón pasado es alcanzar la última fila para así poder ser promovido a una dama o alguna otra pieza. Cuando hay solamente un peón en el tablero solo puede ser detenido por el rey del oponente. En esta posición las negras mueven. Pueden detener el peón? Una forma geométrica nos permite resolver el problema de un vistazo. si observamos al peón en h4 podemos dibujar mentalmente un cuadrado con las esquinas de cuatro d4 h4 h8 y d8. esta forma es llamada el cuadrado del peón. si el rey negro puede mover dentro de este cuadro antes que el peón avance entonces él será capaz de detener al peón pasado.} 1... Kd4 {[%csl Rf4,Rf8,Re4,Re8,Rd4,Rd8,Rh4,Rh8,Rg4,Rg8,Rd7,Rh7,Rd6,Rh6,Rd5,Rh5][%cal Rh4d8]} *"
+        }
+      ]
+    },
+    {
+      "id": "l_17785156692104",
+      "titulo": "Finales: Rey y peón vs Rey",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "INFO",
+          "titulo": "Finales: Rey y peón vs Rey",
+          "texto": "",
+          "mostrarTablero": true,
+          "orientacion": "blanca",
+          "fen": "8/8/1k6/8/K7/3P4/8/8 w - - 0 1",
+          "pgn": "{Cuando los reyes están en la misma fila y el número de casillas entre ellos es impar entonces el jugador que mueve perderá la oposición. Esta es un basico pero muy importante final ilustrando la oposición. El plan de las blancas es llevar al rey a la sexta fila enfrente de su peón.} 1. Kb4 {[%csl Bc6,Bd6,Be6]} Kc6 {La oposición es el concepto más importante en los finales de peón.} 2. Kc4 Kd6 {En este final es importante mantener tu rey enfrente del peón antes de avanzar al peón.} 3. Kd4 Ke6 4. Kc5 Kd7 5. Kd5 Ke7 6. Kc6 Kd8 7. Kd6 Ke8 8. d4 Kd8 9. d5 Ke8 {Asegúrate de que entiendes este final básico antes de explorar posiciones más complejas. En conclusión recuerda esto: Para ganar el rey debe estar enfrente del peón con al menos una casilla de distancia. Sí el rey rival está directamente enfrente del peón entonces el juego no puede ser ganado.} *"
+        }
+      ]
+    },
+    {
+      "id": "l_17785156692105",
+      "titulo": "Finales: Rey y peón de torre vs Rey",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "INFO",
+          "titulo": "Finales: Rey y peón de torre vs Rey",
+          "texto": "",
+          "mostrarTablero": true,
+          "orientacion": "blanca",
+          "fen": "8/K1k5/P7/8/8/8/8/8 b - - 0 1",
+          "pgn": "{Ganar con un peón de torre es más difícil como muestra El ejemplo. Las blancas necesitan encontrar una manera de mover el rey fuera del camino así el peón podrá avanzar.} 1... Kc8 2. Ka8 Kc7 3. a7 *"
+        }
+      ]
+    },
+    {
+      "id": "l_17785156692206",
+      "titulo": "Finales: Oposición y flanqueo",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Finales: Oposición y flanqueo",
+          "texto": "Las blancas juegan y tienen la oposición, su meta es alcanzar f8 o h8 en al menos 17 movimientos, las negras tratarán de impedírselo.",
+          "orientacion": "blanca",
+          "fen": "k7/8/8/8/8/8/8/K7 w - - 0 1",
+          "secuenciaCorrecta": [
+            "a1a2",
+            "a8b8",
+            "a2b2",
+            "b8c8",
+            "b2c2",
+            "c8d8",
+            "c2d2",
+            "d8e8",
+            "d2e2",
+            "e8f8",
+            "e2f2",
+            "f8g8",
+            "f2g2",
+            "g8h8",
+            "g2f3",
+            "h8g7",
+            "f3g3",
+            "g7f7",
+            "g3h4",
+            "f7g6",
+            "h4g4",
+            "g6h6",
+            "g4f5",
+            "h6g7",
+            "f5g5",
+            "g7f7",
+            "g5h6",
+            "f7g8",
+            "h6g6",
+            "g8f8",
+            "g6h7",
+            "f8f7",
+            "h7h8"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_17785156692237",
+      "titulo": "Finales: Bloqueado al rey.",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Finales: Bloqueado al rey.",
+          "texto": "Si fuera turno de las negras en esta posición serían capaces de hacer tablas. Las blancas con el turno serían capaces de ganar esta posición mediante el corte del rey del oponente desde casillas importantes.",
+          "orientacion": "blanca",
+          "fen": "8/3k4/1K6/8/8/8/P7/8 w - - 0 1",
+          "secuenciaCorrecta": [
+            "b6b7",
+            "d7d6",
+            "a2a4",
+            "d6c5",
+            "a4a5",
+            "c5b5",
+            "a5a6"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_17785156692328",
+      "titulo": "Finales: La clavada",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Finales: La clavada",
+          "texto": "Si ambos lados tienen peones pasados que coronen al mismo tiempo, el lado que corone primero usualmente tendrá la ventaja, a menudo siendo capaz de dar un Jaque. A veces este jaque podrá ser una clavada también conocida como rayos x. Esta es una táctica en la cual una pieza es forzada a mover fuera del camino poniendo a otra pieza a ser capturada.Ambos lados están a punto de coronar sus peones.",
+          "orientacion": "blanca",
+          "fen": "8/P7/8/8/8/3k4/5p1K/8 w - - 0 1",
+          "secuenciaCorrecta": [
+            "a7a8q",
+            "f2f1q",
+            "a8a6",
+            "d3d2",
+            "a6f1"
+          ],
+          "comentariosMovimiento": [
+            "",
+            "[%cal Ra6f1]",
+            ""
+          ],
+          "comentariosRival": [
+            "[%csl Ra8] Ambos lados tienen una dama pero las blancas tiene la ventaja porque tiene el primer movimiento.",
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_17785156692359",
+      "titulo": "Finales: Posición Básica",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Finales: Posición Básica",
+          "texto": "Las blancas tratarán de coronar su peón. Tu objetivo como negras es detener ese peón y empatar. Esta posición debería ser minuciosamente masterizada por cada estudiante. el rey negro ha obtenido su mejor posesión enfrente del peón rival. Las blancas serán capaces de forzar al peón avanzar y el negro será el único capaz de prevenir su coronación, si entiende el principio de la oposición. un jugador tiene la posición si los reyes están en la misma línea si hay un sola casilla separandolos y es el turno del oponente.",
+          "orientacion": "negra",
+          "fen": "8/8/8/3k4/3P4/3K4/8/8 b - - 0 1",
+          "secuenciaCorrecta": [
+            "d5d6",
+            "d3c4",
+            "d6c6",
+            "d4d5",
+            "c6d6",
+            "c4d4",
+            "d6d7",
+            "d4e5",
+            "d7e7",
+            "d5d6",
+            "e7d7",
+            "e5d5",
+            "d7d8",
+            "d5c6",
+            "d8c8",
+            "d6d7",
+            "c8d8"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_177851566923710",
+      "titulo": "Finales: Casillas Críticas",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Finales: Casillas Críticas",
+          "texto": "La oposición es la clave para esta clase de finales. Las blancas necesitan llevar al rey frente su peón y también deben ganar la oposición al mismo tiempo.",
+          "orientacion": "blanca",
+          "fen": "8/7k/8/8/8/3P4/8/6K1 w - - 0 1",
+          "secuenciaCorrecta": [
+            "g1f2",
+            "h7g6",
+            "f2e3",
+            "g6f5",
+            "e3d4",
+            "f5e6",
+            "d4c5",
+            "e6d7",
+            "c5d5",
+            "d7c7",
+            "d5e6",
+            "c7d8",
+            "e6d6",
+            "d8e8",
+            "d3d4",
+            "e8d8",
+            "d4d5",
+            "d8e8",
+            "d6c7"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_177851566923911",
+      "titulo": "Rey vs Rey y peón: El rey en sexta fila",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Rey vs Rey y peón: El rey en sexta fila",
+          "texto": "Una regla importante para recordar es que si el peón está en la quinta fila gana con el rey enfrente de él. No importa si las blancas tienen o no tienen la oposición porque de cualquier manera las blancas ganan el control de las casillas de coronación. (A excepción de un peón de torre). las blancas ganan pero es extremadamente importante estar alerta a las tablas.",
+          "orientacion": "blanca",
+          "fen": "6k1/8/6K1/6P1/8/8/8/8 w - - 0 1",
+          "secuenciaCorrecta": [
+            "g6h6",
+            "g8h8",
+            "g5g6",
+            "h8g8",
+            "g6g7",
+            "g8f7",
+            "h6h7"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_177851566924212",
+      "titulo": "Rey vs Rey y peón: El peón de torre",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Rey vs Rey y peón: El peón de torre",
+          "texto": "La oportunidad de ganar de las blancas se ve grandemente reducida cuando el único peón es un peón de torre. Si fuera turno de las blancas ganarían pues las negras no serían capaces de alcanzar al peón, una manera rápida de ver esto es que el negro necesita llegar con el rey dentro del cuadrado del peón.",
+          "orientacion": "negra",
+          "fen": "8/8/8/8/6k1/PK6/8/8 b - - 0 1",
+          "secuenciaCorrecta": [
+            "g4f5",
+            "b3c4",
+            "f5e6",
+            "c4c5",
+            "e6d7",
+            "c5b6",
+            "d7c8",
+            "b6a7",
+            "c8c7",
+            "a3a4",
+            "c7c6",
+            "a4a5",
+            "c6c7",
+            "a5a6",
+            "c7c8",
+            "a7b6",
+            "c8b8",
+            "a6a7",
+            "b8a8"
+          ],
+          "comentariosMovimiento": [
+            "[%csl Re7,Ra7,Re6,Ra6,Re5,Ra5,Rd4,Rd8,Rc4,Rc8,Re4,Re8,Rb4,Rb8,Ra4,Ra8][%cal Ra4e8]",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_177851566924513",
+      "titulo": "Rey vs Rey y peón: La sexta fila",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Rey vs Rey y peón: La sexta fila",
+          "texto": "Una regla importante es que las blancas pueden ganar si consiguen llevar a su rey a la sexta fila en frente de su peón. Si consigues entender por qué este primer movimiento necesita ser jugado entonces tú entenderás los finales de rey y peón bastante bien.",
+          "orientacion": "blanca",
+          "fen": "k7/8/1p6/8/1P6/5K2/8/8 w - - 0 1",
+          "secuenciaCorrecta": [
+            "b4b5",
+            "a8b7",
+            "f3e4",
+            "b7c7",
+            "e4e5",
+            "c7d7",
+            "e5d5",
+            "d7c7",
+            "d5e6",
+            "c7c8",
+            "e6d6",
+            "c8b7",
+            "d6d7",
+            "b7b8",
+            "d7c6",
+            "b8a7",
+            "c6c7",
+            "a7a8",
+            "c7b6",
+            "a8b8",
+            "b6a6",
+            "b8a8",
+            "b5b6",
+            "a8b8",
+            "b6b7",
+            "b8c7"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_177851566924714",
+      "titulo": "Finales: Rey y peón vs Rey; La defensa",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Finales: Rey y peón vs Rey; La defensa",
+          "texto": "Este es un problema muy importante en tu camino para masterizar los finales de ajedrez. Si las blancas mueven ellas ganan y si las negras mueven entonces ellas podrán empatar. Es imposible para las negras encontrar una manera de salvar su peón. la clave para las blancas es llevar a su rey a la sexta fila enfrente de su peón.",
+          "orientacion": "negra",
+          "fen": "k7/8/1p6/8/1P2K3/8/8/8 b - - 0 1",
+          "secuenciaCorrecta": [
+            "b6b5",
+            "e4d5",
+            "a8b7",
+            "d5c5",
+            "b7a6",
+            "c5c6",
+            "a6a7",
+            "c6b5",
+            "a7b7",
+            "b5a5",
+            "b7a7",
+            "b4b5",
+            "a7b7",
+            "b5b6",
+            "b7b8",
+            "a5a6",
+            "b8a8",
+            "b6b7",
+            "a8b8",
+            "a6b6"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_177851566924915",
+      "titulo": "Finales: Rey y peón vs Rey; Casillas Críticas",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Finales: Rey y peón vs Rey; Casillas Críticas",
+          "texto": "cualquiera que mueva tiene la ventaja en esta posición. las blancas pueden ganar y las negras con el turno podrían empatar. las blancas pueden ganar si ellas consiguen llevar a Rey a una de las casillas críticas, e4, d4 o c4. las negras podían empatar con Rd5.",
+          "orientacion": "blanca",
+          "fen": "8/8/8/4k3/8/3K4/3P4/8 w - - 0 1",
+          "secuenciaCorrecta": [
+            "d3c4",
+            "e5d6",
+            "c4d4",
+            "d6e6",
+            "d4c5",
+            "e6d7",
+            "c5d5",
+            "d7c7",
+            "d5e6",
+            "c7d8",
+            "e6d6",
+            "d8e8",
+            "d2d4",
+            "e8d8",
+            "d4d5",
+            "d8e8",
+            "d6c7"
+          ],
+          "comentariosMovimiento": [
+            "[%csl Bd4,Bc4,Be4] las blancas planean tomar el control de las casillas de coronación con su rey, su plan consiste en avanzar al rey tan lejos como sea posible sin poner en riesgo su peón tomando la oposición en momentos críticos. cuando su Rey esté avanzado entonces las blancas usarán su peón con jugadas de tiempo para ganar la oposición.",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "[%csl Bd6,Bd8,Bd7]"
+          ],
+          "comentariosRival": [
+            "",
+            "",
+            "",
+            "",
+            "cuando el rey blanco alcanza la casilla en la sexta fila de enfrente de su peón el gana.",
+            "",
+            "",
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_177851566925116",
+      "titulo": "Finales: Rey y peón vs Rey; La oposición",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Finales: Rey y peón vs Rey; La oposición",
+          "texto": "en finales con solamente los reyes y peones presentes la oposición se vuelve extremadamente importante. la clave para una correcta defensa por parte de las negras es prevenir que el rey blanco entre en contacto con las casillas de coronación. en esta posición si le tocara mover a las blancas ganarían con Rd2",
+          "orientacion": "negra",
+          "fen": "4k3/8/8/8/8/8/4P3/4K3 b - - 0 1",
+          "secuenciaCorrecta": [
+            "e8e7",
+            "e1d1",
+            "e7e6",
+            "d1d2",
+            "e6d6",
+            "d2d3",
+            "d6d5",
+            "e2e4",
+            "d5e5",
+            "d3e3",
+            "e5e6",
+            "e3d4",
+            "e6d6",
+            "e4e5",
+            "d6e6",
+            "d4e4"
+          ],
+          "comentariosMovimiento": [
+            "Es difícil pensar que aunque los reyes estén lejos cada movimiento debe ser preciso mover el rey a la casilla equivocada podría costar la partida.",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "comentariosRival": [
+            "",
+            "",
+            "",
+            "",
+            "cuando el bando más fuerte ha avanzado su peón antes que el rey Tú deberías pensar en eso cómo tablas.",
+            "",
+            "",
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_177851566925217",
+      "titulo": "Finales: Rey y peón vs Rey; Peones conectados",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Finales: Rey y peón vs Rey; Peones conectados",
+          "texto": "teniendo dos peones en un final de peón es usualmente una manera fácil de ganar pero aquí las blancas tienen algunos problemas porque si avanzan a su rey de manera imprudente las negras podrían empatar por rey ahogado, la presencia de un peón de torre le da más oportunidades de empatar.",
+          "orientacion": "blanca",
+          "fen": "8/Pk6/1P6/8/3K4/8/8/8 w - - 0 1",
+          "secuenciaCorrecta": [
+            "d4c5",
+            "b7a8",
+            "c5d6",
+            "a8b7",
+            "a7a8q",
+            "b7a8",
+            "d6c6",
+            "a8b8",
+            "b6b7"
+          ],
+          "comentariosMovimiento": [
+            "",
+            "[%cal Rc5c6] por supuesto avanzar al rey no es buena idea por el ahogado.",
+            "",
+            "",
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_177851566925318",
+      "titulo": "Finales: Rey y peón vs Rey; Peones desconectados",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Finales: Rey y peón vs Rey; Peones desconectados",
+          "texto": "teniendo dos peones debería ser fácil ganar un final de peón pero aquí los peones están desconectados y el rey blanco está completamente fuera de juego, las negras pueden empatar si ellas capturan un peón y luego detienen al otro. usualmente los peones desconectados necesitan ser protegidos por el rey pero a veces ellos pueden defenderse a sí mismos hasta que el rey llegue",
+          "orientacion": "blanca",
+          "fen": "8/1k6/8/2P5/P7/8/8/7K w - - 0 1",
+          "secuenciaCorrecta": [
+            "a4a5",
+            "b7a6",
+            "c5c6",
+            "a6a7",
+            "h1g2",
+            "a7b8",
+            "a5a6",
+            "b8c7",
+            "a6a7"
+          ],
+          "comentariosMovimiento": [
+            "",
+            "",
+            "como regla si los peones están separados por una fila ellos usualmente podrán defenderse hasta que su Rey llegue",
+            "",
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_177851566925419",
+      "titulo": "Finales: Controlando la casilla crítica",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Finales: Controlando la casilla crítica",
+          "texto": "Usualmente rey y peón contra Rey peón es empate pero hay un par de excepciones. Por ejemplo si las blancas pueden capturar el peón negro y el final resultante de Rey peón contra Rey es ganador.La otra ocurre cuando las blancas coronan primero o ambos bandos coronan pero las blancas dan mate capturan a la dama contraria o evitan que el peón corone. esta posición es un ejemplo del último caso en el que el peón corona y controla la diagonal crítica las negras deben decidir si avanzar su propio peón o intentar detener el peón blanco con su rey.",
+          "orientacion": "negra",
+          "fen": "8/8/8/7P/p2k2K1/8/8/8 b - - 0 1",
+          "secuenciaCorrecta": [
+            "d4e5",
+            "g4g5",
+            "e5e6",
+            "g5g6",
+            "a4a3",
+            "h5h6",
+            "a3a2",
+            "h6h7",
+            "a2a1q"
+          ],
+          "comentariosMovimiento": [
+            "[%csl Rd4]",
+            "",
+            "",
+            "",
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_177851566925520",
+      "titulo": "Finales: Oposición de caballo",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Finales: Oposición de caballo",
+          "texto": "El tema de esta posición es muy importante y a menudo ocurre en finales de peón cualquiera que mueva primero Forza la captura del peón y por consiguiente gana el juego.",
+          "orientacion": "blanca",
+          "fen": "8/8/2K5/4p3/4P3/6k1/8/8 w - - 0 1",
+          "secuenciaCorrecta": [
+            "c6d6",
+            "g3f4",
+            "d6d5",
+            "f4g5",
+            "d5e5",
+            "g5g6",
+            "e5e6",
+            "g6g7",
+            "e4e5",
+            "g7f8",
+            "e6d7"
+          ],
+          "comentariosMovimiento": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "[%csl Be7,Be8,Be6]"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_177851566925621",
+      "titulo": "Finales: El Sacrificio",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Finales: El Sacrificio",
+          "texto": "Los peones doblados son peones que están en la misma columna. normalmente los peones doblados son una debilidad pero aquí nosotros tenemos dos peones y nuestro oponente no tiene ninguno, queremos queremos hacer que uno de los peones se abra paso a través de las casillas de coronación la victoria no es tan fácil.",
+          "orientacion": "blanca",
+          "fen": "1k6/8/1PK5/1P6/8/8/8/8 w - - 0 1",
+          "secuenciaCorrecta": [
+            "b6b7",
+            "b8a7",
+            "b7b8q",
+            "a7b8",
+            "c6b6",
+            "b8a8",
+            "b6c7",
+            "a8a7",
+            "b5b6"
+          ],
+          "comentariosMovimiento": [
+            "[%csl Gb7] con este movimiento forzamos al rey negro abandonar la casilla de coronación, cualquier otro movimiento podría resultar en empate.",
+            "este movimiento es crucial para el blanco, sacrificar su peón ya que el segundo coronará.",
+            "",
+            "[%csl Bb8,Bb6,Bb7]",
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_177851566925722",
+      "titulo": "Finales: Ruptura",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Finales: Ruptura",
+          "texto": "Las blancas tienen un peón de más y necesitan encontrar una manera de abrirse paso. en esta posición las blancas tienen mayoría de peones. esta es cuando tus peones en un lado del tablero superan el número a los de oponente en ese mismo lado.",
+          "orientacion": "blanca",
+          "fen": "8/7p/8/4k1PP/6K1/8/8/8 w - - 0 1",
+          "secuenciaCorrecta": [
+            "h5h6",
+            "e5e6",
+            "g5g6",
+            "h7g6",
+            "h6h7"
+          ],
+          "comentariosMovimiento": [
+            "[%csl Gh6] normalmente las blancas no quieren que sus peones se inmovilicen así pero el hecho es que ellos no están inmovilizados.",
+            "[%csl Gg6] Este es un fuerte sacrificio y le da a las blancas un peón pasado imparable",
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_177851566925823",
+      "titulo": "Finales: Bloqueando la Diagonal Crítica",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Finales: Bloqueando la Diagonal Crítica",
+          "texto": "Las blancas tienen un peón pasado en el ala de dama, de cualquier manera el rey negro está dentro del rango de ese peón. sin embargo hay una manera de bloquear la diagonal crítica la clave está en avanzar el peón de a sin dejar que el rey negro lo capture.",
+          "orientacion": "blanca",
+          "fen": "8/5p2/4p3/8/3P4/5k2/P7/5K2 w - - 0 1",
+          "secuenciaCorrecta": [
+            "d4d5",
+            "e6d5",
+            "a2a4",
+            "d5d4",
+            "a4a5",
+            "d4d3",
+            "f1e1"
+          ],
+          "comentariosRival": [
+            "[%csl Gd5,Re3,Rf3,Rf7,Rc3,Rd3,Rf4,Rf8,Rf5,Ra3,Rb3,Rf6] El Rey de las negras todavía está en el cuadrado del peón pero hay un problema.",
+            "",
+            "las blancas deben ser muy cuidadosas con este movimiento, no quieres concentrar toda tu atención en un lado del tablero algo importante podría tomar lugar en otro lado."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_177851566925924",
+      "titulo": "Finales: Bloqueo",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Finales: Bloqueo",
+          "texto": "una regla muy importante en el final de rey y peón contra El Rey es que si el rey consigue llegar a la sexta fila por delante del peón es una victoria. esto necesita tomarse en cuenta cuando nos encontremos con el siguiente problema, las negras necesitan bloquear al rey negro de alcanzar el sexta columna, las blancas podrían mover rey b5 seguido de la captura del peón.",
+          "orientacion": "negra",
+          "fen": "k7/8/8/2p5/K7/1P6/8/8 b - - 0 1",
+          "secuenciaCorrecta": [
+            "c5c4",
+            "b3c4",
+            "a8b8",
+            "a4b4",
+            "b8c8",
+            "b4b5",
+            "c8b7"
+          ],
+          "comentariosMovimiento": [
+            "[%csl Gc4] este es el movimiento, las negras impiden al blanco llegar a la sexta fila en frente de su peón",
+            "",
+            "",
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_177851566926325",
+      "titulo": "Finales: El peón pasado protegido",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Finales: El peón pasado protegido",
+          "texto": "Una formación muy fuerte de peones es cuando un lado tiene un peón pasado protegido, el bando inferior no puede capturar o alejarse demasiado de este peón, antes que el blanco avance su peón él necesita avanzar al rey para apoyar el peón, hay muchas rutas para ganar esto así que solo daremos una solución.",
+          "orientacion": "blanca",
+          "fen": "8/8/8/pPk5/P7/2K5/8/8 w - - 0 1",
+          "secuenciaCorrecta": [
+            "c3c2",
+            "c5d6",
+            "c2d2",
+            "d6e6",
+            "d2c3",
+            "e6d5",
+            "c3d3",
+            "d5e5",
+            "d3c4",
+            "e5d6",
+            "c4d4",
+            "d6c7",
+            "d4d5",
+            "c7b6",
+            "d5d6",
+            "b6b7",
+            "d6d7",
+            "b7b8",
+            "d7c6",
+            "b8a7",
+            "c6c7",
+            "a7a8",
+            "c7b6"
+          ],
+          "comentariosMovimiento": [
+            "[%csl Gc2]",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_177851566926426",
+      "titulo": "Finales: Tiempos",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Finales: Tiempos",
+          "texto": "El primer movimiento de las blancas será el más importante, sí las blancas no hacen las cosas con el tiempo adecuado entonces podrá resultar en empate. las blancas tienen la opción entre avanzar el peón de b una o dos casillas.esto podrá determinar si el juego se gana o se empata.",
+          "orientacion": "blanca",
+          "fen": "1k6/p7/K7/P7/8/8/1P6/8 w - - 0 1",
+          "secuenciaCorrecta": [
+            "b2b3",
+            "b8a8",
+            "b3b4",
+            "a8b8",
+            "b4b5",
+            "b8a8",
+            "b5b6",
+            "a7b6",
+            "a5b6",
+            "a8b8",
+            "b6b7",
+            "b8c7",
+            "a6a7"
+          ],
+          "comentariosMovimiento": [
+            "[%csl Gb3]",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_177851566927027",
+      "titulo": "Finales: Sacrificio de ruptura",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Finales: Sacrificio de ruptura",
+          "texto": "En esta posición vamos a ver un sacrificio de ruptura característico de los peones retrasados cuando el rey rival se encuentra lejos, cualquiera que tenga el movimiento gana esta posición.",
+          "orientacion": "blanca",
+          "fen": "6k1/8/8/1p6/1P4p1/8/2P1K3/8 w - - 0 1",
+          "secuenciaCorrecta": [
+            "c2c4",
+            "g8f7",
+            "c4c5",
+            "f7e6",
+            "e2f2",
+            "e6f6",
+            "f2g3",
+            "f6f5",
+            "g3h4",
+            "f5f4",
+            "c5c6",
+            "g4g3",
+            "h4h3",
+            "f4f3",
+            "c6c7",
+            "g3g2",
+            "c7c8q",
+            "g2g1q",
+            "c8f5",
+            "f3e2",
+            "f5b5",
+            "e2e1",
+            "b5e5",
+            "e1d2",
+            "e5h2"
+          ],
+          "comentariosMovimiento": [
+            "[%csl Gb5,Gc4]",
+            "[%csl Gc5,Gb4]",
+            "[%csl Re6][%cal Re6c5,Re6g4] el rey negro no será capaz de defender su peón y de tener el peón pasado en c",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "[%csl Rg3,Rg4,Rg2][%cal Rf5f3,Rf5b5]",
+            "",
+            "",
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_177851566927228",
+      "titulo": "Finales: Peón retrasado",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Finales: Peón retrasado",
+          "texto": "cualquiera que tenga el movimiento en esta posición gana, el problema de las blancas es a causa de su peón en c que está atrasado, el único peón de las negras en el lado de la dama detiene ambos peones blancos. Aquí las negras ganan porque su poderoso peón pasado actúa de señuelo para el rey negro.",
+          "orientacion": "negra",
+          "fen": "6k1/8/8/1p6/1P4p1/8/2P1K3/8 b - - 0 1",
+          "secuenciaCorrecta": [
+            "g8f7",
+            "e2e3",
+            "f7e6",
+            "e3e4",
+            "g4g3",
+            "e4f3",
+            "e6d5",
+            "f3g3",
+            "d5c4",
+            "g3f3",
+            "c4c3",
+            "f3e3",
+            "c3c2",
+            "e3d4",
+            "c2b3",
+            "d4c5",
+            "b3a4",
+            "c5d4",
+            "a4b4",
+            "d4d3",
+            "b4b3",
+            "d3d2",
+            "b5b4",
+            "d2c1",
+            "b3a2"
+          ],
+          "comentariosMovimiento": [
+            "el rey se mueve una casilla hacia el peón blanco en la columna b, ahora la ruptura en c4 no es efectiva porque el negro puede jugar peón por peón y el peón puede ser detenido por el rey negro",
+            "",
+            "el peón desvía al rey blanco así El monarca de casillas negras puede continuar su marcha hacia el lado de dama",
+            "",
+            "Las negras están listas para empezar a capturar peones en el lado de dama pero deben ser muy cuidadosas.",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_177851566927329",
+      "titulo": "Finales: Creación de un peón pasado",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Finales: Creación de un peón pasado",
+          "texto": "debes mantener tus ojos abiertos a oportunidades tácticas, especialmente si hablamos de peones pasados, en este ejemplo un peón pasado es creado por un peón a través de una ruptura.",
+          "orientacion": "blanca",
+          "fen": "8/8/1pp2k2/8/P1P2K2/8/8/8 w - - 0 1",
+          "secuenciaCorrecta": [
+            "c4c5",
+            "b6b5",
+            "a4a5",
+            "b5b4",
+            "f4e4",
+            "b4b3",
+            "e4d3",
+            "b3b2",
+            "d3c2"
+          ],
+          "comentariosMovimiento": [
+            "[%csl Gc5,Gb6] sacrifica un peón para crear un peón pasado.",
+            "",
+            "[%csl Rb1,Rb3,Rc1,Rd1,Re4,Re2,Rb4,Rb2,Rc4,Rd4,Re3,Re1][%cal Rb4e1] con este movimiento las blancas entran dentro del cuadrado del peón negro y podrán capturarlo, pero el peón a de las blancas no puede ser detenido.",
+            "",
+            ""
+          ],
+          "comentariosRival": [
+            "[%csl Gb5,Ga4] después del movimiento de las blancas deberás asegurarte que el sacrificio de peón no fue declinado provechosamente.",
+            "",
+            "",
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_177851566927630",
+      "titulo": "Finales: El bloqueo",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Finales: El bloqueo",
+          "texto": "Pueden surgir posiciones en las que un solo peón puede bloquear dos peones opositores, y las negras podrían empatar fácilmente con c5 si les tocara mover. [%csl Rc6] [%cal Rc6c5]",
+          "orientacion": "blanca",
+          "fen": "8/8/2p5/1p3k2/5P2/5K2/1P6/8 w - - 0 1",
+          "secuenciaCorrecta": [
+            "b2b4",
+            "c6c5",
+            "b4c5",
+            "b5b4",
+            "c5c6",
+            "f5e6",
+            "f4f5",
+            "e6d6",
+            "f5f6",
+            "b4b3",
+            "f6f7",
+            "d6e7",
+            "c6c7",
+            "b3b2",
+            "f7f8q",
+            "e7f8",
+            "c7c8q"
+          ],
+          "comentariosMovimiento": [
+            "esto inmoviliza los peones negros del lado de dama.",
+            "[%csl Gc5]",
+            "las blancas usan su peón para desviar.",
+            "las negras no ser n capaces de detener ambos peones.",
+            "",
+            "",
+            "después de esta jugada y las blancas serán capaces de ganar un tiempo dando jaque, tema muy importante en esta clase de finales.",
+            "",
+            "las blancas ganarán fácilmente el último peón de las negras, notó que las blancas nunca movieron su rey."
+          ],
+          "comentariosRival": [
+            "el movimiento de las blancas en este momento es simple, pero después la posición se complicar",
+            "",
+            "la profesión muestra una muy instructiva demostración del poder de dos peones pasados y distantes y cómo es difícil para el solitario rey de tenerlos",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_177851566928331",
+      "titulo": "Finales: Oposición",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Finales: Oposición",
+          "texto": "Este ejemplo es una excelente demostración de la oposición.La definición de oposición según Capablanca es: cuando los reyes están en la misma línea y el número de casillas que los separa es par, el jugador que tiene el turno posee la oposición. él da la siguiente fórmula para la oposición directa: los reyes están en la misma casilla de color y hay solo una casilla intermedia entre ellos. El jugador que movió de último tiene la oposición.Quien tenga el turno en esta posición gana.",
+          "orientacion": "blanca",
+          "fen": "4k3/8/8/1p5p/1P5P/8/8/4K3 w - - 0 1",
+          "secuenciaCorrecta": [
+            "e1e2",
+            "e8d8",
+            "e2f3",
+            "d8e7",
+            "f3e3",
+            "e7e6",
+            "e3e4",
+            "e6f6",
+            "e4f4",
+            "f6g6",
+            "f4e5",
+            "g6g7",
+            "e5d5",
+            "g7f6",
+            "d5c5",
+            "f6f5",
+            "c5b5",
+            "f5g4",
+            "b5c5",
+            "g4h4",
+            "b4b5",
+            "h4g3",
+            "b5b6",
+            "h5h4",
+            "b6b7",
+            "h4h3",
+            "b7b8q",
+            "g3g2",
+            "b8g8",
+            "g2h1",
+            "g8d5",
+            "h1g1",
+            "d5d1",
+            "g1g2",
+            "d1g4",
+            "g2h2",
+            "c5d4",
+            "h2h1",
+            "g4h3"
+          ],
+          "comentariosMovimiento": [
+            "Las blancas ganan la oposición, no te sé que ambos reyes están en una casilla del mismo color y el número impar de casillas entre ellos. en el final es raro dar una segunda oportunidad Si un error es cometido. [%csl Ge7,Ge5,Ge3,Ge6,Ge4]",
+            "[%cal Gf4g5,Gf3f4]",
+            "el blanco toma de nuevo la oposición",
+            "el blanco mantiene la oposición",
+            "pone presión en el peón de h y fuerza al rey negro a moverse a una peor casilla. [%csl Gh5]",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "esperando ver qué camino escogerá el rey negro",
+            "[%cal Gc5d4]",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "comentariosRival": [
+            "",
+            "incluso con los reyes estando lejos el uno del otro, cada movimiento que ellos hagan deberá ser preciso, un movimiento en falso y las tablas se harán presentes.",
+            "el estudiante deberá familiarizarse con esos ejemplos de oposición, eso podría ser la diferencia entre ganar o perder.",
+            "el blanco tiene una importante decisión que hacer en esta posición",
+            "las blancas pueden infiltrarse en la posición negra y ganar uno de los peones",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "ganar la posición requiere algo de buena técnica",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_177851566928332",
+      "titulo": "Finales: Casillas claves",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Finales: Casillas claves",
+          "texto": "esta posición es una ilustración de las casillas clave o casillas relacionadas, para ganar las blancas deben capturar el peón negro de c3, lo logrará si consigue llevar al rey a una de las casillas clave e2 o b3, se fuera turno de las negras en esta posición podrían hacer tablas.",
+          "orientacion": "blanca",
+          "fen": "8/8/8/8/5k2/2pP4/2P5/4K3 w - - 0 1",
+          "secuenciaCorrecta": [
+            "e1e2",
+            "f4f5",
+            "e2e3",
+            "f5e5",
+            "d3d4",
+            "e5d5",
+            "e3d3"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_177851566928533",
+      "titulo": "Finales: Peón Pasado protegido",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Finales: Peón Pasado protegido",
+          "texto": "con un peón pasado protegido esta posición debería ser fácil de ganar, las blancas tienen más de una manera de ganar esta posición.",
+          "orientacion": "blanca",
+          "fen": "8/8/4kPp1/6P1/4K3/8/8/8 w - - 0 1",
+          "secuenciaCorrecta": [
+            "f6f7",
+            "e6f7",
+            "e4d5",
+            "f7e7",
+            "d5e5",
+            "e7f7",
+            "e5d6",
+            "f7g7",
+            "d6e6",
+            "g7g8",
+            "e6f6",
+            "g8h7",
+            "f6f7",
+            "h7h8",
+            "f7g6",
+            "h8g8",
+            "g6h6",
+            "g8h8",
+            "g5g6",
+            "h8g8",
+            "g6g7",
+            "g8f7",
+            "h6h7"
+          ],
+          "comentariosMovimiento": [
+            "el blanco sacrifica su peón de f porque el peón negro está en la tercera columna las blancas pueden ganar mediante el sacrificio del peón y así penetrar con el rey",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "comentariosRival": [
+            "",
+            "",
+            "",
+            "",
+            "las blancas siempre se encuentran en zugzwang y deben dar espacio a las blancas.",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_177851566928734",
+      "titulo": "Finales: Peones desconectados",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Finales: Peones desconectados",
+          "texto": "las blancas tienen un peón de ventaja pero sus peones están desconectados, para ganar deben seguir la regla importante de finales, avanzar los peones solo en el momento adecuado, el plan de las blancas es avanzar solo uno de sus peones cambiarlo y dejar a las negras en un final perdido de rey y peón contra rey.",
+          "orientacion": "blanca",
+          "fen": "8/3p4/3k4/8/3K4/8/2P1P3/8 w - - 0 1",
+          "secuenciaCorrecta": [
+            "e2e4",
+            "d6e6",
+            "e4e5",
+            "e6e7",
+            "d4d5",
+            "e7e8",
+            "d5d6",
+            "e8d8",
+            "e5e6",
+            "d7e6",
+            "d6e6",
+            "d8c7",
+            "e6d5",
+            "c7b6",
+            "c2c4",
+            "b6c7",
+            "d5c5"
+          ],
+          "comentariosMovimiento": [
+            "[%csl Ge4] esta jugada restringe al rey negro, las blancas tienen la idea principal de cambiar ese peón por el de las negras",
+            "[%csl Gd6]",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "[%csl Gc5,Gc7]"
+          ],
+          "comentariosRival": [
+            "",
+            "",
+            "las blancas deben ser muy cuidadosas cuando se realicen movimientos de peón, si los peones están avanzados ellos no pueden regresar, los movimientos de peón se pueden usar luego para hacer movimientos que ganen tiempo.",
+            "",
+            "",
+            "las blancas hicieran un prematuro avance del peón en c, la posición podría ser tablas.",
+            "",
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_177851566929235",
+      "titulo": "Finales: Peón pasado externo",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Finales: Peón pasado externo",
+          "texto": "esta posición muestra la ventaja de un peón pasado en un final, el material está igualado pero las blancas están ganando. las blancas intentar n llevar al rey negro al lado de dama para detener el peón, entonces el rey blanco podrá mover hacia el lado del rey y capturar los peones del rival, y las blancas ganarán mediante la desviación del rey negro al lado de Dama",
+          "orientacion": "blanca",
+          "fen": "8/4kp2/6p1/7p/P7/2K3P1/7P/8 w - - 0 1",
+          "secuenciaCorrecta": [
+            "c3d4",
+            "e7d6",
+            "a4a5",
+            "f7f6",
+            "a5a6",
+            "d6c6",
+            "a6a7",
+            "c6b7",
+            "d4d5",
+            "h5h4",
+            "d5e6",
+            "h4g3",
+            "h2g3",
+            "f6f5",
+            "e6f6",
+            "b7a7",
+            "f6g6",
+            "a7b7"
+          ],
+          "comentariosRival": [
+            "",
+            "",
+            "",
+            "",
+            "este movimiento es un truco de las negras y las blancas se ver n ser cuidadosas con su movimiento.",
+            "",
+            "",
+            "",
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_177851566929436",
+      "titulo": "Finales: Final de peón",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Finales: Final de peón",
+          "texto": "esta es una variación del desafío anterior, veremos qué podría pasar si las blancas toman el peón de las negras en h4, las negras pueden empatar el juego pero deberás ser muy preciso",
+          "orientacion": "negra",
+          "fen": "8/k7/5pp1/3K3P/8/8/7P/8 b - - 0 1",
+          "secuenciaCorrecta": [
+            "g6h5",
+            "d5e6",
+            "a7b7",
+            "e6f6",
+            "b7c7",
+            "f6g5",
+            "c7d7",
+            "g5h5",
+            "d7e7",
+            "h5g6",
+            "e7f8",
+            "g6h7",
+            "f8f7",
+            "h2h4",
+            "f7f8",
+            "h4h5",
+            "f8f7",
+            "h5h6",
+            "f7f8",
+            "h7h8",
+            "f8f7",
+            "h6h7",
+            "f7f8"
+          ],
+          "comentariosMovimiento": [
+            "la captura es el único movimiento",
+            "igual funciona Rb8 [%csl Gb7] [%cal Ga7b8]",
+            "la clave para lograr tablas en este final es colocar cualquiera de los dos reyes en el camino del peón de la columna h",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_177851566929537",
+      "titulo": "Finales: Peones doblados",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Finales: Peones doblados",
+          "texto": "a menos que uno de los peones sea inmediatamente perdido, los peones doblados como en este ejemplo ganarán si el rey está presente para protegerlos. la clave es que el peón de atrás puede ser usado para ganar tiempo y obtener la oposición. estuvieron soldados ganarán en esta posición pero los peones de torre podrían ser una excepción, si el rey negro está enfrente de los peones dos, tres, cuatro o incluso más peones alineados en la columna de la torre será empate.",
+          "orientacion": "blanca",
+          "fen": "8/8/1k6/8/1PK5/1P6/8/8 w - - 0 1",
+          "secuenciaCorrecta": [
+            "b4b5",
+            "b6b7",
+            "c4c5",
+            "b7c7",
+            "b5b6",
+            "c7b7",
+            "c5b5",
+            "b7b8",
+            "b5c6",
+            "b8c8",
+            "b6b7",
+            "c8b8",
+            "b3b4",
+            "b8a7",
+            "c6c7",
+            "a7a6",
+            "b7b8r"
+          ],
+          "comentariosMovimiento": [
+            "la única manera de progresar, las blancas pueden jugar la posición incluso si solo tuvieran un peón. después en el momento adecuado, el peón de atrás será usado para ganar tiempo y obtener la oposición.",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_177851566929638",
+      "titulo": "Finales: Casillas clave",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Finales: Casillas clave",
+          "texto": "Este final ilustra las casillas clave. las casillas clave son las casillas soñadas que el rey quiere ocupar en favor de obtener una meta. las blancas ganan sí mueven en esta posición, de otra manera las negras podrán empatar. las blancas deben capturar el peón negro para ganar, si el rey blanco es capaz de alcanzar una de las casillas clave b6 c6 d6 f6 g6 o h6 ganará el peón [%csl Rh6,Rf6,Re6,Rd6,Rc6,Rb6]",
+          "orientacion": "blanca",
+          "fen": "8/2k5/4p3/4P3/3K1P2/8/8/8 w - - 0 1",
+          "secuenciaCorrecta": [
+            "d4c5",
+            "c7d7",
+            "c5b6",
+            "d7e7",
+            "b6c7",
+            "e7e8",
+            "c7d6",
+            "e8f7",
+            "d6d7"
+          ],
+          "comentariosMovimiento": [
+            "ganando la oposición",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "comentariosRival": [
+            "",
+            "",
+            "",
+            "en cada movimiento que las blancas jueguen en esa posición gana, pero algunos movimientos hacen más difícil ganar que otros."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_177851566929839",
+      "titulo": "Finales: Peones sobre extendidos",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Finales: Peones sobre extendidos",
+          "texto": "las blancas serán incapaces de ganar esta posición porque ambos peones están demasiado avanzados, la posición podría ser ganada sí uno de los peones estuviera todavía en la segunda o la tercera fila. si tienes dos peones desconectados contra un solo peón opositor, no avances ambos peones, solo avanza un peón con el rey y intercambia el peón del adversario en el momento apropiado para alcanzar un final ganador de rey y peón contra rey. esta estrategia no funciona con ambos peones demasiado avanzados, en esta posición aprender s como empatar con las negras.",
+          "orientacion": "negra",
+          "fen": "8/2kp4/8/2P1P3/3K4/8/8/8 b - - 0 1",
+          "secuenciaCorrecta": [
+            "c7c6",
+            "d4c4",
+            "c6c7",
+            "c4d5",
+            "c7c8",
+            "d5d6",
+            "c8d8",
+            "c5c6",
+            "d7c6",
+            "d6e6",
+            "d8e8",
+            "e6d6",
+            "e8d8",
+            "d6c6",
+            "d8e7"
+          ],
+          "comentariosMovimiento": [
+            "",
+            "",
+            "es el mejor movimiento, es sorprendente que las negras puedan empatar incluso después de hacer cualquier otro movimiento de rey, de cualquier manera es mucho mejor usar siempre la mejor y más simple técnica de empate a disposición",
+            "las blancas quieren trasponer a un final de rey y peón contra rey, pero las negras están correctamente posicionadas para detener el peón",
+            "las placas no retoman el peón porque tienen la esperanza de ganar filas negras no encuentran el movimiento adecuado.",
+            "este movimiento impide que el rey blanco llegue a la casilla f7 y apoye la coronación de su peón",
+            "",
+            "gana el control de las casillas enfrente del peón pasado y entra en un final de empate muy básico"
+          ],
+          "comentariosRival": [
+            "",
+            "las negras deber an ser capaces de empatar sin demasiadas dificultades",
+            "",
+            "",
+            "",
+            "las negras tienen más de una manera de empatar",
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_177851566930040",
+      "titulo": "Finales: Zugzwang",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Finales: Zugzwang",
+          "texto": "Esta posición ocurrió en la partida Chkonia Shivogin, URSS 1954.Las blancas tenían una victoria, pero no pudieron encontrarla durante la partida.El tema de este final es el zugzwang.Esta es una palabra alemana que significa obligación a mover.Si un jugador está en zugzwang, es su turno de mover y cualquier jugada que haga lo llevará a perder. Las blancas tienen un peón de menos, pero pueden ganar debido a la mala posición del rey negro.Las negras están casi en ahogado y se ven obligadas a avanzar peones.",
+          "orientacion": "blanca",
+          "fen": "8/5p2/6pp/8/8/5P2/p5PP/k1K5 w - - 0 1",
+          "secuenciaCorrecta": [
+            "c1c2",
+            "f7f6",
+            "h2h4",
+            "h6h5",
+            "f3f4",
+            "f6f5",
+            "g2g3",
+            "g6g5",
+            "f4g5",
+            "f5f4",
+            "g5g6",
+            "f4f3",
+            "g6g7",
+            "f3f2",
+            "g7g8q",
+            "f2f1q"
+          ],
+          "comentariosMovimiento": [
+            "es un movimiento de espera que el blanco no encontró en la partida, las blancas retiran al rey de la última fila lo cual será importante luego cuando ambos bandos coronen un peón, no quieres permitir a las negras coronar con un jaque",
+            "forzará al negro a hacer un avance de peón desfavorable",
+            "las blancas quieren configurar una formación de peones en el lado de Rey en la cual las negras se verán forzadas a empujar un peón y entonces las blancas serán capaces de capturarlo",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "comentariosRival": [
+            "",
+            "el objetivo de las blancas es poner a las negras en Zugzwang",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_177851566930241",
+      "titulo": "Finales: Persecución",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Finales: Persecución",
+          "texto": "Este es un estudio por I. Moravec , 1952 las blancas tienen una gran ventaja porque su Rey está mucho mejor colocado, el primer movimiento será el más difícil de encontrar",
+          "orientacion": "blanca",
+          "fen": "8/p7/2K5/8/8/8/P4k2/8 w - - 0 1",
+          "secuenciaCorrecta": [
+            "c6b7",
+            "a7a5",
+            "b7b6",
+            "a5a4",
+            "b6b5",
+            "a4a3",
+            "b5b4",
+            "f2e3",
+            "b4a3",
+            "e3d4",
+            "a3b4",
+            "d4d5",
+            "b4b5",
+            "d5d6",
+            "b5b6",
+            "d6d7",
+            "b6b7"
+          ],
+          "comentariosMovimiento": [
+            "va tras el peón, esta parece una pérdida de tiempo pero es la única manera de ganar.",
+            "",
+            "",
+            "finalmente la carrera del peón negro termina, no te sé como las negras todavía no han sido capaces de activar su rey",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "comentariosRival": [
+            "incluso si las blancas pueden capturar el peón de las negras será muy difícil ganar con un peón de torre",
+            "",
+            "",
+            "[%csl Rc7] las blancas no deben permitir que las negras alcancen la casilla c7 con su rey",
+            "si las negras movieran en esta posición serían capaces de obtener tablas",
+            "",
+            "",
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_177851566930342",
+      "titulo": "Finales: Camino de regreso",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Finales: Camino de regreso",
+          "texto": "las placas deben retornar rápidamente el rey al lado del Rey, pero deberá de escoger correctamente el camino para regresar, para empatar las blancas deben llevar a su Rey a la casilla f2 o f1 a tiempo. [%csl Rf1,Rf2]",
+          "orientacion": "blanca",
+          "fen": "1K6/8/1k6/8/8/7p/7P/8 w - - 0 1",
+          "secuenciaCorrecta": [
+            "b8a8",
+            "b6c6",
+            "a8a7",
+            "c6d5",
+            "a7b6",
+            "d5e4",
+            "b6c5",
+            "e4f3",
+            "c5d4",
+            "f3g2",
+            "d4e3",
+            "g2h2",
+            "e3f2",
+            "h2h1",
+            "f2g3",
+            "h3h2",
+            "g3f2"
+          ],
+          "comentariosMovimiento": [
+            "parece moverse más lejos de la acción, pero es un hecho que está más cerca de la casilla crítica que si su Rey blanco hubiera jugado c8. el punto es que el rey negro no será capaz de impedir el retorno del Rey blanco. [%csl Ga8]",
+            "nos permite llegar rápidamente a través de la diagonal a7-f2 [%cal Ra7f2]",
+            "el camino más corto en un tablero abierto es a través de una diagonal",
+            "",
+            "",
+            "",
+            "atrapa al rey negro en la esquina",
+            "ataca al peón negro y Forza el fin",
+            ""
+          ],
+          "comentariosRival": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "las blancas pueden empatar esa posición solo si pueden atrapar al rey negro en la esquina o alcanzar la casilla h1 para si.",
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_177851566930543",
+      "titulo": "Finales: Cambiando las casillas Críticas",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Finales: Cambiando las casillas Críticas",
+          "texto": "las blancas parecen estar en problemas, pronto perder n su peón. Por lo tanto aparecerá un final de rey y peón versus rey . las negras podrían ser capaces de ganar si pudieran llevar su Rey enfrente del peón, a la casilla crítica y ganar la oposición al mismo tiempo. las blancas podrían empatar cambiando las casillas críticas, el resultado será que las negras no serán capaces de ganar la oposición, el primer movimiento es clave",
+          "orientacion": "blanca",
+          "fen": "8/8/5p2/8/4P1k1/8/7K/8 w - - 0 1",
+          "secuenciaCorrecta": [
+            "e4e5",
+            "f6e5",
+            "h2g2",
+            "g4f4",
+            "g2f2",
+            "e5e4",
+            "f2e2",
+            "e4e3",
+            "e2e1",
+            "f4f3",
+            "e1f1",
+            "e3e2",
+            "f1e1",
+            "f3e3"
+          ],
+          "comentariosMovimiento": [
+            "las blancas sacrifican su peón para cambiar las casillas críticas, las blancas habrían perdido el peón en e de cualquier manera",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "comentariosRival": [
+            "la casilla crítica ha sido cambiada a e4, si las blancas son capaces de llevar su Rey ahí y obtener la oposición al mismo tiempo ganarán, pero eso no será posible [%csl Ge4]",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_177851566930544",
+      "titulo": "Finales: Jettinson",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Finales: Jettinson",
+          "texto": "a primera vista parece que las blancas tienen una buena posición pues tienen un peón de más, sin embargo una mirada más precisa muestra que están en problemas, pues las negras tienen mejor colocado el rey y las blancas pronto perder n ambos peones, las blancas tienen una manera de conseguir el empate, las blancas necesitan encontrar una manera creativa para salvar esta posición.",
+          "orientacion": "blanca",
+          "fen": "8/5p2/8/6Pk/5P2/8/8/7K w - - 0 1",
+          "secuenciaCorrecta": [
+            "g5g6",
+            "f7g6",
+            "f4f5",
+            "g6f5",
+            "h1g1",
+            "h5g5",
+            "g1f1",
+            "g5g4",
+            "f1g2"
+          ],
+          "comentariosMovimiento": [
+            "las blancas sacrifican su peón de g para forzar al peón de las negras a avanzar una fila más.",
+            "sacrifica también al segundo peón",
+            "este es el único movimiento que empata la partida",
+            "",
+            "toma la posición y consigue el empate, si el peón de las negras estuviera todavía en la sexta o séptima fila, podría avanzar y permitir a las negras obtener la oposición"
+          ],
+          "comentariosRival": [
+            "las blancas serán incapaces de salvar su último peón pero podrán obtener tablas.",
+            "ahora estamos en un típico final de rey y peón versus rey, el cual deberías conocer a fondo.",
+            "",
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_177851566930645",
+      "titulo": "Finales: Despejando el camino",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Finales: Despejando el camino",
+          "texto": "incluso teniendo ambos lados cuatro peones, las blancas tienen una manera de hacer una ruptura y despejar un camino para un peón pasado, las negras ganarían si les tocara mover",
+          "orientacion": "blanca",
+          "fen": "8/5pp1/4p1p1/4P1P1/5P1P/3k1K2/8/8 w - - 0 1",
+          "secuenciaCorrecta": [
+            "f4f5",
+            "e6f5",
+            "h4h5",
+            "g6h5",
+            "g5g6",
+            "f7g6",
+            "e5e6"
+          ],
+          "comentariosMovimiento": [
+            "un sacrificio que permite crear un eventual peón pasado",
+            "sacrificio de otro peón",
+            "sacrifica un tercer peón pero hace al peón en e un peón pasado imparable [%csl Re5]",
+            "el peón de e se encamina hacia la promoción, las negras se rinden en vista de que no hay nada que puedan hacer para detener al peón, t mate un momento para observar la variación sí las negras deciden no tomar el primer sacrificio y mover a su Rey a d4"
+          ],
+          "comentariosRival": [
+            "",
+            "",
+            "las blancas tienen tres peones de menos, pero ninguno de los peones de las negras es peligroso"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_177851566930746",
+      "titulo": "Finales: Ruptura Elegante",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Finales: Ruptura Elegante",
+          "texto": "aquí veremos lo que las blancas deberían hacer si las negras responden con rey d4, las negras esperan ganar el peón d bil de las blancas en e5",
+          "orientacion": "blanca",
+          "fen": "8/5pp1/4p1p1/4P1P1/5P1P/3k1K2/8/8 w - - 0 1",
+          "secuenciaCorrecta": [
+            "f4f5",
+            "d3d4",
+            "h4h5",
+            "d4e5",
+            "f5f6",
+            "g7f6",
+            "h5h6",
+            "f6g5",
+            "h6h7"
+          ],
+          "comentariosMovimiento": [
+            "",
+            "sigue trabajando en la ruptura definitiva",
+            "un gran movimiento, este sacrificio desv a el peón de g7 a una casilla que impide el avance del Rey negro.",
+            "",
+            ""
+          ],
+          "comentariosRival": [
+            "[%csl Re5]",
+            "",
+            "es el punto del sacrificio previo, las negras no pueden mover su rey a f6 y serán incapaces de detener el peón de h [%csl Rf6]",
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_177851566931047",
+      "titulo": "Finales: Peones doblados",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Finales: Peones doblados",
+          "texto": "este final muestra cómo usar movimientos de peón para hacer tiempo y ganar la oposición, los peones doblados usualmente son d biles, pero un peón en los finales puede ser usado para ganar tiempo, el proceso de Victoria es algo sutil",
+          "orientacion": "blanca",
+          "fen": "8/2p5/1k6/8/8/2PK4/2P5/8 w - - 0 1",
+          "secuenciaCorrecta": [
+            "d3c4",
+            "b6c6",
+            "c4b4",
+            "c6b6",
+            "c3c4",
+            "c7c6",
+            "c4c5",
+            "b6c7",
+            "b4a5",
+            "c7b7",
+            "c2c3",
+            "b7a7",
+            "a5b4",
+            "a7b7",
+            "b4c4",
+            "b7c7",
+            "c4d4",
+            "c7d7",
+            "d4e5",
+            "d7e7",
+            "c3c4",
+            "e7d7",
+            "e5f6",
+            "d7d8",
+            "f6e6",
+            "d8c7",
+            "e6e7",
+            "c7c8",
+            "e7d6",
+            "c8b7",
+            "d6d7",
+            "b7b8",
+            "d7c6",
+            "b8c8",
+            "c6b6"
+          ],
+          "comentariosMovimiento": [
+            "trata de controlar las casillas críticas con el rey",
+            "",
+            "forza a las negras a dar espacio",
+            "",
+            "",
+            "la idea clave pues las negras están en zugzwang, las blancas utilizan un peón para hacer tiempo y forzar a las negras a llevar su Rey a una posición desventajosa",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "pone a las negras en Zugzwang",
+            "la posición será fácil de ganar incluso filas blancas no tuvieran u segundo peón en c4",
+            "el rey se aparta del camino del peón, las blancas podrán coronar al peón."
+          ],
+          "comentariosRival": [
+            "las blancas te ver n operar en el lado corto de los peones, d nde no hay suficiente espacio para que las negras hagan movimientos de contrajuego",
+            "",
+            "las blancas necesitan encontrar una manera de penetrar con su rey en la posición enemiga",
+            "",
+            "El progreso de las blancas parece estar paralizado, no hay manera que puedan atravesar el lado de dama",
+            "esa es la idea correcta pues las blancas no pueden atravesar por el lado de dama el rey debe de cambiar al otro lado",
+            "",
+            "observa que las blancas todavía tienen un movimiento de peón que les permite ganar un tiempo lo cual podría ser usado en un momento importante",
+            "",
+            "las negras tienen la oposición pero no serán capaces de conservarla",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_177851566931148",
+      "titulo": "Finales: Schlage-Ahues Berlín 1921",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Finales: Schlage-Ahues Berlín 1921",
+          "texto": "Esta posición ocurrió en el juego de torneo Schlage - Ahues, Berlín 1921. las blancas capturar n el peón de las negras, aún así las chances de empatar son altas pues las blancas tienen que ganar con el peón de torre",
+          "orientacion": "blanca",
+          "fen": "8/p4K2/P7/8/8/8/1k6/8 w - - 0 1",
+          "secuenciaCorrecta": [
+            "f7e6",
+            "b2c3",
+            "e6d5",
+            "c3b4",
+            "d5c6",
+            "b4a5",
+            "c6b7",
+            "a5b5",
+            "b7a7",
+            "b5c6",
+            "a7b8"
+          ],
+          "comentariosMovimiento": [
+            "trae al rey hacia los peones y además planea obstaculizar al rey de las negras",
+            "este movimiento impide al rey negro alcanzar la casilla d4, a menudo podemos utilizar un movimiento de Zig zag y aún así alcanzar el destino en la misma cantidad de movimientos que si fu ramos en línea recta",
+            "",
+            "",
+            "",
+            "hace un espacio para el peón y también previene que el rey negro alcance c7, las blancas se rinden porque el peón de a coronará en dos movimientos"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_177851566931349",
+      "titulo": "Finales: Casilla Vulnerable",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Finales: Casilla Vulnerable",
+          "texto": "Este es un estudio de Duras de 1905, las blancas son capaces de ganar obligando al rey de las negras a ir a una casilla vulnerable, cuando ambos lados tienen peones pasados a menudo el juego puede ser ganado por una instructiva maniobra del Rey.",
+          "orientacion": "blanca",
+          "fen": "8/6p1/7k/8/1K6/8/1P6/8 w - - 0 1",
+          "secuenciaCorrecta": [
+            "b4c5",
+            "g7g5",
+            "b2b4",
+            "g5g4",
+            "c5d4",
+            "h6g5",
+            "b4b5",
+            "g4g3",
+            "d4e3",
+            "g5g4",
+            "b5b6",
+            "g4h3",
+            "b6b7",
+            "g3g2",
+            "e3f2",
+            "h3h2",
+            "b7b8q"
+          ],
+          "comentariosMovimiento": [
+            "el movimiento más versátil, las blancas deben ser capaces de apoyar El avance de su peón, de otra manera las negras podrán detenerlo, ahora el Rey de las blancas es capaz de obstaculizar al rey negro Si pretende cruzar al lado de dama, al mismo tiempo el Rey de las blancas puede optar por detener al peón de las negras",
+            "está claro que el rey negro no podrá detener al peón de las blancas",
+            "el peón negro necesitará el apoyo de su rey",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "y las negras se resignan"
+          ],
+          "comentariosRival": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "las blancas solo mueven el rey cuando el peón de las negras trata de ir a coronar",
+            "",
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_177851566931450",
+      "titulo": "Finales: Tres peones opositores",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Finales: Tres peones opositores",
+          "texto": "cuando tres o más peones están en oposición frente a otros, siempre hay una oportunidad de que uno de los lados pueda crear un peón pasado, todos deberían conocer esta posición exhaustivamente, puede ocurrir en la práctica con facilidad. Las negras con el movimiento podrían empatar con 1...b6",
+          "orientacion": "blanca",
+          "fen": "8/ppp5/6k1/PPP5/8/6K1/8/8 w - - 0 1",
+          "secuenciaCorrecta": [
+            "b5b6",
+            "c7b6",
+            "a5a6",
+            "b7a6",
+            "c5c6"
+          ],
+          "comentariosMovimiento": [
+            "",
+            "",
+            "crea un peón pasado imparable"
+          ],
+          "comentariosRival": [
+            "si los peones estuvieran una fila más abajo, el plan entero podría no tener sentido, pues las negras serían capaces de aceptar ambos sacrificios de peones, coronar su propio peón y terminar con ventaja material",
+            "el sacrificio de esas blancas solo funciona si el rey negro está lo suficientemente alejado del peón de c , de otra manera el rey negro podría detener el avance del peón en c"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_177851566931551",
+      "titulo": "Finales: Prevención",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Finales: Prevención",
+          "texto": "este es un estudio por F. Dedrle de 1921. la regla más importante en un final de un rey y su peón contra un rey, es que si el lado defensor puede situar su Rey directamente enfrente del peón del adversario puede lograr las tablas. esta tarea defensiva es incluso más fácil si se trata de un peón de torre. la idea básica del Rey de las blancas es maniobrar con su rey y prevenir que su peón se convierta en un menos efectivo peón de torre",
+          "orientacion": "blanca",
+          "fen": "8/8/5k2/8/p7/8/1PK5/8 w - - 0 1",
+          "secuenciaCorrecta": [
+            "c2b1",
+            "a4a3",
+            "b2b3",
+            "f6e5",
+            "b1a2",
+            "e5d5",
+            "a2a3",
+            "d5c5",
+            "a3a4",
+            "c5b6",
+            "a4b4"
+          ],
+          "comentariosMovimiento": [
+            "la única manera de ganar, de otra manera 1...a3 obliga a las plantas a aceptar el peón de torre contra el cual las negras empatan",
+            "el único movimiento que gana, tener un peón de torre podría no ser suficiente para ganar",
+            "las blancas atacan el peón de las negras, las plantas necesitan ser r pidos y ganar el peón de las negras y entonces controlar las casillas críticas enfrente de su peón",
+            "no es una coincidencia que muchos de los mejores jugadores del pasado y del presente hayan sido sobresalientes en los finales.",
+            "",
+            "las placas gana la oposición y ganarán mediante la técnica familiar de flanqueo y obteniendo la oposición en m ltiples veces."
+          ],
+          "comentariosRival": [
+            "",
+            "",
+            "",
+            "",
+            "en la final como este deberás ser muy preciso, un solo desliz y tú podrías perder la ventaja"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_177851566931652",
+      "titulo": "Finales: La defensa",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Finales: La defensa",
+          "texto": "las blancas ganarán esta posición si pueden llevar a su Rey a una de las casillas claves, b6, c6, d6, f6, g6 o h6. el objetivo de las negras es evitar a las blancas de alcanzar alguna de esas casillas, si las blancas movieran podrían ganar con b6, si las blancas pudiera alcanzar alguna de estas casillas ser a imposible evitar que capturase el peón de e6 [%csl Rd6,Rc6,Rb6,Rh6,Rg6]",
+          "orientacion": "negra",
+          "fen": "8/3k4/4p3/2K1P3/5P2/8/8/8 b - - 0 1",
+          "secuenciaCorrecta": [
+            "d7c7",
+            "c5d4",
+            "c7d7",
+            "d4d3",
+            "d7d8",
+            "d3e4",
+            "d8e7",
+            "e4f3",
+            "e7f7",
+            "f3g3",
+            "f7g7",
+            "g3h4",
+            "g7h6"
+          ],
+          "comentariosMovimiento": [
+            "este movimiento evita que el rey blanco alcance b6, una de las casillas clave",
+            "",
+            "la respuesta correcta, pues las negras deber n ser capaces de tomar la posesión si el rey blanco va a cualquiera de los lados",
+            "",
+            "toma la oposición distante",
+            "",
+            "mantiene la oposición, las blancas aceptan las tablas pues no harán ning n progreso, nota que 7...Rh8 mantiene la oposición distante, lo cual podría ser suficiente para el empate"
+          ],
+          "comentariosRival": [
+            "",
+            "blancas han jugado un movimiento de espera, las negras deben ser muy cuidadosas",
+            "",
+            "las blancas mueven al rey al ala de rey para conseguir una de las casillas clave ah , h6, g6 o f6 [%csl Rh6,Rg6,Rf6]",
+            "",
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_177851566931753",
+      "titulo": "Finales: Ventaja de espacio",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Finales: Ventaja de espacio",
+          "texto": "este es el final del juego Brinckmann-Rubinstein, Budapest 1929. Rubinstein era uno de los grandes maestros del final, esta posición ilustra una ventaja de espacio, y las negras usar n a su rey que está mejor posicionado para ganar, los negras tienen el plan de forzar el cambio de los peones en g y después las negras podrán ganar un crucial peón en el lado de dama",
+          "orientacion": "negra",
+          "fen": "8/8/8/6p1/p1p5/PpP3k1/1P4P1/6K1 b - - 0 1",
+          "secuenciaCorrecta": [
+            "g5g4",
+            "g1f1",
+            "g3h2",
+            "f1f2",
+            "h2h1",
+            "f2g3",
+            "h1g1",
+            "g3g4",
+            "g1g2",
+            "g4f4",
+            "g2f2",
+            "f4e4",
+            "f2e2",
+            "e4d4",
+            "e2d2",
+            "d4c4",
+            "d2c2",
+            "c4d4",
+            "c2b2"
+          ],
+          "comentariosMovimiento": [
+            "",
+            "",
+            "un movimiento curioso, pero las negras tienen un gran control del espacio, y ha creado la posibilidad para esta maniobra inusual",
+            "Diana la oposición y obliga a las blancas a tomar el peón de las negras, aquí las blancas se rindieron pero nosotros jugaremos un poco más",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "gana el peón de b2 y crea un fuerte peón pasado en B3, las blancas deberían resignarse pues es una victoria muy fácil para las negras. Mantén la idea de la ventaja de espacio en mente cuando juegues y te prepares para un final"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_177851566931854",
+      "titulo": "Finales: Oportunidad perdida",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Finales: Oportunidad perdida",
+          "texto": "la posición ocurrió en el juego Chigorin- Tarrash, Ostende 1905. La posición de las blancas parece crítica y de hecho podrían perder, pero pueden empatar, puedes verlo? , El Rey de las negras tiene más espacio para maniobrar pero las blancas tienen una defensa solida",
+          "orientacion": "blanca",
+          "fen": "8/6pp/5p2/3k1PP1/5K1P/8/8/8 w - - 0 1",
+          "secuenciaCorrecta": [
+            "f4g4",
+            "d5e5",
+            "g5g6",
+            "h7h6",
+            "g4h5"
+          ],
+          "comentariosMovimiento": [
+            "",
+            "",
+            "una posición de tablas ha sido creada"
+          ],
+          "comentariosRival": [
+            "a pesar de que Chigorin era uno de los jugadores más fuertes de su tiempo, él no fue capaz de encontrar los movimientos para empatar esta posición",
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_177851566932155",
+      "titulo": "Finales: Estudio de Final de 1885",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Finales: Estudio de Final de 1885",
+          "texto": "esto es un estudio por Teed, las blancas tratar n de ganar el peón de h6 pero las negras tienen un truco y las blancas deberían ser cuidadosas",
+          "orientacion": "blanca",
+          "fen": "8/4K2k/7p/6p1/6P1/7P/8/8 w - - 0 1",
+          "secuenciaCorrecta": [
+            "e7f7",
+            "h6h5",
+            "h3h4",
+            "g5h4",
+            "g4g5",
+            "h4h3",
+            "g5g6",
+            "h7h6",
+            "g6g7",
+            "h3h2",
+            "g7g8q",
+            "h2h1q",
+            "g8g6"
+          ],
+          "comentariosMovimiento": [
+            "",
+            "",
+            "",
+            "ambos bandos han avanzado un peón y es una carrera para ver quién llegará primero a coronar, de cualquier manera las blancas tienen una gran ventaja debido a la desafortunada posición del Rey negro",
+            "",
+            "",
+            "la clave para ganar este final fue una excelente colocación del Rey blanco, no solamente ayudó con el mate el rey también escolto su peón de G6 a g8"
+          ],
+          "comentariosRival": [
+            "observa como las negras van a intentar un empate después de su último movimiento",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_177851566932356",
+      "titulo": "Finales: Sacrificio de peones",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Finales: Sacrificio de peones",
+          "texto": "esta es la conclusión del juego Averbakh- Bebchuk, Moscú 1967. a primera vista las negras parecen tener la ventaja porque tienen un peón pasado externo, de cualquier manera hay más en esta posición.",
+          "orientacion": "blanca",
+          "fen": "8/1p4p1/2k2p1p/5P2/4P1PP/3K4/8/8 w - - 0 1",
+          "secuenciaCorrecta": [
+            "e4e5",
+            "f6e5",
+            "g4g5",
+            "h6g5",
+            "f5f6",
+            "g7f6",
+            "h4h5",
+            "g5g4",
+            "h5h6",
+            "g4g3",
+            "d3e2"
+          ],
+          "comentariosMovimiento": [
+            "con esta jugada a las blancas crear n un peón pasado imparable",
+            "la continuación l gica, las blancas pronto tendrán un peón pasado, parece que el Rey de las negras puede regresar a tiempo.",
+            "la única manera de conseguir un peón pasado imparable, aquí las negras se rinden pero nosotros jugaremos unos cuantos movimientos más",
+            "",
+            "",
+            "este movimiento detendrá el avance del peón, está claro que solo la blancas obtendrán una nueva dama, recuerda que siempre debes crear un peón pasado que está lo más alejado posible del Rey enemigo, en este desafío solo un peón en la columna h le dar a la victoria a las blancas"
+          ],
+          "comentariosRival": [
+            "",
+            "",
+            "",
+            "El Rey de las blancas es su mejor defensor que su contraparte",
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_177851566932457",
+      "titulo": "Finales: Distracción",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Finales: Distracción",
+          "texto": "este es un estudio por D. Goldberg, 1932. El Rey de las blancas está fuera del cuadrado del peón pasado de las negras, pero con un juego ingenioso logrará alcanzarlo, la clave será desviar al rey negro",
+          "orientacion": "blanca",
+          "fen": "6K1/p3k3/8/8/8/8/7P/8 w - - 0 1",
+          "secuenciaCorrecta": [
+            "h2h4",
+            "e7f6",
+            "h4h5",
+            "f6g5",
+            "g8g7",
+            "g5h5",
+            "g7f6",
+            "a7a5",
+            "f6e5",
+            "a5a4",
+            "e5d4",
+            "a4a3",
+            "d4c3",
+            "a3a2",
+            "c3b2"
+          ],
+          "comentariosMovimiento": [
+            "la única oportunidad",
+            "contin a con la distracción al rey negro así que el Rey de las blancas podrá ser capaz de alcanzar el lado de dama a tiempo",
+            "es defensivo tanto ofensivo, pues se amenaza el avance del peón mientras las blancas ganan un tiempo para regresar al lado de dama",
+            "las blancas serán capaces de atrapar al peón, la clave fue ganar un tiempo y así El Rey de las blancas pudo acceder a la diagonal de empate",
+            "mueve al rey dentro del cuadrado del peón",
+            "",
+            "",
+            "atrapa al peón a tiempo, las blancas lo tomar n en el siguiente movimiento con un empate autom tico, que recuerda la idea de la diagonal de empate"
+          ],
+          "comentariosRival": [
+            "Capablanca fue uno de los más grandes jugadores de finales de todos los tiempos, nunca olvides esta historia que demuestra su genialidad, en un torneo en Moscú un grupo de maestros estaban analizando un final, ellos no pudieron encontrar la manera correcta de resolverlo y había mucha discusión, de repente Capablanca entró al cuarto, a él le gustaba caminar alrededor cuando era turno de su oponente, d ndose cuenta de la razón para aquella disputa miró la posición y dijo \"Si, Si\" rápidamente distribuyó las piezas del tablero para mostrar la correcta formación para el lado que estaba tratando de ganar, él literalmente movió las piezas por todo el tablero sin hacer jugadas simplemente las colocó en nuevas posiciones donde cre a que eran necesarias, de repente todo quedó claro y la victoria fue sencilla, el genio de capa blanca consistía en que era capaz de pensar en esquemas (o patrones)",
+            "las blancas perder n su peón pasado pero todavía serán capaces de empatar",
+            "la manera más corta de cruzar el tablero es en diagonal",
+            "",
+            "",
+            "",
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_177851566932658",
+      "titulo": "Finales: Tempo",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Finales: Tempo",
+          "texto": "un tempo es una unidad de tiempo definida por un movimiento, a menudo un tempo puede marcar la diferencia entre perder y ganar, ya que quien tenga el movimiento en esta posición gana, las negras ganarían esta posición con 1...g3 entonces las blancas estarían en Zugzwang, ya que tendrían que mover el rey permitiendo a las negras avanzar sus peones. [%cal Rg4g3]",
+          "orientacion": "blanca",
+          "fen": "8/2p5/P1k5/2P5/5ppp/8/6K1/8 w - - 0 1",
+          "secuenciaCorrecta": [
+            "g2g1",
+            "f4f3",
+            "g1f2",
+            "h4h3",
+            "f2g3",
+            "f3f2",
+            "g3f2",
+            "h3h2",
+            "f2g2",
+            "g4g3",
+            "g2h1",
+            "g3g2",
+            "h1h2",
+            "g2g1q",
+            "h2g1",
+            "c6d7",
+            "a6a7"
+          ],
+          "comentariosMovimiento": [
+            "espera que las negras se comprometan",
+            "se prepara para bloquear los peones negros",
+            "los tres peones están bloqueados por el rey",
+            "",
+            "por supuesto para detener al peón de h",
+            "de nuevo Zugzwang",
+            "fácilmente gana, b las blancas pudieron haber capturado el otro peón primero",
+            "",
+            "busca coronar antes de que el rey negro pueda llegar a c8 y b8, las negras ahora desisten. recuerde lo importante que era que los tres peones negros no pudieran avanzar con seguridad uno al lado del otro"
+          ],
+          "comentariosRival": [
+            "se fuera turno de las negras ganar an",
+            "si fuera turno de las negras en esta posición ganarían, este ejemplo ilustra la importancia de un tiempo",
+            "",
+            "",
+            "el Zugzwang es un tema muy com n en el final y ocurre muchas veces en esta posición, un jugador está en Zugzwang si cualquier movimiento que realiza hace perder o empeora su posición",
+            "",
+            "",
+            "las negras están en zugzwang otra vez"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_177851566932859",
+      "titulo": "Finales: Estudio de Reti de 1922",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Finales: Estudio de Reti de 1922",
+          "texto": "esta composición del gran maestro checoslovaco Richard Reti es probablemente el ejemplo más famoso de la literatura ajedrecística de rey y peón en ambos lados, aunque es la jugada de las blancas parece estar irremediablemente perdida porque no parece ser capaz de capturar el peón pasado de las negras, Rey negro por otro lado está bastante cerca del peón pasado de las blancas sin embargo entra en juego un bello motivo \"geom trico\"",
+          "orientacion": "blanca",
+          "fen": "7K/8/k1P5/7p/8/8/8/8 w - - 0 1",
+          "secuenciaCorrecta": [
+            "h8g7",
+            "h5h4",
+            "g7f6",
+            "a6b6",
+            "f6e5",
+            "h4h3",
+            "e5d6",
+            "h3h2",
+            "c6c7",
+            "h2h1q",
+            "c7c8q"
+          ],
+          "comentariosMovimiento": [
+            "introduce al rey a la acción",
+            "fuerza a las negras a mover el rey",
+            "es el objetivo del plan de las blancas, las blancas todavía tienen ambos objetivos abiertos, capturar el peón enemigo o coronar el propio",
+            "escolta al peón blanco",
+            "",
+            "acu rdate que caminar en diagonal suele ser la mejor manera de perseguir dos objetivos diferentes al mismo tiempo!"
+          ],
+          "comentariosRival": [
+            "para empatar las blancas deben capturar el peón pasado de las negras o coronar su propio peón",
+            "",
+            "esta posición muestra que incluso las posiciones más simples contienen ideas asombrosas y hermosas",
+            "el peón de las blancas también coronar",
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_177851566932960",
+      "titulo": "Finales: Triangulación",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Finales: Triangulación",
+          "texto": "esto es de una partida jugada hace mucho tiempo entre Farhrni y Alapin. las blancas pueden ganar mediante una maniobra de triangulación, este juego ilustra el concepto de cuadrados relacionados, por ejemplo las negras deben responder Rc5 con ...Rc7 y Rd6 con ...Rd8 por lo que estos son dos pares de casillas relacionadas",
+          "orientacion": "blanca",
+          "fen": "8/2k5/p1P5/P1K5/8/8/8/8 w - - 0 1",
+          "secuenciaCorrecta": [
+            "c5d5",
+            "c7c8",
+            "d5c4",
+            "c8d8",
+            "c4d4",
+            "d8c8",
+            "d4d5",
+            "c8c7",
+            "d5c5",
+            "c7d8",
+            "c5d6",
+            "d8c8",
+            "c6c7",
+            "c8b7",
+            "d6d7",
+            "b7a7",
+            "d7c6"
+          ],
+          "comentariosMovimiento": [
+            "el único movimiento que protege el peón",
+            "comienza la maniobra de triangulación, el objetivo es llegar a la casilla c5 cuando el rey negro ya está en c7",
+            "coloca a las negras en Zugzwang",
+            "",
+            "gana la oposición, ahora las negras están en zugzwang y deben permitir que el rey blanco se infiltre",
+            "gana la oposición, las blancas también podían ganar con 6.Rb6",
+            "",
+            "controla las casillas de coronación",
+            "evita el punto muerto y se prepara para coronar el peón con jaque, la negra se resignan porque ser a mate. sigue practicando el concepto de cuadrados relacionados. es uno de los más dif ciles e importantes en los finales."
+          ],
+          "comentariosRival": [
+            "este juego es un buen ejemplo de El concepto de casillas relacionadas",
+            "",
+            "",
+            "",
+            "",
+            "cuando un peón pasado avanza a la séptima fila sin hacer jaque, no podrá ser detenido por mucho tiempo",
+            "",
+            "las negras esperan un respiro"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_177851566933161",
+      "titulo": "Finales: Desviación",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Finales: Desviación",
+          "texto": "esta posición surgió en la partida Lasker-Tarrash en 1914. Lasker the westrone inteligente maniobra del Rey, su idea es utilizar un peón pasado como desv o. esta posición parece muy buena para las negras, el peón de h de las blancas es fácilmente detenido mientras que las negras amenazan con ganar en el flanco de dama 1...c4 sin embargo hay más en esta posición",
+          "orientacion": "blanca",
+          "fen": "8/6K1/8/ppp2k2/8/1P6/1P5P/8 w - - 0 1",
+          "secuenciaCorrecta": [
+            "h2h4",
+            "f5g4",
+            "g7g6",
+            "g4h4",
+            "g6f5",
+            "h4g3",
+            "f5e4",
+            "g3f2",
+            "e4d5",
+            "f2e3",
+            "d5c5",
+            "e3d3",
+            "c5b5",
+            "d3c2",
+            "b5a5"
+          ],
+          "comentariosMovimiento": [
+            "usa el peón de h para distraer al rey negro",
+            "es un movimiento muy fuerte, ahora las flacas amenazan con empujar el peón h hasta el final [%cal Gh4h5]",
+            "",
+            "las blancas han logrado llevar al rey al flanco de dama a tiempo",
+            "",
+            "",
+            "",
+            "todos los peones negros han sido capturados, hab as imaginado que esto sucediera hace ocho movimientos?"
+          ],
+          "comentariosRival": [
+            "",
+            "el último movimiento de las blancas probablemente tomó por sorpresa a Tarrash, quien probablemente esperaba 2.Rf6 [%cal Rg6f6]",
+            "después de la brillante maniobra del Rey de las blancas, las negras deber n ser cuidadosas si no quieren perder la partida",
+            "",
+            "",
+            "",
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_177851566933362",
+      "titulo": "Finales: Un estudio por C.Salvioli 1887",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Finales: Un estudio por C.Salvioli 1887",
+          "texto": "esta posición es completamente sim trica, pero tener el primer movimiento permite a las blancas obtener una posición del Rey más favorable. esta posesión demuestra que a menudo quien da el primer movimiento tiene un factor decisivo",
+          "orientacion": "blanca",
+          "fen": "8/4pk2/8/6p1/6P1/8/4PK2/8 w - - 0 1",
+          "secuenciaCorrecta": [
+            "f2f3",
+            "f7f6",
+            "f3e4",
+            "f6e6",
+            "e2e3",
+            "e6f6",
+            "e4d5",
+            "f6f7",
+            "d5e5",
+            "e7e6",
+            "e5d6",
+            "f7f6",
+            "e3e4",
+            "e6e5",
+            "d6d5"
+          ],
+          "comentariosMovimiento": [
+            "mueve el rey hacia la casilla crítica",
+            "gana más espacio y también amenaza 3.Rd5 [%cal Re4d5]",
+            "las blancas usan el peón de e para poner a las negras en Zugzwang, observa que ambos reyes están en casillas óptimas justo ahora",
+            "obliga a las negras a hacer una decisión difícil",
+            "pone a las negras en Zugzwang nuevamente, las blancas siguen ganando terreno",
+            "se filtra en la posición negra",
+            "convierte al peón en una unidad atacante solo cuando el rey blanco está en una posición ideal",
+            "sigue atacando al peón de e5 y pone a las negras en Zugzwang, después las placas pronto ganarían el peón de g5 de las negras o coronarían el peón de e, las negras se rinden [%cal Rd5e5] [%csl Re5]"
+          ],
+          "comentariosRival": [
+            "las blancas tienen la ventaja porque podrán establecer una posición de Rey más favorable",
+            "Zugzwang es la clave en este final",
+            "",
+            "el tema clave de esta combinación es el Zugzwang, qué ocurre cuando un jugador está en una posición en la que cualquier movimiento que pueda hacer pierde o empeora su posición.",
+            "Un Rey mejor colocado muchas veces puede ser un factor decisivo en un final",
+            "Los peones deben empujarse con mucho cuidado en el final ya que pueden ser necesarios para movimientos de tempo en un momento crítico al final del juego",
+            "El Rey de las negras está en una posición demasiado pasiva"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_177851566933563",
+      "titulo": "Finales: Oposición y Triangulación",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Finales: Oposición y Triangulación",
+          "texto": "este final presenta los temas importantes de oposición y triangulación. cuando los reyes están en la misma línea y el número de casillas intermedias entre ellos es par el jugador que tiene la jugada tiene la oposición. la triangulación es cuando el rey hace un movimiento triangular para perder movimiento a menudo eso se hace para ganarse la oposición. las blancas intentar n infiltrarse con el rey",
+          "orientacion": "blanca",
+          "fen": "8/1p1k4/1P6/2PK4/8/8/8/8 w - - 0 1",
+          "secuenciaCorrecta": [
+            "d5e5",
+            "d7c6",
+            "e5d4",
+            "c6d7",
+            "d4d5",
+            "d7c8",
+            "d5e6",
+            "c8d8",
+            "e6d6",
+            "d8c8",
+            "d6e7",
+            "c8b8",
+            "e7d7",
+            "b8a8",
+            "c5c6",
+            "b7c6",
+            "d7c7",
+            "c6c5",
+            "b6b7",
+            "a8a7",
+            "b7b8q"
+          ],
+          "comentariosMovimiento": [
+            "comienza una maniobra de triangulación",
+            "protege al peón y contin a la maniobra de triangulación",
+            "completa la maniobra de triangulación!",
+            "gana más terreno y la oposición diagonal",
+            "trata de llevar al rey más cerca del peón negro",
+            "gana el control de más casillas clave",
+            "movimientos lentos del Rey hacia el lado de dama",
+            "permite hacer mate en cuatro movimientos y evita las tablas ocasionadas por el rey",
+            "ahogas al rey pero las negras tienen un peón",
+            "",
+            "las negras se rinden"
+          ],
+          "comentariosRival": [
+            "las blancas están en medio de una maniobra de triangulación",
+            "los finales de peón te enseñan a pensar l gicamente",
+            "las blancas han completado la maniobra de triangulación y ahora serán capaces de infiltrarse con el rey",
+            "Todos los movimientos de las blancas deberían ser claros. Al final habrá un bonito mate",
+            "",
+            "la única esperanza de las negras será las tablas",
+            "aquí hay que jugar con precisión",
+            "",
+            "los dem s es fácil",
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_177851566933664",
+      "titulo": "Finales: Final de peones y casillas relacionadas",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Finales: Final de peones y casillas relacionadas",
+          "texto": "esta posición es una ilustración de las casillas clave o casillas relacionadas. para ganar las blancas deben capturar el peón de c3 de las negras, lo lograr s si puede llevar al rey a e2 o b3, que son las casillas clave. por lo tanto para salvar la partida las negras tendrán que impedir que el rey blanco llegue a e2 o b3, si las blancas movieran ganarían esta posición con 1.Re2 [%csl Rb3,Re2]",
+          "orientacion": "negra",
+          "fen": "8/8/8/8/5k2/2pP4/2P5/4K3 b - - 0 1",
+          "secuenciaCorrecta": [
+            "f4f3",
+            "e1d1",
+            "f3e3",
+            "d1c1",
+            "e3d4",
+            "c1b1",
+            "d4c5",
+            "b1a2",
+            "c5b4",
+            "a2a1",
+            "b4b5",
+            "a1b1",
+            "b5c5",
+            "b1c1",
+            "c5d4"
+          ],
+          "comentariosMovimiento": [
+            "el único movimiento que empata",
+            "este movimiento todavía impide que el rey blanco llegue hay dos y también se prepara para enfrentarlo en el flanco de dama",
+            "el único movimiento bueno, pues el Rey de las negras debe confrontar al rey en el lado de dama",
+            "el rey se apresura al flanco de dama para impedir que las blancas alcancen la casilla b3",
+            "",
+            "",
+            "repite una posición que ya hemos alcanzado, las blancas no pueden progresar y acceden al empate ya que las negras se enfrentar an a",
+            "Si alguna vez juega su final similar de rey y peón, es posible que desees adoptar las casillas relacionadas para no cometer un desliz accidental"
+          ],
+          "comentariosRival": [
+            "el objetivo de las placas escalar el peón de c3, puede lograrlo si logras llevar al rey a e2 o b3",
+            "si las placas pueden llevar a su Rey a una de las casillas clave e2 o b3, ganar n, de otra manera las tablas ser n el resultado",
+            "",
+            "",
+            "este es uno de los movimientos más dif ciles para las negras",
+            "un estudio detenido de este ejemplo mostrará que el rey negro debe estar en ciertas casillas dependiendo de donde está el rey blanco. por ejemplo si las blancas están en e1, El monarca negro debe estar en f3, por lo tanto e1 y f3 son casillas relacionadas, de manera similar c1-d4, d1-e3, a2-b4, b1- b5 son casillas relacionadas [%csl Ba2,Bb4,Bd4,Bb1,Bc1,Bc5,Be1,Bf3] [%cal Bc1d4,Be1f3,Ba2b4,Bb1c5]",
+            "con"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_177851566933965",
+      "titulo": "Finales: Taimanov - Cuellar",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Finales: Taimanov - Cuellar",
+          "texto": "esta es la conclusión de la partida Taimanov - Cuellar, Leningrado 1973. es difícil creer que las blancas puedan salvar esta posición porque sus peones son d biles y el rey blanco está muy lejos, la clave de la defensa de las blancas es que el peón en h5 bloquea temporalmente a los peones negros, si el peón h estuviera en h2 o h4 las negras ganarían",
+          "orientacion": "blanca",
+          "fen": "8/6p1/5p2/3k3P/8/8/K5P1/8 w - - 0 1",
+          "secuenciaCorrecta": [
+            "a2b3",
+            "d5d4",
+            "b3b4",
+            "f6f5",
+            "b4b5",
+            "d4d5",
+            "b5b6",
+            "f5f4",
+            "b6c7",
+            "d5e6",
+            "c7d8",
+            "e6f7",
+            "d8d7",
+            "f7f6",
+            "d7e8",
+            "f6g5",
+            "e8f7",
+            "g5h5",
+            "f7g7",
+            "h5g4",
+            "g7f6",
+            "g4g3",
+            "f6f5",
+            "g3g2",
+            "f5f4"
+          ],
+          "comentariosMovimiento": [
+            "",
+            "amenaza llevar el rey hacia los peones negros",
+            "buscando la manera más rápida de llegar hacia el lado de rey",
+            "intenta persistentemente llevar al rey a los peones del flanco de Rey de las negras",
+            "contin a la marcha hacia los peones en el lado de rey",
+            "",
+            "",
+            "",
+            "",
+            "la captura mantiene el material en balance",
+            "se dirige a el peón de las negras en f4",
+            "",
+            "solo quedan los reyes!, r cord del persistente objetivo de las blancas de contra juego."
+          ],
+          "comentariosRival": [
+            "",
+            "las negras tienen una gran ventaja debido a su Rey mejor colocado, las blancas esperan salvar la partida contraatacando rápidamente con el rey",
+            "esta posición demuestra la ventaja de tener un rey más centralizado en el final",
+            "el Rey casi siempre toma un rol muy activo en los finales",
+            "el rey negro está ocupado deteniendo al monarca de las blancas no podrá ganar los peones de las blancas",
+            "la posición de los reyes ha cambiado dr sticamente, ahora las blancas están atacando y El Rey de las negras está defendiendo",
+            "las blancas están posicionado su Rey perfectamente, si las negras intentan ganar el peón de las blancas, las blancas podrán con el turno ganar el peón de las negras",
+            "",
+            "",
+            "podrá El Rey de las blancas regresar a tiempo",
+            "",
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_177851566934366",
+      "titulo": "Finales: La mayoría del flanco de Dama",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Finales: La mayoría del flanco de Dama",
+          "texto": "Esta es la conclusión de la partida Tal - Djurasevic, 1958. Aunque el material está parejo, las blancas tienen la ventaja porque podrán crear un peón pasado en el flanco de dama. A las negras les resultará más difícil crear un peón pasado en el flanco de rey",
+          "orientacion": "blanca",
+          "fen": "3k4/5pp1/p3p2p/1p6/5P2/P7/1PP3PP/2K5 w - - 0 1",
+          "secuenciaCorrecta": [
+            "c1d2",
+            "d8d7",
+            "d2d3",
+            "d7d6",
+            "c2c4",
+            "b5c4",
+            "d3c4",
+            "e6e5",
+            "f4e5",
+            "d6e5",
+            "b2b4",
+            "f7f5",
+            "b4b5",
+            "a6b5",
+            "c4b5",
+            "f5f4",
+            "a3a4",
+            "g7g5",
+            "a4a5",
+            "g5g4",
+            "b5c4"
+          ],
+          "comentariosMovimiento": [
+            "activando el rey",
+            "contin a activando el rey",
+            "pretente intercambiar un par de peones, entonces será más fácil crear un peón pasado en el flanco de dama",
+            "una recaptura obvia",
+            "gana tiempo para las blancas",
+            "pronto se creará un peón pasado en el lado de dama",
+            "",
+            "",
+            "",
+            "",
+            "este movimiento permite a las blancas detener el peón negro en f"
+          ],
+          "comentariosRival": [
+            "las blancas tienen ventaja porque tienen una mayoría de 3 - 2 en el flanco de dama, en comparación con la mayoría de 4-3 de las negras en el flanco de rey. Por tanto las blancas podrán crear un peón pasado más rápidamente",
+            "Tal era mejor conocido por su brillante manera de jugar el medio juego que por su técnica de finales, pero aquí hace una demostración instructiva.",
+            "ese será un hermoso ejemplo de la fuerza de un peón pasado exterior",
+            "las blancas quieren crear un peón pasado en el lado de dama lo más rápido posible, pero no podemos olvidar el flanco de rey",
+            "",
+            "",
+            "las blancas han creado un peón pasado varios movimientos por delante de las negras",
+            "",
+            "",
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_177851566934467",
+      "titulo": "Finales: Las tablas",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Finales: Las tablas",
+          "texto": "Esta es la conclusión de la partida Nikolaevsky - Taimanov, 1967. primera vista el final de peón es parece perdido porque las blancas tienen un peón pasado protegido, pero las negras encuentran una forma inteligente de salvar la partida, el primer plan de las negras será obligar a las blancas a entregar al peón pasado protegido a cambio del peón de h",
+          "orientacion": "negra",
+          "fen": "8/8/p4k2/2pP3p/1pP4K/1P6/P7/8 b - - 0 1",
+          "secuenciaCorrecta": [
+            "f6g6",
+            "d5d6",
+            "g6f6",
+            "h4h5",
+            "f6e6",
+            "h5g5",
+            "e6d6",
+            "g5f5",
+            "d6c6",
+            "f5e5",
+            "c6b6",
+            "e5d5",
+            "b6a5"
+          ],
+          "comentariosMovimiento": [
+            "protege al peón de h",
+            "el peón de d tenía que ser tomado en cuenta, así que el rey accede al cuadrado del peón pasado",
+            "",
+            "captura el peligroso peón de d6",
+            "",
+            "una aparente retiro pasivo",
+            "el inteligente plan de las negras queda claro, el rey se acurrucará en la casilla a5 y se creará una posición de punto muerto"
+          ],
+          "comentariosRival": [
+            "",
+            "",
+            "las negras capturaron el peón de d6, pero las blancas todavía parecen tener una gran ventaja, sin embargo las negras tienen algo inteligente bajo la manga",
+            "el peón pasado protegido de las blancas ha desaparecido, pero las negras todavía parecen tener una posición difícil, las blancas obligar n al rey negro a abandonar al peón de c5, pero las negras tienen una manera inteligente de mostrar que esto no será suficiente para ganar [%csl Rc5]",
+            "la posición de las negras parece crítica, ya que pronto tendrán que entregar el peón de c5, puedes prever la inteligente idea de las negras?",
+            "el juego ha alcanzado su punto crítico"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_177851566934668",
+      "titulo": "Finales: Alekhine - Yates",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Finales: Alekhine - Yates",
+          "texto": "Esta es la conclusión del juego Alekhine - Yates , Hamburg 1910. las luchas se centrará en casillas clave de la posición, qué son f4 y e6 [%csl Re6,Rf4]",
+          "orientacion": "blanca",
+          "fen": "8/4k3/8/1p2Pp2/p7/P1K1P3/1P6/8 w - - 0 1",
+          "secuenciaCorrecta": [
+            "c3d3",
+            "e7d7",
+            "e3e4",
+            "f5f4",
+            "d3e2",
+            "d7e6",
+            "e2f2",
+            "e6e5",
+            "f2f3"
+          ],
+          "comentariosMovimiento": [
+            "se dirige a la casilla f4, estamos buscando una victoria simple",
+            "",
+            "amenazando ir a f3",
+            "",
+            "gana la posición de caballo, qué es cuando los reyes están separados por un movimiento de caballo, el rey que tenga que mover tendrá que abandonar su peón, ahora las negras están en zugzwang, y pierden el peón de f4"
+          ],
+          "comentariosRival": [
+            "aunque el peón de e5 está indefenso y será capturado, juega un papel clave ya que le quita todo el espacio de maniobra posible al rey negro",
+            "las casillas claves son f3 y e5, cuando el Rey de las blancas este en f3 y el Rey de las negras en e5, el jugador que tenga el movimiento estará en Zugzwang, también conocida como la oposición de caballo",
+            "el Zugzwang es la idea clave en el plan de Victoria de las blancas",
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_177851566934869",
+      "titulo": "Finales: Combinando dos ideas",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Finales: Combinando dos ideas",
+          "texto": "Este es un estudio por I. Moravec, 1952. El Rey blanco está muy lejos del cuadrado del peón pasado de las negras (a6-f6-f1-a1). por lo tanto no es probable que las blancas impidan que el peón corone. sin embargo las blancas tienen una manera de empatar esta posición combinando dos ideas, intentar entrar en el cuadrado del peón contrario y utilizar su propio peón para crear problemas a su oponente",
+          "orientacion": "blanca",
+          "fen": "6K1/3k4/p7/8/8/8/4P3/8 w - - 0 1",
+          "secuenciaCorrecta": [
+            "g8f7",
+            "d7d6",
+            "f7f6",
+            "d6d5",
+            "f6f5",
+            "a6a5",
+            "e2e4",
+            "d5c6",
+            "e4e5",
+            "a5a4",
+            "e5e6",
+            "a4a3",
+            "f5g6",
+            "c6d6",
+            "g6f7",
+            "a3a2",
+            "e6e7"
+          ],
+          "comentariosMovimiento": [
+            "usará el rey para ayudar al avance del peón de \"e\"",
+            "previene 2...Re5 y prepara el avance del peón [%csl Re4] [%cal Re4e5,Re5d6,Re2e4]",
+            "",
+            "avanza el peón con un tiempo",
+            "avanza el peón pasado y amenaza entrar al cuadrado del peón de las negras con 6.Re4 [%cal Rf5e4]",
+            "lleva el peón un poco más cerca, las blancas todavía tienen que resolver un pequeño problema",
+            "combinando dos ideas! es el único movimiento para mantener el empate y no es fácil de encontrar, el rey será utilizado para escoltar al peón y debe mantenerse alejado de la mort fera diagonal a1-h8 de modo que el peón negro no pueda coronar con jaque",
+            "",
+            "avanza el peón de e y consigue el empate. no hay razón para jugar después de que ambos lados coronen y en ausencia de un mate o la posibilidad de ganar la dama del oponente, un final sin peones con una dama en cada lado es bastante aburrido"
+          ],
+          "comentariosRival": [
+            "parece que será necesario un milagro para que las blancas empaten esta partida",
+            "esa posición no es de un juego real, sino de un estudio compuesto",
+            "a las blancas solo le queda un movimiento difícil por encontrar en este desafío, no es el próximo movimiento de las blancas que debería ser fácil de encontrar",
+            "la capacidad de jugar bien el final es una caracter stica de un buen jugador, no es casualidad que todos los campeones del mundo se hayan destacado por esta habilidad",
+            "para dominar el final se necesitan dos cualidades. en primer lugar hay que estar familiarizado con una gran cantidad de finales básicos. en segundo lugar hay que saber que el final tiene sus propios criterios especiales para encontrar los movimientos correctos y el mejor plan",
+            "las blancas deben ser muy astutas para encontrar la jugada correcta",
+            "",
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_177851566934970",
+      "titulo": "Finales: Maniobra",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Finales: Maniobra",
+          "texto": "Este es un estudio por I. Movorec, 1941. las blancas van a tener dificultades empatando esta posición, las negras tienen un peón pasado muy difícil de detener, de cualquier manera las blancas son capaces de empatar",
+          "orientacion": "blanca",
+          "fen": "8/5p2/8/8/1K1k4/8/1P6/8 w - - 0 1",
+          "secuenciaCorrecta": [
+            "b4b3",
+            "d4d3",
+            "b3a2",
+            "f7f5",
+            "b2b4",
+            "d3c4",
+            "b4b5",
+            "c4b5",
+            "a2b3"
+          ],
+          "comentariosMovimiento": [
+            "trata de llevar al rey al lado de rey por la casilla c2, si las blancas optan por una dama, las negras ganarían las damas de las blancas o darían mate al rey de las blancas después de una coronación mutua",
+            "saca al rey del camino del peón pasado, pero más importante aún , busca encontrar una manera de llevar al rey al flanco de rey. también es digno de mención que el rey protege ahora la casilla a1 esto se vuelve importante si ambos peones coronaran, si el rey blanco estuviera en a3 o a4 La dama negra podría ganar la dama blanca en b8 realizando un Jaque en a1 y b1 [%csl Rf1,Rb8,Ra1] [%cal Rf1a1]",
+            "intenta distraer al rey negro así la zona blancas pueden mover el rey al ala de Rey",
+            "sacrifica el peón para desviar al rey negro",
+            "coloca el rey dentro del cuadrado del peón y también gana la oposición. por tanto las blancas pueden empatar, cuando los reyes lleguen a e5 y e3, serían las negras las que mover an, dado que no hay forma de que el rey negro se ponga delante del peón de f solo conducir a a un punto muerto. recuerde este recurso de empate la próxima vez que te encuentres en un final que parezca difícil"
+          ],
+          "comentariosRival": [
+            "las blancas deben ser muy astutas para poder empatar esta posición",
+            "según Anatoly Kotov en su libro \" Piensa como un gran maestro\" dos frascos característicos del final son 1. pensar en términos de esquemas y 2. Con calma",
+            "el cuadrado del peón es un concepto clave en esta posición",
+            "las blancas pueden estar seguras del empate"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_177851566935271",
+      "titulo": "Finales: Casilla desventajosa",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Finales: Casilla desventajosa",
+          "texto": "Este es un estudio por A. Mandler, 1938. Las blancas tienen ventaja porque su Rey está mejor colocado, ganarán forzando al rey de las negras a ir a una casilla desventajosa",
+          "orientacion": "blanca",
+          "fen": "8/1pK5/8/8/8/8/k4P2/8 w - - 0 1",
+          "secuenciaCorrecta": [
+            "c7d6",
+            "a2a3",
+            "d6c5",
+            "a3a4",
+            "f2f4",
+            "b7b5",
+            "f4f5",
+            "b5b4",
+            "c5c4",
+            "b4b3",
+            "c4c3",
+            "a4a3",
+            "f5f6",
+            "b3b2",
+            "f6f7",
+            "b2b1q",
+            "f7f8q",
+            "a3a4",
+            "f8a8",
+            "a4b5",
+            "a8b7"
+          ],
+          "comentariosMovimiento": [
+            "un buen lugar para el rey, ya que impide que El monarca negro avance hacia el flanco de rey y vigila al peón de las negras",
+            "previene el avance del peón negro",
+            "finalmente avanza el peón pasado",
+            "",
+            "pronto obligará al rey negro a situarse en una mala casilla",
+            "detiene temporalmente el avance del peón negro",
+            "",
+            "",
+            "",
+            "",
+            "ya no la dama negra y finaliza la maniobra, recuerde c mo fue que forzaron al rey negro a situarse en una casilla desventajosa."
+          ],
+          "comentariosRival": [
+            "a las blancas les gustar a avanzar su peón, pero deben tener cuidado del peón negro",
+            "el final es el área del ajedrez, en la que los grandes maestros sobresalen más y el conocimiento teórico puede llevar a ganar muchos puntos",
+            "La posición parece bastante igualada y parece que ambos peones coronar n al mismo tiempo. Sin embargo las blancas tienen una gran ventaja, su Rey está mucho mejor situado",
+            "Las blancas tienen un As bajo la manga que les permitirá ganar esta posición",
+            "el siguiente movimiento de las blancas es muy importante",
+            "ahora el Rey de las negras está en una muy mala casilla",
+            "Las negras coronar n primero, pero sus piezas estar n muy mal situadas",
+            "El Rey blanco está en una posición ideal y domina a su contraparte en el borde",
+            "Un final con dama y sin peones es un empate a menos que haya un mate o uno de los bandos pierda la Dama",
+            "La dama negra sólo fue una espectadora pasiva"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_177851566935472",
+      "titulo": "Finales: El camino",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Finales: El camino",
+          "texto": "Las blancas necesitan volver con el rey al otro lado del tablero para evitar que las negras coronen una dama, pero deben elegir el camino correcto para llegar ahí, las blancas están en problemas porque su Rey está mal colocado y pronto perder n su peón, sin embargo con un juego inteligente podrá mantener el empate.",
+          "orientacion": "blanca",
+          "fen": "K7/8/p7/8/8/2k5/P7/8 w - - 0 1",
+          "secuenciaCorrecta": [
+            "a8b7",
+            "a6a5",
+            "b7c6",
+            "a5a4",
+            "c6d5",
+            "a4a3",
+            "d5e4",
+            "c3b2",
+            "e4d3",
+            "b2a2",
+            "d3c2",
+            "a2a1",
+            "c2c1",
+            "a3a2",
+            "c1c2"
+          ],
+          "comentariosMovimiento": [
+            "introduce al rey a la acción y gana un tiempo a la vez",
+            "",
+            "el rey blanco llegará justo a tiempo",
+            "El Rey de las blancas se está acercando a la casilla c2. observa como las blancas usan una diagonal para atravesar el tablero",
+            "toma un giro en Zig zag y se encamina a la casilla crítica",
+            "previene al rey negro de moverse fuera del camino de su peón",
+            "",
+            "mantiene al rey negro acorralado. recuerda como las blancas zigzagearon a través del tablero.El rey blanco era tan rápido como si hubiera seguido una línea recta, sin embargo el rey negro habría estado en el camino si las blancas hubieran intentado avanzar por la columna c"
+          ],
+          "comentariosRival": [
+            "Este es un momento clave en el juego, las blancas deben escoger el plan correcto",
+            "",
+            "",
+            "las plantas ya han completado la parte más difícil del plan, mantente en el mismo curso y tú lograr s empatar",
+            "",
+            "los finales con un solo peón de torre son empate si alguno de los reyes está atorado en la esquina enfrente del peón",
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_177851566935573",
+      "titulo": "Finales: Peones Pasados desconectados",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Finales: Peones Pasados desconectados",
+          "texto": "Esta es la conclusión de la partida Stoltz - Nimzovich, 1928. Ilustra el poder de los peones pasados desconectados.Si fuera turno de las blancas tendrían la ventaja después de 1.Rd3. Sin embargo es turno de las negras, aún así parece que las blancas están mejor, porque tienen dos peones pasados conectados y los peones negros parecen estar retenidos. sin embargo hay más en esta posición",
+          "orientacion": "negra",
+          "fen": "8/8/8/1P2kp2/P2p2p1/6P1/3K4/8 b - - 0 1",
+          "secuenciaCorrecta": [
+            "f5f4",
+            "g3f4",
+            "e5d6",
+            "a4a5",
+            "g4g3",
+            "a5a6",
+            "d6c7",
+            "d2e2",
+            "d4d3",
+            "e2d3",
+            "g3g2"
+          ],
+          "comentariosMovimiento": [
+            "crea un segundo peón pasado",
+            "mueve el rey más cerca de los peones en el ala de dama. El peón f de las blancas no es importante, lo principal era despejar el camino para tu peón de g",
+            "las blancas pronto tendrán una dama",
+            "detiene a los peones en el ala de dama, pero uno de los peones negros podrá coronar",
+            "desv a al rey de las blancas. 5...g2 también es suficiente para ganar",
+            "coronará en la siguiente jugada, los peones blancos no serán rival para la dama negra, las blancas se resignan, recuerda como el buen avance te permitió tener dos peones pasados avanzados a tres filas de distancia."
+          ],
+          "comentariosRival": [
+            "los peones pasados de las blancas en el ala de dama necesitan ser vigilados",
+            "los dos peones pasados de las negras no pueden ser detenidos por el rey blanco",
+            "parece una carrera entre los peones",
+            "",
+            "El Rey de las blancas no podrá entrar en el \"Cuadrado del peón\""
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_177851566935774",
+      "titulo": "Finales: Peones Pasados Conectados",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Finales: Peones Pasados Conectados",
+          "texto": "Este estudio de J. Behting de 1900, demuestra el poder de dos peones conectados y avanzados, a primera vista la posición parece equilibrada, ambos lados tienen peones conectados y los reyes son capaces de prevenir su avance, de cualquier manera, y las blancas tienen la ventaja, sus peones están más avanzados y limitan la movilidad del Rey de las negras",
+          "orientacion": "blanca",
+          "fen": "8/2p1Pk2/5P2/8/3p1K2/8/8/8 w - - 0 1",
+          "secuenciaCorrecta": [
+            "f4f3",
+            "c7c6",
+            "f3f4",
+            "c6c5",
+            "f4e4",
+            "f7e8",
+            "e4d5",
+            "e8d7",
+            "d5c4",
+            "d7e8",
+            "c4c5",
+            "d4d3",
+            "c5d6",
+            "e8f7",
+            "d6d7"
+          ],
+          "comentariosMovimiento": [
+            "comienza una maniobra extremadamente complicada",
+            "otro movimiento de espera con el rey, cada movimiento de las blancas debe ser exacto",
+            "solo mueve el rey a esta casilla cuando las negras no pueden realizar un movimiento de peón",
+            "en la manera más fácil de ganar. El Rey de las blancas es capaz de alejarse del cuadrado del peón negro en d, 4.Rd3 gana de manera similar",
+            "mantiene un ojo en el peón de las negras en d, y pone en Zugzwang a las negras otra vez",
+            "es correcto con el Rey de las negras en e8, de nuevo el Rey de las negras se aleja del cuadrado del peón de las negras",
+            "amenaza ir a la casilla e6 [%cal Rd6e6]",
+            "blancas coronan el peón en e con jaque y ganan fácilmente, las negras se resignan"
+          ],
+          "comentariosRival": [
+            "las blancas deben ser extremadamente cuidadosas con su movimiento, un paso en falso y solo obtendrán tablas",
+            "",
+            "la ventaja vital de las blancas se debe a que sus peones están mucho más avanzados",
+            "las negras previenen Re6 seguido de f7, jaque mate. pero las blancas todavía tienen mucho espacio para maniobrar con su rey",
+            "las blancas han realizado algunas buenas maniobras con su rey, una última maniobra le permitirá sacar provecho de su buen juego",
+            "ahora es una carrera entre el peón y el Rey de las blancas",
+            "las blancas han ganado la carrera"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_177851566935875",
+      "titulo": "Finales: Más casillas relacionadas",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Finales: Más casillas relacionadas",
+          "texto": "Este es un estudio por G. Walker de 1841. es una buena ilustración de las casillas relacionadas, el trabajo de las blancas es difícil porque su peón pasado es un peón de torre, y el rey no tiene espacio de maniobra en ese lado del tablero. debe intentar penetrar por el otro lado de los peones pero luego debe contar con que el rey negro intente contraatacar en el flanco de dama.",
+          "orientacion": "blanca",
+          "fen": "8/8/8/k1p5/2P5/1K6/P7/8 w - - 0 1",
+          "secuenciaCorrecta": [
+            "b3a3",
+            "a5b6",
+            "a3b2",
+            "b6a5",
+            "b2b3",
+            "a5b6",
+            "b3c3",
+            "b6a5",
+            "c3d2",
+            "a5a4",
+            "d2e3",
+            "a4b4",
+            "e3d3",
+            "b4a3",
+            "d3e4",
+            "a3a4",
+            "e4d5",
+            "a4b4",
+            "a2a3"
+          ],
+          "comentariosMovimiento": [
+            "defiende la casilla a4. las blancas necesitan encontrar una manera de infiltrarse con su rey, para lograr esto debe hacer una compleja maniobra",
+            "espera llevar al rey a la casilla d5 [%csl Rd5]",
+            "gana un tiempo usando la triangulación, ahora hemos alcanzado la posición inicial pero es turno de las negras",
+            "mueve el rey hacia el ala de Rey solo después de que el Rey de las negras está en una posición pasiva",
+            "pone a las negras en Zugzwang, recuerda que d2 y a5 son casillas relacionadas, por lo tanto las negras no quieren mover el rey ahora mismo [%csl Ra5,Rd5]",
+            "[%cal Re3e4,Re4e5] amenaza jugar a e4 y d5",
+            "pone a las negras en Zugzwang otra vez",
+            "",
+            "",
+            "obliga a las negras a abandonar el peón de c5, entonces las blancas deberían ganar fácilmente"
+          ],
+          "comentariosRival": [
+            "",
+            "",
+            "las casillas relacionadas hacen que las soluciones complicadas parezcan sencillas",
+            "hemos alcanzado el punto crucial del juego",
+            "",
+            "",
+            "este ejemplo demuestra la belleza de la geometría en un final de peón",
+            "",
+            "sin el peón de a las blancas estarían perdidas [%csl Ra2]"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_177851566935976",
+      "titulo": "Finales: Flohr - Capablanca",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Finales: Flohr - Capablanca",
+          "texto": "Esta es la conclusión del juego Flohr - Capablanca, Moscú 1936. Las negras tienen una estructura de peones muy pobre, la única manera en la que pueden lograr las tablas es previniendo el avance del Rey blanco, mediante un juego muy inteligente el ex campeón mundial José Capablanca puede salvar la partida con negras.",
+          "orientacion": "negra",
+          "fen": "8/8/4kp2/5p1p/8/3KP1P1/7P/8 b - - 0 1",
+          "secuenciaCorrecta": [
+            "e6e5",
+            "d3e2",
+            "e5e4",
+            "h2h3",
+            "e4d5",
+            "e2f3",
+            "d5e5",
+            "h3h4",
+            "e5d5",
+            "f3f4",
+            "d5e6"
+          ],
+          "comentariosMovimiento": [
+            "se juega para acercar al rey a la casilla e4, las negras también quieren controlar la casilla f4 ya que jugar h4 seguido de ...f4 es una idea defensiva clave, la variación de este problema explica cómo ganarían las blancas después del inexacto 1...Rd5?",
+            "es el único movimiento, es muy importante prevenir Rf3",
+            "es La retirada correcta, las negras ahora pueden permitir que el rey blanco llegue a f3, ya que las blancas solo tienen un movimiento de tiempo, en lugar de dos.",
+            "previene 5.Rf4, aquí un empate fue aceptado en la partida, nosotros jugaremos dos movimientos más",
+            "evita el Zugzwang",
+            "defi ndelo peón atacado y empata, las blancas no pueden hacer ning n progreso. El juego termina en tablas"
+          ],
+          "comentariosRival": [
+            "en algunas l neas, provocar peones doblados es una idea clave defensiva para las negras",
+            "en el final no se deben empujar los peones a menos que sea absolutamente necesario, las blancas se han visto obligadas a empujar su peón h y esto le costará una jugada clave de tiempo",
+            "si el peón h de las blancas todavía estuviera en h2, podría ser capaz de ganar, es por eso que los peones solo deberían ser avanzados con precaución en el final",
+            "las negras deben defender con precisión",
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_177851566936177",
+      "titulo": "Finales: Pachman Ilivitsky",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Finales: Pachman Ilivitsky",
+          "texto": "Está es la conclusión del juego Pachman - Ilivitsky, Match 1956. Este es otro ejemplo de lo importante regla del final que indica que los peones deberían avanzarse cuidadosamente. las negras pueden empatar esta posición porque sus peones están en la posición de inicio. si alguno de sus peones estuviera avanzado las negras perderían. porque el Rey de las blancas está más cerca de los peones que el Rey de las negras, a primera vista parece que las negras perder n, sin embargo hay más de lo que parece incluso en los finales más simples",
+          "orientacion": "negra",
+          "fen": "8/pp6/8/8/8/8/PP2K1k1/8 b - - 0 1",
+          "secuenciaCorrecta": [
+            "g2g3",
+            "e2e3",
+            "g3g2",
+            "a2a4",
+            "b7b6",
+            "b2b4",
+            "g2f1",
+            "e3e4",
+            "f1e2",
+            "a4a5",
+            "b6a5",
+            "b4a5",
+            "e2f2",
+            "e4d5",
+            "f2f3",
+            "d5c6",
+            "f3e4",
+            "c6b7",
+            "e4d5",
+            "b7a7",
+            "d5c6",
+            "a5a6",
+            "c6c7"
+          ],
+          "comentariosMovimiento": [
+            "intenta llevar al rey de regreso para defender los peones",
+            "es un buen movimiento, la idea de las negras es mantener la posición lateral y eventualmente ponerse detrás de los peones blancos",
+            "se opone al avance del peón de las blancas en un movimiento que es difícil de encontrar",
+            "el rey está una casilla más cerca de los peones blancos",
+            "",
+            "los peones de torre a menudo son tabliferos, cuando un rey está atrapado en el borde del tablero",
+            "después de este movimiento los jugadores acceden al empate, nosotros jugaremos por unos cuantos movimientos más",
+            "",
+            "",
+            "",
+            "llega justo a tiempo",
+            "sella las tablas con el rey blanco queda atrapado en la esquina."
+          ],
+          "comentariosRival": [
+            "",
+            "el plan de las blancas es avanzar primero sus peones antes de hacer avanzar al rey, con la esperanza de que el rey negro no pueda ponerse detrás de los peones blancos a tiempo",
+            "El Rey de las negras no puede detener al rey de las blancas de atacar sus peones, pero las negras esperan salvar el juego con un contraataque a peones blancos",
+            "ambos lados se apresuran para llevar a sus reyes a los peones opositores",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "si el peón de las blancas estuviera en a6, las blancas ganarían",
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_177851566936378",
+      "titulo": "Finales: Aronin - Smyslov",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Finales: Aronin - Smyslov",
+          "texto": "Esta es la conclusión de la partida, Aronin - Smyslov, Moscú 1961. Smyslov, uno de los grandes maestros del final, encuentra una forma muy inteligente de salvar la partida, las blancas amenazan con llevar su Rey a c4, tras lo cual ser a difícil de tener una mayor infiltración.",
+          "orientacion": "negra",
+          "fen": "8/p5k1/2p2p2/4p1p1/1p2P3/1P4PP/1PP5/5K2 b - - 0 1",
+          "secuenciaCorrecta": [
+            "g5g4",
+            "h3h4",
+            "c6c5",
+            "f1e2",
+            "g7h7",
+            "e2d3",
+            "h7h6",
+            "c2c3",
+            "a7a5",
+            "c3b4",
+            "a5b4"
+          ],
+          "comentariosMovimiento": [
+            "al principio la jugada parece contradictoria, ya que las blancas ahora pueden crear un peón pasado protegido, una idea del movimiento es que impide que el rey blanco avance a g4",
+            "coloca el peón en la casilla correcta, esto será más claro si las blancas avanzan el rey a c4",
+            "solo un movimiento de espera",
+            "hace otra jugada de espera",
+            "es el único movimiento bueno, las negras deben sostener al peón en b4 con el peón de a",
+            "los jugadores acceden a el empate, las blancas no pueden jugar 7.Re4? debido a 7...f5, por lo tanto no hay forma de abrirse paso para las blancas, cuando uno aprende más sobre los finales, ve un juego defensivo tan excelente con otros ojos, la marca de un jugador verdaderamente fuerte se muestra cuando sortea muchas posiciones peores, ahora echemos un vistazo a la interesante variación para ver qué hubiera sucedido si las blancas hubieran intentado 5.Rc4"
+          ],
+          "comentariosRival": [
+            "las plantas ahora tienen un peón pasado protegido, los cuales casi siempre son muy fuertes en un final de peón",
+            "las negras han armado una formación defensiva perfecta, a las blancas les gustar a mover al rey a c4, pero las negras tienen algo en mente para eso",
+            "sabes qué harán las negras si el rey mueve a c4?",
+            "las negras han impedido que el rey blanco se mueva a c4, pero las blancas tienen un último truco",
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_177851566936579",
+      "titulo": "Finales: Dos peones pasados a solo tres filas de distancia",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Finales: Dos peones pasados a solo tres filas de distancia",
+          "texto": "Está es la variación del juego Aronin - Smyslov, Moscú 1961. Aquí vamos a ver cómo las negras podrían haber respondido si las blancas hubieran hecho Rc4 en lugar de c3 en el juego, las blancas parecen tener clara ventaja, no solo por su peón pasado en h, si no que también parece ganar a continuación el d bil peón de c5 de las negras. Smyslov, sin embargo tenía algo preparado en caso que su oponente jugase esa línea.",
+          "orientacion": "negra",
+          "fen": "8/p7/5p1k/2p1p3/1pK1P1pP/1P4P1/1PP5/8 b - - 0 1",
+          "secuenciaCorrecta": [
+            "f6f5",
+            "c4d3",
+            "f5f4",
+            "g3f4",
+            "e5f4",
+            "d3e2",
+            "h6h5",
+            "e4e5",
+            "h5g6",
+            "e2f1",
+            "g6f5",
+            "h4h5",
+            "f5e5",
+            "h5h6",
+            "e5f6"
+          ],
+          "comentariosMovimiento": [
+            "Es la ruptura central que las Negras ten an preparada.Con el Rey blanco en d3, esta ruptura nunca hubiese funcionado, pero ahora es ganadora para las Negras.",
+            "El movimiento más fuerte, antes de jugar esto, las Negras tenían que asegurarse que sus peones pasados fueran más peligrosos que los Blancos.",
+            "movimiento natural",
+            "Amenaza capturar el peón de h manteni ndose en el cuadrado del peón del peón en e",
+            "Presta mayor atención al peón que ha avanzado",
+            "",
+            "",
+            "Las Negras se mantienen en el cuadrado del peón de h y lo capturar n pr ximamente, las Blancas se resignan porque los peones pasados de las negras decidir n el resultado. Con h biles maniobras, las negras obligaron a las blancas a avanzar uno de los peones pasados solo para capturarlos después, las Negras nisiquiera tuvieron que usar sus peones pasados. Recordad bien este final, tiene un buen valor práctico."
+          ],
+          "comentariosRival": [
+            "Las negras están tomando la iniciativa gracias al optimista juego de las Blancas, pero necesitan continuar con precisión.",
+            "Será una batalla entre dos peones pasados conectados contra dos peones pasados a tres filas de distancia.",
+            "Podrá el Rey de las negras dominar los dos peones pasados de las blancas?",
+            "Las negras han provocado a las Blancas para que avancen uno de sus peones, Es bueno o malo para las Negras?",
+            "Ahora el Rey Negro puede demostrar porque los peones pasados de las blancas están una fila atrasados",
+            "Para detener dos peones pasados a tres filas de distancia, debes ganar el peón más avanzado cuando el peón de atrás alcance la quinta fila.",
+            "El resto es fácil"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_177851566936780",
+      "titulo": "Finales: Maniobra de Bloqueo",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Finales: Maniobra de Bloqueo",
+          "texto": "Este es un estudio por Adamson de 1915.A Las blancas les gustar a avanzar al ala de Rey para capturar el peón de las negras, desafortunadamente las negras realizar an la misma acción. Las Blancas deben encontrar un método astuto para lograr la victoria",
+          "orientacion": "blanca",
+          "fen": "2K5/k7/7p/8/8/8/6P1/8 w - - 0 1",
+          "secuenciaCorrecta": [
+            "c8c7",
+            "a7a6",
+            "c7c6",
+            "a6a5",
+            "c6c5",
+            "a5a4",
+            "c5c4",
+            "a4a3",
+            "c4c3",
+            "a3a2",
+            "c3c2",
+            "a2a3",
+            "g2g3",
+            "a3a2",
+            "g3g4",
+            "a2a3",
+            "c2d3",
+            "a3b2",
+            "d3e4",
+            "b2c3",
+            "e4f5",
+            "c3d4",
+            "f5g6",
+            "d4e4",
+            "g6h6",
+            "e4f4",
+            "g4g5"
+          ],
+          "comentariosMovimiento": [
+            "Previene al Rey de las negras de mover al Ala de Rey, analiza la variación después en la cual, un Rey blanco impaciente se precipita con Rd7 y en la cual las negras logran empatar",
+            "De nuevo previene al Rey negro de escapar",
+            "Nuevamente evita el escape del Rey Negro",
+            "Mantiene al Rey Negro confinado en la columna a",
+            "Previene Rb2 [%cal Ra3b2] [%csl Rb2]",
+            "Previene Rb1 [%cal Ra2b1] [%csl Rb1]",
+            "Es un modesto avance de peón, pero es la única manera de ganar",
+            "Solo avanza al peón de g cuando el Rey está una casilla más lejos de la casilla de empate f8 [%csl Rg8]",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "El resto es sencillo, las Negras se resignan , ahora echa un vistazo a la variación"
+          ],
+          "comentariosRival": [
+            "Este ejemplo ilustra el importe principio de que los peones deberían avanzar con precaución en los finales , si el peón de las blancas estuviese en g3, la posición ser a empate!",
+            "La clave de esta posición es que el Rey de las Blancas puedan estar seguros de que a la eventual captura Rxh6 no pueda responderse ...Rf4. Pues ese caso las Negras pueden ser capaces de jugar...Rg3, ganando el peón de las blancas. [%csl Rf4,Rh6] [%cal Rf4g3]",
+            "El objetivo de las Blancas es ganar el peón de las negras sin permitir que el Rey de las Negras está demasiado cerca para poder capturar el suyo.",
+            "",
+            "",
+            "Ahora las blancas deben jugar un movimiento muy astuto",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_177851566936981",
+      "titulo": "Finales: Casillas Correspondientes",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Finales: Casillas Correspondientes",
+          "texto": "Este es un estudio de Bianchetti de 1925, esta posición ilustra la teoría de las casillas correspondientes. Esto significa que los Reyes deben mover en complejos patrones a través de una secuencia precisa de casillas. Cuando un Rey alcanza \"Cierta casilla\" , el otro Rey debe alcanzar \"La casilla correspondiente\", cuando está balance no es interrumpido entonces el resultado será tablas. En la posición actual cuando el Rey de las blancas está en f4, el rey de las Negras debe estar en h5 para defender el peón de g4, entonces f4 y h5 son casillas correspondientes. Si las negras tuvieran el turno serían capaces de empatar con 1...Rg8 [%csl Bh5,Bf4,Rh8] [%cal Rh8g8,Bf4h5]",
+          "orientacion": "blanca",
+          "fen": "7k/1p6/1P2p3/1P2P3/4P1p1/6P1/8/K7 w - - 0 1",
+          "secuenciaCorrecta": [
+            "a1a2",
+            "h8h7",
+            "a2b2",
+            "h7g7",
+            "b2b3",
+            "g7g8",
+            "b3c3",
+            "g8f8",
+            "c3c4",
+            "f8f7",
+            "c4d4",
+            "f7f8",
+            "d4e3"
+          ],
+          "comentariosMovimiento": [
+            "Lo creas o no este movimiento coloca a las negras en Zugzwang porque a2 y h8 son casillas correspondientes. Para ganar las blancas tienen que familiarizarse con todas las parejas de casillas relacionadas y la ruta necesita seguir.",
+            "El movimiento correcto dado que b2 y h7 son casillas relacionadas",
+            "el movimiento correcto dado que b3 y g7 son casillas correspondientes. Las blancas tienen que progresar lentamente con el Rey y prestar especial atención al lugar en donde se situa el Rey",
+            "Contin a pacientemente la maniobra de zigzag , c3 y g8 son casillas correspondientes, ahora el Rey de las Blancas esa listo para ir a c4, d4 y d3 mientras el rey de las negras debe estar listo para ir a f8 , f7 y g7. Sin embargo las negras están en Zugzwang dado que tiene que mover en favor de defender",
+            "Se encamina y coloca a las negras en Zugzwang dado que c4 y f8 son casillas correspondientes",
+            "Un movimiento de espera que presiona las defensas de las piezas negras.d4 y f7 son casillas correspondientes.",
+            "Gana pues las negras no serán capaces de defender al peón de g4, y las negras se resignan, si tu has encontrado varias casillas correspondientes en un final debes tomar nota y recordarlas para cada movimiento"
+          ],
+          "comentariosRival": [
+            "Los primeros movimientos son dif ciles de explicar sin otorgar algunos pares de casillas relacionadas. Las blancas necesitaran avanzar en zigzag maniobrando, algunas casillas relacionadas son c5-e7 y f4-h5 [%cal Bd6e7,Bd6c5,Bf5h5] [%csl Bh5,Bc5,Bf5,Be7]",
+            "Cómo ya se ha explicado, c5-e7, e3-g6, d4-f7 y f4-h5 son pares de casillas correspondientes. El Rey de las negras quiere mover a una casilla correspondiente después de que el Rey blanco haya ocupado primero su pareja. Las negras pierden si su Rey ya está en una casilla correspondiente. [%csl Bd4,Bg6,Bc5,Bf7,Be7,Be3] [%cal Bc5e7,Be3g6,Bd4f7]",
+            "",
+            "Es poco probable que te encuentres un final tan complejo en tus partidas. Pero es de notar que es un maravilloso estudio que deber s estudiar para mejorar tu habilidad de pensamiento abstracto.",
+            "Está posición es muy compleja debido a las diferentes casillas correspondientes. Es posible que tengas que estudiarlo más de una vez para entenderlo completamente.",
+            "Las negras no son capaces de defender esta posición porque no puede prevenir la invasión del Rey de las blancas en c5 y f4 al mismo tiempo"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_177851566937082",
+      "titulo": "Finales: Justo a tiempo",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Finales: Justo a tiempo",
+          "texto": "",
+          "orientacion": "negra",
+          "fen": "8/p7/1p6/8/P2K4/8/1P4k1/8 b - - 0 1",
+          "secuenciaCorrecta": [
+            "g2f3",
+            "d4c4",
+            "f3e3",
+            "c4b5",
+            "e3d3",
+            "b5a6",
+            "d3c4",
+            "a6a7",
+            "c4b3",
+            "a7b6",
+            "b3a4",
+            "b6c5",
+            "a4b3"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_177851566937183",
+      "titulo": "Finales: Recursos de empate",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Finales: Recursos de empate",
+          "texto": "Está es una variación de un estudio de Adamson en 1915. Aquí veremos cómo las negras pueden empatar si las blancas avanzan el peón a g4 dos casillas, en vez de una casilla. Está variación muestra que los peones solo deberían avanzarse con precaución.",
+          "orientacion": "negra",
+          "fen": "8/8/7p/8/6P1/k7/2K5/8 b - - 0 1",
+          "secuenciaCorrecta": [
+            "a3b4",
+            "c2d3",
+            "b4c5",
+            "d3e4",
+            "c5d6",
+            "e4f5",
+            "h6h5",
+            "g4h5",
+            "d6e7",
+            "f5g6",
+            "e7f8",
+            "g6h7",
+            "f8f7",
+            "h5h6",
+            "f7f8",
+            "h7h8",
+            "f8f7",
+            "h6h7",
+            "f7f8"
+          ],
+          "comentariosMovimiento": [
+            "Se encamina al ala de Rey",
+            "Usa la diagonal para traer de vuelta al Rey lo más rápido posible",
+            "",
+            "El movimiento clave defensivo que forza un peón de torre para las blancas",
+            "más cerca de la casilla crítica f8",
+            "Alcanza la casilla crítica, ahora las negras son capaces de empatar",
+            "Bloquea al rey blanco",
+            "Se mantiene cerca de la esquina",
+            "Previene al Rey blanco de escapar",
+            "Un movimiento muy familiar"
+          ],
+          "comentariosRival": [
+            "Parece ser que el Rey de las negras llega demasiado tarde",
+            "La casilla f8 es clave para las tablas",
+            "",
+            "Un peón de torre es genial contra un Caballo pero no en este tipo de final de Rey y peón",
+            "",
+            "Este final es tablas debido a las ideas de empate",
+            "",
+            "",
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_177851566937684",
+      "titulo": "Confusión Mutua",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Confusión Mutua",
+          "texto": "El Gran Maestro Andy Soltis escribió en su reciente libro de finales que uno no debe simplificar hacia un final de rey y peones a menos que pueda apostar con total seguridad a su primogénito por el resultado de la partida. En la partida Wolski-Peters, Abierto Americano 1997, las blancas acaban de cambiar torres desde una posición ligeramente superior para llegar a un final de peones poco claro. Yo, jugando con las blancas, anticipé una línea muy larga que terminaba en tablas para las negras solo tras un juego muy preciso. Sin embargo, había pasado por alto un pequeño detalle en mis cálculos. Las negras tienen un peón de ventaja, pero sus peones en d4 y a4 son débiles.",
+          "orientacion": "negra",
+          "fen": "8/2p5/1p1p3k/3P4/p1PpK3/5P2/1P6/8 b - - 0 1",
+          "secuenciaCorrecta": [
+            "h6g5",
+            "e4d4",
+            "g5f4",
+            "d4c3",
+            "b6b5",
+            "c4b5",
+            "f4f3",
+            "c3b4",
+            "f3e4",
+            "b4a4",
+            "e4d5",
+            "b5b6",
+            "c7b6",
+            "a4b5",
+            "d5e4",
+            "b5b6",
+            "d6d5",
+            "b2b4",
+            "d5d4",
+            "b4b5",
+            "d4d3",
+            "b6c7",
+            "d3d2",
+            "b5b6",
+            "d2d1q"
+          ],
+          "comentariosMovimiento": [
+            "activa al rey y apunta al peón blanco en f3.",
+            "se asegura de que las blancas no conserven el peón pasado de la columna f.",
+            "fue jugado de inmediato por el MI Jack Peters. Él pensó que esta era la única jugada para asegurar las tablas para las negras, pero resulta que las negras están ganando ahora. Yo solo había previsto 3...Rxf3, cuando las negras serían capaces de hacer tablas únicamente con la mejor defensa. A veces, cuando uno calcula con mucha anticipación en una línea larga, puede pasar por alto un detalle importante al principio.",
+            "Primero captura el peón",
+            "ataca el peón aislado en d5. Ahora queda claro por qué 3...b5!! fue un movimiento tan brillante. Las negras pronto tendrán un peón pasado en d.",
+            "Captura el peón aislado y gana un peón pasado",
+            "Es forzado",
+            "se aparta del camino del peón d y controla muchas casillas a lo largo de la ruta de avance del peón.",
+            "Pone su peón en marcha",
+            "",
+            "Claramente las negras coronaran primero",
+            "Listos para promocionar",
+            "Las Negras coronan"
+          ],
+          "comentariosRival": [
+            "El Rey negro se adentra en la posición de las blancas.",
+            "Este es el momento mas crítico de la partida",
+            "Los finales de peones estan llenos de sorpresas",
+            "Las negras ahora tienen un plan de victoria muy claro",
+            "Ahora parece engañosamente sencillo.",
+            "El contrajuego de las blancas casi es suficiente para hacer tablas.",
+            "",
+            "Ambos peones estan a 5 pasos de coronar, pero el Rey Blanco esta en el camino de su peón.",
+            "",
+            "El Rey esta en el camino de su peón",
+            "Al jugar finales de rey y peones, es importante saber cómo se comporta una dama contra un peón en séptima fila apoyado por su rey.",
+            "Una dama gana contra un peón pasado de torre en séptima fila apoyado por su rey. Pero si las blancas tuvieran un peón de caballo en su lugar, la posición sería tablas debido a los recursos de ahogado."
+          ]
+        }
+      ]
+    }
+  ]
+}
