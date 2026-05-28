@@ -27,6 +27,14 @@
       "bundleUrl": "cursos/Bobby-teach2.json"
     },
     {
+      "id": "c_1779925430318",
+      "titulo": "Bobby Fisher enseña a jugar Ajedrez Parte 3",
+      "descripcion": "Capitulo 3 del curso para principiantes",
+      "imagenUrl": "https://imgv2-1-f.scribdassets.com/img/document/250052576/original/78cefe5a94/1?v=1",
+      "version": 1,
+      "bundleUrl": "cursos/Bobby-teach3.json"
+    },
+    {
       "id": "c_1778515669205",
       "titulo": "Finales de Peones Chess.com",
       "descripcion": "¡Aprende a jugar finales de peones como un profesional! con IM Eric Tangborn & FM Thomas Wolski",
