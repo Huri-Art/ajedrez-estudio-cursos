@@ -1,0 +1,1109 @@
+{
+  "id": "c_1779925430318",
+  "titulo": "Bobby Fisher enseña a jugar Ajedrez Parte 3",
+  "descripcion": "Capitulo 3 del curso para principiantes",
+  "imagenUrl": "https://imgv2-1-f.scribdassets.com/img/document/250052576/original/78cefe5a94/1?v=1",
+  "lecciones": [
+    {
+      "id": "l_17799254303210",
+      "titulo": "Capitulo 3",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "INFO",
+          "titulo": "Capitulo 3",
+          "texto": "LAS DEFENSAS EN LA ULTIMA FILA Y SUS VARIANTES: Ahora que usted conoce las ideas principales de los mates en la última fila, ya está debidamente preparado para explorar las sutilezas de este nuevo tema. En este capítulo y en los que siguen, le presentaré, en rápida sucesión, diversas formas de mate y de defensa.",
+          "mostrarTablero": false,
+          "orientacion": "blanca"
+        }
+      ]
+    },
+    {
+      "id": "l_17799254303221",
+      "titulo": "Diagrama 125",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "INFO",
+          "titulo": "Diagrama 125",
+          "texto": "",
+          "mostrarTablero": true,
+          "orientacion": "blanca",
+          "fen": "r2r2k1/1p3ppp/2p5/2P3Q1/p7/Pq6/1P2RPPP/4R1K1 w - - 0 1",
+          "pgn": "{Ambas Torres blancas están en situación de dar jaque en el mismo cuadrado de la última fila. Pero las negras tienen dos defensores. Las blancas deben eliminar a uno de esos defensores antes de dar mate.} Qxd8+ {Las blancas se toman la Torre con la Dama, dando jaque.} Rxd8 {La segunda Torre negra está obligada a capturar la Dama} Re8+ {Ahora hay dos Torres blancas contra un solo defensor de la última fila. Las blancas mueven la Torre a la última fila de las negras y dan jaque. El mate es en la próxima jugada.} Rxe8 Rxe8# *"
+        }
+      ]
+    },
+    {
+      "id": "l_17799254303392",
+      "titulo": "Diagrama 126",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 126",
+          "texto": "En esta posición las blancas pueden iniciar una combinación de mate eliminando primero uno de los defensores negros. Indique el primer movimiento de las blancas, en esta combinacrón de mate:",
+          "orientacion": "blanca",
+          "fen": "1k3rr1/ppp5/4p2n/4P2p/2P3q1/8/PP1Q2PB/3R1RK1 w - - 0 1",
+          "secuenciaCorrecta": [
+            "f1f8",
+            "g8f8",
+            "d2d8",
+            "f8d8",
+            "d1d8"
+          ],
+          "comentariosMovimiento": [
+            "Después que las negras capturen la Torre con su Torre, las blancas tendrán suficiente poder para dar mate con su Dama y con la segunda Torre.",
+            "",
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_17799254303453",
+      "titulo": "Diagrama 127",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 127",
+          "texto": "Nuevamente, dibuje una flecha indicando el primer movimiento de las blancas en esta combinación de mate:",
+          "orientacion": "blanca",
+          "fen": "rr5k/6p1/5pPp/3p3P/2p5/2P3Q1/qP2RP2/4R1K1 w - - 0 1",
+          "secuenciaCorrecta": [
+            "g3b8",
+            "a8b8",
+            "e2e8",
+            "b8e8",
+            "e1e8"
+          ],
+          "comentariosMovimiento": [
+            "Cuando la Torre negra tome la Dama, la Torre blanca da jaque, que conduce al mate.",
+            "",
+            ""
+          ],
+          "comentariosRival": [
+            "",
+            "[%cal Re1e8]"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_17799254303454",
+      "titulo": "Diagrama 128",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "QUIZ",
+          "titulo": "Diagrama 128",
+          "texto": "[%cal Rf1f8] Esta es una posiciónn donde las blancas pueden eliminar un defensor de la última fila de las negras pero no ganan nada. Si las negras capturan con la pieza correcta, continuarán existiendo dos contra dos. Si las blancas capturan la Torre negra (tal como se indica), ¿cómo pueden salvarse las negras?",
+          "mostrarTablero": true,
+          "orientacion": "negra",
+          "opciones": [
+            "Tomando la Torre con la Torre ",
+            "Tomando la Torre con la Dama"
+          ],
+          "respuestaCorrecta": "Tomando la Torre con la Dama",
+          "fen": "1k3rr1/ppp3q1/4p2n/4P2p/2P5/8/PP1Q2PB/3R1RK1 w - - 0 1"
+        }
+      ]
+    },
+    {
+      "id": "l_17799254303455",
+      "titulo": "Respuesta:Diagrama 128",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "INFO",
+          "titulo": "Respuesta:Diagrama 128",
+          "texto": "",
+          "mostrarTablero": true,
+          "orientacion": "negra",
+          "fen": "1k3rr1/ppp3q1/4p2n/4P2p/2P5/8/PP1Q2PB/3R1RK1 w - - 0 1",
+          "pgn": "{Esta es una posiciónn donde las blancas pueden eliminar un defensor de la última fila de las negras pero no ganan nada. Si las negras capturan con la pieza correcta, continuarán existiendo dos contra dos. Si las blancas capturan la Torre negra (tal como se indica)} Rxf8 {¿cómo pueden salvarse las negras?} Qxf8 {Tomando la Torre con la Dama.De esa manera continuarán existiendo dos contra dos.} *"
+        }
+      ]
+    },
+    {
+      "id": "l_17799254303456",
+      "titulo": "Diagrama 129",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "QUIZ",
+          "titulo": "Diagrama 129",
+          "texto": "[%cal Rg5d8] En esta posición, si la Dama blanca captura la Torre negra tal como se señala y da jaque, ¿conduce al mate esta jugada? ",
+          "mostrarTablero": true,
+          "orientacion": "negra",
+          "opciones": [
+            "Si",
+            "No"
+          ],
+          "respuestaCorrecta": "No",
+          "fen": "3r3k/6pp/1p6/2p3QP/2Pq4/8/2P3P1/5R1K w - - 0 1"
+        }
+      ]
+    },
+    {
+      "id": "l_17799254303457",
+      "titulo": "Respuesta:Diagrama 129",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "INFO",
+          "titulo": "Respuesta:Diagrama 129",
+          "texto": "",
+          "mostrarTablero": true,
+          "orientacion": "negra",
+          "fen": "3r3k/6pp/1p6/2p3QP/2Pq4/8/2P3P1/5R1K w - - 0 1",
+          "pgn": "{En esta posición, si la Dama blanca captura la Torre negra tal como se señala y da jaque, ¿conduce al mate esta jugada? (A) Si (B) No} Qxd8 {No. La Dama negra captura la Dama blanca y continúa cubriendo la última fila.} Qxd8 {[%cal Rd8f8,Rf1f8]} *"
+        }
+      ]
+    },
+    {
+      "id": "l_17799254303468",
+      "titulo": "Diagrama 130",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "QUIZ",
+          "titulo": "Diagrama 130",
+          "texto": "[%cal Rh4d8] Si la Dama blanca captura la Dama negra (tal como se indica ¿cómo deberían las negras capturarla a su vez? ",
+          "mostrarTablero": true,
+          "orientacion": "negra",
+          "opciones": [
+            "Con el Alfil",
+            "Con la Torre"
+          ],
+          "respuestaCorrecta": "Con la Torre",
+          "fen": "3q2k1/p1b2p1p/6p1/1p6/2p4Q/1P3PP1/PB1r1P2/4R1K1 w - - 0 1"
+        }
+      ]
+    },
+    {
+      "id": "l_17799254303469",
+      "titulo": "Respuesta:Diagrama 130",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "INFO",
+          "titulo": "Respuesta:Diagrama 130",
+          "texto": "",
+          "mostrarTablero": true,
+          "orientacion": "negra",
+          "fen": "3q2k1/p1b2p1p/6p1/1p6/2p4Q/1P3PP1/PB1r1P2/4R1K1 w - - 0 1",
+          "pgn": "{Si la Dama blanca captura la Dama negra (tal como se indica ¿cómo deberían las negras capturarla a su vez? (A) con el Alfil (B) con la Torre} Qxd8+ Rxd8 {Con la Torre.La Torre defiende la ultima fila. Si capturan con el Alfil, se permitiría dar mate a la Torre Blanca} *"
+        }
+      ]
+    },
+    {
+      "id": "l_177992543035010",
+      "titulo": "Diagrama 131",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 131",
+          "texto": "Las blancas tienen posibilidad de dar mate, Pero deben hacer un primer movimiento clave, tienen varias alternativas. Cual es el movimiento correcto?",
+          "orientacion": "blanca",
+          "fen": "r2r2k1/3P1ppp/8/Q7/5B2/5q2/5P1P/4R1K1 w - - 0 1",
+          "secuenciaCorrecta": [
+            "a5d8",
+            "a8d8",
+            "e1e8",
+            "d8e8",
+            "d7e8q"
+          ],
+          "comentariosMovimiento": [
+            "El movimiento correcto, tal como se indica, reduce el número de defensores negros de dos a uno",
+            "",
+            "Un error sería que la Dama blanca capturara la otra Torre, pues ello permitiría a la Dama negra capturar y, de esa manera, reemplazaría a la Torre como guardián de la última fila."
+          ],
+          "comentariosRival": [
+            "A continuación, la Torre blanca puede dar jaque en la última fila, apoyándose en el Peón. Las negras se ven obligadas a capturar la Torre atacante",
+            "El Peón, a su vez, captura y se convierte en una nueva Dama o Torre. Jaque mate."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_177992543035011",
+      "titulo": "Diagrama 132",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "QUIZ",
+          "titulo": "Diagrama 132",
+          "texto": "[%cal Rd6d8] Si las blancas capturan la Torre con la Dama, ¿se produce mate? ",
+          "mostrarTablero": true,
+          "orientacion": "blanca",
+          "opciones": [
+            "Si",
+            "No"
+          ],
+          "respuestaCorrecta": "No",
+          "fen": "3r2k1/pp3ppp/1b1Q4/3p4/5n1q/2PP4/PP3PPP/4RRK1 w - - 0 1"
+        }
+      ]
+    },
+    {
+      "id": "l_177992543035112",
+      "titulo": "Respuesta: Diagrama 132",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "INFO",
+          "titulo": "Respuesta: Diagrama 132",
+          "texto": "",
+          "mostrarTablero": true,
+          "orientacion": "blanca",
+          "fen": "3r2k1/pp3ppp/1b1Q4/3p4/5n1q/2PP4/PP3PPP/4RRK1 w - - 0 1",
+          "pgn": "{Si las blancas capturan la Torre con la Dama, ¿se produce mate? (A) Si (B) No} Qxd8 {No. Después que la Dama blanca tome la Torre, puede ser capturada por la Dama negra, que pasaría a guardar la última fila.} Qxd8 *"
+        }
+      ]
+    },
+    {
+      "id": "l_177992543035113",
+      "titulo": "Diagrama 133",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "QUIZ",
+          "titulo": "Diagrama 133",
+          "texto": "[%cal Re1e8] Si la Torre blanca captura la Torre negra y da jaque, ¿conduce al mate esta posición?",
+          "mostrarTablero": true,
+          "orientacion": "blanca",
+          "opciones": [
+            "Sí",
+            "No"
+          ],
+          "respuestaCorrecta": "Sí",
+          "fen": "2r1r2k/6pp/2b5/pq6/1p6/1B6/PP3QPP/4RRK1 w - - 0 1"
+        }
+      ]
+    },
+    {
+      "id": "l_177992543035114",
+      "titulo": "Respuesta:Diagrama 133",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "INFO",
+          "titulo": "Respuesta:Diagrama 133",
+          "texto": "",
+          "mostrarTablero": true,
+          "orientacion": "blanca",
+          "fen": "2r1r2k/6pp/2b5/pq6/1p6/1B6/PP3QPP/4RRK1 w - - 0 1",
+          "pgn": "{Si la Torre blanca captura la Torre negra y da jaque, ¿conduce al mate esta posición? (A) Sí (B) no} Rxe8 {Si, las blancas darán jaque con su Dama en la última fila negra, después que la Torre negra haya capturado la Torre blanca.)} Rxe8 Qf8+ Rxf8+ Rxf8# *"
+        }
+      ]
+    },
+    {
+      "id": "l_177992543035115",
+      "titulo": "Diagrama 134",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "QUIZ",
+          "titulo": "Diagrama 134",
+          "texto": "[%cal Rd2d8] Si las blancas capturan la Torre negra con una de sus Torres, ¿se produce mate?",
+          "mostrarTablero": true,
+          "orientacion": "blanca",
+          "opciones": [
+            " Sí",
+            "No"
+          ],
+          "respuestaCorrecta": " Sí",
+          "fen": "1r1r2k1/6pp/2n4q/2p1p2Q/pp2N2P/5P2/PPPR2P1/1K1R4 w - - 0 1"
+        }
+      ]
+    },
+    {
+      "id": "l_177992543035116",
+      "titulo": "Respuestas: Diagrama 134",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "INFO",
+          "titulo": "Respuestas: Diagrama 134",
+          "texto": "",
+          "mostrarTablero": true,
+          "orientacion": "blanca",
+          "fen": "1r1r2k1/6pp/2n4q/2p1p2Q/pp2N2P/5P2/PPPR2P1/1K1R4 w - - 0 1",
+          "pgn": "{Si las blancas capturan la Torre negra con una de sus Torres, ¿se produce mate? (A) Sí (B) No} Rxd8+ Rxd8 Rxd8+ Nxd8 Qe8# {¡Sí!. El mate finalmente lo da La Dama blanca. Ensáyelo} *"
+        }
+      ]
+    },
+    {
+      "id": "l_177992543035517",
+      "titulo": "Diagrama 135",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 135",
+          "texto": "A veces es necesario escoger entre capturar un defensor o directamente dar jaque en la última fila.Observe la posición que sigue; luego indique el movimiento clave en la combinación de mate de las blancas:",
+          "orientacion": "blanca",
+          "fen": "qr4k1/3P1ppp/8/4Q3/8/1r6/5PPP/4R1K1 w - - 0 1",
+          "secuenciaCorrecta": [
+            "e5e8",
+            "b8e8",
+            "e1e8",
+            "a8e8",
+            "d7e8q"
+          ],
+          "comentariosMovimiento": [
+            "Las blancas pueden dar jaque directamente en la última fila, pues el Peón blanco apoyará a su Dama en ese cuadrado. Cuando las negras capturen la Dama con su Torre, las blancas pueden escoger: capturan la Torre negra con su Torre o con el Peón (que se convierte en Dama). En ambos casos dan jaque. El mate se produce en la próxima jugada.",
+            "",
+            "Un error sería que la Dama blanca capturara la Torre. Eso reduciría el poder de las blancas y mantendría intacto el de las negras, al capturar la Dama blanca con la segunda Torre negra."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_177992543035718",
+      "titulo": "Diagrama 136",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 136",
+          "texto": "Muestre el movimiento clave de las blancas",
+          "orientacion": "blanca",
+          "fen": "qr4k1/3P1ppp/3Q4/8/r7/8/5PPP/4R1K1 w - - 0 1",
+          "secuenciaCorrecta": [
+            "d6b8",
+            "a8b8",
+            "e1e8",
+            "b8e8",
+            "d7e8q"
+          ],
+          "comentariosMovimiento": [
+            "Esta captura permite a las blancas reducir de dos a uno el poder de las negras.",
+            "Las negras capturan esta Torre con su Dama",
+            ""
+          ],
+          "comentariosRival": [
+            "A continuación las blancas dan jaque con su Torre",
+            "Las blancas toman la Dama con su Peón. Este Peón se convierte en Dama o Torre. Mate"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_177992543035719",
+      "titulo": "Diagrama 137",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "INFO",
+          "titulo": "Diagrama 137",
+          "texto": "",
+          "mostrarTablero": true,
+          "orientacion": "blanca",
+          "fen": "2kr4/1pp1Q3/p5p1/5b1p/B1P5/P7/1q3PPP/4R1K1 w - - 0 1",
+          "pgn": "{Esta es una variación sobre el tema aprendido.Observe cómo dan mate las blancas: Las blancas toman la Torre con la Dama. El Rey negro está obligado a capturar la Dama.} Qxd8+ Kxd8 {El Rey negro ha capturado la Dama blanca. Ahora la Torre blanca, protegida por el Alfil, puede dar mate.} Re8# *"
+        }
+      ]
+    },
+    {
+      "id": "l_177992543035820",
+      "titulo": "Diagrama 138",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "QUIZ",
+          "titulo": "Diagrama 138",
+          "texto": "[%cal Rc5f8] En esta postcton y en las inmediatamente siguientes, el sacrificio de la Dama blanca, que captura la Torre negra, no conduce al mate. Decida usted por qué ocurre esto.¿Por qué la captura de la Torre negra por la Dama blanca no conduce al mate?",
+          "mostrarTablero": true,
+          "orientacion": "blanca",
+          "opciones": [
+            "Las blancas no tienen suficiente poder",
+            "Al final de las combinación de las blancas, las negras tienen una interposición útil",
+            "Al final de la combinación de las blancas, el Rey negro tiene un cuadrado para escapar"
+          ],
+          "respuestaCorrecta": "Las blancas no tienen suficiente poder",
+          "fen": "5rk1/3q1ppp/p1N3r1/1pQp4/3P4/P5N1/1P2RPPP/4R1K1 w - - 0 1"
+        }
+      ]
+    },
+    {
+      "id": "l_177992543035821",
+      "titulo": "Respuesta:Diagrama 138",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "INFO",
+          "titulo": "Respuesta:Diagrama 138",
+          "texto": "",
+          "mostrarTablero": true,
+          "orientacion": "blanca",
+          "fen": "5rk1/3q1ppp/p1N3r1/1pQp4/3P4/P5N1/1P2RPPP/4R1K1 w - - 0 1",
+          "pgn": "{En esta postcton y en las inmediatamente siguientes, el sacrificio de la Dama blanca, que captura la Torre negra, no conduce al mate. Decida usted por qué ocurre esto.¿Por qué la captura de la Torre negra por la Dama blanca no conduce al mate? (A) Las blancas no tienen suficiente poder (B) Al final de las combinación de las blancas, las negras tienen una interposición útil (C) Al final de la combinación de las blancas, el Rey negro tiene un cuadrado para escapar} Qxf8 {Las blancas no tienen suficiente poder. Después que el Rey toma la Dama} Kxf8 {las negras tendrán la Dama y el Rey contra dos Torres, o sea, dos contra dos. Queda paralizado el mate en la última fila.} *"
+        }
+      ]
+    },
+    {
+      "id": "l_177992543035822",
+      "titulo": "Diagrama 139",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "INFO",
+          "titulo": "Diagrama 139",
+          "texto": "[%cal Rd6f8] La Dama blanca captura la Torre negra, ¿por qué este movimiento no conduce al mate? (A) Las blancas no tienen suficiente poder (B) Al final de la combinación de las blancas, las negras tienen una interposición útil (C) Al final de la combinación blanca, el Rey negro tiene un cuadrado para escapar",
+          "mostrarTablero": true,
+          "orientacion": "blanca",
+          "fen": "5rk1/1p3ppp/q1pQ4/8/8/8/1PP2PPP/3R2K1 w - - 0 1"
+        }
+      ]
+    },
+    {
+      "id": "l_177992543035823",
+      "titulo": "Respuesta: Diagrama 139",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "INFO",
+          "titulo": "Respuesta: Diagrama 139",
+          "texto": "",
+          "mostrarTablero": true,
+          "orientacion": "blanca",
+          "fen": "5rk1/1p3ppp/q1pQ4/8/8/8/1PP2PPP/3R2K1 w - - 0 1",
+          "pgn": "{La Dama blanca captura la Torre negra, ¿por qué este movimiento no conduce al mate? (A) Las blancas no tienen suficiente poder (B) Al final de la combinación de las blancas, las negras tienen una interposición útil (C) Al final de la combinación blanca, el Rey negro tiene un cuadrado para escapar} Qxf8+ Kxf8 Rd8+ {Al final de la combinación blanca, el Rey negro tiene un cuadrado para escapar.} Ke7 *"
+        }
+      ]
+    },
+    {
+      "id": "l_177992543035824",
+      "titulo": "Diagrama 140",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "QUIZ",
+          "titulo": "Diagrama 140",
+          "texto": "[%cal Rc2c8] ¡Este puede ser engañador! La Dama blanca captura la Torre negra y da jaque. ¿Por qué este movimiento no conduce al mate? ",
+          "mostrarTablero": true,
+          "orientacion": "blanca",
+          "opciones": [
+            "Las blancas no tienen suficiente poder",
+            "Al final de la combinación blanca, las negras tienen una interposición útil",
+            "Al final de la combinación blanca, el Rey negro tiene un cuadrado para escapar"
+          ],
+          "respuestaCorrecta": "Al final de la combinación blanca, las negras tienen una interposición útil",
+          "fen": "2r3k1/5ppp/1p1n4/p6n/Pb6/1P6/2Q2PPP/4R1K1 w - - 0 1"
+        }
+      ]
+    },
+    {
+      "id": "l_177992543035825",
+      "titulo": "Respuesta: Diagrama 140",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "INFO",
+          "titulo": "Respuesta: Diagrama 140",
+          "texto": "",
+          "mostrarTablero": true,
+          "orientacion": "blanca",
+          "fen": "2r3k1/5ppp/1p1n4/p6n/Pb6/1P6/2Q2PPP/4R1K1 w - - 0 1",
+          "pgn": "{¡Este puede ser engañador! La Dama blanca captura la Torre negra y da jaque. ¿Por qué este movimiento no conduce al mate? (A) Las blancas no tienen suficiente poder (B) Al final de la combinación blanca, las negras tienen una interposición útil (C) Al final de la combinación blanca, el Rey negro tiene un cuadrado para escapar} Qxc8+ Nxc8 Re8+ Bf8 {Al final de la combinación blanca, las negras tienen una interposición útil. (La captura de la Dama blanca por el Caballo negro, deja al Alfil negro en posición de interponerse.)} *"
+        }
+      ]
+    },
+    {
+      "id": "l_177992543035826",
+      "titulo": "Diagrama 141",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "QUIZ",
+          "titulo": "Diagrama 141",
+          "texto": "[%cal Rd8f8] La Torre blanca captura la Torre negra. ¿Conduce al mate esta combinación?",
+          "mostrarTablero": true,
+          "orientacion": "blanca",
+          "opciones": [
+            "Si",
+            "No"
+          ],
+          "respuestaCorrecta": "Si",
+          "fen": "2bR1rk1/1p3pp1/2p4p/6r1/p5q1/2P5/PPB2PPP/3RQ1K1 w - - 0 1"
+        }
+      ]
+    },
+    {
+      "id": "l_177992543035827",
+      "titulo": "Respuesta:Diagrama 141",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "INFO",
+          "titulo": "Respuesta:Diagrama 141",
+          "texto": "",
+          "mostrarTablero": true,
+          "orientacion": "blanca",
+          "fen": "2bR1rk1/1p3pp1/2p4p/6r1/p5q1/2P5/PPB2PPP/3RQ1K1 w - - 0 1",
+          "pgn": "{La Torre blanca captura la Torre negra. ¿Conduce al mate esta combinación? (A) Si (B) No} Rxf8+ Kxf8 Rd8# {Sí.Después que el Rey toma la Torre, las blancas dan mate con su segunda Torre en la última fila.} *"
+        }
+      ]
+    },
+    {
+      "id": "l_177992543035828",
+      "titulo": "Diagrama 142",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "QUIZ",
+          "titulo": "Diagrama 142",
+          "texto": "[%cal Rg8e8,Gh7h6,Gh6h5] Antes de continuar examinando otras variantes de mate, veamos algunos problemas de la defensa. Las blancas amenazan capturar la Torre negra con su Torre para luego dar mate. Le corresponde jugar a las negras. Sorprendentemente, las negras tienen una sola defensa:",
+          "mostrarTablero": true,
+          "orientacion": "blanca",
+          "opciones": [
+            "La Torre toma la Torre (ver flecha)",
+            " El Peón avanza uno o dos cuadrados (ver flecha)"
+          ],
+          "respuestaCorrecta": " El Peón avanza uno o dos cuadrados (ver flecha)",
+          "fen": "4R1rk/5p1p/5Pp1/6r1/8/8/6PP/4R2K w - - 0 1"
+        }
+      ]
+    },
+    {
+      "id": "l_177992543035929",
+      "titulo": "Respuesta:Diagrama 142",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "INFO",
+          "titulo": "Respuesta:Diagrama 142",
+          "texto": "",
+          "mostrarTablero": true,
+          "orientacion": "blanca",
+          "fen": "4R1rk/5p1p/5Pp1/6r1/8/8/6PP/4R2K w - - 0 1",
+          "pgn": "{[%cal Rg8e8,Gh7h6,Gh6h5]} {Antes de continuar examinando otras variantes de mate, veamos algunos problemas de la defensa. Las blancas amenazan capturar la Torre negra con su Torre para luego dar mate. Le corresponde jugar a las negras. Sorprendentemente, las negras tienen una sola defensa: (A) la Torre toma la Torre (ver flecha) (B) el Peón avanza uno o dos cuadrados (ver flecha)} h6 {El Peón avanza uno o dos cuadrados. (SI las negras toman la Torre con la Torre, las blancas les dan mate. Si las negras mueven su Torre libre [no clavada] un cuadrado, las blancas capturan la Torre con la Torre, dando jaque. Y, a continuación, mate con la otra Torre. La única defensa negra es crear un cuadrado de escape, mediante el avance del Peón.)} *"
+        }
+      ]
+    },
+    {
+      "id": "l_177992543035930",
+      "titulo": "Diagrama 143",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "QUIZ",
+          "titulo": "Diagrama 143",
+          "texto": "[%cal Re6c8] La Dama blanca captura la Torre y da jaque (como se indica). El único movimiento salvador de las negras es capturar con:",
+          "mostrarTablero": true,
+          "orientacion": "blanca",
+          "opciones": [
+            "Su Rey",
+            "Su Torre."
+          ],
+          "respuestaCorrecta": "Su Torre.",
+          "fen": "1kr2r2/p1p5/1pP1Q3/1P5p/5qp1/7P/4RPP1/4R1K1 w - - 0 1"
+        }
+      ]
+    },
+    {
+      "id": "l_177992543035931",
+      "titulo": "Respuesta: Diagrama 143",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "INFO",
+          "titulo": "Respuesta: Diagrama 143",
+          "texto": "",
+          "mostrarTablero": true,
+          "orientacion": "blanca",
+          "fen": "1kr2r2/p1p5/1pP1Q3/1P5p/5qp1/7P/4RPP1/4R1K1 w - - 0 1",
+          "pgn": "{La Dama blanca captura la Torre y da jaque (como se indica). El único movimiento salvador de las negras es capturar con: (A) su Rey (B) su Torre.} Qxc8+ Rxc8 {Su Torre.Las negras estarían mate si capturaran con su Rey: la Torre blanca da jaque, la Torre toma la Torre, la Torre toma la Torre. Mate.} *"
+        }
+      ]
+    },
+    {
+      "id": "l_177992543035932",
+      "titulo": "Diagrama 144 (A)",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "INFO",
+          "titulo": "Diagrama 144 (A)",
+          "texto": "Sorprendentemente, en esta posición las blancas no pueden dar mate. No importa qué Torre capturen. A pesar que ellas parecen desconectadas, las Torres negras se protegen recíprocamente.",
+          "mostrarTablero": true,
+          "orientacion": "blanca",
+          "fen": "1r1R1r1k/6pp/8/8/8/8/6PP/3R4 w - - 0 1"
+        }
+      ]
+    },
+    {
+      "id": "l_177992543035933",
+      "titulo": "Diagrama 144 (B)",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "INFO",
+          "titulo": "Diagrama 144 (B)",
+          "texto": "",
+          "mostrarTablero": true,
+          "orientacion": "blanca",
+          "fen": "3r3k/6pp/8/5r2/8/8/6PP/3R2K1 w - - 0 1",
+          "pgn": "{Sin embargo, en esta posición si el turno de jugar es de las blancas, ellas tienen un mate fácil} Rxd8+ Rf8 Rxf8# *"
+        }
+      ]
+    },
+    {
+      "id": "l_177992543035934",
+      "titulo": "Diagrama 144 (C)",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "INFO",
+          "titulo": "Diagrama 144 (C)",
+          "texto": "",
+          "mostrarTablero": true,
+          "orientacion": "negra",
+          "fen": "r1Q3k1/1p3ppp/p7/n2p3q/3Nr3/P3P3/1P3PPP/2RR2K1 w - - 0 1",
+          "pgn": "{[%cal Re4e8]} {¿Cómo pueden defenderse las negras en esta posición? No pueden capturar la Dama con la Torre, pero pueden interponer la Torre} Re8 *"
+        }
+      ]
+    },
+    {
+      "id": "l_177992543036035",
+      "titulo": "Diagrama 145",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 145",
+          "texto": "Indique cómo las negras se salvan del jaque mate",
+          "orientacion": "negra",
+          "fen": "r1Q4k/p5pp/1p2p2r/3p1p1q/3Pn3/1P2P1P1/P4PBP/2R2RK1 b - - 0 1",
+          "secuenciaCorrecta": [
+            "h5e8"
+          ],
+          "comentariosMovimiento": [
+            "la única defensa"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_177992543036036",
+      "titulo": "Diagrama 146",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 146",
+          "texto": "Indique la defensa correcta de las negras",
+          "orientacion": "negra",
+          "fen": "r1Q4k/1p4pp/1pr5/8/P4R2/8/6PP/5R1K b - - 0 1",
+          "secuenciaCorrecta": [
+            "c6c8"
+          ],
+          "comentariosMovimiento": [
+            "la captura de la Dama por la otra Torre dejaría sólo un defensor en la última fila frente a dos atacantes"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_177992543036137",
+      "titulo": "Diagrama 147",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 147",
+          "texto": "Cual es el movimiento salvador de las negras",
+          "orientacion": "negra",
+          "fen": "r1R4k/pp4pp/3r1p2/3pp3/3P4/P3P2P/1P3PP1/2R3K1 b - - 0 1",
+          "secuenciaCorrecta": [
+            "d6d8"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_177992543036138",
+      "titulo": "Diagrama 148",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 148",
+          "texto": "Este es un poco distinto. Indique la defensa correcta de las negras:",
+          "orientacion": "negra",
+          "fen": "1r1R2k1/2b2pp1/7p/8/8/6P1/2B2P1P/4R1K1 b - - 0 1",
+          "secuenciaCorrecta": [
+            "b8d8"
+          ],
+          "comentariosMovimiento": [
+            "La captura de la Torre protege la última fila."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_177992543036239",
+      "titulo": "Diagrama 149",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 149",
+          "texto": "Indique la defensa correcta de las negras",
+          "orientacion": "negra",
+          "fen": "1kR1r3/ppp2p2/q1b2B2/8/4p3/P3P3/1PPR4/2KQ4 b - - 0 1",
+          "secuenciaCorrecta": [
+            "e8c8"
+          ],
+          "comentariosMovimiento": [
+            "La captura de la Torre blanca por el Rey negro conduciría al mate, después del jaque de la Torre blanca."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_177992543036240",
+      "titulo": "Diagrama 150",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 150",
+          "texto": "indica la defensa salvadora de las negras",
+          "orientacion": "negra",
+          "fen": "2R3k1/1p3pp1/7p/p2p4/1n1P4/5NPb/PP2rP1P/1B4K1 b - - 0 1",
+          "secuenciaCorrecta": [
+            "h3c8"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_177992543036241",
+      "titulo": "Diagrama 151",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "QUIZ",
+          "titulo": "Diagrama 151",
+          "texto": "Ahora se le preguntará a usted si las blancas pueden dar mate en la última fila, aplicando los conocimienientos aprendidos por usted hasta aquí. ¿Pueden producir mate las blancas? ",
+          "mostrarTablero": true,
+          "orientacion": "blanca",
+          "opciones": [
+            "Si",
+            "No"
+          ],
+          "respuestaCorrecta": "Si",
+          "fen": "5rk1/p1p2ppp/2B2p2/PP3b2/1QP5/3q2P1/5P1P/4R1K1 w - - 0 1"
+        }
+      ]
+    },
+    {
+      "id": "l_177992543036542",
+      "titulo": "Diagrama 151 (Mov)",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 151 (Mov)",
+          "texto": "Ahora se le preguntará a usted si las blancas pueden dar mate en la última fila, aplicando los conocimienientos aprendidos por usted hasta aquí. ¿Pueden producir mate las blancas? (A) Si (B) No. Cual es el movimiento Clave?",
+          "orientacion": "blanca",
+          "fen": "5rk1/p1p2ppp/2B2p2/PP3b2/1QP5/3q2P1/5P1P/4R1K1 w - - 0 1",
+          "secuenciaCorrecta": [
+            "b4f8",
+            "g8f8",
+            "e1e8"
+          ],
+          "comentariosMovimiento": [
+            "(El sacrificio de la Dama blanca, será seguido del mate de la Torre blanca en la última fila.",
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_177992543036543",
+      "titulo": "Diagrama 152",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "QUIZ",
+          "titulo": "Diagrama 152",
+          "texto": "En esta posición:",
+          "mostrarTablero": true,
+          "orientacion": "blanca",
+          "opciones": [
+            "Las blancas pueden dar mate",
+            "Las blancas no pueden dar mate"
+          ],
+          "respuestaCorrecta": "Las blancas no pueden dar mate",
+          "fen": "r5k1/5ppp/3p4/p1bP4/8/1Q3P2/PR3PKP/4q3 w - - 0 1"
+        }
+      ]
+    },
+    {
+      "id": "l_177992543036544",
+      "titulo": "Respuesta: Diagrama 152",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "INFO",
+          "titulo": "Respuesta: Diagrama 152",
+          "texto": "",
+          "mostrarTablero": true,
+          "orientacion": "blanca",
+          "fen": "r5k1/5ppp/3p4/p1bP4/8/1Q3P2/PR3PKP/4q3 w - - 0 1",
+          "pgn": "{En esta posición: (A) las blancas pueden dar mate (B) las blancas no pueden dar mate. Cual es el Movimiento clave?} Qb8+ {Las blancas no pueden dar mate. Después del jaque de la Dama blanca, se interpone la Dama negra.} Qe8 *"
+        }
+      ]
+    },
+    {
+      "id": "l_177992543036545",
+      "titulo": "Diagrama 153",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "QUIZ",
+          "titulo": "Diagrama 153",
+          "texto": "¿Pueden dar mate las blancas?",
+          "mostrarTablero": true,
+          "orientacion": "blanca",
+          "opciones": [
+            "Si",
+            "No"
+          ],
+          "respuestaCorrecta": "Si",
+          "fen": "qr4k1/5pp1/7p/4Q3/n1p5/1r4P1/1P2RP1P/1B2R1K1 w - - 0 1"
+        }
+      ]
+    },
+    {
+      "id": "l_177992543036846",
+      "titulo": "Diagrama 153 (Mov)",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 153 (Mov)",
+          "texto": "¿Pueden dar mate las blancas? (A) Sí (B) No. Cual es el movimiento Clave",
+          "orientacion": "blanca",
+          "fen": "qr4k1/5pp1/7p/4Q3/n1p5/1r4P1/1P2RP1P/1B2R1K1 w - - 0 1",
+          "secuenciaCorrecta": [
+            "e5e8",
+            "b8e8",
+            "e2e8",
+            "a8e8",
+            "e1e8"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_177992543036847",
+      "titulo": "Diagrama 154",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "QUIZ",
+          "titulo": "Diagrama 154",
+          "texto": "En esta posición:",
+          "mostrarTablero": true,
+          "orientacion": "blanca",
+          "opciones": [
+            "Las blancas pueden dar mate",
+            "Las blancas no pueden dar mate."
+          ],
+          "respuestaCorrecta": "Las blancas pueden dar mate",
+          "fen": "1r1r2k1/1p3ppb/p1p4p/2P5/P7/1q6/4QPPP/B2RR1K1 w - - 0 1"
+        }
+      ]
+    },
+    {
+      "id": "l_177992543037348",
+      "titulo": "Diagrama 154 (Mov)",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 154 (Mov)",
+          "texto": "En esta posición: (A) las blancas pueden dar mate (B) las blancas no pueden dar mate.",
+          "orientacion": "blanca",
+          "fen": "1r1r2k1/1p3ppb/p1p4p/2P5/P7/1q6/4QPPP/B2RR1K1 w - - 0 1",
+          "secuenciaCorrecta": [
+            "d1d8",
+            "b8d8",
+            "e2e8",
+            "d8e8",
+            "e1e8"
+          ],
+          "comentariosMovimiento": [
+            "Las blancas pueden dar mate. Las blancas reducen el número de defensores de la última fila de las negras. Así consiguen suficiente poder para dar mate.",
+            "",
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_177992543037349",
+      "titulo": "Diagrama 155",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "QUIZ",
+          "titulo": "Diagrama 155",
+          "texto": "En esta posición:",
+          "mostrarTablero": true,
+          "orientacion": "blanca",
+          "opciones": [
+            "Las blancas pueden dar mate",
+            "Las blancas no pueden dar mate"
+          ],
+          "respuestaCorrecta": "Las blancas no pueden dar mate",
+          "fen": "q5rk/2p3p1/5pPp/3Qn3/4P2P/r7/PRP5/KR6 w - - 0 1"
+        }
+      ]
+    },
+    {
+      "id": "l_177992543037450",
+      "titulo": "Respuesta:Diagrama 155",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "INFO",
+          "titulo": "Respuesta:Diagrama 155",
+          "texto": "",
+          "mostrarTablero": true,
+          "orientacion": "blanca",
+          "fen": "q5rk/2p3p1/5pPp/3Qn3/4P2P/r7/PRP5/KR6 w - - 0 1",
+          "pgn": "{En esta posición: (A) las blancas pueden dar mate (B) las blancas no pueden dar mate} Qxg8+ {Las blancas no pueden dar mate. Después que la Dama blanca toma la Torre y da jaque, las negras pueden defenderse capturando la Dama con la Dama} Qxg8 {Si las blancas, en cambio, intentan el camino de capturar la Dama negra con su Dama, las negras deben capturar la Dama con la Torre del extremo izquierdo. Si, por error, capturan la Dama blanca con la Torre que está junto al Rey, las blancas conseguirían suficiente poder para dar mate} *"
+        }
+      ]
+    },
+    {
+      "id": "l_177992543037451",
+      "titulo": "Diagrama 156",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "QUIZ",
+          "titulo": "Diagrama 156",
+          "texto": "En esta posición:",
+          "mostrarTablero": true,
+          "orientacion": "blanca",
+          "opciones": [
+            "Las blancas pueden dar mate",
+            "Las blancas no pueden dar mate"
+          ],
+          "respuestaCorrecta": "Las blancas pueden dar mate",
+          "fen": "3r2k1/pp3ppp/2n3q1/2pQ4/2P5/1P6/P5PP/4R1K1 w - - 0 1"
+        }
+      ]
+    },
+    {
+      "id": "l_177992543037552",
+      "titulo": "Diagrama 156 (Mov)",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 156 (Mov)",
+          "texto": "En esta posición: (A) las blancas pueden dar mate (B) las blancas no pueden dar mate. Cual es el movimiento clave?",
+          "orientacion": "blanca",
+          "fen": "3r2k1/pp3ppp/2n3q1/2pQ4/2P5/1P6/P5PP/4R1K1 w - - 0 1",
+          "secuenciaCorrecta": [
+            "d5d8",
+            "c6d8",
+            "e1e8"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_177992543037553",
+      "titulo": "Diagrama 157",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "QUIZ",
+          "titulo": "Diagrama 157",
+          "texto": "En esta posición:",
+          "mostrarTablero": true,
+          "orientacion": "blanca",
+          "opciones": [
+            "Las blancas pueden dar mate",
+            "Las blancas no pueden dar mate"
+          ],
+          "respuestaCorrecta": "Las blancas no pueden dar mate",
+          "fen": "4r1k1/1p3ppp/2b5/5n2/pp6/8/P4PPP/2R1R1K1 w - - 0 1"
+        }
+      ]
+    },
+    {
+      "id": "l_177992543037554",
+      "titulo": "Respuesta: Diagrama 157",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "INFO",
+          "titulo": "Respuesta: Diagrama 157",
+          "texto": "",
+          "mostrarTablero": true,
+          "orientacion": "blanca",
+          "fen": "4r1k1/1p3ppp/2b5/5n2/pp6/8/P4PPP/2R1R1K1 w - - 0 1",
+          "pgn": "{En esta posición: (A) las blancas pueden dar mate (B) las blancas no pueden dar mate} Rxe8+ Bxe8 {Las blancas no pueden dar mate} *"
+        }
+      ]
+    },
+    {
+      "id": "l_177992543037655",
+      "titulo": "Diagrama 158",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 158",
+          "texto": "¡Este es un mate en la última fila lateral!.Indique la manera cómo las blancas dan mate:",
+          "orientacion": "blanca",
+          "fen": "4r2b/5R2/p5p1/1p4P1/1P2p3/2P2P1k/1P3B2/5K2 w - - 0 1",
+          "secuenciaCorrecta": [
+            "f7h7"
+          ],
+          "comentariosMovimiento": [
+            "Este ejemplo está tomado de mi partida con Reshevsky [negras] jugada en Nueva York, 1962. Mi opamente ha ganado el Campeonato de los Estados Unidos varias veces. En la práctica, yo desperdicié esta oportunidad, pero gané la partida de todas maneras"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_177992543037756",
+      "titulo": "Resumen",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Resumen",
+          "texto": "Defensas y variantes en la última fila En este capítulo usted pudo ver combinaciones de mate más difíciles, como sistema de defensa más complicados. Se le demostró que a veces no basta disponer de suficiente poder en piezas, sino que es necesario previamente eliminar defensores en la última fila. Usted ha robustecido su comprensión de varios aspectos de la defensa. incluyendo la situación de las Torres desconectadas. También debe usted prestar atención a las posibilidades de mate en las filas laterales y no preocuparse exclusivamente de los mates en la última fila. Aquí va otro ejemplo, tomado de mi partida con Pilnik (negras) en 1959:",
+          "orientacion": "blanca",
+          "fen": "6rk/pp5n/5PpQ/3q2P1/4p3/2P3R1/PP4RK/8 w - - 0 1",
+          "secuenciaCorrecta": [
+            "h6h7",
+            "h8h7",
+            "g3h3"
+          ],
+          "comentariosMovimiento": [
+            "las blancas capturan el Caballo con la Dama y dan jaque.",
+            "La Torre blanca se mueve un cuadrado hacia la derecha. ¡Mate! ESTE ES El FINAL DEL CAPITULO 3"
+          ],
+          "comentariosRival": [
+            "El Rey negro toma la Dama."
+          ]
+        }
+      ]
+    }
+  ]
+}
