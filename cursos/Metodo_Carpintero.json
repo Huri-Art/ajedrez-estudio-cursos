@@ -1,0 +1,5195 @@
+{
+  "id": "c_1780082111134",
+  "titulo": "El Metodo Pajaro Carpintero",
+  "descripcion": "Sistema intensivo de entrenamiento de ajedrez, creado por los Grandes Maestros Axel Smith y Hans Tikkanen. Consiste en resolver repetidamente una gran selección de problemas tácticos.",
+  "imagenUrl": "https://imgv2-2-f.scribdassets.com/img/document/882244415/original/1f4cfbce5a/1?v=1",
+  "lecciones": [
+    {
+      "id": "l_17800821111360",
+      "titulo": "El Metodo Pajaro Carpintero",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "INFO",
+          "titulo": "El Metodo Pajaro Carpintero",
+          "texto": "El método del pájaro carpintero Por Axel Smith y Hans Tikkanen “Debes llevar a tu oponente a un profundo y oscuro bosque donde 2+2=5, y el camino de salida sólo es lo suficientemente ancho para uno”. -Mikhail Tal-.",
+          "mostrarTablero": false,
+          "orientacion": "blanca"
+        }
+      ]
+    },
+    {
+      "id": "l_17800821111361",
+      "titulo": "Guía de inicio rápido",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "INFO",
+          "titulo": "Guía de inicio rápido",
+          "texto": "Entonces, ¿quieres sumergirte y empezar a resolver sin leer nada del texto introductorio ahora o incluso en absoluto? Ese es el espíritu: animamos a todo el mundo a enfrentarse a los rompecabezas lo antes posible y a leer sobre la historia y la filosofía del método cuando quiera tomarse un descanso. Si se inclina por el Inicio Rápido, tiene dos métodos principales para trabajar con este libro.",
+          "mostrarTablero": false,
+          "orientacion": "blanca"
+        }
+      ]
+    },
+    {
+      "id": "l_17800821111362",
+      "titulo": "Resolución general",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "INFO",
+          "titulo": "Resolución general",
+          "texto": "Opción 1 - Resolución general Si ha comprado este libro para practicar los ejercicios de forma habitual, vaya a la página 32 y y comience a resolver los 1128 ejercicios que hemos preparado para usted. Están reunidos en tres niveles generales de dificultad. Sin embargo, una breve advertencia: según nuestras preferencias personales, no todas las combinaciones son \"jugar y ganar\". La tarea consiste en encontrar la mejor jugada (y sus variantes) y la mejor jugada puede ser, por ejemplo, forzar las tablas, obtener una ligera ventaja o incluso evitar caer en una contra-táctica en una combinación aparentemente obvia. Buena suerte y que te diviertas.",
+          "mostrarTablero": false,
+          "orientacion": "blanca"
+        }
+      ]
+    },
+    {
+      "id": "l_17800821111363",
+      "titulo": "Inicio rápido 2",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "INFO",
+          "titulo": "Inicio rápido 2",
+          "texto": "Inicio rápido 2 El método pájaro carpintero Si desea entrenar utilizando el Método pájaro carpintero, tal como se defiende en este libro, hay algunas cosas que debes saber antes de empezar: 1. La idea general del Método es desarrollar el reconocimiento intuitivo/automático de patrones a través de la resolución repetitiva de los mismos ejercicios de forma cíclica. 2. Como ya sabrás, o habrás adivinado por la descripción anterior, el Método pájaro carpintero es bastante agotador y no es para todo el mundo. Aunque creemos que la mayoría de los jugadores podrían beneficiarse mucho de él, la cuestión es si el tiempo y la energía podrían emplearse mejor en mejorar otra parte de su juego. Para mí (Tikkanen), el uso de este método me dio un tremendo aumento y estabilidad en los problemas de tiempo, mejoró bastante mi visión táctica y redujo significativamente mi tasa de errores. Estoy muy contento de haberlo hecho, pero no lo repetiré en un futuro próximo; por ahora, he hecho lo suficiente. Si decide que este método puede ser para usted y desea probarlo, le deseamos lo mejor - que sus resultados reflejen su esfuerzo! 3. Para sacar el máximo provecho de su entrenamiento con el pájaro carpintero, por favor, eche un vistazo a las instrucciones en la página 26 antes de empezar.",
+          "mostrarTablero": false,
+          "orientacion": "blanca"
+        }
+      ]
+    },
+    {
+      "id": "l_17800821111374",
+      "titulo": "Historia del pájaro carpintero",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "INFO",
+          "titulo": "Historia del pájaro carpintero",
+          "texto": "El nombre del Método Pájaro carpintero no fue inventado por mí, pero fue influenciado por mí e inventado por mi coautor, el GM Axel Smith. Viene de una traducción que he oído de mi apellido finlandés, Tikkanen, que se supone que significa \"pequeño pájaro carpintero\". Junto con la naturaleza repetitiva del método, parece apropiado, aunque el crédito de muchas de las ideas que sustentan el método. Mientras desarrollaba y utilizaba el método, no recordaba de dónde procedían las ideas básicas. Cuando el método ganó un poco más de audiencia después de que lograra tres normas GM y no pude resistirme a las preguntas sobre mi formación, me di cuenta de la similitud con Michael de la Maza y su método de los \"Siete Círculos\" del libro Rapid Chess Improvement - A Study Plan for Adult players. Yo reconocí el nombre y, efectivamente, lo había leído durante mi época preprofesional, cuando años leyendo todo lo que podía conseguir sobre las interacciones de la conciencia humana, el cerebro y el ajedrez. conciencia humana, el cerebro y el ajedrez. Esto se hizo por curiosidad y también para averiguar cómo influir en mi forma de jugar y entrenar al ajedrez. Creo que me olvidé de ese libro debido de su enfoque exclusivo en jugadores adultos (básicamente adultos principiantes), y lo que consideré sus afirmaciones excesivamente seguras con poca o dudosa evidencia de apoyo, y otros defectos (una reseña de Jeremy Silman ofrecía una opinión aún más dura). Aunque mi fascinación por el tema relativamente desconocido de la conciencia y el cerebro humano (y de hecho fue una de las principales motivaciones para poner fin a mi intermezzo como profesional del ajedrez y comenzar mis estudios de psicología), me parece que está más allá del alcance de un libro de tácticas de ajedrez y, además, muy especulativo. En cualquier caso, una de las conclusiones que saqué de mi lectura fue que una enorme cantidad de actividad ocurre, por debajo del inconscientemente y que esto debería reflejarse razonablemente en mi enfoque del ajedrez. Yo antes (en un nivel mayormente inconsciente, estoy seguro) había desestimado este tipo de de pensamientos, y de hecho mi estilo en el tablero de ajedrez solía ser esforzado y concreto más que intuitivo. Ahora diría que entonces confiaba inconscientemente en mi intuición para encontrar las jugadas correctas en el proceso de verificación consciente que me parecía todo lo que había. \"Cálculo, cálculo, cálculo!\" era mi lema. Con mi posterior lectura de la literatura psicológica, me di cuenta de que realmente existe la intuición y me volví mucho más consciente de las partes inconscientes de mi enfoque.",
+          "mostrarTablero": false,
+          "orientacion": "blanca"
+        }
+      ]
+    },
+    {
+      "id": "l_17800821111375",
+      "titulo": "Poniendo todo en orden",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "INFO",
+          "titulo": "Poniendo todo en orden",
+          "texto": "Armado con mis nuevos conocimientos, me esforcé por encontrar o desarrollar métodos de entrenamiento y pensamiento para mi uso personal. El más exitoso fue el Método del Pájaro Carpintero (aunque entonces no nombre pegadizo), que utilicé ampliamente durante la primavera de 2010. Mi propia experiencia con el método puede ser de interés para algunos, así que aquí va. En primer lugar, decidí las reglas generales del método. Resolvería un conjunto de mil ejercicios (de varios libros de problemas) durante el tiempo que fuera necesario. Una vez completado el conjunto, me tomaría un descanso y repetía el proceso una y otra vez, cada vez más rápido. Comprobaba mis soluciones que aparecían en la contraportada del libro y las comprobaba con el ordenador en los casos en que no me creía del todo la solución proporcionada por el autor. (La frustración que siento cuando un ejercicio no tiene sentido ha servido de gran motivación para que las soluciones de este libro sean lo más precisas como sea posible). Al ser un profesional del ajedrez, tenía muy pocos compromisos que me distrajeran de trabajar duro en la resolución. Por supuesto, resolver ejercicios de esta manera es un trabajo realmente duro, así que la mayoría de los días no conseguía trabajar ocho horas completas, pero a veces lo hacía. Una vez que llegué al final del conjunto de 1000, me tomaba un merecido descanso, que iba desde un día completo hasta más de una semana. No hice ningún otro trabajo de ajedrez durante estos periodos de descanso, excepto jugar un poco. En cada ciclo de resolución, mi objetivo era reducir a la mitad el tiempo total de resolución de los mil ejercicios del ciclo anterior. Al final conseguí resolver todos los rompecabezas en un solo día –aunque no en ocho horas–. Al principio, tenía la intención de repetir todo el proceso cada seis semanas. Sin embargo, más tarde decidí que \"repetir una serie de 1000 ejercicios antes de un torneo serio\" era más realista. No hace falta que diga que el proceso era exigente, pero tenía mucha motivación –en parte por la frustración acumulada por haber perdido partidas importantes–, pero también porque estaba probar mi propio método. Aunque fue duro para mí, uno de los libros recibió una paliza aún mayor, ya que se deshizo por completo a causa de la repetida resolución de los problemas.",
+          "mostrarTablero": false,
+          "orientacion": "blanca"
+        }
+      ]
+    },
+    {
+      "id": "l_17800821111376",
+      "titulo": "Resultados del entrenamiento",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "INFO",
+          "titulo": "Resultados del entrenamiento",
+          "texto": "Como ya he mencionado, me entrené con el Método Pájaro Carpintero en la primavera de 2010. Ese verano logré tres normas GM y superé la barrera de los 2500, todo ello en un periodo de siete semanas. Los efectos positivos no se detuvieron ahí: al año siguiente, mi puntuación en vivo alcanzó brevemente un máximo de 2601. En mi experiencia, los resultados tan rápidos de cualquier tipo de entrenamiento de ajedrez son raros, pero para mí el Método Pájaro Carpintero parecía ser justo lo que el médico había recetado. La mayor agudeza táctica y la consistencia que se produjo al trabajar tanto con el método disminuyó significativamente mis errores y me hizo tener más confianza en el tablero. ¿Habría conseguido la misma mejora con otro tipo de entrenamiento? No es imposible -pero mi fuerza de juego no había dado ningún salto significativo en años-, así que no sabía qué hacer de forma diferente para tener éxito. Aunque el Método Pájaro Carpintero probablemente no era la única manera de elevar mi juego, ciertamente demostró ser una manera. La intersección de mi interés por la mente humana y mi motivación para dejar de errar seguramente me ayudó a dedicar más tiempo y esfuerzo de los que habría dedicado a mi entrenamiento habitual. Tras mi extraordinario éxito con el Método Pájaro Carpintero, intenté ir un paso más allá y a veces conseguí confiar en mi intuición sin la necesidad perfeccionista de verificarla siempre. Quizá algún día pueda jugar el tipo de ajedrez bello e intuitivo por el que son conocidos algunos grandes jugadores -eso sería realmente algo...",
+          "mostrarTablero": false,
+          "orientacion": "blanca"
+        }
+      ]
+    },
+    {
+      "id": "l_17800821111377",
+      "titulo": "Compartir el método con otros",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "INFO",
+          "titulo": "Compartir el método con otros",
+          "texto": "Por aquel entonces, había varios ajedrecistas dedicados en el sur de Suecia y sus alrededores, algunos de los cuales trabajaban juntos, y todos nosotros estábamos naturalmente interesados en las mejoras y métodos de los demás. Mientras entrenaba con mi propio método durante la primavera, no he dicho nada sobre lo que estaba haciendo, no para guardármelo, sino para poder evaluar mi experiencia para tener una opinión más informada que compartir. Después de ese glorioso verano para mí, mucha gente me preguntó qué había hecho para dar el paso de MI a GM. Describí el método y mis motivos para adoptarlo, y varios otros decidieron intentarlo. Al parecer, un formador sueco ha invitado a sus alumnos del norte de nuestro país a trabajar con el método durante un tiempo. También se ha mencionado en el Calendario de Adviento del ajedrez sueco. Lo más significativo es que el método recibió su nombre en Pump Up Your Rating de Axel que lo incorporó a su propio entrenamiento, sobre el que puede leer en la siguiente página. Por lo que he oído, los resultados de los jugadores que han entrenado con el Método Pájaro Carpintero han sido generalmente positivos, aunque todavía no he oído hablar de nadie que se haya esforzado tanto como yo.",
+          "mostrarTablero": false,
+          "orientacion": "blanca"
+        }
+      ]
+    },
+    {
+      "id": "l_17800821111388",
+      "titulo": "Una sesión final por Axel Smith",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "INFO",
+          "titulo": "Una sesión final por Axel Smith",
+          "texto": "Mientras que Hans organizaba sus sesiones de forma que parecieran días de trabajo normales, las mías eran más caóticas. Una vez estuve de excursión en las montañas la semana anterior al Campeonato de Suecia. Al ver las fotos después, me di cuenta de que en la mayoría de ellas estaba mirando el cuaderno de ejercicios. Por lo menos el entorno se veía bien en las fotos. Antes de viajar a Hungría en diciembre de 2015 para perseguir mi última norma de GM, resolví el mismo libro roto por undécima y duodécima vez. Estaba decidido a hacer algo con lo que había estado soñando de años: completar un conjunto completo de ejercicios en menos de 24 horas. Me alojé en una habitación del sótano junto a la lavandería del bloque y una vez cada hora completa me paseaba por la habitación. Dos veces mi mujer vino con pan recién horneado -y una oportunidad para dejarlo-. Estuve a punto de dejarlo cuando tuve una pero el 978 y último ejercicio llegó después de 22 horas y 18 minutos. Hay muchas formas posibles de hacer el Pájaro Carpintero. Todas se reducen a lo mismo: trabajar en los ejercicios. Sin embargo, es más fácil seguir resolviendo si se tiene un plan. Hans me prohibió que recomendara el montaje anterior, por razones humanitarias. Y de hecho, mi primer pensamiento después fue \"nunca más\". Dicho esto, la última sesión no sólo fue beneficiosa desde el punto de vista táctico, sino que también facilitó concentrarse durante los partidos en Hungría. No te encierras durante el día y la noche sólo para arruinarlo todo dando vueltas cuando se supone que hay que pensar. Además, para mí, los numerosos ejercicios están relacionados con los lugares donde los he resuelto: el metro de Berlín; un tren nocturno a Bucharest; las montañas donde he hecho senderismo. Así que esas 22 horas en el sótano también contenían un viaje por Europa.",
+          "mostrarTablero": false,
+          "orientacion": "blanca"
+        }
+      ]
+    },
+    {
+      "id": "l_17800821111389",
+      "titulo": "Introducción general",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "INFO",
+          "titulo": "Introducción general",
+          "texto": "¿Ha perdido alguna vez una partida de ajedrez innecesariamente debido a un descuido táctico? Por decirlo suavemente, no es el único. Cuando revisamos una muestra aleatoria de partidas, encontramos que más de la mitad de las que tuvieron resultados decisivos se decidieron por errores tácticos. No es sencillo describir exactamente lo que constituye un error táctico, o si la partida tiene un momento decisivo específico, pero utilizamos los siguientes criterios para definir un error táctico decisivo: a) la posición no estaba ya perdida o seriamente peor b) la jugada ha hecho perder material o ha permitido una combinación ganadora c) el rival explotó el error para ganar la partida Como preparación para escribir este libro, decidimos revisar las partidas con resultados decisivos que se disputaron entre grandes maestros en el Campeonato de Suecia de 2016. Con sólo 19 de estas partidas, está claro que no es una muestra lo suficientemente grande como para sacar conclusiones importantes. Sin embargo, nos sorprendió encontrar que hasta el 42% se decidió por errores tácticos. En los niveles inferiores, la frecuencia es cada vez mayor, como muestra la siguiente tabla. Ambos jugadores clasificados - Porcentaje de partidas decisivas decididas por errores tácticos (GMs 42%) (2200-2400 44%) (2000-2200 63%) (1800-2000 72%) Los porcentajes en las tres franjas de puntuación por debajo del nivel de GM se basan en 32 partidas elegidas al azar en cada categoría. Esto no es en absoluto una investigación exhaustiva y no da la gestión del tiempo también tiene una importancia crucial. Otro punto relevante es que es más difícil evitar los errores tácticos en posiciones defendibles pero pasivas, donde el adversario tiene varias ideas de ataque y hay menos jugadas decentes. No obstante, se puede concluir que la táctica tiene una alta prioridad si se quiere ganar puntos. Suponiendo que haya leído la historia del pájaro carpintero de Hans en la página 6, ya tiene una idea aproximada del tipo de entrenamiento que va a realizar con este libro. En las próximas páginas, diremos un poco más sobre cómo hemos organizado el material de entrenamiento y cómo sacarle el máximo partido.",
+          "mostrarTablero": false,
+          "orientacion": "blanca"
+        }
+      ]
+    },
+    {
+      "id": "l_178008211113810",
+      "titulo": "Los ejercicios",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "INFO",
+          "titulo": "Los ejercicios",
+          "texto": "Hemos reunido un total de 1128 ejercicios, divididos en tres niveles de dificultad. (Fácil (222 ejercicios)) Si estos ejercicios son lo suficientemente exigentes para usted, entonces parece lógico utilizar el final de esta sección como punto de partida, tras lo cual volverá al principio para su segundo ciclo. Si, por el contrario, estos rompecabezas le parecen más bien fáciles, comience su serie con ellos de todos modos! Hemos elegido deliberadamente estos ejercicios porque presentan tácticas más sencillas que las que encontrará en la mayoría de los libros de problemas. Un beneficio parcial de este enfoque es que hace que el libro sea accesible a un público más amplio. Sin embargo, incluso si estuviéramos diseñando un programa de Pájaro carpintero exclusivamente para jugadores que se esfuerzan por conseguir el título de GM, habríamos empezado con estos rompecabezas de todos modos, porque reflejan la realidad. Estas sencillas tácticas son el tipo de detalles que necesitas ver automáticamente durante tus partidas, en lugar de tener que gastar tiempo y energía en buscarlas activamente. (Intermedio (762 ejercicios)) Para fomentar la velocidad, también encontrarás algunos ejercicios relativamente fáciles en esta sección. También puede haber que considere difíciles, pero recuerde que el objetivo no es obtener una puntuación del 100%, especialmente en los primeros ciclos. Incluso después de trabajar con todos los ejercicios, cada uno de nosotros cometió bastantes errores al resolver el proyecto. Otro punto que vale la pena tener en cuenta es que muchas de las soluciones fueron pasadas por alto por un Campeón del Mundo. (Avanzado (144 ejercicios)) Aconsejamos a la mayoría de los lectores que no utilicen esta sección final para el entrenamiento del pájaro carpintero. Varias de las posiciones son realmente complicadas y más adecuadas para desarrollar su capacidad de cálculo, lo que se aleja un poco del objetivo principal del Método Pájaro carpintero. Dicho esto, esta sección puede ser útil en un par de casos: 1) Para la mayoría de los lectores, las secciones Fácil e Intermedio contendrán material más que suficiente para llevar a cabo un plan de entrenamiento intensivo del Método Pájaro carpintero. Pero una vez que haya llegado al final del mismo (y, con suerte, haya notado un salto significativo en su capacidad táctica sobre el tablero), en algún, querrá pensar en seguir entrenando. La sección final de ejercicios más desafiantes sería adecuada para este propósito. 2) Para los extremistas que ya son jugadores fuertes, y que poseen el tiempo, la energía y la motivación para abordar este libro de la forma más exigente posible, esta sección final puede incluirse en el plan de entrenamiento principal. Intente resolver los 1128 ejercicios en ciclos bajo las limitaciones de tiempo detalladas en la sección de instrucciones de la página 26. Para considerar siquiera la posibilidad de afrontar un reto como éste, debería estar en un nivel en el que estés trabajando para conseguir el título de Gran Maestro",
+          "mostrarTablero": false,
+          "orientacion": "blanca"
+        }
+      ]
+    },
+    {
+      "id": "l_178008211113911",
+      "titulo": "Velocidad",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "INFO",
+          "titulo": "Velocidad",
+          "texto": "Los motivos tácticos suelen aparecer sin esfuerzo en nuestra mente, pero no viajan solos; también necesitamos pensar metódicamente y elaborar las variantes con cierta precisión. Así que el método pájaro carpintero no sólo desarrolla el reconocimiento de patrones, sino también el cálculo, la concentración, la toma de decisiones - y la velocidad. Una vez que se conocen ciertos patrones y motivos, la velocidad es la clave. Los pensamientos más rápidos son los que vienen a nosotros de forma automática y aunque los pensamientos automáticos negativos pueden ser un gran problema en psicopatología, el automatismo también tiene grandes beneficios. Cuanto más automática sea la búsqueda de motivos es, mayor es la posibilidad de que se vean los suficientes. Consideramos que una buena manera de desarrollar automatismo es resolver un conjunto de ejercicios repetidamente, reduciendo gradualmente la necesidad de la búsqueda consciente. Si esto suena algo parecido a aprender a montar en bicicleta, es porque lo es.",
+          "mostrarTablero": false,
+          "orientacion": "blanca"
+        }
+      ]
+    },
+    {
+      "id": "l_178008211113912",
+      "titulo": "Otros puntos sobre los ejercicios",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "INFO",
+          "titulo": "Otros puntos sobre los ejercicios",
+          "texto": "Hace tiempo que sostenemos la opinión de que prácticamente todos los libros sobre combinaciones de ajedrez carecen de algo central en la táctica del juego real: las pistas falsas. Cuando se utilizan libros de problemas convencionales, la resolución de ejercicios se convierte a veces en una especie de película, en la que se sabe que todo se resolverá al final. todo se resolverá al final. De una película, puede restar tensión y emoción, mientras que en el entrenamiento táctico puede restar incertidumbre y exactitud. Por eso decidimos que era importante incluir algunas pistas falsas, en las que los intentos más obvios resultan contraproducentes. Al quitar la certeza de que incluso los golpes tácticos aparentemente fáciles son de que incluso los tiros tácticos aparentemente fáciles son infalibles, pretendemos que la experiencia de entrenamiento se acerque un poco más a la de un juego real. Aunque se podría argumentar que este tipo de libro no es necesariamente el mejor foro para las jugadas de los ejercicios, hemos querido poner nuestro dinero donde está nuestra boca. Al presentar los ejercicios, hemos evitado dar cualquier información previa sobre la evaluación de la posición o la naturaleza del motivo táctico que espera ser encontrado. Otros libros de problemas pueden tener sus propias razones para incluir esta información, pero nosotros queremos mantener el entrenamiento lo más parecido posible a una partida real. En algunos ejercicios, la tarea consiste en rematar una posición prometedora que puede ser ganadora incluso sin la táctica. En otros casos, hay varias jugadas ganadoras. Se trata de elecciones deliberadas, para reflejar las diferentes situaciones que se dan durante el juego práctico. Es importante ser lo más preciso posible y practicar la toma de decisiones en todos los escenarios. Un error común es detenerse demasiado pronto en una variante, quizá sólo una jugada antes de que haya una táctica crucial. Sin embargo, reducir la búsqueda a las líneas críticas es una habilidad importante para un jugador humano (incluso los ordenadores tienen que hacerlo!) y confiar en su intuición es la mejor manera de hacerlo. Por lo tanto, después de una sesión de entrenamiento, puede ser una buena idea pensar en por qué has fallado determinados ejercicios para ver en qué se equivocó tu intuición. Pero no pases demasiado tiempo pensando en ello. en ello: el desarrollo del reconocimiento de patrones se realiza mejor en un nivel principalmente inconsciente. La buena noticia es que entrenar tu reconocimiento de patrones tácticos aumentará la posibilidad de que el motivo aparezca en tu cabeza mientras visualizas la posición. Un último punto sobre los ejercicios es que no sólo hemos comprobado las soluciones por ordenador, sino también las hemos comprobado humanamente (gracias a nuestros solucionadores de pruebas, Martin Jogstad y Tom Rydström). Este nos ha llamado la atención sobre algunos intentos plausibles que el ordenador descarta al instante, pero que parecen tentadores para un humano. Esto nos permitió mejorar las soluciones mencionando algunas de esas variaciones que casi funcionan.",
+          "mostrarTablero": false,
+          "orientacion": "blanca"
+        }
+      ]
+    },
+    {
+      "id": "l_178008211113913",
+      "titulo": "Campeones del mundo",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "INFO",
+          "titulo": "Campeones del mundo",
+          "texto": "Aunque no había ninguna razón especial para establecer un tema para los ejercicios, decidimos tomar nuestras posiciones de prueba exclusivamente de partidas en las que participan todos los campeones del mundo, desde Steinitz hasta Carlsen (incluidos los Campeones del Mundo KO de la FIDE). Los campeones están en el bando perdedor en aproximadamente 25% de las partidas. Así que a veces lo harás mejor que ellos, mientras que otras veces tu tarea es jugar tan bien -y eso también es un objetivo justo-. Las tácticas presentadas no son necesariamente llamativas, y probablemente haya visto algunos de los ejemplos antes, pero eso es parte de la idea, ya que repetir los mismos motivos es una parte integral de nuestro método. Como veremos en este libro, es posible encontrar recursos tácticos incluso en las peores posiciones. Nos sorprendió por la cantidad de errores que encontramos en la jugada anterior a la combinación. Es cierto que hay bastantes posiciones de los simulacros en las que el campeón se enfrentó a rivales más débiles, pero los errores tácticos no son inauditos en las partidas del Campeonato del Mundo. Como nos hemos esforzado de comprobar todas las partidas disponibles jugadas por los campeones del mundo, la selección es, con suerte, bastante representativa. En cada una de las tres secciones de ejercicios (Fácil, Intermedio y Avanzado) encontrará ejemplos de cada uno de los campeones. A lo largo de cada sección, las partidas de cada campeón aparecen en orden cronológico aproximado. (Nos centramos mucho más en el contenido del ajedrez que en el orden perfecto de las partidas). En un seminario de entrenadores de la FIDE, un entrenador afirmó que era importante para los aspirantes a jugadores conocer la lista completa de campeones del mundo en orden. Hablaba en serio y Axel no lo hizo bien al hacer el examen. Unos años más tarde, ninguno de los dos podía recordar la lista por orden; e intentar escribir los años no era posible ni de lejos. Puedes mejorar nuestros esfuerzos, pero también eres libre de saltarte la lista, terminar la sección introductoria y empezar a encontrar combinaciones como uno de los Campeones del mundo de ajedrez Wilhelm Steinitz (1836-1900) Austria-Hungría/Estados Unidos 1886-94 Emanuel Lasker (1868-1941) Alemania 1894-1921 José Raúl Capablanca (1888-1942) Cuba 1921-27 Alexander Alekhine (1892-1946) Rusia/Francia 1927-35 y 37-46 Max Euwe (1901-81) Países Bajos 1935-37 Mikhail Botvinnik (1911-95) Unión Soviética 1948-57, 58-60 y 61-63 Vassily Smyslov (1921-2010) Unión Soviética 1957-58 Mikhail Tal (1936-92) Unión Soviética 1960-61 Tigran Petrosian (1929-84) Unión Soviética 1963-69 Boris Spassky (1937-) Unión Soviética 1969-72 Robert Fischer (1943-2008) Estados Unidos 1972-75 Anatoly Karpov (1951-) Unión Soviética/Rusia 1975-85 y 93-99 Garry Kasparov (1963-) Unión Soviética/Rusia 1985-93 y 93-00 (PCA) Alexander Khalifman (1966-) Rusia 1999-2000 Vladimir Kramnik (1975-) Rusia 2000-06 (PCA) & 2006-07 Viswanathan Anand (1969-) India 2000-02 y 07-13 Ruslan Ponomariov (1983-) Ucrania 2002-04 Rustam Kasimdzhanov (1979-) Uzbekistán 2004-05 Veselin Topalov (1975-) Bulgaria 2005-06 Magnus Carlsen (1990-) Noruega 2013-2022",
+          "mostrarTablero": false,
+          "orientacion": "blanca"
+        }
+      ]
+    },
+    {
+      "id": "l_178008211113914",
+      "titulo": "Un llamamiento al inconsciente",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "INFO",
+          "titulo": "Un llamamiento al inconsciente",
+          "texto": "En 1957, el investigador de mercado James Vicary sorprendió al mundo con un experimento que demostraba el impacto de la publicidad subliminal. Cuando a los espectadores se les mostraron anuncios de 1/3000 segundos de Coca-Cola y palomitas, las ventas del producto aumentaron sin que nadie fuera consciente del anuncio. Hoy en día, está bien investigado que los humanos utilizan la percepción subliminal para acelerar el proceso cerebral. Cuando se trata de ajedrez, la repetición de una determinada configuración puede cebar su cerebro que puede haber una combinación, una maniobra de piezas o una palanca de peones. Sin embargo, encontrar una jugada intuitivamente se ve a veces como un hábito negativo: \"No has trabajado lo suficiente para merecer el mérito de la solución\". Nada más equivocado, visto desde un punto de vista científico. El Método Pájaro carpintero está diseñado para desarrollar ese tipo de intuición, así que aprovéchalo! Todas las combinaciones que has visto han preparado tu cerebro ajedrecístico para dar esos consejos. Y después de haber seguido el Método Pájaro carpintero, estará preparado como nunca antes. Encontrar la primera jugada correcta siempre da un punto, pero no dependa únicamente de su intuición.Cada posición es única y requiere algún cálculo de apoyo -confíe en la información de su intuición, pero verifícala siempre-. Unas décadas después de su estudio, Vicary reveló que todo era un truco. No tenía suficientes datos para respaldar su audaz afirmación, y desde entonces no ha podido replicarla. Pero había un grano de verdad en lo que decía, e inspiró al abuelo de Axel a hacer una investigación en la que a los participantes se les mostraron imágenes subliminales con caras de miedo. Eso les hizo interpretar otras imágenes como si fueran aterradoras también. Así que podría ser posible poner a un jugador de ajedrez en modo agresivo mostrando diagramas subliminales en los que un bando ha enrocado mucho y ha ganado con un ataque al rey",
+          "mostrarTablero": false,
+          "orientacion": "blanca"
+        }
+      ]
+    },
+    {
+      "id": "l_178008211114015",
+      "titulo": "Sesiones de resolución",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "INFO",
+          "titulo": "Sesiones de resolución",
+          "texto": "\"Problemas de la vida\" es una expresión sueca que tiene su origen en una campaña política y señala la dificultad de organizar el trabajo, las redes sociales, las tareas domésticas, el \"tiempo de calidad\" con la familia y el \"tiempo para hacer cosas por uno mismo\", otra expresión común que es más corta en sueco (sólo siete letras). La esencia es el núcleo de la mentalidad sueca: la vida es un problema rompecabezas que hay que resolver, en lugar de un caos que hay que soportar. No nos corresponde aconsejarle cuánto tiempo debe dedicar al ajedrez. Sin embargo, podemos decir algo sobre la calidad deseada de este tiempo de estudio. Encuentre un lugar tranquilo y establezca un límite de tiempo para que puedas concentrarte hasta el final. Empiece a resolver y hágalo con seriedad, como en una partida de torneo. Eso significa mirar hacia adelante para asegurarse de que su solución realmente funciona, pero aún así tratar de trabajar en los ejercicios lo más rápido posible.",
+          "mostrarTablero": false,
+          "orientacion": "blanca"
+        }
+      ]
+    },
+    {
+      "id": "l_178008211114016",
+      "titulo": "Tablero y Piezas",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "INFO",
+          "titulo": "Tablero y Piezas",
+          "texto": "La cuestión de si se debe resolver utilizando un tablero real es un tema controvertido entre los entrenadores. Algunos, especialmente los entrenadores de la vieja escuela, podrían argumentar que siempre hay que hacerlo. Artur Yusupov es un ejemplo de un entrenador de renombre que hace hincapié en la importancia de utilizar un tablero y piezas en su serie de entrenamiento de varios volúmenes (también publicada por Quality Chess). Otros no lo ven tan importante. Evidentemente, usted tiene que elegir por sí mismo, pero podemos darle nuestros dos centavos: ninguno de nosotros utilizó un tablero y piezas para nuestro entrenamiento de Pájaro carpintero. Lo más probable es que haya una división generacional: los jugadores de cierta edad, que desarrollaron sus habilidades ajedrecísticas antes de la era de los ordenadores, son más de edad, más propensos a valorar el tablero y las piezas, mientras que los que han pasado una parte importante de sus años de formación estudiando el ajedrez con ordenadores tienden a no desanimarse por el aspecto bidimensional de resolver a partir de diagramas en un libro (o en una pantalla, para los que compraron la edición de Forward Chess). Obviamente, debe hacer lo que le parezca correcto. Un posible compromiso es echar un primer vistazo a cada ejercicio directamente en el libro. Si lo resuelve en unos pocos segundos, entonces pase al el siguiente ejercicio. En las ocasiones en las que aún no haya encontrado la solución en aproximadamente un minuto (o el tiempo que considere más adecuado), fije la posición en una pizarra si te ayuda a pensar con más claridad. Una forma opcional de obtener un entrenamiento extra de este proceso es establecer la posición de memoria en la medida de lo posible, pero no olvides el objetivo principal de su entrenamiento. Nuestro pensamiento general es que con la enorme cantidad de posiciones que estudiamos hoy en día de posiciones que estudiamos hoy en día a partir de diagramas con bases de datos informáticas, juegos de Internet, etc., la resolución del libro debería utilizar las mismas configuraciones neuronales y, por tanto, ser lo suficientemente similares y buenas para estos breves ejercicios. Es cierto que el juego clásico de torneo sigue implicando un tablero y piezas físicas, por lo que se podría argumentar para replicar eso en el entrenamiento. También hay que tener en cuenta el tiempo extra que se invierte en la colocación de las piezas, que es mucho cuando se trata de hasta mil ejercicios. Desde nuestro punto de vista, este tiempo podría emplearse mejor en resolviendo más ejercicios (o con los seres queridos). Si resolviéramos ejercicios más difíciles que requirieran diez o más minutos de esfuerzo, probablemente utilizaríamos una pizarra, pero ese es el tipo de entrenamiento que se utiliza para desarrollar un cálculo más profundo en lugar de un reconocimiento de patrones. Hay una ventaja absoluta que vemos en el uso de un tablero y piezas (aparte de la estética/hedonista) : la posibilidad de realizar las jugadas para ver cómo se forma el patrón final en el tablero, mientras que posiblemente se desarrolla algo de memoria muscular al mismo tiempo. Para algunos jugadores, el proceso de jugar la solución puede tener un impacto negativo en su velocidad general y a su capacidad de concentrarse en la tarea principal, mientras que para otros puede ser útil tener un microdescanso para colocar las piezas antes de pasar al siguiente ejercicio. Repetimos nuestro consejo por una última vez: piense en los pros y los contras de cada enfoque; experimente con un enfoque mixto si es necesario; y, en última instancia, haz lo que mejor te funcione.",
+          "mostrarTablero": false,
+          "orientacion": "blanca"
+        }
+      ]
+    },
+    {
+      "id": "l_178008211114017",
+      "titulo": "¿Cuánto hay que ver?",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "INFO",
+          "titulo": "¿Cuánto hay que ver?",
+          "texto": "",
+          "mostrarTablero": true,
+          "orientacion": "blanca",
+          "fen": "5r1k/2p3p1/1b1p4/4p3/1PQ1B2P/3P1P1K/1P3q1P/R7 w - - 0 35",
+          "pgn": "{\"Suficiente\" es la respuesta corta, pero la pregunta es importante y merece una mayor reflexión, aunque rara vez se trate en libros similares. Como ya hemos dicho, creemos que la tarea de resolver debe ser bastante similar a la de un juego real. Por eso hemos incluido algunos ejercicios como de juego y otros que contienen varias jugadas ganadoras. Antes de realizar una jugada en una partida, sólo hay que asegurarse de que es la mejor. Las decisiones posteriores pueden tomarse después. Considere el siguiente ejemplo: (Vassily Smyslov - William Addison Interzonal de Palma de Mallorca, 1970) Las negras amenazan con tomar f3 y sólo hay dos jugadas que defienden. 35.Dc6 no es mejor para las blancas. Los dos peones extra no importan mucho −no sólo porque están doblados y aislados−, sino también por la presencia de alfiles de color opuesto} 35.Qf7 {Las blancas se defienden de la amenaza y crean dos amenazas de mate propias. En una partida, es suficiente para ver que 35...Txf7 36.Ta8+ Tf8 37.Txf8 es mate.} 35...Qf1+ {Objetivamente, la mejor defensa es 35...Dxh4+ 36.Rxh4 g5+! 37.Rxg5 Txf7 cuando las blancas tienen buenas posibilidades de ganar según el principio de las dos ventajas. Empujará el peón h e intentará penetrar con el rey para sacrificar el cambio por el peón c.} 36. Kg4 {Una jugada fuerte, ya que 36.Txf1 Txf7 parece una fortaleza sin peón h pasado. Pero usted no tiene que ver esto de antemano, ya que esta fortaleza sigue siendo una opción mejor para las blancas que cualquier otra de las 35 jugadas. Sin embargo, pensamos que aún debe notar que 35..Df1+ existe - estamos, al fin y al cabo, practicando motivos tácticos y esto es un imán} 36...Qg2+ 37.Kh5 {No hay más jaques. El resto no es importante para nuestro tema, pero es una hermosa pieza de ajedrez.} 37...Rg8 38.f4 {Smyslov ganó tras 38.Ta8 g6+? 39.Axg6 mate. La jugada del texto obliga a la dama negra a abandonar la columna g.} 38...Qe2+ 39. Kg5 Be3 40.h3! {Defendiendo la casilla g4.} 40...Bxf4+ 41.Kg6 {+− No hay defensa contra 42.Dxg8+ Rxg8 43.Ta8#.} *"
+        }
+      ]
+    },
+    {
+      "id": "l_178008211114118",
+      "titulo": "¿Cuánto hay que ver? II",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "INFO",
+          "titulo": "¿Cuánto hay que ver? II",
+          "texto": "Al mirar hacia adelante, a veces es difícil decidir cuándo detenerse y evaluar la posición. Siempre es posible calcular una jugada más... Oh, espera −no lo es−. Después de todo, sólo somos humanos, así que de vez en cuando necesitamos hacer una evaluación antes de la operación táctica. Existen las pistas habituales para ayudarnos: ¿qué piezas están mejor colocadas? ¿Aparecen más y más opciones cuando calculamos? ¿Qué bando necesita demostrar algo? El proceso de toma de decisiones implica conceptos complejos como la fiabilidad (¿qué grado de certeza tiene la evaluación?), la graduación (¿qué importancia tiene esta decisión?) y el equilibrio entre maximizar nuestras posibilidades y los riesgos en los que se incurre al hacerlo (¿hay una alternativa más segura?). En retrospectiva, es fácil decir cuándo deberías haber seguido calculando. Explicaciones como \"aún no habías resuelto el problema con el rango trasero\" suenan sensatas y casi obvias, pero cualquiera puede ser sensato a posteriori. Lo mismo ocurre con la búsqueda de momentos críticos: son fáciles de identificar a posteriori. Puede ser útil pensar en estas cosas e identificar pistas útiles para futuras referencias, pero un exceso de explicaciones conlleva el riesgo de suprimir tu intuición, y con ella tu fuerza humana. Los complejos conceptos mencionados anteriormente funcionan mejor de forma inconsciente. Su intuición puede fallar de vez en cuando, pero mejora con la experiencia.",
+          "mostrarTablero": false,
+          "orientacion": "blanca"
+        }
+      ]
+    },
+    {
+      "id": "l_178008211114119",
+      "titulo": "¿Cuánto hay que ver? III",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "INFO",
+          "titulo": "¿Cuánto hay que ver? III",
+          "texto": "",
+          "mostrarTablero": true,
+          "orientacion": "blanca",
+          "fen": "1nr1n1k1/1r2qppp/b1pRp3/ppP1N3/4P3/4B1PB/PQ3P1P/3R2K1 w - - 0 24",
+          "pgn": "{He aquí un ejemplo en el que se puede evaluar la posición aunque haya más líneas que calcular. (Spassky - Zinn Marianske Lazne, 1962)} 24.Nxf7 Kxf7 {24...Cxd6 25.Cxd6+− no recupera el cambio de inmediato (las negras pueden clavar el C), pero la posición de las negras pronto se derrumbará tras 26.De5.} 25.Bxe6+ Qxe6 26.Rxe6 Kxe6 {Las negras tienen suficiente material para la dama, y estarían bien si tuvieran tiempo de volver con el rey a un lugar seguro. Hay una forma de impedirlo.} 27.Qb3+ Ke7 28.Qg8 {29.Ag5+ es una amenaza.} 28...h6 {La partida no ha terminado técnicamente, pero es difícil imaginar que las negras puedan liberarse con todas sus piezas atascadas en el flanco de dama. Es seguro confiar en la intuición de que las blancas están ganando −y es justo hacerlo−, incluso antes de ver 28.Dg8 El objetivo principal de este libro es proporcionarle los medios para desarrollar su reconocimiento de patrones e intuición. Intentar calcular cada variante hasta el final con mentalidad de contable sería contraproducente. Confíe en su intuición, pero con cuidado. Aunque debería ser similar, una sesión de resolución no es exactamente un juego real. Hemos extraído posiciones críticas en las que hay opciones tácticas. Al trabajar en ellas, podrás entrenar tus habilidades de reconocimiento de patrones de forma más eficiente que durante un torneo. Saber que la posición es crítica permite exigirle un poco más a su cálculo. Si la primera jugada y la respuesta del adversario son obvias, debe buscar más.} *"
+        }
+      ]
+    },
+    {
+      "id": "l_178008211114120",
+      "titulo": "¿Cuánto hay que ver? IV",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "INFO",
+          "titulo": "¿Cuánto hay que ver? IV",
+          "texto": "",
+          "mostrarTablero": true,
+          "orientacion": "blanca",
+          "fen": "5rk1/2N2ppp/4p3/R1b2q2/4b3/6Q1/5PPP/5RK1 b - - 0 27",
+          "pgn": "{(Piket - Kasparov Linares, 2005) Las negras tienen un intercambio menos, pero el peón y la pareja de alfil adicionales parecen darle una decente compensación. Sin embargo, es posible ganar material con un simple ataque descubierto} 27...Bxf2+ 28.Qxf2 Qxa5 {Hasta aquí todo bien, pero las blancas tienen una contratáctica} 29.Nxe6 {La torre se ve amenazada y las negras quedan en jaque mate si se mueve, por lo que potencialmente podría haber engañado a sí mismo. Si ahora observa que 29...Ad3 30.Cxf8 Axf1 31.Dxf1 Rxf8 alcanza un final de dama con un peón de más, está listo para capturar en f2. Aunque es probable que haya un empate, un final sin riesgo con ligeras posibilidades de victoria es una mejora respecto a la posición inicial que parece poco clara. Sin embargo, como sabe que el diagrama es una posición crítica, esperamos que busque alternativas y se dé cuenta de que hay una forma de conseguir un final no sólo con uno sino con dos peones más.} 29...Bxg2 {0−1 Piket renunció porque 30.Rxg2 se puede cumplir con 30...Da8+ o 30...Dd5+.} *"
+        }
+      ]
+    },
+    {
+      "id": "l_178008211114221",
+      "titulo": "Jugadas con signos",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "INFO",
+          "titulo": "Jugadas con signos",
+          "texto": "En las soluciones, las jugadas marcadas con este símbolo de \"garrapata\" son las que creemos que debería ver antes de ejecutar la combinación en una partida. En otras palabras: la jugada marcada es la que usted es lo que necesita ver para estar seguro de que la primera jugada es la mejor en la posición, y a veces un poco más (como con 29...Axg2! en el diagrama anterior). Cuando una jugada del rival está marcada usted se anota un punto por haberla notado y haber determinado que no es un problema. No siempre es fácil decir qué jugadas deben verse con antelación para ganar el − debatimos esta cuestión en muchas soluciones. Si se encuentra en total desacuerdo con nuestra elección en una solución particular solución, entonces dése todos los puntos de todos modos. Confía en tu propio juicio, pero no caigas en la trampa de ser demasiado amable consigo mismo. Teníamos un amigo que siempre encontraba una excusa cuando no veía la solución completa: \"Sabía que tenía una jugada ahí\", decía. \"Durante un partido la habría encontrado\". Pero cuando metía la pata durante las partidas no se le permitía retirar su jugada. Así que aplique un poco de sentido común: no te engañes a ti mismo, pero tampoco seas demasiado duro. Si ha elegido otra continuación ganadora marcada en la solución (a menudo con \"o\"), usted también gana todos los puntos. Hemos intentado anotar todos los métodos ganadores relevantes, pero a veces hay demasiados; o puede ser que haya elegido insertar una comprobación intermedia o algo similar antes de ejecutar la combinación principal. De nuevo, utilice su sentido común para saber si ha encontrado o no la idea correcta. En caso de duda, siempre puede comprobar su solución utilizando un motor.En general, damos las jugadas críticas como la línea principal. Las continuaciones de la partida no siempre se mencionan, pero cuando son suaves las hemos dado para completarlas (como en Smyslov - Addison arriba). Dado que la escala de tiempo es un elemento crucial para el Método del Pájaro Carpintero, no es necesario comprobar todas las variaciones − especialmente cuando se trabaja en su segundo y siguientes ciclos. Si tiene curiosidad por algunos detalles, siempre puedes comprobarlos en algún momento entre las sesiones de entrenamiento, cuando el el reloj no esté en marcha. Por último, te recordamos que tu objetivo en cada sesión de entrenamiento será resolver lo más rápido y con la mayor precisión posible. Por lo tanto, no te lleves este libro a la cama e intentes resolverlo mientras se duerme, o por la mañana cuando apenas se ha despertado. Queremos fomentar los buenos hábitos, no los malos.",
+          "mostrarTablero": false,
+          "orientacion": "blanca"
+        }
+      ]
+    },
+    {
+      "id": "l_178008211114222",
+      "titulo": "Resumen",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "INFO",
+          "titulo": "Resumen",
+          "texto": "Resumen de los motivos tácticos Para calcular bien, hay que ser capaz de visualizar las posiciones en la cabeza, y conocer métodos como la comprobación de errores, las jugadas candidatas, la comparación y la elección de qué jugada calcular primero. Sin embargo, también es necesario reconocer los motivos tácticos a un nivel más o menos inconsciente. Esa habilidad mejora al ver un gran número de ellos, como ocurrirá en este libro. La mente humana es buena para decodificar y organizar conceptos abstractos para poder recuperarlos cuando los necesita. Cuando intervenimos conscientemente en el proceso, corremos el riesgo de perder el automatismo. Sin embargo, hay algunos buenos libros que dan una base teórica a los motivos tácticos, y no estaría de más leer uno de esos libros antes de resolver ejercicios mixtos, como en este libro. Dado que el aprendizaje de los diferentes motivos es algo que recomendamos que haga cualquier jugador serio al menos una vez en su carrera, parece rentable hacerlo antes de entrenar con el Método del pájaro carpintero. Dado que este es un libro de trabajo y no un curso completo de táctica, nos limitaremos a una lista de los principales motivos tácticos, con un ejemplo básico para cada uno de ellos. Lea con atención: las posiciones pueden volver a aparecer.",
+          "mostrarTablero": false,
+          "orientacion": "blanca"
+        }
+      ]
+    },
+    {
+      "id": "l_178008211114223",
+      "titulo": "1) Amenazas:Encerrar",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "INFO",
+          "titulo": "1) Amenazas:Encerrar",
+          "texto": "",
+          "mostrarTablero": true,
+          "orientacion": "negra",
+          "fen": "r6r/1pp3k1/1b6/p2P1p2/P1N1pn2/2P2PP1/PP5P/4RR1K b - - 0 30",
+          "pgn": "{Aquí hay ocho de los temas tácticos más frecuentes que implican amenazas a las piezas o al rey del adversario ((Encerrar)) Hamppe - Steinitz Viena, 1860} 30...Rxh2+ 31.Kxh2 Rh8#. {Las negras habrían estado perdidas sin este recurso.} *"
+        }
+      ]
+    },
+    {
+      "id": "l_178008211114224",
+      "titulo": "El imán",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "INFO",
+          "titulo": "El imán",
+          "texto": "",
+          "mostrarTablero": true,
+          "orientacion": "blanca",
+          "fen": "3r1n1k/3P3p/pp3q2/2pQp3/P1P3B1/3b2R1/1P5P/6K1 w - - 0 33",
+          "pgn": "{Nei - Petrosian Moscú, 1960} 33.Qg8+ Kxg8 34.Be6+ Kh8 35.Rg8# *"
+        }
+      ]
+    },
+    {
+      "id": "l_178008211114225",
+      "titulo": "Eliminación del defensor",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "INFO",
+          "titulo": "Eliminación del defensor",
+          "texto": "",
+          "mostrarTablero": true,
+          "orientacion": "negra",
+          "fen": "4rrk1/pp2p3/2pqP1p1/4Rp1p/P2P1n1P/6Q1/1P3PP1/1N1R2K1 b - - 0 32",
+          "pgn": "{Euwe - Cortlever Amsterdam,1954} 25...Qxe5 26.dxe5 Ne2+ 27. Kh2 Nxg3 {Las negras ganan material.} *"
+        }
+      ]
+    },
+    {
+      "id": "l_178008211114226",
+      "titulo": "Abrir columnas, filas o diagonales",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "INFO",
+          "titulo": "Abrir columnas, filas o diagonales",
+          "texto": "",
+          "mostrarTablero": true,
+          "orientacion": "negra",
+          "fen": "r2qkb1r/2p2pp1/p1npb2p/1p6/2P1P3/1BQ1B3/PP3PPP/RN2K2R b KQkq - 0 12",
+          "pgn": "{Noa - Steinitz Londres. 1883} 12...d5! {abre el camino para que el alfil aterrice en b4, y gana un peón para empezar.} *"
+        }
+      ]
+    },
+    {
+      "id": "l_178008211114327",
+      "titulo": "Ganancia de tiempo",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "INFO",
+          "titulo": "Ganancia de tiempo",
+          "texto": "",
+          "mostrarTablero": true,
+          "orientacion": "blanca",
+          "fen": "4r1k1/4b1n1/1q3rP1/p2p1p2/1p3B2/5NN1/PPPQ1P2/1K5R w - - 0 28",
+          "pgn": "{Tal - Mascarinas Lvov, 1981} 28.Bc7 {El Alfil se mueve con tiempo y despeja el camino para la Dama. (Esto podría servir también como ejemplo de limpieza de líneas, como en el ejemplo anterior).} 28...Qxc7 29.Rh8+ {Otro ejemplo del imán como el mostrado anteriormente. Muchas combinaciones tácticas cuentan con más de uno de los elementos en discusión.} 29... Kxh8 30.Qh6+ Kg8 31.Qh7+ Kf8 32.Qh8# *"
+        }
+      ]
+    },
+    {
+      "id": "l_178008211114328",
+      "titulo": "Tenedor",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "INFO",
+          "titulo": "Tenedor",
+          "texto": "",
+          "mostrarTablero": true,
+          "orientacion": "negra",
+          "fen": "r3k2r/p1ppbppp/1pn1q3/4P3/2BP2n1/5NB1/1PP1Q1PP/R4K1R b kq - 0 16",
+          "pgn": "{Steinitz − Minckwitz Baden− Baden, 1870 Los tres motivos siguientes implican la creación de amenazas a más de una pieza enemiga} 18...Qxc4 {Las blancas renuncian, ya que 19.Dxc4 Ce3+ seguido de 20...Cxc4 recupera la dama, dejando a las negras una pieza arriba.} *"
+        }
+      ]
+    },
+    {
+      "id": "l_178008211114329",
+      "titulo": "Ataque descubierto",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "INFO",
+          "titulo": "Ataque descubierto",
+          "texto": "",
+          "mostrarTablero": true,
+          "orientacion": "blanca",
+          "fen": "3b1rk1/1b1q2pp/5pn1/1p2rN2/2p1p3/2P1B2Q/1PB2PPP/R5K1 w - - 0 25",
+          "pgn": "{Blackburne - Steinitz Viena, 1882} 25.Nh6+ gxh6 26.Qxd7 {Las negras renuncian una jugada más tarde} *"
+        }
+      ]
+    },
+    {
+      "id": "l_178008211114330",
+      "titulo": "Clavada",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "INFO",
+          "titulo": "Clavada",
+          "texto": "",
+          "mostrarTablero": true,
+          "orientacion": "blanca",
+          "fen": "r2q1rk1/pppb1ppp/3b4/6P1/4Pp2/2N4P/PPPQBP2/2KR3R w - - 0 15",
+          "pgn": "{Steinitz - Dubois Londres (2do encuentro, partida 6), 1862} 15.e5 {Las blancas ganan uno de los Alfiles} *"
+        }
+      ]
+    },
+    {
+      "id": "l_178008211114331",
+      "titulo": "2) Tácticas defensivas:Contra−amenaza",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "INFO",
+          "titulo": "2) Tácticas defensivas:Contra−amenaza",
+          "texto": "",
+          "mostrarTablero": true,
+          "orientacion": "negra",
+          "fen": "2q4k/5Qp1/4B2p/p1p5/1P6/6PK/r4P1P/8 b - - 0 35",
+          "pgn": "{Capablanca - Rasmussen Copenhague (simul), 1911} 35...Rxf2 {Esto defiende contra la doble amenaza y después de} 36.Qxf2 Qxe6+ {las negras alcanzan un final de Dama con dos peones de más y un Rey seguro.} *"
+        }
+      ]
+    },
+    {
+      "id": "l_178008211114332",
+      "titulo": "Línea de vida",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "INFO",
+          "titulo": "Línea de vida",
+          "texto": "",
+          "mostrarTablero": true,
+          "orientacion": "blanca",
+          "fen": "7r/pp1br2B/8/2k1Pp2/2p5/7R/PPP3P1/2K4R w - - 0 25",
+          "pgn": "{Euwe - Hartingsvelt Amsterdam, 1922} 25.Bxf5 Rxh3 26.Bxh3 {Las blancas han ganado un peón ya que el alfil está salvado por una línea de vida (el peón de e5−peón estaba perdido de todos modos).} *"
+        }
+      ]
+    },
+    {
+      "id": "l_178008211114333",
+      "titulo": "3) Otros:Ahogamiento",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "INFO",
+          "titulo": "3) Otros:Ahogamiento",
+          "texto": "",
+          "mostrarTablero": true,
+          "orientacion": "negra",
+          "fen": "7k/8/7P/6K1/6Q1/6P1/7q/8 b - - 0 85",
+          "pgn": "{Ribli - Spassky Montpellier, 1985} 85...Qxh6+ {Las negras empatan, ya que} 86. Kxh6 {es tablas (empate) por posición de ahogo.} *"
+        }
+      ]
+    },
+    {
+      "id": "l_178008211114334",
+      "titulo": "Promoción de peones",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "INFO",
+          "titulo": "Promoción de peones",
+          "texto": "",
+          "mostrarTablero": true,
+          "orientacion": "blanca",
+          "fen": "b5k1/p4p2/2P1nnp1/4N3/P2R3p/4N1P1/1r2PP1P/6K1 w - - 0 29",
+          "pgn": "{Gurevich - Khalifman Moscú (rápido), 1992} 29.Rd8+ Nxd8 30.c7 {y las negras no pueden proteger ambas casillas de promoción} *"
+        }
+      ]
+    },
+    {
+      "id": "l_178008211114335",
+      "titulo": "Zugzwang",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "INFO",
+          "titulo": "Zugzwang",
+          "texto": "",
+          "mostrarTablero": true,
+          "orientacion": "blanca",
+          "fen": "8/8/5K1P/5Bn1/5k2/8/8/8 w - - 0 87",
+          "pgn": "{Fischer - Taimanov Vancouver (2), 1971} 87. Kg6 {Las negras están en zugzwang y tienen que permitir que el peón promueva. Para aquellos que deseen aprender más sobre los motivos, una buena lectura es Chess Tactics from Scratch de Martin Weteschnik (Quality Chess, 2012).} *"
+        }
+      ]
+    },
+    {
+      "id": "l_178008211114336",
+      "titulo": "Instrucciones",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "INFO",
+          "titulo": "Instrucciones",
+          "texto": "El entrenamiento del pájaro carpintero es duro. Para obtener el máximo beneficio de él, le recomendamos que seguir la metodología descrita en esta breve sección. Primero, un par de definiciones: Conjunto: Los ejercicios que vas a resolver antes de volver a empezar. Ciclo: Una ronda de resolución del conjunto. Normalmente se realizan hasta siete ciclos con un conjunto.",
+          "mostrarTablero": false,
+          "orientacion": "blanca"
+        }
+      ]
+    },
+    {
+      "id": "l_178008211114337",
+      "titulo": "5 pasos",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "INFO",
+          "titulo": "5 pasos",
+          "texto": "Paso 1 Ciclo 1: Resuelve tantos ejercicios como puedas en cuatro semanas. Estos ejercicios son su conjunto; y resolviéndolos llegarás al final de tu primer ciclo. (El periodo de tiempo exacto puede ajustarse según su estilo de vida y sus circunstancias, pero intente no pasar mucho más de cuatro semanas. Si tardas mucho más de cuatro semanas, probablemente no has dedicado el tiempo suficiente o has incluido demasiados ejercicios en su conjunto). Paso 2 Tómese un descanso del ajedrez durante al menos un día claro, y hasta una semana si lo necesita. Paso 3 Ciclo 2: Resuelve el mismo conjunto de ejercicios pero más rápido: el objetivo es en dos semanas. Paso 4 Repite los pasos 2 y 3, y vuelve a repetirlos. Intente completar cada ciclo en la mitad del número de días que del ciclo anterior (redondeado hacia arriba, cuando se trate de un número impar de días). Paso 5:El método del pájaro carpintero se ha completado cuando se ha resuelto todo el conjunto de ejercicios o después del séptimo ciclo, si no puede resolver toda la serie en un día. En los dos últimos ciclos, debe centrarse más en la detección de ideas, patrones y motivos a velocidad, y menos en los detalles más finos del cálculo.",
+          "mostrarTablero": false,
+          "orientacion": "blanca"
+        }
+      ]
+    },
+    {
+      "id": "l_178008211114438",
+      "titulo": "Personalización",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "INFO",
+          "titulo": "Personalización",
+          "texto": "El plan de cinco pasos es bastante sencillo, pero falta una variable crucial: ¿cuánto tiempo debe dedicar a resolver durante las cuatro semanas iniciales? Dado que la respuesta dependerá de su nivel de ambición y de la situación de su vida, tiene que ser una decisión suya. Antes de empezar, le recomendamos que establezcas un horario objetivo con límites superiores e inferiores. Entre cinco y diez horas semanales parece realista para un jugador amateur con compromisos laborales y/o familiares. Al establecer un un horario flexible, te aseguras un cierto grado de responsabilidad personal en tu entrenamiento, mientras que también tener cierto margen de maniobra para los imprevistos. La vida puede tender a interponerse en el camino, pero si la mejora del ajedrez es realmente importante para usted, le instamos a que establezca un calendario ambicioso y seguirlo a rajatabla (salvo que haya algún acontecimiento que le cambie la vida, por supuesto). Como opción adicional a la fijación de un objetivo de horas por semana, algunos jugadores pueden encontrar una motivación adicional eligiendo de antemano el número de ejercicios. El número adecuado dependerá del nivel de juego, la ambición y el tiempo disponible. Un número razonable para un aficionado que trabaja podría ser de 250. Los jugadores muy ambiciosos con mucho tiempo y energía para dedicar al a entrenar pueden optar por unos 1000, como hicimos nosotros, o incluso por el megaconjunto de 1128 ejercicios de este libro. Recuerde que debe tener en cuenta el nivel de dificultad y estar preparado para ajustar su objetivo a medida que avanza. objetivo a medida que avanza. Por ejemplo, si te fijas un objetivo de 800 posiciones, pero sólo has resuelto la mitad de ese número después de cuatro semanas, probablemente haya fijado un objetivo inicial demasiado alto.",
+          "mostrarTablero": false,
+          "orientacion": "blanca"
+        }
+      ]
+    },
+    {
+      "id": "l_178008211114439",
+      "titulo": "Otras pautas",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "INFO",
+          "titulo": "Otras pautas",
+          "texto": "Resuelva los ejercicios en orden. Si está atascado y no puede encontrar una solución, elija una jugada de todos modos, como tendrías que hacer lo mismo en un juego. Como el tiempo es un factor importante, recomendamos limitar el tiempo que dedicas a escribir y comprobar tus soluciones. Ninguno de nosotros hizo ninguna notas, y sólo comprobamos las soluciones cuando no estábamos seguros. Sin embargo, si te resulta difícil recordar las líneas que has calculado, no dudes en escribirlas, sobre todo para los dos primeros ciclos. Algunos jugadores nos han dicho que les resultaba útil alternar entre resolver una serie de ejercicios (por ejemplo, una página) y luego comprobar las soluciones correspondientes antes de pasar a la siguiente página de ejercicios. Independientemente de la forma que prefiera, tenga en cuenta que debe tratar de mantener su ritmo. En comparación con los ciclos posteriores, el primer ciclo probablemente utilice una mayor parte de la comprobación de las soluciones, lo cual está muy bien. Tener que comprobar las soluciones menos en los ciclos posteriores le ayudará a terminar el juego en el tiempo asignado.",
+          "mostrarTablero": false,
+          "orientacion": "blanca"
+        }
+      ]
+    },
+    {
+      "id": "l_178008211114440",
+      "titulo": "Puntuación",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "INFO",
+          "titulo": "Puntuación",
+          "texto": "Después de cada sesión, anote el tiempo empleado y el número de ejercicios. Contar el número de puntos que has conseguido es opcional. Consideramos que la puntuación es menos importante, y llevar la cuenta de la misma te quita parte de tu tiempo y concentración. Confiamos en nuestra conciencia; si pasamos por alto demasiados jugadas, bajamos el ritmo en la siguiente sesión (o durante la actual). Por otro lado, llevar un registro de tus puntuaciones también aporta ciertos beneficios. Puede servir de motivador cuando sabes que vas a competir contigo mismo y a esforzarte por conseguir más puntos que en su (s) ciclo (s) anterior (es). También le proporciona información sobre si está viendo lo suficiente. Este es especialmente importante a partir del segundo ciclo, para evitar conformarse con recordar la primera jugada de la solución.A menos que se especifique lo contrario en las soluciones, este libro utiliza el siguiente sistema de puntuación: Encontrar la primera jugada correcta = 1 punto Encontrar cada jugada marcada con un signo = 1 punto",
+          "mostrarTablero": false,
+          "orientacion": "blanca"
+        }
+      ]
+    },
+    {
+      "id": "l_178008211114441",
+      "titulo": "Recursos",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "INFO",
+          "titulo": "Recursos",
+          "texto": "Al final del libro, en las páginas 390 y 391, se han incluido modelos de hojas de registro. En la primera hoja, se han rellenado un par de entradas de ejemplo con fines ilustrativos, mostrando hipotéticas, el tiempo dedicado a la resolución, el número de ejercicios, así como la información adicional opcional de puntos y el porcentaje de puntuación. La segunda hoja se ha dejado en blanco. Si lo desea, puede fotocopiarla o utilizarla como base para para sus propias hojas de registro. Sólo tiene que rellenar el número del \"Ciclo del pájaro carpintero\" en la parte superior, y registrar los datos relevantes de cada sesión. A continuación, comience con una nueva hoja para el siguiente ciclo. Para mayor comodidad, se ha puesto a disposición una hoja de registro de Excel descargable en: http://www.qualitychess.co.uk/ebooks/Pájaro Carpintero− recordsheet.xls La versión de la hoja de cálculo se ha programado para llevar un registro del tiempo total de resolución, el número de ejercicios, los puntos y el porcentaje de puntuación de un ciclo completo. Esto facilitará el seguimiento de su progreso de un ciclo a otro.",
+          "mostrarTablero": false,
+          "orientacion": "blanca"
+        }
+      ]
+    },
+    {
+      "id": "l_178008211114442",
+      "titulo": "Motivación",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "INFO",
+          "titulo": "Motivación",
+          "texto": "Para motivarte, hay al menos dos tipos de objetivos que puedes fijarte en cada sesión de entrenamiento. Ritmo: Durante tu primer ciclo, intenta resolver al menos tantos ejercicios como en la sesión anterior (suponiendo que los ejercicios sean del mismo nivel de dificultad) en el mismo tiempo. Puntuación: Si decide llevar un registro de su puntuación, intente aumentar su porcentaje a medida que avanza a medida que avanza, manteniendo su ritmo.",
+          "mostrarTablero": false,
+          "orientacion": "blanca"
+        }
+      ]
+    },
+    {
+      "id": "l_178008211114443",
+      "titulo": "Más allá del primer ciclo",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "INFO",
+          "titulo": "Más allá del primer ciclo",
+          "texto": "Una vez que haya terminado la serie completa y haya disfrutado/sobrellevado su descanso, es el momento de volver a empezar. Su principal objetivo para el segundo ciclo es resolver más rápidamente, idealmente reduciendo a la mitad el tiempo total. En el siguiente ciclo, intenta volver a reducir el tiempo a la mitad, y así sucesivamente. Con cada ciclo adicional, su mayor reconocimiento debería compensar la disminución de los plazos. Aunque la velocidad es la clave, no se conforme con detectar sólo la primera jugada de la solución. Incluso si estás seguro de que es la jugada correcta, asegúrate de calcular el seguimiento. La única excepción La única excepción a esta regla llegará en el sexto y séptimo ciclo, momento en el que deberá esforzarse por completar el conjunto completo en un solo día, o al menos acercarse lo más posible",
+          "mostrarTablero": false,
+          "orientacion": "blanca"
+        }
+      ]
+    },
+    {
+      "id": "l_178008211114544",
+      "titulo": "Llegar al final",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "INFO",
+          "titulo": "Llegar al final",
+          "texto": "El método del pájaro carpintero se ha completado cuando el conjunto completo de ejercicios se ha resuelto en un solo día (o después de siete ciclos, si un día resulta inalcanzable). Es hora de celebrarlo! Pero ¿hacia dónde debe dirigirse a partir de aquí? En primer lugar, el siguiente paso ideal será poder jugar algunos torneos y poner en práctica tu capacidad táctica mejorada. En cuanto a la formación posterior depende de tu fuerza de juego y de tus objetivos. El entrenamiento del pájaro carpintero es duro, así que probablemente querrá tomarse un descanso durante un tiempo, y tal vez entrenar algún otro aspecto de su juego. Sin embargo, cuando esté preparado, puede considerar uno de los siguientes enfoques. Si su primer entrenamiento con el Pájaro Carpintero consistió en un conjunto de, digamos, los primeros 250 ejercicios de este libro, la manera de seguir avanzando es obvia: después de un descanso adecuado, comience un nuevo ciclo de cuatro semanas con más ejercicios de este libro. Ahora estará en el nivel de dificultad intermedio, pero ya debería estar realmente preparado para ello. Los lectores que comenzaron su entrenamiento con el Pájaro Carpintero con un alto nivel de fuerza y ambición de juego, pueden haber sido capaces de tomar un conjunto más grande, tal vez comprendiendo los 984 ejercicios en las secciones fácil e intermedia, o incluso la sección difícil también, para un total brutal de 1128 ejercicios. Si ha sido capaz de completar una serie como ésta en un día (o en siete ciclos), su capacidad táctica debe haber dado un salto significativo. Para mantener y construir sobre las ganancias que has hecho, es una buena idea volver a hacer la serie aproximadamente una vez cada seis semanas, o al menos como calentamiento antes de un torneo importante. Para quien sea lo suficientemente entusiasta/loco como para querer repetir el método completo hay muchos otros libros de ejercicios/problemas en el mercado.",
+          "mostrarTablero": false,
+          "orientacion": "blanca"
+        }
+      ]
+    },
+    {
+      "id": "l_178008211114545",
+      "titulo": "Resumen Instrucciones",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "INFO",
+          "titulo": "Resumen Instrucciones",
+          "texto": "Paso 1) Ciclo 1: Resolver un conjunto de ejercicios durante aproximadamente cuatro semanas Paso 2) Tómese al menos el día siguiente de descanso Paso 3) Ciclo 2: Resolver el mismo conjunto, pero en un plazo de dos semanas Paso 4) Repita los pasos 2−3, completando cada ciclo en la mitad del número de días (redondeando cuando sea necesario) Paso 5) El método está completo cuando el conjunto se ha resuelto en un día (o después de siete ciclos) Ahora no hay más texto para retrasar los ejercicios. Buena suerte y que el inconsciente te acompañe! (Al menos después de un tiempo...) Hans Tikkanen y Axel Smith Lund, junio de 2018 ((El ajedrez lo es todo: arte, ciencia y deporte. − Anatoly Karpov)) ((Se dice con razón que lo más difícil en el ajedrez es ganar una posición ganada.− Vladimir Kramnik))",
+          "mostrarTablero": false,
+          "orientacion": "blanca"
+        }
+      ]
+    },
+    {
+      "id": "l_178008211115446",
+      "titulo": "Diagrama 1",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 1",
+          "texto": "",
+          "orientacion": "negra",
+          "fen": "r6r/1pp3k1/1b6/p2P1p2/P1B1pn2/2P2PP1/BP5P/4RR1K b - - 0 30",
+          "secuenciaCorrecta": [
+            "h8h2",
+            "h1h2",
+            "a8h8"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_178008211116247",
+      "titulo": "Diagrama 2",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 2",
+          "texto": "",
+          "orientacion": "blanca",
+          "fen": "rnb3kr/ppp4p/3b3B/3Pp2n/2BP4/3K1Rp1/PPP3q1/RN1Q4 w - - 0 18",
+          "secuenciaCorrecta": [
+            "f3f8",
+            "d6f8",
+            "d5d6",
+            "c8e6",
+            "c4e6"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_178008211116848",
+      "titulo": "Diagrama 3",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 3",
+          "texto": "",
+          "orientacion": "blanca",
+          "fen": "r2q1rk1/pppb1ppp/3b4/4p1P1/4Pn2/2N1B2P/PPPQBP2/2KR3R w - - 0 14",
+          "secuenciaCorrecta": [
+            "e3f4",
+            "e5f4",
+            "e4e5"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_178008211117249",
+      "titulo": "Diagrama 4",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 4",
+          "texto": "",
+          "orientacion": "negra",
+          "fen": "2kr4/1pp4p/1p1r4/5Pp1/1P2q3/2P1R2P/P3KP2/1Q1R4 b - - 0 31",
+          "secuenciaCorrecta": [
+            "d6d2"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_178008211117550",
+      "titulo": "Diagrama 5",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 5",
+          "texto": "",
+          "orientacion": "blanca",
+          "fen": "rn1qk2r/ppp2ppp/5n2/2b1p3/2B1P1b1/3P1N2/PPP3PP/RNBQK2R w KQkq - 0 7",
+          "secuenciaCorrecta": [
+            "c4f7",
+            "e8f7",
+            "f3e5"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_178008211118751",
+      "titulo": "Diagrama 6",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 6",
+          "texto": "",
+          "orientacion": "blanca",
+          "fen": "r2k3r/pp1b3p/1qn1p1p1/1B1pPn2/Q7/P4N2/1P1BNPPP/2R3K1 w - - 0 19",
+          "secuenciaCorrecta": [
+            "c1c6",
+            "b7c6",
+            "d2a5"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_178008211119452",
+      "titulo": "Diagrama 7",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 7",
+          "texto": "",
+          "orientacion": "negra",
+          "fen": "2r1k2r/1b1p2q1/p4p2/4p3/PpB1Pp1p/7P/1PPRQPP1/4R1K1 b - - 0 27",
+          "secuenciaCorrecta": [
+            "f4f3",
+            "e2f3",
+            "c8c4"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_178008211120753",
+      "titulo": "Diagrama 8",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 8",
+          "texto": "",
+          "orientacion": "negra",
+          "fen": "r3k2r/p1ppbppp/1pn1q3/4P3/2BP2n1/5NB1/1PP1Q1PP/R4K1R b - - 0 18",
+          "secuenciaCorrecta": [
+            "e6c4",
+            "e2c4",
+            "g4e3",
+            "f1e2",
+            "e3c4"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_178008211120854",
+      "titulo": "Diagrama 9",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 9",
+          "texto": "",
+          "orientacion": "blanca",
+          "fen": "1b6/3n1p2/r1k1p1pp/Pr2P3/1PK2P2/3R4/3B2PP/R7 w - - 0 39",
+          "secuenciaCorrecta": [
+            "d3d7",
+            "c6d7",
+            "c4b5"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_178008211121055",
+      "titulo": "Diagrama 10",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 10",
+          "texto": "",
+          "orientacion": "blanca",
+          "fen": "2b5/4Q1pp/pp3n1k/3p3q/P2P1P2/BP1B2P1/7P/6K1 w - - 0 34",
+          "secuenciaCorrecta": [
+            "e7f6",
+            "g7f6",
+            "a3f8"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_178008211121156",
+      "titulo": "Diagrama 11",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 11",
+          "texto": "",
+          "orientacion": "blanca",
+          "fen": "rn1qk1nr/ppp2ppp/8/2b1p3/2B1P1b1/5N2/PPPP2PP/RNBQK2R w - - 0 34",
+          "secuenciaCorrecta": [
+            "c4f7",
+            "e8f8",
+            "f7d5"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_178008211121557",
+      "titulo": "Diagrama 12",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 12",
+          "texto": "",
+          "orientacion": "blanca",
+          "fen": "r1n5/pp2q1kp/2ppr1p1/4p1Q1/8/2N4R/PPP3PP/5RK1 w - - 0 25",
+          "secuenciaCorrecta": [
+            "g5h6",
+            "g7g8",
+            "f1f8",
+            "e7f8",
+            "h6h7"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_178008211122358",
+      "titulo": "Diagrama 13",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 13",
+          "texto": "",
+          "orientacion": "negra",
+          "fen": "4rrk1/ppp3pp/3p2n1/3Ppqb1/nPP5/6P1/P1NBQP1P/2R1NRK1 b - - 0 18",
+          "secuenciaCorrecta": [
+            "a4c3",
+            "d2c3",
+            "g5c1"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_178008211123459",
+      "titulo": "Diagrama 14",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 14",
+          "texto": "",
+          "orientacion": "negra",
+          "fen": "2kr3r/p4pp1/2p4p/4p3/2n4q/1NPPnP1P/PP2Q2P/R1K2B1R b - - 0 20",
+          "secuenciaCorrecta": [
+            "d8d3",
+            "f1g2",
+            "h8d8",
+            "a2a4",
+            "d3d1",
+            "h1d1",
+            "d8d1",
+            "e2d1",
+            "e3d1"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_178008211123960",
+      "titulo": "Diagrama 15",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 15",
+          "texto": "",
+          "orientacion": "negra",
+          "fen": "6k1/5pp1/p1n1r2p/2NQ4/1P1p4/P6P/1B1bqPPP/5RK1 b - - 0 38",
+          "secuenciaCorrecta": [
+            "e2f1",
+            "g1f1",
+            "e6e1"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_178008211125161",
+      "titulo": "Diagrama 16",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 16",
+          "texto": "",
+          "orientacion": "blanca",
+          "fen": "r1bqk1nr/pppp3p/2n2p2/b5p1/2BPPp1P/2P2N2/P5P1/RNBQK2R w - - 0 9",
+          "secuenciaCorrecta": [
+            "f3g5",
+            "f6g5",
+            "d1h5",
+            "e8e7",
+            "h5f7",
+            "e7d6",
+            "e4e5",
+            "c6e5",
+            "d4e5",
+            "d6e5",
+            "f7d5",
+            "e5f6",
+            "d5g5"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_178008211125462",
+      "titulo": "Diagrama 17",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 17",
+          "texto": "",
+          "orientacion": "blanca",
+          "fen": "2kr1bnr/p1ppqp1p/bpn5/1N4p1/P2PPp2/5N2/1PP2KPP/R1BQ1B1R w - - 0 10",
+          "secuenciaCorrecta": [
+            "b5a7",
+            "c6a7",
+            "f1a6"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_178008211125663",
+      "titulo": "Diagrama 18",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 18",
+          "texto": "",
+          "orientacion": "blanca",
+          "fen": "rn1qk1nr/ppp2ppp/8/2b1p3/2B1P1b1/5N2/PPPP2PP/RNBQK2R w - - 0 6",
+          "secuenciaCorrecta": [
+            "c4f7",
+            "e8f7",
+            "f3e5"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_178008211125964",
+      "titulo": "Diagrama 19",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 19",
+          "texto": "",
+          "orientacion": "negra",
+          "fen": "1k2r3/2p3p1/p4p2/1p3q1p/1n6/PQ2P3/1P2B2P/2KR4 b - - 0 27",
+          "secuenciaCorrecta": [
+            "e8e3",
+            "b3b4",
+            "e3e2"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_178008211126965",
+      "titulo": "Diagrama 20",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 20",
+          "texto": "",
+          "orientacion": "blanca",
+          "fen": "r1bqkbnr/pppp3p/2n2p2/6p1/2BPPp2/5N2/PPP3PP/RNBQK2R w - - 0 6",
+          "secuenciaCorrecta": [
+            "f3g5",
+            "f6g5",
+            "d1h5",
+            "e8e7",
+            "h5f7",
+            "e7d6",
+            "e4e5",
+            "c6e5",
+            "f7d5",
+            "d6e7",
+            "d5e5"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_178008211127566",
+      "titulo": "Diagrama 21",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 21",
+          "texto": "",
+          "orientacion": "blanca",
+          "fen": "rnbqkbnr/pppp3p/5p2/6p1/4Pp1P/5N2/PPPP2P1/RNBQKB1R w KQkq - 0 5",
+          "secuenciaCorrecta": [
+            "f3g5",
+            "f6g5",
+            "d1h5",
+            "e8e7",
+            "h5g5",
+            "e7e8",
+            "g5h5",
+            "e8e7",
+            "h5e5"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_178008211128667",
+      "titulo": "Diagrama 22",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 22",
+          "texto": "",
+          "orientacion": "blanca",
+          "fen": "rnbqkb1r/pp1p2pp/2p2p2/4p3/2B5/2P2N2/PPP2PPP/R1BQ1RK1 w - - 0 7",
+          "secuenciaCorrecta": [
+            "f3e5",
+            "d7d5",
+            "d1h5",
+            "g7g6",
+            "e5g6",
+            "h7g6",
+            "h5h8",
+            "d5c4",
+            "f1e1",
+            "e8f7",
+            "c1h6"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_178008211129168",
+      "titulo": "Diagrama 23",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 23",
+          "texto": "",
+          "orientacion": "blanca",
+          "fen": "2r3k1/p3qppp/2pr4/Q2b4/1P2p3/4P3/P3BPPP/2RR2K1 w - - 0 20",
+          "secuenciaCorrecta": [
+            "d1d5",
+            "d6d5",
+            "a5d5"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_178008211129469",
+      "titulo": "Diagrama 24",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 24",
+          "texto": "",
+          "orientacion": "blanca",
+          "fen": "6k1/2p3pp/q3pn2/1pp1p3/4P3/1P1P1P2/rNP2P1P/1Q3RK1 w - - 0 19",
+          "secuenciaCorrecta": [
+            "b2a4",
+            "a2a3",
+            "b1b2",
+            "b5b4",
+            "b2e5"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_178008211129970",
+      "titulo": "Diagrama 25",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 25",
+          "texto": "",
+          "orientacion": "negra",
+          "fen": "8/1p3q1k/2p3pp/4P1r1/8/4Q3/PP5P/3R3K b - - 0 38",
+          "secuenciaCorrecta": [
+            "g5e5",
+            "e3e5",
+            "f7f3",
+            "h1g1",
+            "f3d1",
+            "g1f2",
+            "d1d7"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_178008211130871",
+      "titulo": "Diagrama 26",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 26",
+          "texto": "",
+          "orientacion": "blanca",
+          "fen": "r5k1/1b1n2r1/p3n2q/1p1pPRN1/2pP3P/2P3P1/PPBQ4/5R1K w - - 0 30",
+          "secuenciaCorrecta": [
+            "f5f6",
+            "d7f6",
+            "f1f6",
+            "h6h5",
+            "c2d1",
+            "h5e8",
+            "f6e6"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_178008211131072",
+      "titulo": "Diagrama 27",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 27",
+          "texto": "",
+          "orientacion": "blanca",
+          "fen": "r1b2rk1/p2p1p2/2p5/1p2PPqn/1b1p2N1/1B1P3Q/PPP3PP/R4RK1 w - - 0 23",
+          "secuenciaCorrecta": [
+            "h3h5",
+            "g5h5",
+            "g4f6",
+            "g8h8",
+            "f6h5"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_178008211131673",
+      "titulo": "Diagrama 28",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 28",
+          "texto": "",
+          "orientacion": "negra",
+          "fen": "r5r1/p1p1k3/3q3B/5p2/4p3/1P6/P1P1QPP1/R4RK1 b - - 0 21",
+          "secuenciaCorrecta": [
+            "g8g2",
+            "g1g2",
+            "a8g8",
+            "g2h1",
+            "d6h6",
+            "e2h5",
+            "h6h5"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_178008211131874",
+      "titulo": "Diagrama 29",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 29",
+          "texto": "",
+          "orientacion": "blanca",
+          "fen": "6rk/p1q2p2/2p1rb1P/1p2pN2/4P1Q1/2PP4/PPB5/2K4R w - - 0 28",
+          "secuenciaCorrecta": [
+            "g4g7",
+            "g8g7",
+            "h6g7",
+            "h8g8",
+            "h1h8"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_178008211131975",
+      "titulo": "Diagrama 30",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 30",
+          "texto": "",
+          "orientacion": "blanca",
+          "fen": "4q1k1/2r3pp/1p6/8/1b2N3/4R1P1/PP3P1P/R5K1 w - - 0 28",
+          "secuenciaCorrecta": [
+            "e4f6",
+            "g7f6",
+            "e3e8"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_178008211132276",
+      "titulo": "Diagrama 31",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 31",
+          "texto": "",
+          "orientacion": "negra",
+          "fen": "4k3/1bp4r/p7/1p1P4/2P3pN/1P2r1P1/1BP2RPK/8 b - - 0 34",
+          "secuenciaCorrecta": [
+            "h7h4",
+            "g3h4",
+            "g4g3",
+            "h2g1",
+            "g3f2",
+            "g1f2"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_178008211132477",
+      "titulo": "Diagrama 32",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 32",
+          "texto": "",
+          "orientacion": "negra",
+          "fen": "2q4k/5Qp1/4B2p/p1p5/1P6/6PK/r4P1P/8 b - - 0 35",
+          "secuenciaCorrecta": [
+            "a2f2",
+            "f7f2",
+            "c8e6"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_178008211132678",
+      "titulo": "Diagrama 33",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 33",
+          "texto": "",
+          "orientacion": "blanca",
+          "fen": "5Rnk/pp1q4/7p/3p2rN/3Pp1Q1/2P5/PP5P/6K1 w - - 0 31",
+          "secuenciaCorrecta": [
+            "g4g5",
+            "h6g5",
+            "f8g8",
+            "h8g8",
+            "h5f6",
+            "g8f7",
+            "f6d7"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_178008211133079",
+      "titulo": "Diagrama 34",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 34",
+          "texto": "",
+          "orientacion": "blanca",
+          "fen": "r1bq2k1/pp3rpp/2n2b2/3p1p2/3P4/BQPB1N2/P4PPP/R3R1K1 w - - 0 15",
+          "secuenciaCorrecta": [
+            "b3d5",
+            "d8d5",
+            "e1e8",
+            "f7f8",
+            "e8f8"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_178008211133280",
+      "titulo": "Diagrama 35",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 35",
+          "texto": "",
+          "orientacion": "negra",
+          "fen": "2r3k1/pb2bp1p/1p2p1p1/8/q1NPP3/3B4/P3QPPP/3R2K1 b - - 0 24",
+          "secuenciaCorrecta": [
+            "b7e4",
+            "d3e4",
+            "c8c4"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_178008211133581",
+      "titulo": "Diagrama 36",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 36",
+          "texto": "",
+          "orientacion": "blanca",
+          "fen": "6r1/2r1k3/R3p3/p4pPp/1pPK1P2/1P3B1P/P7/8 w - - 0 35",
+          "secuenciaCorrecta": [
+            "a6e6",
+            "e7e6",
+            "f3d5",
+            "e6d6",
+            "d5g8",
+            "c7e7",
+            "c4c5",
+            "d6c6",
+            "g8d5",
+            "c6b5",
+            "g5g6"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_178008211133882",
+      "titulo": "Diagrama 37",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 37",
+          "texto": "",
+          "orientacion": "blanca",
+          "fen": "r4r1k/pppqNppp/3p1B2/4p3/3nP3/3P1b2/PPPQ1PPP/R4RK1 w - - 0 14",
+          "secuenciaCorrecta": [
+            "f6g7",
+            "h8g7",
+            "d2g5",
+            "g7h8",
+            "g5f6"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_178008211134383",
+      "titulo": "Diagrama 38",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 38",
+          "texto": "",
+          "orientacion": "negra",
+          "fen": "3r2k1/2p2pp1/p1Q2n1p/7q/8/1P1N2P1/P1P2P2/R3K3 b - - 0 31",
+          "secuenciaCorrecta": [
+            "d8d3",
+            "c2d3",
+            "h5e5",
+            "e1d2",
+            "e5a1"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_178008211134484",
+      "titulo": "Diagrama 39",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 39",
+          "texto": "",
+          "orientacion": "blanca",
+          "fen": "r1b2rk1/pp3qpp/2p1p3/2Ppb1PP/5B2/3BP3/PP3Q2/2R1K2R w - - 0 21",
+          "secuenciaCorrecta": [
+            "d3h7",
+            "g8h8",
+            "h7g6"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_178008211134785",
+      "titulo": "Diagrama 40",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 40",
+          "texto": "",
+          "orientacion": "blanca",
+          "fen": "2r2rk1/pQ1n1pp1/1p2p2p/3p4/P2P4/4P2P/1qB2PP1/2R2RK1 w - - 0 22",
+          "secuenciaCorrecta": [
+            "c2h7",
+            "g8h7",
+            "c1c8",
+            "f8c8",
+            "b7c8"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_178008211134886",
+      "titulo": "Diagrama 41",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 41",
+          "texto": "",
+          "orientacion": "blanca",
+          "fen": "3k4/p1p2prr/1p5N/3PRPP1/b1P5/4B3/P4K2/8 w - - 0 36",
+          "secuenciaCorrecta": [
+            "f5f6",
+            "g7g6",
+            "e3f4"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_178008211135187",
+      "titulo": "Diagrama 42",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 42",
+          "texto": "",
+          "orientacion": "blanca",
+          "fen": "r3k2r/pbp2qb1/1pn1p2p/3nP1pQ/3PNp2/2PB4/PP1N1BPP/R4RK1 w kq - 0 17",
+          "secuenciaCorrecta": [
+            "e4d6",
+            "c7d6",
+            "d3g6"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_178008211135388",
+      "titulo": "Diagrama 43",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 43",
+          "texto": "",
+          "orientacion": "blanca",
+          "fen": "4k3/1r2r1pp/1nR2p2/pp1p4/1N1P2P1/1R2PP2/PP3K1P/8 w - - 0 31",
+          "secuenciaCorrecta": [
+            "c6b6",
+            "a5b4",
+            "b6b7",
+            "e7b7",
+            "b3b4"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_178008211135789",
+      "titulo": "Diagrama 44",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 44",
+          "texto": "",
+          "orientacion": "blanca",
+          "fen": "7r/1p3pp1/pn1kb2p/3p4/3N1P1P/PP1BP3/3K2P1/2R5 w - - 0 22",
+          "secuenciaCorrecta": [
+            "d3a6",
+            "b7a6",
+            "c1c6",
+            "d6e7",
+            "c6b6"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_178008211136090",
+      "titulo": "Diagrama 45",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 45",
+          "texto": "",
+          "orientacion": "blanca",
+          "fen": "r3nrk1/1bp2ppp/pp2p3/3q2N1/1b1PNP2/3B2P1/PP2QP1P/2RR2K1 w - - 0 17",
+          "secuenciaCorrecta": [
+            "g5h7",
+            "f7f5",
+            "h7g5",
+            "f5e4",
+            "d3e4"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_178008211136791",
+      "titulo": "Diagrama 46",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 46",
+          "texto": "",
+          "orientacion": "blanca",
+          "fen": "r1b1k2r/2qp1ppp/ppnbpn2/8/2PNP3/P1N1BP2/1P4PP/2RQKB1R w Kkq - 0 11",
+          "secuenciaCorrecta": [
+            "d4b5",
+            "a6b5",
+            "c3b5",
+            "d6g3",
+            "h2g3",
+            "c7g3",
+            "e3f2"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_178008211137092",
+      "titulo": "Diagrama 47",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 47",
+          "texto": "",
+          "orientacion": "negra",
+          "fen": "4r1k1/6qp/pp4p1/2pP4/4Pp2/1P6/P1R3PP/4Q2K b - - 0 30",
+          "secuenciaCorrecta": [
+            "e8e4",
+            "e1e4",
+            "g7a1"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_178008211137193",
+      "titulo": "Diagrama 48",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 48",
+          "texto": "",
+          "orientacion": "blanca",
+          "fen": "2bq1r2/4bpk1/4pp1N/7Q/1p1p4/3B4/PP3PPP/R5K1 w - - 0 25",
+          "secuenciaCorrecta": [
+            "h6f7",
+            "f8f7",
+            "h5h7",
+            "g7f8",
+            "h7h8"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_178008211137494",
+      "titulo": "Diagrama 49",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 49",
+          "texto": "",
+          "orientacion": "blanca",
+          "fen": "r3r1k1/3b2pp/2p5/p1RpPp2/3Q1P2/1q2P1P1/6BP/R5K1 w - - 0 34",
+          "secuenciaCorrecta": [
+            "c5d5",
+            "c6d5",
+            "g2d5"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_178008211138095",
+      "titulo": "Diagrama 50",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 50",
+          "texto": "",
+          "orientacion": "blanca",
+          "fen": "r3br1k/pp5p/4B1p1/4NpP1/P2Pn3/q1PQ3R/7P/3R2K1 w - - 0 28",
+          "secuenciaCorrecta": [
+            "h3h7",
+            "h8h7",
+            "d3h3",
+            "h7g7",
+            "h3h6"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_178008211139396",
+      "titulo": "Diagrama 51",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 51",
+          "texto": "",
+          "orientacion": "negra",
+          "fen": "5rk1/ppp2ppp/6q1/2b1P3/3r4/2N1BQ1b/PP3PPP/R3R1K1 b - - 0 16",
+          "secuenciaCorrecta": [
+            "h3g2",
+            "f3g3",
+            "d4g4",
+            "e3c5",
+            "g4g3",
+            "f2g3",
+            "f8e8"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_178008211139897",
+      "titulo": "Diagrama 52",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 52",
+          "texto": "",
+          "orientacion": "negra",
+          "fen": "4r2k/ppp3pp/8/1PPb1p2/3P1P1b/P1Q2p1P/7R/R4KBq b - - 0 35",
+          "secuenciaCorrecta": [
+            "h1g2",
+            "h2g2",
+            "f3g2"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_178008211140298",
+      "titulo": "Diagrama 53",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 53",
+          "texto": "",
+          "orientacion": "negra",
+          "fen": "3r1b1k/pp4p1/2p1Qp2/5N2/PP2Pp2/2Pq4/5PKP/5R2 b - - 0 31",
+          "secuenciaCorrecta": [
+            "f4f3",
+            "g2g1",
+            "d3f1",
+            "g1f1",
+            "d8d1"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_178008211140799",
+      "titulo": "Diagrama 54",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 54",
+          "texto": "",
+          "orientacion": "negra",
+          "fen": "r1b2rk1/pp4pp/2pb4/3p1pq1/2PP4/1N1BPR2/PPQ3PP/4R1K1 b - - 0 17",
+          "secuenciaCorrecta": [
+            "d6h2",
+            "g1h2",
+            "g5h4",
+            "f3h3",
+            "h4e1"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_1780082111410100",
+      "titulo": "Diagrama 55",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 55",
+          "texto": "",
+          "orientacion": "blanca",
+          "fen": "q6r/1b4bp/4k1p1/1p2Pn2/2pPp1Q1/2P5/1P1N2PP/2B2RK1 w - - 0 21",
+          "secuenciaCorrecta": [
+            "f1f5",
+            "g6f5",
+            "g4g7"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_1780082111412101",
+      "titulo": "Diagrama 56",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 56",
+          "texto": "",
+          "orientacion": "blanca",
+          "fen": "5rk1/1b1p1ppp/1qr1p3/p2pP3/P4P2/Q2B4/1PP3PP/R4R1K w - - 0 19",
+          "secuenciaCorrecta": [
+            "d3h7",
+            "g8h7",
+            "a3f8"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_1780082111418102",
+      "titulo": "Diagrama 57",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 57",
+          "texto": "",
+          "orientacion": "negra",
+          "fen": "5r1k/pp4pp/2p5/8/4n3/5NPQ/P3Bq1P/4R2K b - - 0 27",
+          "secuenciaCorrecta": [
+            "f2e1",
+            "f3e1",
+            "e4f2",
+            "h1g2",
+            "f2h3",
+            "e1f3",
+            "f8f3",
+            "e2f3",
+            "h3g5"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_1780082111424103",
+      "titulo": "Diagrama 58",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 58",
+          "texto": "",
+          "orientacion": "blanca",
+          "fen": "r4rk1/pp2bppp/1qp1p3/4Pb2/Q1P1nB2/2N5/PP1RBPPP/5RK1 w - - 0 15",
+          "secuenciaCorrecta": [
+            "c3e4",
+            "f5e4",
+            "c4c5",
+            "e7c5",
+            "a4e4"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_1780082111428104",
+      "titulo": "Diagrama 59",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 59",
+          "texto": "",
+          "orientacion": "blanca",
+          "fen": "2r5/pp1bkp1Q/2nbpq2/3p1p2/3P1Pr1/2NBP1N1/PP4PP/2R2RK1 w - - 0 18",
+          "secuenciaCorrecta": [
+            "g3f5",
+            "e6f5",
+            "c3d5"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_1780082111431105",
+      "titulo": "Diagrama 60",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 60",
+          "texto": "",
+          "orientacion": "blanca",
+          "fen": "r1bqr1k1/1p1nbpp1/p1p3p1/3p4/3P1B2/2NBP2P/PP3PP1/2RQ1RK1 w - - 0 15",
+          "secuenciaCorrecta": [
+            "c3d5",
+            "c6d5",
+            "f4c7"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_1780082111438106",
+      "titulo": "Diagrama 61",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 61",
+          "texto": "",
+          "orientacion": "negra",
+          "fen": "3r2k1/q1p1nppp/p3n3/1pb1p3/4P2N/1PP3PP/PBB1QPK1/7R b - - 0 25",
+          "secuenciaCorrecta": [
+            "c5f2",
+            "e2f2",
+            "a7f2",
+            "g2f2",
+            "d8d2",
+            "f2e3",
+            "d2c2"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_1780082111442107",
+      "titulo": "Diagrama 62",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 62",
+          "texto": "",
+          "orientacion": "negra",
+          "fen": "1Q6/p4pkp/3p2p1/3P4/q7/P3rBbP/6P1/5R1K b - - 0 37",
+          "secuenciaCorrecta": [
+            "e3f3",
+            "g2f3",
+            "a4c2"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_1780082111445108",
+      "titulo": "Diagrama 63",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 63",
+          "texto": "",
+          "orientacion": "blanca",
+          "fen": "r1bqk2r/p1pn1pp1/1p2pn1p/8/3P4/B1PB4/P1P1QPPP/R3K1NR w KQkq - 0 10",
+          "secuenciaCorrecta": [
+            "e2e6",
+            "f7e6",
+            "d3g6"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_1780082111449109",
+      "titulo": "Diagrama 64",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 64",
+          "texto": "",
+          "orientacion": "blanca",
+          "fen": "r2qk2r/1p1b1pp1/p1pBpn1p/2P1N3/1n1P4/3B4/PPQ2PPP/2KR3R w KQkq - 0 19",
+          "secuenciaCorrecta": [
+            "d3g6",
+            "f7g6",
+            "c2g6"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_1780082111453110",
+      "titulo": "Diagrama 65",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 65",
+          "texto": "",
+          "orientacion": "negra",
+          "fen": "1r2r1k1/p1pbqppp/Q2b1n2/3p4/P2P4/2P5/1P2BPPP/R1B1KN1R b KQ - 0 14",
+          "secuenciaCorrecta": [
+            "d7b5",
+            "a4b5",
+            "e7e2"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_1780082111457111",
+      "titulo": "Diagrama 66",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 66",
+          "texto": "",
+          "orientacion": "blanca",
+          "fen": "1r4k1/pqp2pbp/2Q2np1/1N2p3/8/1P5P/PBP2PP1/3R2K1 w - - 0 20",
+          "secuenciaCorrecta": [
+            "d1d8",
+            "g7f8",
+            "c6f6"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_1780082111461112",
+      "titulo": "Diagrama 67",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 67",
+          "texto": "",
+          "orientacion": "blanca",
+          "fen": "rn1qkb1r/pp3p1b/2p1pnpp/4N3/2B4P/6N1/PPPPQPP1/R1B1K2R w KQkq - 0 11",
+          "secuenciaCorrecta": [
+            "e5f7",
+            "e8f7",
+            "e2e6"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_1780082111462113",
+      "titulo": "Diagrama 68",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 68",
+          "texto": "",
+          "orientacion": "blanca",
+          "fen": "3n4/2prR1pk/p2r1p1p/1p5P/5P1P/P1B2K2/1PP5/4R3 w - - 0 31",
+          "secuenciaCorrecta": [
+            "c3f6"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_1780082111464114",
+      "titulo": "Diagrama 69",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 69",
+          "texto": "",
+          "orientacion": "negra",
+          "fen": "6r1/1p2R3/p5k1/2p5/4Nr1P/8/PP5P/6K1 b - - 0 1",
+          "secuenciaCorrecta": [
+            "f4e4",
+            "e7e4",
+            "g6f5",
+            "g1f2",
+            "f5e4"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_1780082111469115",
+      "titulo": "Diagrama 70",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 70",
+          "texto": "",
+          "orientacion": "blanca",
+          "fen": "r1b2rk1/ppqnbppp/2p1pn2/3p2B1/2PP4/2NBPN2/PPQ2PPP/R3K2R w - - 0 9",
+          "secuenciaCorrecta": [
+            "d3h7",
+            "f6h7",
+            "g5e7",
+            "f8e8",
+            "e7h4",
+            "d5c4"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_1780082111470116",
+      "titulo": "Diagrama 71",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 71",
+          "texto": "",
+          "orientacion": "blanca",
+          "fen": "r1b1qrk1/pppp1ppp/1bn3n1/3Np1BQ/2B1P3/3P1N2/PPP2PPP/R3K2R w KQ - 0 9",
+          "secuenciaCorrecta": [
+            "d5f6",
+            "g7f6",
+            "g5f6"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_1780082111471117",
+      "titulo": "Diagrama 72",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 72",
+          "texto": "",
+          "orientacion": "blanca",
+          "fen": "r2qrbk1/1bp2ppp/p2p1n2/2p2NB1/4P3/2N2Q2/PPP2PPP/R3R1K1 w - - 0 14",
+          "secuenciaCorrecta": [
+            "f5h6",
+            "g7h6",
+            "g5f6"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_1780082111472118",
+      "titulo": "Diagrama 73",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 73",
+          "texto": "",
+          "orientacion": "blanca",
+          "fen": "r4r1k/ppn1NBpp/4b3/4P3/3p1R2/1P6/P1P3PP/R5K1 w - - 0 19",
+          "secuenciaCorrecta": [
+            "e7g6",
+            "h7g6",
+            "f4h4"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_1780082111477119",
+      "titulo": "Diagrama 74",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 74",
+          "texto": "",
+          "orientacion": "negra",
+          "fen": "2r2rk1/pp1bnp2/3q1n1Q/3p1P2/4p2N/1BPP4/P1P3PP/R4RK1 b - - 0 18",
+          "secuenciaCorrecta": [
+            "d6h2",
+            "g1h2",
+            "f6g4",
+            "h2g3",
+            "g4h6"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_1780082111481120",
+      "titulo": "Diagrama 75",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 75",
+          "texto": "",
+          "orientacion": "negra",
+          "fen": "5rk1/pbp2ppp/qr6/8/5Q2/1PP5/P4PP1/R1B2RK1 b - - 0 19",
+          "secuenciaCorrecta": [
+            "b7g2",
+            "g1g2",
+            "b6g6"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_1780082111487121",
+      "titulo": "Diagrama 76",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 76",
+          "texto": "",
+          "orientacion": "negra",
+          "fen": "r1b2rk1/pp1p1ppp/2n2n2/q7/2P5/P1N2NP1/3QPKBP/R1B4R b - - 0 13",
+          "secuenciaCorrecta": [
+            "a5c3",
+            "d2c3",
+            "f6e4",
+            "f2f1",
+            "e4c3"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_1780082111489122",
+      "titulo": "Diagrama 77",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 77",
+          "texto": "",
+          "orientacion": "blanca",
+          "fen": "3Q4/p4pkp/1p3np1/2q5/4p3/4P1N1/PP3PPP/6K1 w - - 0 27",
+          "secuenciaCorrecta": [
+            "d8f6",
+            "g7f6",
+            "g3e4",
+            "f6e5",
+            "e4c5",
+            "b6c5",
+            "g1f1"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_1780082111495123",
+      "titulo": "Diagrama 78",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 78",
+          "texto": "",
+          "orientacion": "negra",
+          "fen": "3r4/p2q1pkp/1pn1bnp1/2p1p3/P1N1P3/1PP1Q1PP/5PK1/4RBN1 b - - 0 25",
+          "secuenciaCorrecta": [
+            "f6e4",
+            "e3e4",
+            "e6d5"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_1780082111499124",
+      "titulo": "Diagrama 79",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 79",
+          "texto": "",
+          "orientacion": "negra",
+          "fen": "2kr4/p1p2ppp/3rb3/8/2P5/1R1BR3/P4PPP/5K2 b - - 0 20",
+          "secuenciaCorrecta": [
+            "d6d3",
+            "e3d3",
+            "d8d3",
+            "b3d3",
+            "e6c4",
+            "f1e2"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_1780082111503125",
+      "titulo": "Diagrama 80",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 80",
+          "texto": "",
+          "orientacion": "negra",
+          "fen": "6k1/3q3p/p1p3pQ/1p1p4/3P2RP/1P3P2/r3r1P1/5R1K b - - 0 31",
+          "secuenciaCorrecta": [
+            "e2g2",
+            "g4g2",
+            "d7h3",
+            "h1g1",
+            "h3g2"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_1780082111508126",
+      "titulo": "Diagrama 81",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 81",
+          "texto": "",
+          "orientacion": "negra",
+          "fen": "6k1/6pp/p1p3r1/3p4/P2P1Pq1/1R2PR2/2Q1K1P1/7r b - - 0 32",
+          "secuenciaCorrecta": [
+            "g4g2",
+            "f3f2",
+            "g2f2",
+            "e2f2",
+            "h1h2",
+            "f2f3",
+            "h2c2"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_1780082111512127",
+      "titulo": "Diagrama 82",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 82",
+          "texto": "",
+          "orientacion": "negra",
+          "fen": "1r2nrk1/p1p2pp1/4bb1p/3p4/q4B2/P1PB1Q1P/1P2NPP1/1R1R2K1 b - - 0 18",
+          "secuenciaCorrecta": [
+            "b8b2",
+            "b1b2",
+            "a4d1"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_1780082111515128",
+      "titulo": "Diagrama 83",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 83",
+          "texto": "",
+          "orientacion": "negra",
+          "fen": "5rk1/p4ppp/b3p3/2n1N3/Pp2P3/1P1r4/3N1PPP/R2R2K1 b - - 0 24",
+          "secuenciaCorrecta": [
+            "d3d2",
+            "d1d2",
+            "c5b3"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_1780082111522129",
+      "titulo": "Diagrama 84",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 84",
+          "texto": "",
+          "orientacion": "negra",
+          "fen": "2r1r2k/p4pp1/2pBnb1p/q1Pp4/3P4/P2R4/2Q1NPPP/3R2K1 b - - 0 26",
+          "secuenciaCorrecta": [
+            "e6d4",
+            "d3d4",
+            "f6d4",
+            "d1d4",
+            "a5e1"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_1780082111525130",
+      "titulo": "Diagrama 85",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 85",
+          "texto": "",
+          "orientacion": "blanca",
+          "fen": "r1bn1b1r/pp2k1pp/5p2/1B2p3/5B2/5N2/PPP2PPP/2KR3R w - - 0 13",
+          "secuenciaCorrecta": [
+            "f3e5",
+            "d8e6",
+            "e5d3"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_1780082111528131",
+      "titulo": "Diagrama 86",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 86",
+          "texto": "",
+          "orientacion": "negra",
+          "fen": "2r2rk1/5ppp/p1pp4/2p1n1q1/4P2b/1PN4P/PBPRQPP1/R5K1 b - - 0 21",
+          "secuenciaCorrecta": [
+            "e5f3",
+            "e2f3",
+            "g5d2"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_1780082111530132",
+      "titulo": "Diagrama 87",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 87",
+          "texto": "",
+          "orientacion": "blanca",
+          "fen": "8/2q3pk/1p2p2p/2n5/2B5/P3PQ2/5PKP/8 w - - 0 38",
+          "secuenciaCorrecta": [
+            "c4e6",
+            "c5e6",
+            "f3f5",
+            "h7h8",
+            "f5e6"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_1780082111531133",
+      "titulo": "Diagrama 88",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 88",
+          "texto": "",
+          "orientacion": "negra",
+          "fen": "r7/3k3p/6p1/N1P2p2/1p2p2P/3bPP2/5KP1/R7 b - - 0 32",
+          "secuenciaCorrecta": [
+            "a8a5",
+            "a1a5",
+            "b4b3"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_1780082111534134",
+      "titulo": "Diagrama 89",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 89",
+          "texto": "",
+          "orientacion": "negra",
+          "fen": "4rrk1/pp2p3/2pqP1p1/4Rp1p/P2P1n1P/6Q1/1P3PP1/1N1R2K1 b - - 0 25",
+          "secuenciaCorrecta": [
+            "d6e5",
+            "d4e5",
+            "f4e2",
+            "g1h2",
+            "e2g3"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_1780082111537135",
+      "titulo": "Diagrama 90",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 90",
+          "texto": "",
+          "orientacion": "blanca",
+          "fen": "3r2k1/2q1b2p/ppnpPpp1/2pB4/2P2PPB/PP1R3P/3Q4/6K1 w - - 0 35",
+          "secuenciaCorrecta": [
+            "h4f6",
+            "e7f6",
+            "e6e7",
+            "g8g7",
+            "e7d8q"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_1780082111548136",
+      "titulo": "Diagrama 91",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 91",
+          "texto": "",
+          "orientacion": "negra",
+          "fen": "3r2k1/p1q2pbp/1pn1p1p1/2p5/4P3/4B1P1/PPP1RPBP/2Q4K b - - 0 19",
+          "secuenciaCorrecta": [
+            "g7b2",
+            "c1b2",
+            "d8d1",
+            "g2f1",
+            "d1f1",
+            "h1g2",
+            "f1d1"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_1780082111550137",
+      "titulo": "Diagrama 92",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 92",
+          "texto": "",
+          "orientacion": "negra",
+          "fen": "1k6/pp3pp1/rr6/3p2Np/2pPnP2/q1P1P2P/P1R3P1/K1QR4 b - - 0 29",
+          "secuenciaCorrecta": [
+            "e4c3",
+            "c1a3",
+            "a6a3"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_1780082111555138",
+      "titulo": "Diagrama 93",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 93",
+          "texto": "",
+          "orientacion": "negra",
+          "fen": "r3r1k1/ppp2ppp/2nb1q2/6Rn/2BP4/P1NQBP1P/1P3P2/2KR4 b - - 0 17",
+          "secuenciaCorrecta": [
+            "e8e3",
+            "d3e3",
+            "d6f4"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_1780082111558139",
+      "titulo": "Diagrama 94",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 94",
+          "texto": "",
+          "orientacion": "negra",
+          "fen": "7k/p6p/6p1/2b2b2/2P5/2R1pBP1/P2rR1KP/8 b - - 0 34",
+          "secuenciaCorrecta": [
+            "f5e4",
+            "f3e4",
+            "d2e2"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_1780082111558140",
+      "titulo": "Diagrama 95",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 95",
+          "texto": "",
+          "orientacion": "blanca",
+          "fen": "3q3k/1pp3pp/5p2/1P6/4PQ2/3B2P1/1r3b1P/R6K w - - 0 37",
+          "secuenciaCorrecta": [
+            "f4c7"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_1780082111563141",
+      "titulo": "Diagrama 96",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 96",
+          "texto": "",
+          "orientacion": "blanca",
+          "fen": "r4rk1/p3qpp1/2p2n2/3pb2p/3Q2B1/1PN1P3/PB3PPP/2R2RK1 w - - 0 16",
+          "secuenciaCorrecta": [
+            "c3d5",
+            "c6d5",
+            "d4e5",
+            "e7e5",
+            "b2e5"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_1780082111570142",
+      "titulo": "Diagrama 97",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 97",
+          "texto": "",
+          "orientacion": "negra",
+          "fen": "r4rk1/pp1b3p/2p4q/3p1p2/3P2n1/2NBP1PR/PP3PK1/R2Q4 b - - 0 17",
+          "secuenciaCorrecta": [
+            "h6h3",
+            "g2h3",
+            "g4f2",
+            "h3g2",
+            "f2d1",
+            "a1d1"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_1780082111573143",
+      "titulo": "Diagrama 98",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 98",
+          "texto": "",
+          "orientacion": "blanca",
+          "fen": "r3kr2/1p1b1pp1/p1n1p2p/8/4q3/1N6/PPP1BKPP/R2Q1R2 w - - 0 17",
+          "secuenciaCorrecta": [
+            "d1d7",
+            "e8d7",
+            "b3c5",
+            "d7e7",
+            "c5e4"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_1780082111578144",
+      "titulo": "Diagrama 99",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 99",
+          "texto": "",
+          "orientacion": "negra",
+          "fen": "4r1k1/5p1p/2Qb2p1/3P4/6Pn/2N1B2P/1P3P1q/3R1K2 b - - 0 39",
+          "secuenciaCorrecta": [
+            "e8e3",
+            "f2e3",
+            "h2g2",
+            "f1e1",
+            "h4f3"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_1780082111584145",
+      "titulo": "Diagrama 100",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 100",
+          "texto": "",
+          "orientacion": "blanca",
+          "fen": "r1b1k2r/1p3pp1/p3pn2/2p1q1N1/8/1B2P3/PPP1Q2P/2KR3R w - - 0 19",
+          "secuenciaCorrecta": [
+            "d1d8",
+            "e8e7",
+            "d8h8",
+            "e5g5",
+            "e2d2"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_1780082111586146",
+      "titulo": "Diagrama 101",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 101",
+          "texto": "",
+          "orientacion": "blanca",
+          "fen": "6k1/1pqrnp2/3p2p1/2pn2b1/P1Q3Pp/2B4P/1PP1RP2/4R1K1 w - - 0 35",
+          "secuenciaCorrecta": [
+            "c4d5",
+            "e7d5",
+            "e2e8",
+            "g8h7",
+            "e8h8"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_1780082111591147",
+      "titulo": "Diagrama 102",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 102",
+          "texto": "",
+          "orientacion": "negra",
+          "fen": "6k1/1p3pp1/p7/P2n1PQ1/8/8/1r3r1P/3R3K b - - 0 33",
+          "secuenciaCorrecta": [
+            "f2h2",
+            "h1g1",
+            "b2g2",
+            "g5g2",
+            "h2g2",
+            "g1g2",
+            "d5e3",
+            "g2f3",
+            "e3d1"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_1780082111594148",
+      "titulo": "Diagrama 103",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 103",
+          "texto": "",
+          "orientacion": "blanca",
+          "fen": "1r4k1/2qpn1pp/p1p1pr2/2b5/2P2P2/3B4/PP4PP/R1BQ1R1K w - - 0 20",
+          "secuenciaCorrecta": [
+            "d3h7",
+            "g8h7",
+            "d1h5",
+            "f6h6",
+            "h5c5"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_1780082111597149",
+      "titulo": "Diagrama 104",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 104",
+          "texto": "",
+          "orientacion": "blanca",
+          "fen": "1rq1r2k/5Rbp/p2p1p1B/2p1p3/2P1P2Q/1P6/P5PP/3b2K1 w - - 0 27",
+          "secuenciaCorrecta": [
+            "h6g7",
+            "h8g8",
+            "g7h8",
+            "g8f7",
+            "h4f6",
+            "f7g8",
+            "f6g7"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_1780082111608150",
+      "titulo": "Diagrama 105",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 105",
+          "texto": "",
+          "orientacion": "negra",
+          "fen": "5bk1/p2Q1p2/q4p2/4r2p/3pr3/8/PPRRNPPP/5K2 b - - 0 31",
+          "secuenciaCorrecta": [
+            "e4e2",
+            "d2e2",
+            "d4d3",
+            "e2e5",
+            "d3c2"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_1780082111613151",
+      "titulo": "Diagrama 106",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 106",
+          "texto": "",
+          "orientacion": "negra",
+          "fen": "6k1/q4pp1/4p2p/1p1r4/1PpPQ3/r1P1R1P1/4RP1P/6K1 b - - 0 31",
+          "secuenciaCorrecta": [
+            "a3c3",
+            "e3c3",
+            "a7a1",
+            "g1g2",
+            "a1c3"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_1780082111617152",
+      "titulo": "Diagrama 107",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 107",
+          "texto": "",
+          "orientacion": "blanca",
+          "fen": "r2qk2r/pp1n1ppb/2pbpn1p/4N3/2BP1P1P/6N1/PPP1Q1P1/R1B1K2R w - - 0 12",
+          "secuenciaCorrecta": [
+            "e5f7",
+            "e8f7",
+            "e2e6",
+            "f7f8",
+            "e6f7"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_1780082111625153",
+      "titulo": "Diagrama 108",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 108",
+          "texto": "",
+          "orientacion": "negra",
+          "fen": "1r4k1/5n1p/5qp1/1p6/3Q4/1P4PP/P3rPB1/R2R2K1 b - - 0 28",
+          "secuenciaCorrecta": [
+            "e2e1",
+            "g1h2",
+            "f6d4",
+            "d1d4",
+            "e1a1"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_1780082111629154",
+      "titulo": "Diagrama 109",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 109",
+          "texto": "",
+          "orientacion": "negra",
+          "fen": "r3r1k1/1p5p/p1pqn1p1/3p1p2/PP1P1P2/1Q1RP3/4B1PP/1R4K1 b - - 0 27",
+          "secuenciaCorrecta": [
+            "e6f4",
+            "e3f4",
+            "e8e2"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_1780082111634155",
+      "titulo": "Diagrama 110",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 110",
+          "texto": "",
+          "orientacion": "blanca",
+          "fen": "3r2k1/p2r1p2/4b1p1/qPp1R2p/P1p4P/8/5PP1/Q3RBK1 w - - 0 38",
+          "secuenciaCorrecta": [
+            "f1c4",
+            "e6c4",
+            "e5e8",
+            "d8e8",
+            "e1e8",
+            "g8h7",
+            "e8h8"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_1780082111640156",
+      "titulo": "Diagrama 111",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 111",
+          "texto": "",
+          "orientacion": "negra",
+          "fen": "3r2k1/5qpp/pp2r3/2p2b2/nPPp1PP1/P4Q2/3N3P/R3RBK1 b - - 0 28",
+          "secuenciaCorrecta": [
+            "f5g4",
+            "f3g4",
+            "e6g6"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_1780082111644157",
+      "titulo": "Diagrama 112",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 112",
+          "texto": "",
+          "orientacion": "negra",
+          "fen": "6k1/1q1rbpp1/7p/1p1p1P2/1P2p1P1/P1Q5/4B2P/3R2K1 b - - 0 32",
+          "secuenciaCorrecta": [
+            "d5d4",
+            "d1d4",
+            "b7b6"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_1780082111646158",
+      "titulo": "Diagrama 113",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 113",
+          "texto": "",
+          "orientacion": "blanca",
+          "fen": "2r1b1k1/r1N2p1p/1p2p1pn/p2pP3/1b1P2P1/1P3N1P/P1R2P2/2R2BK1 w - - 0 29",
+          "secuenciaCorrecta": [
+            "c7d5",
+            "c8c2",
+            "d5f6",
+            "g8f8",
+            "c1c2"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_1780082111650159",
+      "titulo": "Diagrama 114",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 114",
+          "texto": "",
+          "orientacion": "blanca",
+          "fen": "r4rk1/2n1q2p/b1n1p1p1/pp1pPpN1/P1pP1N1P/2P3P1/1P3PB1/R2QR1K1 w - - 0 24",
+          "secuenciaCorrecta": [
+            "f4e6",
+            "c7e6",
+            "g2d5"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_1780082111651160",
+      "titulo": "Diagrama 115",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 115",
+          "texto": "",
+          "orientacion": "blanca",
+          "fen": "3r1n1k/3P3p/pp3q2/2pQp3/P1P3B1/3b2R1/1P5P/6K1 w - - 0 33",
+          "secuenciaCorrecta": [
+            "d5g8",
+            "h8g8",
+            "g4e6",
+            "g8h8",
+            "g3g8"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_1780082111654161",
+      "titulo": "Diagrama 116",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 116",
+          "texto": "",
+          "orientacion": "blanca",
+          "fen": "6k1/5r1p/p2N4/nppP2q1/2P5/1P2N3/PQ5P/7K w - - 0 30",
+          "secuenciaCorrecta": [
+            "b2h8",
+            "g8h8",
+            "d6f7",
+            "h8g7",
+            "f7g5"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_1780082111657162",
+      "titulo": "Diagrama 117",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 117",
+          "texto": "",
+          "orientacion": "blanca",
+          "fen": "Q7/2r2rpk/2p4p/7N/3PpN2/1p2P3/1K4R1/5q2 w - - 0 39",
+          "secuenciaCorrecta": [
+            "g2g7",
+            "f7g7",
+            "h5f6"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_1780082111660163",
+      "titulo": "Diagrama 118",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 118",
+          "texto": "",
+          "orientacion": "negra",
+          "fen": "6rk/p3p2p/1p2Pp2/2p2P2/2P1nBr1/1P6/P6P/3R1R1K b - - 0 33",
+          "secuenciaCorrecta": [
+            "g4g1",
+            "f1g1",
+            "e4f2"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_1780082111663164",
+      "titulo": "Diagrama 119",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 119",
+          "texto": "",
+          "orientacion": "blanca",
+          "fen": "8/pr1r3p/6p1/2p1pk2/3b2N1/1P4P1/P2R1PKP/4R3 w - - 0 35",
+          "secuenciaCorrecta": [
+            "d2d4",
+            "d7d4",
+            "e1e5",
+            "f5g4",
+            "f2f3"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_1780082111667165",
+      "titulo": "Diagrama 120",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 120",
+          "texto": "",
+          "orientacion": "blanca",
+          "fen": "r5k1/pp1b2pp/4q3/n7/3Rp3/P7/5QPP/2B2RK1 w - - 0 26",
+          "secuenciaCorrecta": [
+            "d4e4",
+            "e6e4",
+            "f2f7",
+            "g8h8",
+            "f7f8",
+            "a8f8",
+            "f1f8"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_1780082111673166",
+      "titulo": "Diagrama 121",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 121",
+          "texto": "",
+          "orientacion": "negra",
+          "fen": "r1bq1rk1/pp2ppbp/2n3p1/2pn4/3p1P2/NP2PN2/PBPPB1PP/3RQRK1 b - - 0 10",
+          "secuenciaCorrecta": [
+            "d4d3",
+            "b2g7",
+            "d3e2"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_1780082111678167",
+      "titulo": "Diagrama 122",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 122",
+          "texto": "",
+          "orientacion": "negra",
+          "fen": "8/4r1k1/4qp2/1p6/3R4/P1N2QPp/1PP2K1P/4r3 b - - 0 38",
+          "secuenciaCorrecta": [
+            "e1f1",
+            "f2f1",
+            "e6e1"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_1780082111682168",
+      "titulo": "Diagrama 123",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 123",
+          "texto": "",
+          "orientacion": "blanca",
+          "fen": "2kr3r/pbpq4/1p5p/4PpP1/P2p4/2P2Q2/2P2P2/R1B1KB1R w - - 0 20",
+          "secuenciaCorrecta": [
+            "f1a6",
+            "b7a6",
+            "f3a8"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_1780082111684169",
+      "titulo": "Diagrama 124",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 124",
+          "texto": "",
+          "orientacion": "blanca",
+          "fen": "8/4r1p1/p2k1p1p/1bNp3P/3P1K2/2P2P2/6P1/1R6 w - - 0 38",
+          "secuenciaCorrecta": [
+            "c5a6",
+            "b5a6",
+            "b1b6",
+            "d6d7",
+            "b6a6"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_1780082111685170",
+      "titulo": "Diagrama 125",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 125",
+          "texto": "",
+          "orientacion": "blanca",
+          "fen": "4kb1r/1br4p/p3p1p1/1p3R2/1n2p3/PNN1B3/1PP3PP/2R3K1 w - - 0 21",
+          "secuenciaCorrecta": [
+            "f5f8",
+            "h8f8",
+            "a3b4"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_1780082111687171",
+      "titulo": "Diagrama 126",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 126",
+          "texto": "",
+          "orientacion": "negra",
+          "fen": "8/4k1p1/1p2pp1p/p6P/2n1PN2/4qPP1/1P4K1/3Q4 b - - 0 36",
+          "secuenciaCorrecta": [
+            "e3f4",
+            "g3f4",
+            "c4e3",
+            "g2g3",
+            "e3d1"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_1780082111690172",
+      "titulo": "Diagrama 127",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 127",
+          "texto": "",
+          "orientacion": "blanca",
+          "fen": "8/5r1k/p3Npp1/4p3/3nP3/4QP2/PP2q1P1/1KR5 w - - 0 35",
+          "secuenciaCorrecta": [
+            "e3h6",
+            "h7h6",
+            "c1h1"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_1780082111698173",
+      "titulo": "Diagrama 128",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 128",
+          "texto": "",
+          "orientacion": "negra",
+          "fen": "3Rb3/6kp/6p1/3P1p2/3q4/Q5PP/P1r1r1B1/6RK b - - 0 32",
+          "secuenciaCorrecta": [
+            "d4g1",
+            "h1g1",
+            "e2g2",
+            "g1h1",
+            "g2h2",
+            "h1g1",
+            "c2g2",
+            "g1f1",
+            "e8b5",
+            "f1e1",
+            "h2h1"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_1780082111700174",
+      "titulo": "Diagrama 129",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 129",
+          "texto": "",
+          "orientacion": "blanca",
+          "fen": "2r2nk1/p2q1pp1/1p2b2p/3p4/3P1P2/4R1P1/PP1Q3P/1B2R1K1 w - - 0 33",
+          "secuenciaCorrecta": [
+            "f4f5",
+            "e6f5",
+            "e3e7"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_1780082111705175",
+      "titulo": "Diagrama 130",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 130",
+          "texto": "",
+          "orientacion": "blanca",
+          "fen": "b2r4/p4Brk/1pqp1Qp1/2p2pPp/5P2/3P4/PP5P/2B1RRK1 w - - 0 30",
+          "secuenciaCorrecta": [
+            "f7g6",
+            "g7g6",
+            "e1e7",
+            "h7g8",
+            "f6g6",
+            "g8f8",
+            "g6g7"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_1780082111709176",
+      "titulo": "Diagrama 131",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 131",
+          "texto": "",
+          "orientacion": "negra",
+          "fen": "2kn3r/pp1b4/2n1p1p1/q2pP1P1/2pN1P2/P1P3K1/2PB4/R2Q3B b - - 0 29",
+          "secuenciaCorrecta": [
+            "h8h1",
+            "d1h1",
+            "c6d4",
+            "c3d4",
+            "a5d2"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_1780082111710177",
+      "titulo": "Diagrama 132",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 132",
+          "texto": "",
+          "orientacion": "negra",
+          "fen": "7k/8/7P/6K1/6Q1/6P1/7q/8 b - - 0 85",
+          "secuenciaCorrecta": [
+            "h2h6",
+            "g5h6"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_1780082111717178",
+      "titulo": "Diagrama 133",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 133",
+          "texto": "",
+          "orientacion": "negra",
+          "fen": "r4rk1/pp5p/2pp4/2n3q1/2b2p1R/2N3P1/PP1QPPB1/2KR4 b - - 0 18",
+          "secuenciaCorrecta": [
+            "c4a2",
+            "c3a2",
+            "c5b3"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_1780082111722179",
+      "titulo": "Diagrama 134",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 134",
+          "texto": "",
+          "orientacion": "blanca",
+          "fen": "2q4k/p6p/6p1/5p2/5P1P/1Bb2QP1/Pr6/3R2K1 w - - 0 38",
+          "secuenciaCorrecta": [
+            "d1d8",
+            "c8d8",
+            "f3c3",
+            "d8f6",
+            "c3f6"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_1780082111729180",
+      "titulo": "Diagrama 135",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 135",
+          "texto": "",
+          "orientacion": "negra",
+          "fen": "3r2k1/5rbp/pp3np1/3P4/1B1N1R2/8/P5PP/5RK1 b - - 0 26",
+          "secuenciaCorrecta": [
+            "f6d5",
+            "d4e6",
+            "d5f4",
+            "f1f4",
+            "f7f4"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_1780082111731181",
+      "titulo": "Diagrama 136",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 136",
+          "texto": "",
+          "orientacion": "negra",
+          "fen": "r1bqr1k1/p1p2ppp/3b1n2/2P3B1/8/2NQ1N2/PP3PPP/R4RK1 b - - 0 14",
+          "secuenciaCorrecta": [
+            "d6h2"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_1780082111738182",
+      "titulo": "Diagrama 137",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 137",
+          "texto": "",
+          "orientacion": "negra",
+          "fen": "r4rk1/2p3b1/3p2qp/p1PPp3/4Rn2/P5Q1/3B1NPP/2R3K1 b - - 0 28",
+          "secuenciaCorrecta": [
+            "g6e4",
+            "f2e4",
+            "f4e2",
+            "g1h1",
+            "e2g3"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_1780082111746183",
+      "titulo": "Diagrama 138",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 138",
+          "texto": "",
+          "orientacion": "blanca",
+          "fen": "2rq1rk1/pp3pb1/3p2pB/n4P2/4pP2/1BNQ4/PKP3P1/3R3R w - - 0 21",
+          "secuenciaCorrecta": [
+            "h6g7",
+            "e4d3",
+            "f5f6",
+            "d3c2",
+            "h1h8"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_1780082111751184",
+      "titulo": "Diagrama 139",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 139",
+          "texto": "",
+          "orientacion": "negra",
+          "fen": "rr4k1/1q3p2/4b2p/p2n2p1/2B5/Q3P3/PP1R1PPP/3R2K1 b - - 0 24",
+          "secuenciaCorrecta": [
+            "d5e3",
+            "a3e3",
+            "e6c4"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_1780082111758185",
+      "titulo": "Diagrama 140",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 140",
+          "texto": "",
+          "orientacion": "blanca",
+          "fen": "3r1rk1/ppp1qpp1/2p1b2p/4P3/3nNQ1P/5N2/PPP2PP1/R4RK1 w - - 0 15",
+          "secuenciaCorrecta": [
+            "f3d4",
+            "d8d4",
+            "e4f6",
+            "e7f6",
+            "f4d4",
+            "f8d8",
+            "d4e4",
+            "e6d5",
+            "e4d5"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_1780082111763186",
+      "titulo": "Diagrama 141",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 141",
+          "texto": "",
+          "orientacion": "blanca",
+          "fen": "2brrbk1/2q2p1p/p4np1/1ppPp3/4P3/BP2N1P1/P3QPBP/2RR2K1 w - - 0 22",
+          "secuenciaCorrecta": [
+            "a3c5",
+            "f8c5",
+            "b3b4",
+            "f6d7",
+            "b4c5",
+            "d7c5",
+            "e2c2"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_1780082111773187",
+      "titulo": "Diagrama 142",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 142",
+          "texto": "",
+          "orientacion": "negra",
+          "fen": "r4rk1/ppp1bppp/2N2n2/7q/6b1/2P5/PP1NBPPP/R1B1QRK1 b - - 0 12",
+          "secuenciaCorrecta": [
+            "e7d6",
+            "h2h3",
+            "g4e2",
+            "c6d4",
+            "e2f1"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_1780082111776188",
+      "titulo": "Diagrama 143",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 143",
+          "texto": "",
+          "orientacion": "blanca",
+          "fen": "r1nq1n2/3b2k1/p2p1p1R/Pp1Pp1p1/1Pp1P1P1/2P1BPN1/2BQ2K1/8 w - - 0 35",
+          "secuenciaCorrecta": [
+            "h6f6",
+            "d8f6",
+            "g3h5"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_1780082111780189",
+      "titulo": "Diagrama 144",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 144",
+          "texto": "",
+          "orientacion": "negra",
+          "fen": "4rbk1/3Q1ppp/3p4/3P4/5q2/B7/P5PP/5RK1 b - - 0 29",
+          "secuenciaCorrecta": [
+            "f4d4",
+            "g1h1",
+            "d4f2"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_1780082111785190",
+      "titulo": "Diagrama 145",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 145",
+          "texto": "",
+          "orientacion": "negra",
+          "fen": "r1b5/5pk1/1p1p3p/3Pq1p1/PQ2Pn2/5P2/5RPP/3R3K b - - 0 29",
+          "secuenciaCorrecta": [
+            "f4d3",
+            "b4b6",
+            "d3f2"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_1780082111789191",
+      "titulo": "Diagrama 146",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 146",
+          "texto": "",
+          "orientacion": "negra",
+          "fen": "6rk/7p/p2Q4/1p2r3/8/4NP1q/PPP4P/5R1K b - - 0 36",
+          "secuenciaCorrecta": [
+            "h3h2",
+            "h1h2",
+            "e5h5"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_1780082111794192",
+      "titulo": "Diagrama 147",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 147",
+          "texto": "",
+          "orientacion": "blanca",
+          "fen": "1r2b1k1/R4nqp/4p3/1pR5/1P1P1r2/5N2/1Q2B1P1/6K1 w - - 0 35",
+          "secuenciaCorrecta": [
+            "c5g5",
+            "g7g5",
+            "f3g5",
+            "f7g5",
+            "d4d5"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_1780082111799193",
+      "titulo": "Diagrama 148",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 148",
+          "texto": "",
+          "orientacion": "negra",
+          "fen": "2rb1qk1/1b4pp/3p4/1P2pr2/2n2PB1/2NQ2P1/P1N4P/R2R2K1 b - - 0 28",
+          "secuenciaCorrecta": [
+            "d8b6",
+            "g1f1",
+            "f5f4",
+            "g3f4",
+            "f8f4"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_1780082111804194",
+      "titulo": "Diagrama 149",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 149",
+          "texto": "",
+          "orientacion": "blanca",
+          "fen": "8/2b2k1p/pp1P3r/2p3p1/6P1/1P2R2P/5P2/6K1 w - - 0 38",
+          "secuenciaCorrecta": [
+            "e3e7",
+            "f7f8",
+            "d6c7",
+            "h6c6",
+            "e7d7",
+            "f8e8",
+            "d7d8",
+            "e8e7",
+            "c7c8q",
+            "c6c8",
+            "d8c8"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_1780082111811195",
+      "titulo": "Diagrama 150",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 150",
+          "texto": "",
+          "orientacion": "negra",
+          "fen": "r3rnk1/1N3ppp/1p6/p1Pp2q1/8/6P1/PP2PPBP/2R1Q1K1 b - - 0 20",
+          "secuenciaCorrecta": [
+            "e8e2",
+            "e1e2",
+            "g5c1",
+            "e2f1",
+            "c1d2",
+            "c5b6",
+            "a8c8"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_1780082111814196",
+      "titulo": "Diagrama 151",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 151",
+          "texto": "",
+          "orientacion": "negra",
+          "fen": "8/6k1/1P1p2p1/3Ppn2/3q4/8/6PP/rR2QB1K b - - 0 38",
+          "secuenciaCorrecta": [
+            "f5g3",
+            "h2g3",
+            "a1a8"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_1780082111816197",
+      "titulo": "Diagrama 152",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 152",
+          "texto": "",
+          "orientacion": "negra",
+          "fen": "8/7R/2r5/8/P3n3/8/3nk1PP/R5K1 b - - 0 39",
+          "secuenciaCorrecta": [
+            "d2f3",
+            "g2f3",
+            "c6g6",
+            "g1h1",
+            "e4f2"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_1780082111820198",
+      "titulo": "Diagrama 153",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 153",
+          "texto": "",
+          "orientacion": "blanca",
+          "fen": "3rrk2/R4ppB/7p/1p2N1q1/nPbP1p2/2PQ1P2/6PP/4R1K1 w - - 0 31",
+          "secuenciaCorrecta": [
+            "d3c4",
+            "b5c4",
+            "a7f7"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_1780082111823199",
+      "titulo": "Diagrama 154",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 154",
+          "texto": "",
+          "orientacion": "blanca",
+          "fen": "5kr1/5p2/8/1Q1bPp2/8/P5P1/q1rBBK1P/3R4 w - - 0 32",
+          "secuenciaCorrecta": [
+            "b5d5",
+            "a2d5",
+            "d2h6",
+            "f8e7",
+            "d1d5"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_1780082111827200",
+      "titulo": "Diagrama 155",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 155",
+          "texto": "",
+          "orientacion": "blanca",
+          "fen": "3rrnk1/1bq2pp1/ppnppb1p/8/2P1PPQ1/1PN2N2/PB4PP/1B1R1R1K w - - 0 26",
+          "secuenciaCorrecta": [
+            "c3d5",
+            "f6b2",
+            "d5c7"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_1780082111830201",
+      "titulo": "Diagrama 156",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 156",
+          "texto": "",
+          "orientacion": "blanca",
+          "fen": "1n3rk1/p2pQpp1/4q2p/1r6/4B3/4P1P1/P4P1P/2RR2K1 w - - 0 27",
+          "secuenciaCorrecta": [
+            "e4h7",
+            "g8h7",
+            "e7f8"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_1780082111831202",
+      "titulo": "Diagrama 157",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 157",
+          "texto": "",
+          "orientacion": "blanca",
+          "fen": "4R3/p4pk1/5qpp/1PnP4/3Q3P/6P1/r1r1BPK1/3R4 w - - 0 39",
+          "secuenciaCorrecta": [
+            "e8g8",
+            "g7g8",
+            "d4f6"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_1780082111834203",
+      "titulo": "Diagrama 158",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 158",
+          "texto": "",
+          "orientacion": "blanca",
+          "fen": "4rrk1/1p1n1pb1/2ppq1p1/p3p1Bp/P1P1P2P/2NP2P1/1P2QPK1/3R1R2 w - - 0 21",
+          "secuenciaCorrecta": [
+            "c3d5",
+            "d7c5",
+            "d5c7",
+            "e6d7",
+            "c7e8"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_1780082111838204",
+      "titulo": "Diagrama 159",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 159",
+          "texto": "",
+          "orientacion": "blanca",
+          "fen": "r3rbk1/1b3Npp/1q1p2n1/2pP4/5R2/1PN3Q1/4P1BP/5R1K w - - 0 33",
+          "secuenciaCorrecta": [
+            "g3g6",
+            "h7g6",
+            "f4h4"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_1780082111841205",
+      "titulo": "Diagrama 160",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 160",
+          "texto": "",
+          "orientacion": "blanca",
+          "fen": "5nk1/1b1qQpp1/p3p3/3pP1N1/3P3P/1p1B4/1P3PP1/6K1 w - - 0 30",
+          "secuenciaCorrecta": [
+            "d3h7",
+            "f8h7",
+            "e7d7"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_1780082111847206",
+      "titulo": "Diagrama 161",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 161",
+          "texto": "",
+          "orientacion": "negra",
+          "fen": "4r2k/3n2bB/2p1NqQ1/2Pp4/5B2/r6P/5PP1/4R1K1 b - - 0 34",
+          "secuenciaCorrecta": [
+            "e8e6",
+            "e1e6",
+            "a3a1",
+            "g1h2",
+            "f6f4"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_1780082111853207",
+      "titulo": "Diagrama 162",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 162",
+          "texto": "",
+          "orientacion": "negra",
+          "fen": "2b4k/p3q2p/2p1p3/2PpPpr1/3P3Q/4P2B/3b1B1P/R6K b - - 0 37",
+          "secuenciaCorrecta": [
+            "d2e3",
+            "f2e3",
+            "g5g1",
+            "a1g1",
+            "e7h4",
+            "e3g5",
+            "h4e4",
+            "h3g2",
+            "e4d4",
+            "g5f6",
+            "h8g8"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_1780082111855208",
+      "titulo": "Diagrama 163",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 163",
+          "texto": "",
+          "orientacion": "negra",
+          "fen": "7r/3b1pk1/2p2qp1/8/1P1bNP2/r2B4/3Q2PP/2R2R1K b - - 0 29",
+          "secuenciaCorrecta": [
+            "h8h2",
+            "h1h2",
+            "f6h4"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_1780082111860209",
+      "titulo": "Diagrama 164",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 164",
+          "texto": "",
+          "orientacion": "negra",
+          "fen": "1r1r4/5ppk/1p5p/2b1Pp1Q/8/q7/3B1PPP/2RR2K1 b - - 0 25",
+          "secuenciaCorrecta": [
+            "d8d2",
+            "d1d2",
+            "a3c1"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_1780082111862210",
+      "titulo": "Diagrama 165",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 165",
+          "texto": "",
+          "orientacion": "blanca",
+          "fen": "4kr2/p1Bbpp2/1p4p1/n6p/2B1P2P/2K2P2/P2R2P1/8 w - - 0 30",
+          "secuenciaCorrecta": [
+            "c4b5",
+            "d7b5",
+            "d2d8"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_1780082111864211",
+      "titulo": "Diagrama 166",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 166",
+          "texto": "",
+          "orientacion": "blanca",
+          "fen": "2n2k2/2b2pp1/2p1pnp1/2Pp2N1/3P1PP1/3BP2P/3BK3/8 w - - 0 40",
+          "secuenciaCorrecta": [
+            "d3g6",
+            "c7f4",
+            "e3f4",
+            "f7g6",
+            "g5e6"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_1780082111867212",
+      "titulo": "Diagrama 167",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 167",
+          "texto": "",
+          "orientacion": "blanca",
+          "fen": "r5k1/pb1p1Rpq/2n1p1Q1/1p2P3/3P2P1/P7/1P1K4/5R2 w - - 0 26",
+          "secuenciaCorrecta": [
+            "f7f8",
+            "a8f8",
+            "f1f8",
+            "g8f8",
+            "g6h7"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_1780082111869213",
+      "titulo": "Diagrama 168",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 168",
+          "texto": "",
+          "orientacion": "blanca",
+          "fen": "1k1r1q1r/2p2ppp/Qp6/3b1N2/8/P5P1/1P3P1P/2R2RK1 w - - 0 22",
+          "secuenciaCorrecta": [
+            "c1c7",
+            "b8c7",
+            "a6a7"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_1780082111870214",
+      "titulo": "Diagrama 169",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 169",
+          "texto": "",
+          "orientacion": "negra",
+          "fen": "6k1/4qp2/1B4pp/2R1b3/P2Nb3/1P2Q3/r4PPP/6K1 b - - 0 29",
+          "secuenciaCorrecta": [
+            "e7c5"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_1780082111871215",
+      "titulo": "Diagrama 170",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 170",
+          "texto": "",
+          "orientacion": "blanca",
+          "fen": "R3n1k1/7p/3prppB/1p2p3/1P2P2Q/7P/5PPK/1q6 w - - 0 36",
+          "secuenciaCorrecta": [
+            "a8e8",
+            "e6e8",
+            "h4f6"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_1780082111873216",
+      "titulo": "Diagrama 171",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 171",
+          "texto": "",
+          "orientacion": "negra",
+          "fen": "2rr4/pp4kp/6p1/3nNp2/2B5/2n3P1/P2R1PKP/R7 b - - 0 27",
+          "secuenciaCorrecta": [
+            "d5e3"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_1780082111878217",
+      "titulo": "Diagrama 172",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 172",
+          "texto": "",
+          "orientacion": "blanca",
+          "fen": "5rk1/ppr2Npp/2q1Pp2/3n4/8/6Q1/P5PP/3R1R1K w - - 0 32",
+          "secuenciaCorrecta": [
+            "d1d5",
+            "c6d5",
+            "g3c7"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_1780082111882218",
+      "titulo": "Diagrama 173",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 173",
+          "texto": "",
+          "orientacion": "blanca",
+          "fen": "r7/5kpp/2p1pq2/1bP2p2/p4Q2/5BP1/PP3P1P/4R1K1 w - - 0 32",
+          "secuenciaCorrecta": [
+            "f3c6",
+            "b5c6",
+            "f4c7",
+            "f6e7",
+            "c7c6"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_1780082111884219",
+      "titulo": "Diagrama 174",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 174",
+          "texto": "",
+          "orientacion": "negra",
+          "fen": "8/1p3pkp/pb2p1p1/8/4P2P/1N4P1/P1R1KP2/7r b - - 0 31",
+          "secuenciaCorrecta": [
+            "b6f2",
+            "e2f2",
+            "h1h2"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_1780082111885220",
+      "titulo": "Diagrama 175",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 175",
+          "texto": "",
+          "orientacion": "blanca",
+          "fen": "2r5/pp1b4/4p3/3pPk2/5P2/8/1K6/3R2R1 w - - 0 35",
+          "secuenciaCorrecta": [
+            "d1d4"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_1780082111887221",
+      "titulo": "Diagrama 176",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 176",
+          "texto": "",
+          "orientacion": "negra",
+          "fen": "r2r2k1/1p1n1bpp/1pp1pp2/8/Pb1PP1P1/1BNRBP1P/1P3K2/2R5 b - - 0 22",
+          "secuenciaCorrecta": [
+            "d7c5",
+            "d4c5",
+            "d8d3"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_1780082111889222",
+      "titulo": "Diagrama 177",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 177",
+          "texto": "",
+          "orientacion": "negra",
+          "fen": "8/1R3pbp/4p1k1/5p2/8/2N2P2/1P1r1P1P/4K3 b - - 0 32",
+          "secuenciaCorrecta": [
+            "d2b2",
+            "b7b2",
+            "g7c3"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_1780082111893223",
+      "titulo": "Diagrama 178",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 178",
+          "texto": "",
+          "orientacion": "blanca",
+          "fen": "5k1r/ppq3b1/8/3Pp2p/3n4/7Q/PP3PPP/3RR1K1 w - - 0 27",
+          "secuenciaCorrecta": [
+            "d1d4",
+            "e5d4",
+            "h3f5",
+            "c7f7",
+            "f5c8",
+            "f7e8",
+            "c8e8"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_1780082111894224",
+      "titulo": "Diagrama 179",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 179",
+          "texto": "",
+          "orientacion": "blanca",
+          "fen": "r3qn1k/pp3pp1/2b1p2p/4P1B1/2B3Q1/8/PPP3P1/2K1R3 w - - 0 26",
+          "secuenciaCorrecta": [
+            "g5f6",
+            "g7f6",
+            "e5f6"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_1780082111895225",
+      "titulo": "Diagrama 180",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 180",
+          "texto": "",
+          "orientacion": "negra",
+          "fen": "3r2k1/1b3p1p/pp4p1/4PqP1/3NpP2/1P2Q2P/P6K/2R5 b - - 0 37",
+          "secuenciaCorrecta": [
+            "d8d4"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_1780082111897226",
+      "titulo": "Diagrama 181",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 181",
+          "texto": "",
+          "orientacion": "blanca",
+          "fen": "4r1rk/p3q2p/3p1n1Q/3P4/Pp1n1P2/3BN2R/1PPK1P2/R7 w - - 0 26",
+          "secuenciaCorrecta": [
+            "h6f6",
+            "e7f6",
+            "h3h7"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_1780082111903227",
+      "titulo": "Diagrama 182",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 182",
+          "texto": "",
+          "orientacion": "blanca",
+          "fen": "2kr3r/1pq3p1/p1p3Qp/P1n1p3/8/RbN1P1P1/1P2P1BP/5RK1 w - - 0 21",
+          "secuenciaCorrecta": [
+            "a3b3",
+            "c5b3",
+            "g6e6",
+            "c8b8",
+            "e6b3"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_1780082111906228",
+      "titulo": "Diagrama 183",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 183",
+          "texto": "",
+          "orientacion": "negra",
+          "fen": "2rq1rk1/1p4bp/4p1p1/p2p1bP1/P2N4/2PnB3/QP4BP/R5RK b - - 0 26",
+          "secuenciaCorrecta": [
+            "d8g5",
+            "e3g5",
+            "d3f2"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_1780082111909229",
+      "titulo": "Diagrama 184",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 184",
+          "texto": "",
+          "orientacion": "blanca",
+          "fen": "2k4r/pp3p2/1np3q1/2Q3p1/3R4/1P2P1P1/P4PB1/6K1 w - - 0 24",
+          "secuenciaCorrecta": [
+            "g2h3"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_1780082111913230",
+      "titulo": "Diagrama 185",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 185",
+          "texto": "",
+          "orientacion": "blanca",
+          "fen": "r1b2rk1/p1q2n1p/6p1/2Ppp3/8/2Q2NPP/P4PB1/1R3RK1 w - - 0 24",
+          "secuenciaCorrecta": [
+            "f3e5",
+            "f7e5",
+            "g2d5"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_1780082111914231",
+      "titulo": "Diagrama 186",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 186",
+          "texto": "",
+          "orientacion": "blanca",
+          "fen": "1r6/RP5p/P1kp4/2n2p2/8/4PKP1/5P1P/8 w - - 0 38",
+          "secuenciaCorrecta": [
+            "a7a8",
+            "c6c7",
+            "a6a7",
+            "b8b7",
+            "a8c8"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_1780082111918232",
+      "titulo": "Diagrama 187",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 187",
+          "texto": "",
+          "orientacion": "blanca",
+          "fen": "r2qk2r/3bb1pp/5p2/1p1Q4/1pNP4/4P3/PB4PP/R4RK1 w - - 0 20",
+          "secuenciaCorrecta": [
+            "c4e5",
+            "h8f8",
+            "e5d7"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_1780082111920233",
+      "titulo": "Diagrama 188",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 188",
+          "texto": "",
+          "orientacion": "blanca",
+          "fen": "r3k1r1/p4p1p/3bpBp1/3p1b2/5P2/3BP2P/PP4P1/1K1R3R w - - 0 20",
+          "secuenciaCorrecta": [
+            "e3e4",
+            "f5e4",
+            "d3e4"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_1780082111924234",
+      "titulo": "Diagrama 189",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 189",
+          "texto": "",
+          "orientacion": "blanca",
+          "fen": "4r2k/6b1/8/p2R3p/1pP1p1Nq/8/PP3P1P/3Q3K w - - 0 36",
+          "secuenciaCorrecta": [
+            "g4f6",
+            "h4f6",
+            "d1h5",
+            "h8g8",
+            "h5e8"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_1780082111925235",
+      "titulo": "Diagrama 190",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 190",
+          "texto": "",
+          "orientacion": "blanca",
+          "fen": "2r4k/2q4p/p2bPp2/1p6/6QP/3B4/PPP5/1K4R1 w - - 0 38",
+          "secuenciaCorrecta": [
+            "e6e7"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_1780082111927236",
+      "titulo": "Diagrama 191",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 191",
+          "texto": "",
+          "orientacion": "blanca",
+          "fen": "3n4/2p2pk1/3r2p1/6Np/1P1q3P/4QR2/5PP1/6K1 w - - 0 34",
+          "secuenciaCorrecta": [
+            "f3f7",
+            "d8f7",
+            "g5e6",
+            "d6e6",
+            "e3d4"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_1780082111932237",
+      "titulo": "Diagrama 192",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 192",
+          "texto": "",
+          "orientacion": "blanca",
+          "fen": "r1q2rk1/3bpp1p/3p2p1/3P4/Pnn1P3/2N2NP1/1R1Q1PB1/4R1K1 w - - 0 25",
+          "secuenciaCorrecta": [
+            "d2h6",
+            "f7f6",
+            "b2b4"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_1780082111935238",
+      "titulo": "Diagrama 193",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 193",
+          "texto": "",
+          "orientacion": "negra",
+          "fen": "2r2rk1/p4ppp/1p6/2b5/5Pn1/1Q2PR1P/P5P1/R1B1qBK1 b - - 0 22",
+          "secuenciaCorrecta": [
+            "g4e3",
+            "f3e3",
+            "f8e8"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_1780082111938239",
+      "titulo": "Diagrama 194",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 194",
+          "texto": "",
+          "orientacion": "blanca",
+          "fen": "5r1k/2p5/5qp1/1Pb1p2p/4B2P/3P2P1/4QPK1/5R2 w - - 0 34",
+          "secuenciaCorrecta": [
+            "e4g6",
+            "f6g6",
+            "e2e5",
+            "h8g8",
+            "e5c5"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_1780082111940240",
+      "titulo": "Diagrama 195",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 195",
+          "texto": "",
+          "orientacion": "blanca",
+          "fen": "2kB2r1/p3R3/q1p3r1/bp2Qp2/2PP3p/1P4P1/P4P2/5K2 w - - 0 37",
+          "secuenciaCorrecta": [
+            "e7c7",
+            "c8b8",
+            "c7c6"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_1780082111942241",
+      "titulo": "Diagrama 196",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 196",
+          "texto": "",
+          "orientacion": "blanca",
+          "fen": "1r3k2/2p3Rp/2b5/p1Pp2p1/P2B1pq1/2PB2P1/7P/5RK1 w - - 0 34",
+          "secuenciaCorrecta": [
+            "f1f4"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_1780082111948242",
+      "titulo": "Diagrama 197",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 197",
+          "texto": "",
+          "orientacion": "blanca",
+          "fen": "6k1/5rpp/4Qn2/3p4/1q1P4/1p2P2P/6P1/3B1RK1 w - - 0 37",
+          "secuenciaCorrecta": [
+            "d1h5",
+            "g7g6",
+            "f1f6",
+            "b4b7",
+            "h5d1",
+            "b3b2",
+            "e6e8",
+            "g8g7",
+            "e8f7"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_1780082111951243",
+      "titulo": "Diagrama 198",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 198",
+          "texto": "",
+          "orientacion": "negra",
+          "fen": "6rk/7p/8/1p3R2/pN6/P1n2B1P/4brPK/4R3 b - - 0 37",
+          "secuenciaCorrecta": [
+            "e2f3",
+            "f5f3",
+            "g8g2",
+            "h2h1",
+            "g2h2",
+            "h1g1",
+            "c3e2"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_1780082111957244",
+      "titulo": "Diagrama 199",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 199",
+          "texto": "",
+          "orientacion": "blanca",
+          "fen": "2r3k1/p2b2pp/1pqr4/2p1R3/4P3/P1Q3PP/1P4BK/3R4 w - - 0 31",
+          "secuenciaCorrecta": [
+            "e5e7",
+            "d6d4",
+            "d1d4",
+            "c5d4",
+            "c3d4"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_1780082111959245",
+      "titulo": "Diagrama 200",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 200",
+          "texto": "",
+          "orientacion": "negra",
+          "fen": "r3r1k1/p2q1pbp/6p1/3Q2B1/8/5P2/PP4PP/R2R2K1 b - - 0 19",
+          "secuenciaCorrecta": [
+            "e8e1",
+            "d1e1",
+            "d7d5"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_1780082111960246",
+      "titulo": "Diagrama 201",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 201",
+          "texto": "",
+          "orientacion": "blanca",
+          "fen": "3r2k1/pp4qn/3p1ppQ/2pPp3/4P1N1/1P2P2R/1PP3PP/6K1 w - - 0 33",
+          "secuenciaCorrecta": [
+            "h6h7",
+            "g7h7",
+            "g4f6"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_1780082111965247",
+      "titulo": "Diagrama 202",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 202",
+          "texto": "",
+          "orientacion": "negra",
+          "fen": "4r2k/p4rp1/1pb3qp/3NB3/2P1Q2n/1P1R4/1P4PP/4R1K1 b - - 0 29",
+          "secuenciaCorrecta": [
+            "e8e5",
+            "e4h4",
+            "e5e1",
+            "h4e1",
+            "g6d3"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_1780082111970248",
+      "titulo": "Diagrama 203",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 203",
+          "texto": "",
+          "orientacion": "blanca",
+          "fen": "2b3k1/r2r1pp1/p3p2p/1pq1P3/4B2Q/2P5/P4PPP/3RR1K1 w - - 0 23",
+          "secuenciaCorrecta": [
+            "h4d8",
+            "d7d8",
+            "d1d8",
+            "c5f8",
+            "e4h7",
+            "g8h7",
+            "d8f8"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_1780082111976249",
+      "titulo": "Diagrama 204",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 204",
+          "texto": "",
+          "orientacion": "blanca",
+          "fen": "2r5/R2b1pk1/3q1bpp/1p1Pp3/4P3/3P3P/1Q1NBPP1/6K1 w - - 0 25",
+          "secuenciaCorrecta": [
+            "a7d7",
+            "d6d7",
+            "e2g4",
+            "d7d8",
+            "g4c8",
+            "d8c8",
+            "b2b5"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_1780082111980250",
+      "titulo": "Diagrama 205",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 205",
+          "texto": "",
+          "orientacion": "blanca",
+          "fen": "r6k/7p/1Qp2rpq/p3p3/2B1P3/2B2P1n/P5PK/1R6 w - - 0 37",
+          "secuenciaCorrecta": [
+            "b6b8",
+            "a8b8",
+            "b1b8",
+            "h8g7",
+            "b8g8"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_1780082111989251",
+      "titulo": "Diagrama 206",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 206",
+          "texto": "",
+          "orientacion": "negra",
+          "fen": "6rk/p6n/3p4/2pPb2q/4N3/P2BQPp1/6K1/7R b - - 0 33",
+          "secuenciaCorrecta": [
+            "h5h1",
+            "g2h1",
+            "g3g2",
+            "h1g1",
+            "e5d4",
+            "e3d4",
+            "c5d4",
+            "e4d6",
+            "h7g5"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_1780082111993252",
+      "titulo": "Diagrama 207",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 207",
+          "texto": "",
+          "orientacion": "negra",
+          "fen": "5rk1/p4qp1/2p4p/1p2Pn2/2pP2Q1/2P4P/P2B3K/5R2 b - - 0 28",
+          "secuenciaCorrecta": [
+            "f5e3",
+            "d2e3",
+            "f7f1"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_1780082111995253",
+      "titulo": "Diagrama 208",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 208",
+          "texto": "",
+          "orientacion": "blanca",
+          "fen": "1r3qbk/1p2rpp1/p1p2n1p/PnN1NP2/1P2PQ2/3P1B1P/7K/1R4R1 w - - 0 38",
+          "secuenciaCorrecta": [
+            "c5e6",
+            "f7e6",
+            "e5g6",
+            "h8h7",
+            "g6f8"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_1780082111997254",
+      "titulo": "Diagrama 209",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 209",
+          "texto": "",
+          "orientacion": "negra",
+          "fen": "4r1k1/2BR3p/8/5Rp1/4n1K1/4P1P1/1P2P2P/5r2 b - - 0 36",
+          "secuenciaCorrecta": [
+            "h7h5",
+            "g4h5",
+            "f1f5"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_1780082111999255",
+      "titulo": "Diagrama 210",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 210",
+          "texto": "",
+          "orientacion": "blanca",
+          "fen": "4rrk1/p2pR1pp/2p5/2P1R3/3QN3/Pq2n3/1P4PP/2KR4 w - - 0 22",
+          "secuenciaCorrecta": [
+            "e4f6"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_1780082112001256",
+      "titulo": "Diagrama 211",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 211",
+          "texto": "",
+          "orientacion": "blanca",
+          "fen": "1n3q1k/r2r3p/p3Q3/1p6/8/2P3R1/P4PPP/4R1K1 w - - 0 27",
+          "secuenciaCorrecta": [
+            "e6f6",
+            "f8f6",
+            "e1e8",
+            "f6f8",
+            "e8f8"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_1780082112006257",
+      "titulo": "Diagrama 212",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 212",
+          "texto": "",
+          "orientacion": "negra",
+          "fen": "1qr1r1k1/2b2ppp/Bpb1p3/4n3/P7/2N1BP2/1PP3PP/3RR1QK b - - 0 32",
+          "secuenciaCorrecta": [
+            "e5f3",
+            "g2f3",
+            "c6f3"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_1780082112007258",
+      "titulo": "Diagrama 213",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 213",
+          "texto": "",
+          "orientacion": "blanca",
+          "fen": "2rb2k1/5pp1/2p1pn1p/2P5/1N1Pp3/4P1BP/5PP1/1R4K1 w - - 0 33",
+          "secuenciaCorrecta": [
+            "b4c6",
+            "c8c6",
+            "b1b8",
+            "g8h7",
+            "b8d8"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_1780082112009259",
+      "titulo": "Diagrama 214",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 214",
+          "texto": "",
+          "orientacion": "blanca",
+          "fen": "5r1k/q3bQpp/2B5/1P2p3/4P3/p1P5/5PPP/5RK1 w - - 0 31",
+          "secuenciaCorrecta": [
+            "b5b6"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_1780082112012260",
+      "titulo": "Diagrama 215",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 215",
+          "texto": "",
+          "orientacion": "negra",
+          "fen": "2r3k1/4bpp1/4pn1p/1p6/q1r5/2BR1BP1/PQ2PPKP/3R4 b - - 0 24",
+          "secuenciaCorrecta": [
+            "c4c3"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_1780082112016261",
+      "titulo": "Diagrama 216",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 216",
+          "texto": "",
+          "orientacion": "negra",
+          "fen": "4r1k1/5p2/p5pp/P1p2q2/3Nr3/3Q4/5PPP/1RR3K1 b - - 0 34",
+          "secuenciaCorrecta": [
+            "e4e1",
+            "c1e1",
+            "e8e1",
+            "b1e1",
+            "f5d3"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_1780082112017262",
+      "titulo": "Diagrama 217",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 217",
+          "texto": "",
+          "orientacion": "negra",
+          "fen": "2r3k1/5p2/p3bBp1/1p5p/4P3/1P4qP/P5P1/1B1RR2K b - - 0 35",
+          "secuenciaCorrecta": [
+            "e6h3"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_1780082112018263",
+      "titulo": "Diagrama 218",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 218",
+          "texto": "",
+          "orientacion": "blanca",
+          "fen": "1r5k/6pp/2p1r3/1R1p4/pn1P1q2/3Q1P2/PP3BPP/3R2K1 w - - 0 27",
+          "secuenciaCorrecta": [
+            "d3f5"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_1780082112019264",
+      "titulo": "Diagrama 219",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 219",
+          "texto": "",
+          "orientacion": "blanca",
+          "fen": "r2r2k1/1bqp1ppp/ppnbpn2/8/2PNP3/P1N1BP2/1P2B1PP/2RQ1R1K w - - 0 14",
+          "secuenciaCorrecta": [
+            "d4b5"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_1780082112020265",
+      "titulo": "Diagrama 220",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 220",
+          "texto": "",
+          "orientacion": "blanca",
+          "fen": "2k1r3/p1pbbpp1/1p5p/2pNP3/2P3P1/1P3PBP/P5K1/3R4 w - - 0 25",
+          "secuenciaCorrecta": [
+            "d5c7",
+            "c8c7",
+            "e5e6"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_1780082112021266",
+      "titulo": "Diagrama 221",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 221",
+          "texto": "",
+          "orientacion": "blanca",
+          "fen": "4r1qk/2p4n/1b3pQB/p1p5/2P1P3/1P1R3P/P5P1/6K1 w - - 0 35",
+          "secuenciaCorrecta": [
+            "h6g7",
+            "g8g7",
+            "g6e8"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_1780082112022267",
+      "titulo": "Diagrama 222",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 222",
+          "texto": "",
+          "orientacion": "blanca",
+          "fen": "2R5/4bppk/1p1p4/5R1P/4PQ2/5P2/r4q1P/7K w - - 0 50",
+          "secuenciaCorrecta": [
+            "f4h6"
+          ]
+        }
+      ]
+    }
+  ]
+}
