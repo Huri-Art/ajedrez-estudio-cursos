@@ -51,6 +51,14 @@
       "bundleUrl": "cursos/1001WCC.json"
     },
     {
+      "id": "c_1780082111134",
+      "titulo": "El Metodo Pajaro Carpintero Parte 1",
+      "descripcion": "Sistema intensivo de entrenamiento de ajedrez, creado por los Grandes Maestros Axel Smith y Hans Tikkanen. Consiste en resolver repetidamente una gran selección de problemas tácticos.",
+      "imagenUrl": "https://imgv2-2-f.scribdassets.com/img/document/882244415/original/1f4cfbce5a/1?v=1",
+      "version": 1,
+      "bundleUrl": "cursos/Metodo-Carpintero.json"
+    },
+    {
       "id": "c_1778520788196",
       "titulo": "Miguelindia Enigmática",
       "descripcion": "En este curso completo aprenderás la combinación de dos de las defensas más interesantes contra peón dama: la nimzoindia y la india de dama",
@@ -60,3 +68,8 @@
     }
   ]
 }
+{
+  "id": "",
+  "titulo": "",
+  "descripcion": ,
+  "imagenUrl": ,
