@@ -54,12 +54,20 @@
       "id": "c_1780082111134",
       "titulo": "El Método Pajaro Carpintero Parte 1",
       "descripcion": "Sistema intensivo de entrenamiento de ajedrez, creado por los Grandes Maestros Axel Smith y Hans Tikkanen. Consiste en resolver repetidamente una gran selección de problemas tácticos.",
-      "imagenUrl": "https://imgv2-2-f.scribdassets.com/img/document/882244415/original/1f4cfbce5a/1?v=1",
+      "imagenUrl": "https://images.chesscomfiles.com/uploads/v1/lesson_course/4f91031a-5171-11ed-a210-a9719cdde07d.4e781735.728x410o.bf2954b2ebbf.png",
       "version": 1,
       "bundleUrl": "cursos/Metodo-Carpintero.json"
     },
     {
-      "id": "c_1778520788196",
+      "id": "c_1780082111134",
+      "titulo": "50 lecciones de Apertura Parte 1: Italiana",
+      "descripcion": "Conoce la apertura Italiana por parte del equipo de Chess.com",
+      "imagenUrl": "https://imgv2-2-f.scribdassets.com/img/document/882244415/original/1f4cfbce5a/1?v=1",
+      "version": 1,
+      "bundleUrl": "cursos/50_Lec_Apertura_1.json"
+    },
+    {
+      "id": "c_1786375168645",
       "titulo": "Miguelindia Enigmática",
       "descripcion": "En este curso completo aprenderás la combinación de dos de las defensas más interesantes contra peón dama: la nimzoindia y la india de dama",
       "imagenUrl": "https://www.chessenigma.com/wp-content/uploads/2024/12/miguelindia-enigmatica-miguel-santos.webp",
