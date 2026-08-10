@@ -1,0 +1,1176 @@
+{
+  "id": "c_1786375168645",
+  "titulo": "50 lecciones de Apertura Parte 1: Italiana",
+  "descripcion": "Conoce la apertura Italiana por parte del equipo de Chess.com",
+  "imagenUrl": "https://images.chesscomfiles.com/uploads/v1/lesson_course/4f91031a-5171-11ed-a210-a9719cdde07d.4e781735.728x410o.bf2954b2ebbf.png",
+  "lecciones": [
+    {
+      "id": "l_17863751686521",
+      "titulo": "Apertura Italiana 4.d3",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "INFO",
+          "titulo": "Apertura Italiana 4.d3",
+          "texto": "",
+          "mostrarTablero": true,
+          "orientacion": "blanca",
+          "pgn": "{[%evp 0,12,24,15,19,27,12,8,13,32767,14,-37,-39,-158,-158] La Apertura Italiana ha sido una apertura popular durante siglos y aún se juega al más alto nivel. Aprende las ideas clave para jugar la Italiana con cualquiera de los dos bandos. Una de las aperturas más antiguas y respetadas del ajedrez, la juegan tanto principiantes como aficionados, debido a la sencillez del juego de piezas y el control del centro. Sin embargo, los grandes maestros también se inclinan por esta apertura, apreciando su complejidad estratégica y buscando construir ventajas posicionales sutiles pero persistentes para superar a sus oponentes de menor Elo y desafiar a sus colegas grandes maestros. La Italiana puede ser una batalla de maniobras más tranquila y pausada, pero también puede abrazar sus raíces románticas con un juego central agresivo que puede resultar en victorias rápidas contra oponentes desprevenidos. La Italiana es una apertura rica que puede serte útil durante toda la vida, y como veremos, las negras cuentan con muchos recursos interesantes para aportar. Gracias por explorar la Apertura Italiana y mucha suerte la próxima vez que esta apertura aparezca en una de tus partidas, aquí mismo en chess.com. Cuando las blancas abren la partida con 1.e4, la continuación más clásica de las negras es responder de la misma manera con 1...e5:} 1. e4 e5 {La lucha central continúa después de Cf3,} 2. Nf3 {desarrollando el caballo y ejerciendo presión sobre el peón negro de e5. Así, las negras desarrollan activamente, mientras defienden el centro, con ...Cc6.} Nc6 {[%cal Yf1b5] Ab5, conocida como la Apertura Española (Ruy López), es una de las respuestas más clásicas y consolidadas de las blancas, objeto de debate entre grandes maestros durante siglos. En este vídeo nos centraremos en otra apertura con una rica historia y una sólida base estratégica, que desarrolla el alfil de casillas claras hacia la diagonal activa a2-g8, con Ac4.} 3. Bc4 {El alfil disfruta de una diagonal activa, apuntando al punto más débil de las negras en el tablero, la casilla f7. Si las negras juegan el natural ...Cf6, conocido como la Defensa de los Dos Caballos, esto provoca increíbles complicaciones tras Cg5, aumentando la presión sobre el débil peón f7, tema de otro vídeo. Para desalentar Cg5, las negras a veces pierden tiempo con el dudoso ...h6, o desarrollan el alfil de casillas negras a la relativamente pasiva casilla e7. Ambos movimientos se contrarrestan bien atacando en el centro con d4, desarrollando una fuerte iniciativa para las blancas. Nos centraremos en la respuesta directa y sólida de las negras, ...Ac5.} Bc5 {Desarrollando activamente el alfil de casillas oscuras y luchando por el control de la casilla d4. Nótese que Cg5 no es posible, ya que esto simplemente dejaría una pieza expuesta a ...Dxg5. Si las blancas deciden jugar d3,} 4. d3 {Al apoyar el centro y abrir el alfil de casillas oscuras, esto puede ser contrarrestado por el movimiento de desarrollo natural, ...Cf6.} Nf6 {Está claro que no hay nada malo en la sólida jugada d3 de las blancas. Pero las blancas se equivocan si a esta le sigue Cg5,} 5. Ng5 {intensificando la presión sobre f7. Cuando ves esta línea por primera vez con negras, puede resultar bastante intimidante. Pero las negras no tienen nada que temer después de enrocar al rey.} O-O {La cuestión es que, si las blancas continúan con el ataque prematuro, comenzando con Cxf7} 6. Nxf7 Rxf7 7. Bxf7+ Kxf7 {El rey negro puede sentirse algo expuesto, pero ¿dónde están las piezas de ataque blancas? Es una pérdida de tiempo intercambiar dos piezas menores por la torre y el peón negros. Aunque este intercambio pueda considerarse aproximadamente igual desde una perspectiva material, la calidad de las piezas negras promete una partida más cómoda. Las negras ya tienen tres piezas menores activas desarrolladas, disfrutando de una ventaja significativa en el tiempo. Durante las primeras fases de la partida, los caballos y alfiles son más fáciles de manejar, ya que las torres tardan en encontrar líneas abiertas para el desarrollo. Un plan básico para las negras es completar el desarrollo con ...d6, apoyando el centro y permitiendo que el alfil de casillas claras entre rápidamente en la partida con ...Ae6 o ...Ag4. La torre negra puede visitar la casilla f8, de modo que una vez que el rey regrese a g8, la torre negra pueda disfrutar de actividad a lo largo de la columna f. Este enfoque impaciente no es una buena opción para las blancas.} *"
+        }
+      ]
+    },
+    {
+      "id": "l_17863751686792",
+      "titulo": "Apertura Italiana II: Practica",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Apertura Italiana II: Practica",
+          "texto": "[%evp 0,12,13,23,24,8,19,8,6,32767,29,-39,-26,-156,-158]",
+          "orientacion": "negra",
+          "secuenciaCorrecta": [
+            "e2e4",
+            "e7e5",
+            "g1f3",
+            "b8c6",
+            "f1c4",
+            "f8c5",
+            "d2d3",
+            "g8f6",
+            "f3g5",
+            "e8g8",
+            "g5f7",
+            "f8f7",
+            "c4f7",
+            "g8f7"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_17863751686793",
+      "titulo": "Apertura Italiana III",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "INFO",
+          "titulo": "Apertura Italiana III",
+          "texto": "",
+          "mostrarTablero": true,
+          "orientacion": "blanca",
+          "pgn": "{[%evp 0,12,24,15,19,27,12,8,13,32767,14,-37,-39,-158,-158] Cuando las blancas abren la partida con 1.e4, la continuación más clásica de las negras es responder de la misma manera con 1...e5:} 1. e4 e5 {La lucha central continúa después de Cf3,} 2. Nf3 {desarrollando el caballo y ejerciendo presión sobre el peón negro de e5. Así, las negras desarrollan activamente, mientras defienden el centro, con ...Cc6.} Nc6 {Ab5, conocida como la Apertura Española (Ruy López), es una de las respuestas más clásicas y consolidadas de las blancas, objeto de debate entre grandes maestros durante siglos. En este vídeo nos centraremos en otra apertura con una rica historia y una sólida base estratégica, que desarrolla el alfil de casillas claras hacia la diagonal activa a2-g8, con Ac4.} 3. Bc4 {El alfil disfruta de una diagonal activa, apuntando al punto más débil de las negras en el tablero, la casilla f7. Si las negras juegan el natural ...Cf6, conocido como la Defensa de los Dos Caballos, esto provoca increíbles complicaciones tras Cg5, aumentando la presión sobre el débil peón f7, tema de otro vídeo. Para desalentar Cg5, las negras a veces pierden tiempo con el dudoso ...h6, o desarrollan el alfil de casillas negras a la relativamente pasiva casilla e7. Ambos movimientos se contrarrestan bien atacando en el centro con d4, desarrollando una fuerte iniciativa para las blancas. Nos centraremos en la respuesta directa y sólida de las negras, ...Ac5.} Bc5 {Desarrollando activamente el alfil de casillas oscuras y luchando por el control de la casilla d4. Nótese que Cg5 no es posible, ya que esto simplemente dejaría una pieza expuesta a ...Dxg5. Si las blancas deciden jugar d3,} {Cuando los principiantes dan sus primeros pasos en el juego, se les aconseja desarrollarse rápidamente, enrocar con prontitud y concentrarse en controlar el centro. Innumerables partidas se han jugado de la siguiente manera: Cc3, ...Cf6.} 4. Nc3 Nf6 {Ambos bandos han desarrollado diligentemente sus piezas menores hacia el centro. A esto suele seguirle un enroque rápido:} 5. O-O O-O {las blancas juegan d3,} 6. d3 {Apoyando el centro, y posiblemente preparando una clavada con el alfil g5, a veces las negras siguen la misma idea con ...d6, pero también pueden decidir evitar la clavada con ...h6:} h6 {Las blancas pueden enfrentarse al alfil de las negras con Ae3.} 7. Be3 {Nótese que las blancas no temen permitir peones doblados con ...Axe3, fxe3.} Bxe3 8. fxe3 {El peón blanco de e3 ayuda a reforzar el centro, a la vez que abre la columna f para la torre blanca. Cuando sea apropiado, este peón también puede ayudar a las blancas a expandirse en el centro con d4, por lo que esta historia es mucho más compleja que simplemente suponer que las blancas tienen peones doblados débiles.} *"
+        }
+      ]
+    },
+    {
+      "id": "l_17863751686794",
+      "titulo": "Apertura Italiana IV:Practica",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Apertura Italiana IV:Practica",
+          "texto": "[%evp 0,11,20,14,27,12,11,13,32767,32767,5,8,21,16]",
+          "orientacion": "blanca",
+          "secuenciaCorrecta": [
+            "e2e4",
+            "e7e5",
+            "g1f3",
+            "b8c6",
+            "f1c4",
+            "f8c5",
+            "b1c3",
+            "g8f6",
+            "e1g1",
+            "e8g8",
+            "d2d3",
+            "h7h6",
+            "c1e3",
+            "c5e3",
+            "f2e3"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_17863751686805",
+      "titulo": "Apertura Italiana V",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "INFO",
+          "titulo": "Apertura Italiana V",
+          "texto": "",
+          "mostrarTablero": true,
+          "orientacion": "blanca",
+          "pgn": "{[%evp 0,18,14,16,24,18,29,13,35,12,11,32767,32767,10,8,3,9,5,-11,-6,1] Cuando las blancas abren la partida con 1.e4, la continuación más clásica de las negras es responder de la misma manera con 1...e5: La Apertura Italiana ha sido una apertura popular durante siglos y aún se juega al más alto nivel. Aprende las ideas clave para jugar la Italiana con cualquiera de los dos bandos. Una de las aperturas más antiguas y respetadas del ajedrez, la juegan tanto principiantes como aficionados, debido a la sencillez del juego de piezas y el control del centro. Sin embargo, los grandes maestros también se inclinan por esta apertura, apreciando su complejidad estratégica y buscando construir ventajas posicionales sutiles pero persistentes para superar a sus oponentes de menor Elo y desafiar a sus colegas grandes maestros. La Italiana puede ser una batalla de maniobras más tranquila y pausada, pero también puede abrazar sus raíces románticas con un juego central agresivo que puede resultar en victorias rápidas contra oponentes desprevenidos. La Italiana es una apertura rica que puede serte útil durante toda la vida, y como veremos, las negras cuentan con muchos recursos interesantes para aportar. Gracias por explorar la Apertura Italiana y mucha suerte la próxima vez que esta apertura aparezca en una de tus partidas, aquí mismo en chess.com. Cuando las blancas abren la partida con 1.e4, la continuación más clásica de las negras es responder de la misma manera con 1...e5:} 1. e4 e5 {La lucha central continúa después de Cf3,} 2. Nf3 {desarrollando el caballo y ejerciendo presión sobre el peón negro de e5. Así, las negras desarrollan activamente, mientras defienden el centro, con ...Cc6.} Nc6 {Ab5, conocida como la Apertura Española (Ruy López), es una de las respuestas más clásicas y consolidadas de las blancas, objeto de debate entre grandes maestros durante siglos. En este vídeo nos centraremos en otra apertura con una rica historia y una sólida base estratégica, que desarrolla el alfil de casillas claras hacia la diagonal activa a2-g8, con Ac4.} 3. Bc4 {El alfil disfruta de una diagonal activa, apuntando al punto más débil de las negras en el tablero, la casilla f7. Si las negras juegan el natural ...Cf6, conocido como la Defensa de los Dos Caballos, esto provoca increíbles complicaciones tras Cg5, aumentando la presión sobre el débil peón f7, tema de otro vídeo. Para desalentar Cg5, las negras a veces pierden tiempo con el dudoso ...h6, o desarrollan el alfil de casillas negras a la relativamente pasiva casilla e7. Ambos movimientos se contrarrestan bien atacando en el centro con d4, desarrollando una fuerte iniciativa para las blancas. Nos centraremos en la respuesta directa y sólida de las negras, ...Ac5.} Bc5 {Desarrollando activamente el alfil de casillas oscuras y luchando por el control de la casilla d4. Nótese que Cg5 no es posible, ya que esto simplemente dejaría una pieza expuesta a ...Dxg5. Si las blancas deciden jugar d3, Cuando los principiantes dan sus primeros pasos en el juego, se les aconseja desarrollarse rápidamente, enrocar con prontitud y concentrarse en controlar el centro. Innumerables partidas se han jugado de la siguiente manera: Cc3, ...Cf6.} 4. Nc3 Nf6 {Ambos bandos han desarrollado diligentemente sus piezas menores hacia el centro. A esto suele seguirle un enroque rápido} 5. O-O O-O {las blancas juegan d3} 6. d3 {Apoyando el centro, y posiblemente preparando una clavada con el alfil g5, a veces las negras siguen la misma idea con ...d6, pero también pueden decidir evitar la clavada con ...h6:} h6 {Las blancas pueden enfrentarse al alfil de las negras con Ae3.} 7. Be3 {Nótese que las blancas no temen permitir peones doblados con ...Axe3, fxe3.} {En lugar de capturar en e3, las negras pueden mantener la tensión con ...Ab6,} Bb6 {animando a las blancas a capturar en los términos de las negras, con Axb6, abriendo la columna a para la torre negra. Las blancas pueden continuar con el plan de desarrollo general, con Dd2,} 8. Qd2 {apoyando al alfil y conectando las torres. Las negras pueden seguir de manera similar, con ...d6,} d6 {posiblemente preparándose para activar el alfil de casillas claras, con ...Ag4. Entonces las blancas pueden jugar h3,} 9. h3 {impidiendo ...Ag4,donde las negras pueden decidir activar el alfil en la casilla e6,} Be6 {frente al alfil de casillas claras de las blancas. Las blancas también pueden mantener la tensión con Ab3.} 10. Bb3 {Después Dd7} Qd7 {Italian-Game Fifty Chess Openings 2026 Hemos alcanzado una posición simétrica, en la que ambos bandos pueden centrarse en centralizar sus torres en las columnas d y e. Esta es una forma común de jugar para ambos bandos, con un conocimiento básico de las reglas de apertura. Quizás hayas visto o incluso jugado alguna partida con esta variante. A medida que adquieras más experiencia, te darás cuenta de que esto es solo la punta del iceberg de esta apertura eterna, y que hay mucha más emoción y complejidad estratégica por descubrir.} *"
+        }
+      ]
+    },
+    {
+      "id": "l_17863751687106",
+      "titulo": "Apertura Italiana VI: Practica",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Apertura Italiana VI: Practica",
+          "texto": "",
+          "orientacion": "blanca",
+          "secuenciaCorrecta": [
+            "e2e4",
+            "e7e5",
+            "g1f3",
+            "b8c6",
+            "f1c4",
+            "f8c5",
+            "b1c3",
+            "g8f6",
+            "e1g1",
+            "e8g8",
+            "d2d3",
+            "h7h6",
+            "c1e3",
+            "c5b6",
+            "d1d2",
+            "d7d6",
+            "h2h3",
+            "c8e6",
+            "c4b3",
+            "d8d7"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_17863751687107",
+      "titulo": "Apertura Italiana VII",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "INFO",
+          "titulo": "Apertura Italiana VII",
+          "texto": "",
+          "mostrarTablero": true,
+          "orientacion": "negra",
+          "pgn": "{[%evp 0,12,24,15,19,27,12,8,13,32767,14,-37,-39,-158,-158] Cuando las blancas abren la partida con 1.e4, la continuación más clásica de las negras es responder de la misma manera con 1...e5:} 1. e4 e5 {La lucha central continúa después de Cf3,} 2. Nf3 {desarrollando el caballo y ejerciendo presión sobre el peón negro de e5. Así, las negras desarrollan activamente, mientras defienden el centro, con ...Cc6.} Nc6 {Ab5, conocida como la Apertura Española (Ruy López), es una de las respuestas más clásicas y consolidadas de las blancas, objeto de debate entre grandes maestros durante siglos. En este vídeo nos centraremos en otra apertura con una rica historia y una sólida base estratégica, que desarrolla el alfil de casillas claras hacia la diagonal activa a2-g8, con Ac4.} 3. Bc4 {El alfil disfruta de una diagonal activa, apuntando al punto más débil de las negras en el tablero, la casilla f7. Si las negras juegan el natural ...Cf6, conocido como la Defensa de los Dos Caballos, esto provoca increíbles complicaciones tras Cg5, aumentando la presión sobre el débil peón f7, tema de otro vídeo. Para desalentar Cg5, las negras a veces pierden tiempo con el dudoso ...h6, o desarrollan el alfil de casillas negras a la relativamente pasiva casilla e7. Ambos movimientos se contrarrestan bien atacando en el centro con d4, desarrollando una fuerte iniciativa para las blancas. Nos centraremos en la respuesta directa y sólida de las negras, ...Ac5.} Bc5 {Desarrollando activamente el alfil de casillas oscuras y luchando por el control de la casilla d4. Nótese que Cg5 no es posible, ya que esto simplemente dejaría una pieza expuesta a ...Dxg5. Si las blancas deciden jugar d3, Cuando los principiantes dan sus primeros pasos en el juego, se les aconseja desarrollarse rápidamente, enrocar con prontitud y concentrarse en controlar el centro. Innumerables partidas se han jugado de la siguiente manera: Cc3, ...Cf6.} 4. Nc3 Nf6 {Ambos bandos han desarrollado diligentemente sus piezas menores hacia el centro. A esto suele seguirle un enroque rápido:} 5. O-O {Cuando las blancas enrocaron, observamos que las negras automáticamente hicieron lo mismo. En esta variante más lenta del juego italiano, puede ser valioso retrasar el enroque. Ahora que las blancas están comprometidas con el enroque del flanco de rey, las negras pueden mantenerse flexibles jugando ...d6,} d6 {apoyando el centro y preparándose para activar el alfil de casillas claras. Las blancas pueden invertir otro tiempo impidiendo esto, con h3, suavizando el flanco de rey enrocado. Pero si las blancas continúan de forma rutinaria con d3,} 6. d3 {esto puede provocar serios problemas después de ...Ag4,} Bg4 {inmovilizando al caballo blanco. Las blancas pueden decidir devolver el favor, con Ag5,} 7. Bg5 {clavando el caballo negro a la dama. Dado que las blancas ya han enrocado al rey, la clavada en f3 se vuelve bastante seria después de ...Cd4.} Nd4 {Si las blancas siguen la estrategia de las negras con Cd5,} 8. Nd5 {Al aumentar la presión sobre el caballo clavado, podemos ver lo importante que es enrocar con inteligencia, no automáticamente. El jaque inmediato ...Cxf3+ es una buena opción, pero las negras también pueden enfrentar al caballo blanco con ...c6:} c6 {Si las blancas se retiran con Ce3, las negras pueden dañar seriamente las defensas del flanco de rey de las blancas con ...Cxf3+ jaque. Pero si las blancas deciden doblar los peones de las negras con Cxf6+ jaque, ...gxf6,} 9. Nxf6+ gxf6 {Dado que el rey negro permanece en el centro, abrir la columna g beneficiará a las negras. Las blancas pueden optar por mover el alfil a un lugar seguro con Ah4.} 10. Bh4 {Pero las cosas empiezan a desmoronarse rápidamente para las blancas tras el intercambio en f3:} Nxf3+ 11. gxf3 {Abriendo la columna g, seguido de ...Ah3,} Bh3 {atacando la torre blanca. Entonces, después de Te1,} 12. Re1 {El rey blanco está terriblemente expuesto en la columna g, y como las negras no han enrocado, esto permite el aplastante jaque ...Tg8+.} Rg8+ {Rh1 conduce al desastre tras el jaque ...Bg2+. Y resulta que las blancas sufrirán un destino similar tras Ag3:} 13. Bg3 {Bloquea el jaque, pero clava el alfil de casillas negras. Las negras pueden aprovechar la clavada jugando ...h5.} h5 {Amenazando con ganar una pieza después de h4, atacando al alfil clavado. Y tratar de desclavar al alfil con Rh1,} 14. Kh1 {no impide que las negras jueguen el poderoso ...h4.} h4 {Sabes que es una mala señal cuando la mejor respuesta de las blancas es simplemente permitir que las negras ganen una pieza con ...hxg3. Porque, si las blancas juegan Axh4,} 15. Bxh4 {Una vez más, abriendo la letal columna g, las negras pueden jugar ...Ag2+ jaque,} Bg2+ {obligando al rey a volver a la columna g,} 16. Kg1 {y las negras ganan la dama de las blancas, con ...Bxf3+ jaque,} Bxf3+ {atacando a la Dama, mientras descubre el jaque de la torre en la columna g. Como podemos ver, aunque el enroque suele ser una buena idea, tomar esta decisión automáticamente puede acarrear serios problemas.} *"
+        }
+      ]
+    },
+    {
+      "id": "l_17863751687448",
+      "titulo": "Apertura Italiana VIII:Practica",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Apertura Italiana VIII:Practica",
+          "texto": "",
+          "orientacion": "negra",
+          "secuenciaCorrecta": [
+            "e2e4",
+            "e7e5",
+            "g1f3",
+            "b8c6",
+            "f1c4",
+            "f8c5",
+            "b1c3",
+            "g8f6",
+            "e1g1",
+            "d7d6",
+            "d2d3",
+            "c8g4",
+            "c1g5",
+            "c6d4",
+            "c3d5",
+            "c7c6",
+            "d5f6",
+            "g7f6",
+            "g5h4",
+            "d4f3",
+            "g2f3",
+            "g4h3",
+            "f1e1",
+            "h8g8",
+            "h4g3",
+            "h7h5",
+            "g1h1",
+            "h5h4",
+            "g3h4",
+            "h3g2",
+            "h1g1",
+            "g2f3"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_17863751687449",
+      "titulo": "Apertura Italiana IX",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "INFO",
+          "titulo": "Apertura Italiana IX",
+          "texto": "",
+          "mostrarTablero": true,
+          "orientacion": "blanca",
+          "pgn": "{[%evp 0,12,24,15,19,27,12,8,13,32767,14,-37,-39,-158,-158] Cuando las blancas abren la partida con 1.e4, la continuación más clásica de las negras es responder de la misma manera con 1...e5:} 1. e4 e5 {La lucha central continúa después de Cf3,} 2. Nf3 {desarrollando el caballo y ejerciendo presión sobre el peón negro de e5. Así, las negras desarrollan activamente, mientras defienden el centro, con ...Cc6.} Nc6 {Ab5, conocida como la Apertura Española (Ruy López), es una de las respuestas más clásicas y consolidadas de las blancas, objeto de debate entre grandes maestros durante siglos. En este vídeo nos centraremos en otra apertura con una rica historia y una sólida base estratégica, que desarrolla el alfil de casillas claras hacia la diagonal activa a2-g8, con Ac4.} 3. Bc4 {El alfil disfruta de una diagonal activa, apuntando al punto más débil de las negras en el tablero, la casilla f7. Si las negras juegan el natural ...Cf6, conocido como la Defensa de los Dos Caballos, esto provoca increíbles complicaciones tras Cg5, aumentando la presión sobre el débil peón f7, tema de otro vídeo. Para desalentar Cg5, las negras a veces pierden tiempo con el dudoso ...h6, o desarrollan el alfil de casillas negras a la relativamente pasiva casilla e7. Ambos movimientos se contrarrestan bien atacando en el centro con d4, desarrollando una fuerte iniciativa para las blancas. Nos centraremos en la respuesta directa y sólida de las negras, ...Ac5.} Bc5 {Desarrollando activamente el alfil de casillas oscuras y luchando por el control de la casilla d4. Nótese que Cg5 no es posible, ya que esto simplemente dejaría una pieza expuesta a ...Dxg5.} {Cuando los principiantes dan sus primeros pasos en el juego, se les recomienda desarrollarse rápidamente, enrocarse rápidamente y concentrarse en controlar el centro. Se han jugado innumerables partidas de la siguiente manera: Cc3, ...Cf6.} 4. Nc3 Nf6 {Ambos bandos han desarrollado diligentemente sus piezas menores hacia el centro. A esto suele seguirle un enroque rápido:} {En lugar de enrocar automáticamente, invitando a un ataque preparado en el flanco de rey, las blancas pueden permanecer flexibles con d3:} 5. d3 {Cuando se juegan estas posiciones con negras, generalmente es un plan razonable esperar a que las blancas enroquen, antes de comprometer al rey a un lado particular del tablero. Una respuesta flexible es simplemente jugar ...d6,} d6 {Apoyando el centro y esperando a ver cómo continúa Blanca. En lugar de enrocar inmediatamente, cuando ...Ag4 puede resultar bastante molesto, Blanca puede ser quien dé el primer golpe con Ag5.} 6. Bg5 {Las negras no deberían enrocarse automáticamente, ya que esto llevaría a problemas similares que acabamos de examinar, comenzando con Cd5, preparándose para dañar la estructura enrocada de las negras. Las negras pueden desafiar al alfil de las blancas con ...h6,} h6 {Las blancas pueden decidir entregar la pareja de alfiles con Axf6, ...Dxf6.} 7. Bxf6 Qxf6 {Nótese que Cd5, que ataca a la dama y amenaza con un ataque doble en c7, es bien respondido con ...Dd8.} 8. Nd5 Qd8 {Ahora que ya no hay un caballo en c3, las blancas pueden centrarse en jugar c3, preparando una posible expansión en el flanco de dama con b4 y a4, o bien apoyar un ataque en el centro con d4. Las negras pueden contrarrestar esto jugando ...Ce7, aumentando la presión sobre el caballo y posiblemente preparando ...c6, con una partida más o menos equilibrada.} *"
+        }
+      ]
+    },
+    {
+      "id": "l_178637516875910",
+      "titulo": "Apertura Italiana X: Practica",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Apertura Italiana X: Practica",
+          "texto": "",
+          "orientacion": "blanca",
+          "secuenciaCorrecta": [
+            "e2e4",
+            "e7e5",
+            "g1f3",
+            "b8c6",
+            "f1c4",
+            "f8c5",
+            "b1c3",
+            "g8f6",
+            "d2d3",
+            "d7d6",
+            "c1g5",
+            "h7h6",
+            "g5f6",
+            "d8f6",
+            "c3d5",
+            "f6d8"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_178637516875911",
+      "titulo": "Apertura Italiana XI",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "INFO",
+          "titulo": "Apertura Italiana XI",
+          "texto": "",
+          "mostrarTablero": true,
+          "orientacion": "negra",
+          "pgn": "{[%evp 0,12,24,15,19,27,12,8,13,32767,14,-37,-39,-158,-158] Cuando las blancas abren la partida con 1.e4, la continuación más clásica de las negras es responder de la misma manera con 1...e5:} 1. e4 e5 {La lucha central continúa después de Cf3,} 2. Nf3 {desarrollando el caballo y ejerciendo presión sobre el peón negro de e5. Así, las negras desarrollan activamente, mientras defienden el centro, con ...Cc6.} Nc6 {Ab5, conocida como la Apertura Española (Ruy López), es una de las respuestas más clásicas y consolidadas de las blancas, objeto de debate entre grandes maestros durante siglos. En este vídeo nos centraremos en otra apertura con una rica historia y una sólida base estratégica, que desarrolla el alfil de casillas claras hacia la diagonal activa a2-g8, con Ac4.} 3. Bc4 {El alfil disfruta de una diagonal activa, apuntando al punto más débil de las negras en el tablero, la casilla f7. Si las negras juegan el natural ...Cf6, conocido como la Defensa de los Dos Caballos, esto provoca increíbles complicaciones tras Cg5, aumentando la presión sobre el débil peón f7, tema de otro vídeo. Para desalentar Cg5, las negras a veces pierden tiempo con el dudoso ...h6, o desarrollan el alfil de casillas negras a la relativamente pasiva casilla e7. Ambos movimientos se contrarrestan bien atacando en el centro con d4, desarrollando una fuerte iniciativa para las blancas. Nos centraremos en la respuesta directa y sólida de las negras, ...Ac5.} Bc5 {Desarrollando activamente el alfil de casillas oscuras y luchando por el control de la casilla d4. Nótese que Cg5 no es posible, ya que esto simplemente dejaría una pieza expuesta a ...Dxg5.} {Cuando los principiantes dan sus primeros pasos en el juego, se les recomienda desarrollarse rápidamente, enrocarse rápidamente y concentrarse en controlar el centro. Se han jugado innumerables partidas de la siguiente manera: Cc3, ...Cf6.} 4. Nc3 Nf6 {Ambos bandos han desarrollado diligentemente sus piezas menores hacia el centro. A esto suele seguirle un enroque rápido:} {En lugar de enrocar automáticamente, invitando a un ataque preparado en el flanco de rey, las blancas pueden permanecer flexibles con d3:} 5. d3 {Cuando se juegan estas posiciones con negras, generalmente es un plan razonable esperar a que las blancas enroquen, antes de comprometer al rey a un lado particular del tablero. Una respuesta flexible es simplemente jugar ...d6,} d6 {Apoyando el centro y esperando a ver cómo continúan las Blancas. En lugar de enrocar inmediatamente, cuando ...Ag4 puede resultar bastante molesto, las Blancas puede ser quien dé el primer golpe con Ag5.} 6. Bg5 {Las negras no deberían enrocarse automáticamente, ya que esto llevaría a problemas similares que acabamos de examinar, comenzando con Cd5, preparándose para dañar la estructura enrocada de las negras. Las negras pueden desafiar al alfil de las blancas con ...h6,} h6 {Las blancas pueden decidir entregar la pareja de alfiles con Axf6, ...Dxf6.} {En lugar de capturar el caballo negro, las blancas pueden mantener la tensión con Ah4.} 7. Bh4 {Lidiar con este alfil puede ser bastante molesto. Pero como las negras no se han comprometido a enrocar en el flanco de rey, pueden perturbar al alfil una vez más, con ...g5,} g5 {Desclavando el caballo de f6. El debilitamiento ...g5 no es una jugada que deba tomarse a la ligera, y es importante comprender por qué el sacrificio de pieza de las blancas es desacertado después de los intercambios en g5:} 8. Nxg5 hxg5 9. Bxg5 {Esto puede resultar bastante intimidante para las negras. Sobre todo porque las blancas están preparadas para jugar movimientos como Cd5 y Df3, aumentando la presión sobre el caballo clavado. Una vez más, podemos apreciar la ventaja de retrasar el enroque en el flanco de rey en esta variante. Las negras pueden usar la casilla abierta g8 para refutar el ataque de las blancas con ...Tg8.} Rg8 {Las blancas pueden reforzar el alfil con h4,} 10. h4 {con la intención de jugar Cd5, intensificando la presión contra el caballo clavado. Las negras pueden continuar con el provocativo ...Ag4, o defender d5 mientras enfrentan al alfil de casillas claras de las blancas con ...Ae6. Pero la forma más sencilla de poner fin al ataque inseguro de las blancas es con ...Ab4,} Bb4 {inmovilizando al caballo y preparándose para contrarrestar Df3 con el oportuno ...Tg6,} 11. Qf3 Rg6 {apoyar al caballo clavado, y las blancas carecen de compensación por este sacrificio poco acertado.} *"
+        }
+      ]
+    },
+    {
+      "id": "l_178637516878212",
+      "titulo": "Apertura Italiana XII: Practica",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Apertura Italiana XII: Practica",
+          "texto": "",
+          "orientacion": "negra",
+          "secuenciaCorrecta": [
+            "e2e4",
+            "e7e5",
+            "g1f3",
+            "b8c6",
+            "f1c4",
+            "f8c5",
+            "b1c3",
+            "g8f6",
+            "d2d3",
+            "d7d6",
+            "c1g5",
+            "h7h6",
+            "g5h4",
+            "g7g5",
+            "f3g5",
+            "h6g5",
+            "h4g5",
+            "h8g8",
+            "h2h4",
+            "c5b4",
+            "d1f3",
+            "g8g6"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_178637516878213",
+      "titulo": "Apertura Italiana XIII",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "INFO",
+          "titulo": "Apertura Italiana XIII",
+          "texto": "",
+          "mostrarTablero": true,
+          "orientacion": "blanca",
+          "pgn": "{[%evp 0,12,24,15,19,27,12,8,13,32767,14,-37,-39,-158,-158] Cuando las blancas abren la partida con 1.e4, la continuación más clásica de las negras es responder de la misma manera con 1...e5:} 1. e4 e5 {La lucha central continúa después de Cf3,} 2. Nf3 {desarrollando el caballo y ejerciendo presión sobre el peón negro de e5. Así, las negras desarrollan activamente, mientras defienden el centro, con ...Cc6.} Nc6 {Ab5, conocida como la Apertura Española (Ruy López), es una de las respuestas más clásicas y consolidadas de las blancas, objeto de debate entre grandes maestros durante siglos. En este vídeo nos centraremos en otra apertura con una rica historia y una sólida base estratégica, que desarrolla el alfil de casillas claras hacia la diagonal activa a2-g8, con Ac4.} 3. Bc4 {El alfil disfruta de una diagonal activa, apuntando al punto más débil de las negras en el tablero, la casilla f7. Si las negras juegan el natural ...Cf6, conocido como la Defensa de los Dos Caballos, esto provoca increíbles complicaciones tras Cg5, aumentando la presión sobre el débil peón f7, tema de otro vídeo. Para desalentar Cg5, las negras a veces pierden tiempo con el dudoso ...h6, o desarrollan el alfil de casillas negras a la relativamente pasiva casilla e7. Ambos movimientos se contrarrestan bien atacando en el centro con d4, desarrollando una fuerte iniciativa para las blancas. Nos centraremos en la respuesta directa y sólida de las negras, ...Ac5.} Bc5 {Desarrollando activamente el alfil de casillas oscuras y luchando por el control de la casilla d4. Nótese que Cg5 no es posible, ya que esto simplemente dejaría una pieza expuesta a ...Dxg5. Si las blancas deciden jugar d3,} {Cuando los principiantes dan sus primeros pasos en el juego, se les aconseja desarrollarse rápidamente, enrocar con prontitud y concentrarse en controlar el centro. Innumerables partidas se han jugado de la siguiente manera: Cc3, ...Cf6.} 4. Nc3 Nf6 {Ambos bandos han desarrollado diligentemente sus piezas menores hacia el centro. A esto suele seguirle un enroque rápido:} {En lugar de enrocar automáticamente, invitando a un ataque ya preparado en el flanco de rey, las blancas pueden mantenerse flexibles con d3:} 5. d3 {Cuando se juegan estas posiciones con negras, generalmente es un plan razonable esperar a que las blancas enroquen, antes de comprometer al rey a un lado particular del tablero. Una respuesta flexible es simplemente jugar ...d6,} d6 {Apoyando el centro y esperando a ver cómo continúa Blanca. En lugar de enrocar inmediatamente, cuando ...Ag4 puede resultar bastante molesto, Blanca puede ser quien dé el primer golpe con Ag5.} 6. Bg5 {Las negras no deberían enrocar automáticamente, ya que esto conduciría a problemas similares a los que acabamos de examinar, comenzando con Cd5, preparándose para dañar la estructura enrocada de las negras. Las negras pueden desafiar al alfil de las blancas con ...h6,} h6 {Las blancas pueden decidir entregar la pareja de alfiles con Axf6, ...Dxf6.} {En lugar de capturar el caballo negro, las blancas pueden mantener la tensión con Ah4.} 7. Bh4 {Lidiar con este alfil puede ser bastante molesto. Pero como las negras no se han comprometido a enrocar en el flanco de rey, pueden perturbar al alfil una vez más, con ...g5,} g5 {Desclavando el caballo de f6. El debilitamiento ...g5 no es una jugada que deba tomarse a la ligera, y es importante comprender por qué el sacrificio de pieza de las blancas es desacertado después de los intercambios en g5:} {Cxg5 puede ser un problema grave si el rey negro está comprometido en el flanco de rey. Pero con el rey negro en el centro, las blancas deberían evitar esta jugada y simplemente retirar el alfil con Bg3.} 8. Bg3 {Las negras pueden continuar con un rápido ...Ag4, o jugar primero el sutil ...a6,} a6 {negando al alfil blanco el acceso a la casilla b5. Entonces las negras amenazan con ganar la pareja de alfiles, con ...Ca5. Las blancas pueden responder de la misma manera con a3,} 9. a3 {extendiendo la diagonal a2 a g8 para el alfil blanco, cuando las negras pueden continuar activamente con ...Ag4,} Bg4 {inmovilizando al caballo y preparándose para responder a h3 con ...Ah5,} 10. h3 Bh5 {Manteniendo la tensión contra el caballo clavado, cuando se plantea la jugada ...Cd4, las negras han extendido los peones del flanco de rey, lo que restringe el alfil de casillas negras de las blancas. Sin embargo, el peón negro en g5 también puede ser atacado con h4, lo que genera un juego complejo, ya que los reyes permanecen flexibles en el centro.} *"
+        }
+      ]
+    },
+    {
+      "id": "l_178637516880614",
+      "titulo": "Apertura Italiana XIV:Practica",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Apertura Italiana XIV:Practica",
+          "texto": "",
+          "orientacion": "blanca",
+          "secuenciaCorrecta": [
+            "e2e4",
+            "e7e5",
+            "g1f3",
+            "b8c6",
+            "f1c4",
+            "f8c5",
+            "b1c3",
+            "g8f6",
+            "d2d3",
+            "d7d6",
+            "c1g5",
+            "h7h6",
+            "g5h4",
+            "g7g5",
+            "h4g3",
+            "a7a6",
+            "a2a3",
+            "c8g4",
+            "h2h3",
+            "g4h5"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_178637516880715",
+      "titulo": "Apertura Italiana XV",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "INFO",
+          "titulo": "Apertura Italiana XV",
+          "texto": "",
+          "mostrarTablero": true,
+          "orientacion": "blanca",
+          "pgn": "{[%evp 0,12,24,15,19,27,12,8,13,32767,14,-37,-39,-158,-158] Cuando las blancas abren la partida con 1.e4, la continuación más clásica de las negras es responder de la misma manera con 1...e5:} 1. e4 e5 {La lucha central continúa después de Cf3,} 2. Nf3 {desarrollando el caballo y ejerciendo presión sobre el peón negro de e5. Así, las negras desarrollan activamente, mientras defienden el centro, con ...Cc6.} Nc6 {Ab5, conocida como la Apertura Española (Ruy López), es una de las respuestas más clásicas y consolidadas de las blancas, objeto de debate entre grandes maestros durante siglos. En este vídeo nos centraremos en otra apertura con una rica historia y una sólida base estratégica, que desarrolla el alfil de casillas claras hacia la diagonal activa a2-g8, con Ac4.} 3. Bc4 {El alfil disfruta de una diagonal activa, apuntando al punto más débil de las negras en el tablero, la casilla f7. Si las negras juegan el natural ...Cf6, conocido como la Defensa de los Dos Caballos, esto provoca increíbles complicaciones tras Cg5, aumentando la presión sobre el débil peón f7, tema de otro vídeo. Para desalentar Cg5, las negras a veces pierden tiempo con el dudoso ...h6, o desarrollan el alfil de casillas negras a la relativamente pasiva casilla e7. Ambos movimientos se contrarrestan bien atacando en el centro con d4, desarrollando una fuerte iniciativa para las blancas. Nos centraremos en la respuesta directa y sólida de las negras, ...Ac5.} Bc5 {Desarrollando activamente el alfil de casillas oscuras y luchando por el control de la casilla d4. Nótese que Cg5 no es posible, ya que esto simplemente dejaría una pieza expuesta a ...Dxg5.} {Cc3 es menos común a nivel de gran maestro, aunque con un juego adecuado observamos que ciertamente existen oportunidades para desarrollar ideas interesantes. En este punto, las blancas pueden decidir enrocar o intentar obtener mayor control central ofreciendo un peón con b4, conocido como el Gambito Evans, tema de otro video. O, en lugar de desarrollar el caballo, la casilla c3 puede usarse para preparar la expansión central, con c3:} 4. c3 {Las blancas se preparan para atacar en el centro con d4, intentando crear un poderoso centro de dos peones. Las negras suelen continuar desarrollando el caballo del flanco de rey y ejerciendo presión sobre el centro blanco con ...Cf6.} Nf6 {En lugar de defender el peón de e4, si las blancas están dispuestas a provocar complicaciones inmediatas, pueden continuar atacando en el centro con d4.} 5. d4 {confrontando el centro de las negras. Para mantener el equilibrio contra esta apertura, las negras deben responder enérgicamente, comenzando con ...exd4, cxd4.} exd4 6. cxd4 {El centro de dos peones de las blancas puede resultar bastante peligroso. Ahora que las negras ya no tienen un peón en e5, un juego pasivo podría permitir a las blancas simplemente expulsar a las negras del tablero avanzando estos peones y hostigando a los caballos negros. Es importante jugar de la forma más activa posible, con el disruptivo jaque ...Ab4+.} Bb4+ {Hemos llegado a una posición compleja, y se podrían dedicar varios vídeos a las diversas opciones de las blancas. En este vídeo introductorio, mencionaremos brevemente que si las blancas bloquean el jaque, con Ad2,} 7. Bd2 {El jugador interesado puede explorar las consecuencias tácticas que siguen, después de ...Cxe4 y Axb4, pero un buen punto de partida es ...Axd2+ jaque.} Bxd2+ {Las blancas pueden recapturar el alfil y apoyar el peón de e4 con Cbxd2.} 8. Nbxd2 {Es importante que las negras no enroquen casualmente ni hagan un movimiento pasivo, permitiendo que las blancas estabilicen el peligroso centro de dos peones. Siempre que sea posible, las negras deben reclamar el centro, con el avance de peones ...d5,} d5 {atacando al alfil de casillas claras de las blancas y rompiendo el centro de dos peones. Después de exd5, y ...Cxd5,} 9. exd5 Nxd5 {Ahora las blancas tienen un peón de d aislado, pero disfrutan de ventaja en el desarrollo. Ahora que el centro está abierto, ninguno de los dos bandos debería confiarse demasiado dejando sus reyes expuestos en el centro. El enroque en el flanco de rey es una opción natural para ambos. Otra opción dinámica a considerar es Db3, que crea una peligrosa presión sobre el centro de las negras, así como sobre el flanco de rey, lo cual se responde bien con ...Ca5, provocando un juego agresivo.} *"
+        }
+      ]
+    },
+    {
+      "id": "l_178637516880716",
+      "titulo": "Apertura Italiana XVI: Practica",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Apertura Italiana XVI: Practica",
+          "texto": "",
+          "orientacion": "blanca",
+          "secuenciaCorrecta": [
+            "e2e4",
+            "e7e5",
+            "g1f3",
+            "b8c6",
+            "f1c4",
+            "f8c5",
+            "c2c3",
+            "g8f6",
+            "d2d4",
+            "e5d4",
+            "c3d4",
+            "c5b4",
+            "c1d2",
+            "b4d2",
+            "b1d2",
+            "d7d5",
+            "e4d5",
+            "f6d5"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_178637516880717",
+      "titulo": "Apertura Italiana XVII",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "INFO",
+          "titulo": "Apertura Italiana XVII",
+          "texto": "",
+          "mostrarTablero": true,
+          "orientacion": "blanca",
+          "pgn": "{[%evp 0,12,24,15,19,27,12,8,13,32767,14,-37,-39,-158,-158] Cuando las blancas abren la partida con 1.e4, la continuación más clásica de las negras es responder de la misma manera con 1...e5:} 1. e4 e5 {La lucha central continúa después de Cf3,} 2. Nf3 {desarrollando el caballo y ejerciendo presión sobre el peón negro de e5. Así, las negras desarrollan activamente, mientras defienden el centro, con ...Cc6.} Nc6 {Ab5, conocida como la Apertura Española (Ruy López), es una de las respuestas más clásicas y consolidadas de las blancas, objeto de debate entre grandes maestros durante siglos. En este vídeo nos centraremos en otra apertura con una rica historia y una sólida base estratégica, que desarrolla el alfil de casillas claras hacia la diagonal activa a2-g8, con Ac4.} 3. Bc4 {El alfil disfruta de una diagonal activa, apuntando al punto más débil de las negras en el tablero, la casilla f7. Si las negras juegan el natural ...Cf6, conocido como la Defensa de los Dos Caballos, esto provoca increíbles complicaciones tras Cg5, aumentando la presión sobre el débil peón f7, tema de otro vídeo. Para desalentar Cg5, las negras a veces pierden tiempo con el dudoso ...h6, o desarrollan el alfil de casillas negras a la relativamente pasiva casilla e7. Ambos movimientos se contrarrestan bien atacando en el centro con d4, desarrollando una fuerte iniciativa para las blancas. Nos centraremos en la respuesta directa y sólida de las negras, ...Ac5.} Bc5 {Desarrollando activamente el alfil de casillas oscuras y luchando por el control de la casilla d4. Nótese que Cg5 no es posible, ya que esto simplemente dejaría una pieza expuesta a ...Dxg5.} {Cc3 es menos común a nivel de gran maestro, aunque con un juego adecuado observamos que ciertamente existen oportunidades para desarrollar ideas interesantes. En este punto, las blancas pueden decidir enrocar o intentar obtener mayor control central ofreciendo un peón con b4, conocido como el Gambito Evans, tema de otro video. O, en lugar de desarrollar el caballo, la casilla c3 puede usarse para preparar la expansión central, con c3:} 4. c3 {Las blancas se preparan para atacar en el centro con d4, intentando crear un poderoso centro de dos peones. Las negras suelen continuar desarrollando el caballo del flanco de rey y ejerciendo presión sobre el centro blanco con ...Cf6.} Nf6 {En lugar de defender el peón de e4, si las blancas están dispuestas a provocar complicaciones inmediatas, pueden continuar atacando en el centro con d4.} 5. d4 {confrontando el centro de las negras. Para mantener el equilibrio contra esta apertura, las negras deben responder enérgicamente, comenzando con ...exd4, cxd4.} exd4 6. cxd4 {El centro de dos peones de las blancas puede resultar bastante peligroso. Ahora que las negras ya no tienen un peón en e5, el juego pasivo puede permitir a las blancas simplemente empujar a las negras fuera del tablero haciendo avanzar estos peones, acosando a los caballos negros. Es importante jugar lo más activamente posible, con el disruptivo jaque...Ab4+.} Bb4+ {Hemos llegado a una posición compleja, y se podrían dedicar varios vídeos a las diversas opciones de las blancas.} {Si las blancas no están interesadas en intercambiar alfiles, una opción para jugar es Cbd2.} 7. Nbd2 {Esto genera complicaciones si las negras están interesadas en jugar ...Cxe4, aprovechando el caballo clavado y preparándose para atacar en el centro con ...d5. Por lo tanto, en respuesta a ...Cxe4, las blancas están preparadas para jugar primero d5, ganando espacio e intentando asegurar una ventaja significativa en el desarrollo. Una vez más, al comenzar la Apertura Italiana, siempre que sea posible, la opción más fiable para las negras es atacar en el centro con un ...d5 oportuno, rompiendo el centro de dos peones de las blancas, momento en el que ambos bandos se centrarán en el enroque y completar el desarrollo.} *"
+        }
+      ]
+    },
+    {
+      "id": "l_178637516880718",
+      "titulo": "Apertura Italiana XVIII:Practica",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Apertura Italiana XVIII:Practica",
+          "texto": "",
+          "orientacion": "blanca",
+          "secuenciaCorrecta": [
+            "e2e4",
+            "e7e5",
+            "g1f3",
+            "b8c6",
+            "f1c4",
+            "f8c5",
+            "c2c3",
+            "g8f6",
+            "d2d4",
+            "e5d4",
+            "c3d4",
+            "c5b4",
+            "b1d2"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_178637516880819",
+      "titulo": "Apertura Italiana XIX",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "INFO",
+          "titulo": "Apertura Italiana XIX",
+          "texto": "",
+          "mostrarTablero": true,
+          "orientacion": "blanca",
+          "pgn": "{[%evp 0,12,24,15,19,27,12,8,13,32767,14,-37,-39,-158,-158] Cuando las blancas abren la partida con 1.e4, la continuación más clásica de las negras es responder de la misma manera con 1...e5:} 1. e4 e5 {La lucha central continúa después de Cf3,} 2. Nf3 {desarrollando el caballo y ejerciendo presión sobre el peón negro de e5. Así, las negras desarrollan activamente, mientras defienden el centro, con ...Cc6.} Nc6 {Ab5, conocida como la Apertura Española (Ruy López), es una de las respuestas más clásicas y consolidadas de las blancas, objeto de debate entre grandes maestros durante siglos. En este vídeo nos centraremos en otra apertura con una rica historia y una sólida base estratégica, que desarrolla el alfil de casillas claras hacia la diagonal activa a2-g8, con Ac4.} 3. Bc4 {El alfil disfruta de una diagonal activa, apuntando al punto más débil de las negras en el tablero, la casilla f7. Si las negras juegan el natural ...Cf6, conocido como la Defensa de los Dos Caballos, esto provoca increíbles complicaciones tras Cg5, aumentando la presión sobre el débil peón f7, tema de otro vídeo. Para desalentar Cg5, las negras a veces pierden tiempo con el dudoso ...h6, o desarrollan el alfil de casillas negras a la relativamente pasiva casilla e7. Ambos movimientos se contrarrestan bien atacando en el centro con d4, desarrollando una fuerte iniciativa para las blancas. Nos centraremos en la respuesta directa y sólida de las negras, ...Ac5.} Bc5 {Desarrollando activamente el alfil de casillas oscuras y luchando por el control de la casilla d4. Nótese que Cg5 no es posible, ya que esto simplemente dejaría una pieza expuesta a ...Dxg5.} {Cc3 es menos común a nivel de gran maestro, aunque con un juego adecuado observamos que ciertamente existen oportunidades para desarrollar ideas interesantes. En este punto, las blancas pueden decidir enrocar o intentar obtener mayor control central ofreciendo un peón con b4, conocido como el Gambito Evans, tema de otro video. O, en lugar de desarrollar el caballo, la casilla c3 puede usarse para preparar la expansión central, con c3:} 4. c3 {Las blancas se preparan para atacar en el centro con d4, intentando crear un poderoso centro de dos peones. Las negras suelen continuar desarrollando el caballo del flanco de rey y ejerciendo presión sobre el centro blanco con ...Cf6.} Nf6 {En lugar de defender el peón de e4, si las blancas están dispuestas a provocar complicaciones inmediatas, pueden continuar atacando en el centro con d4.} 5. d4 {confrontando el centro de las negras. Para mantener el equilibrio contra esta apertura, las negras deben responder enérgicamente, comenzando con ...exd4, cxd4.} exd4 6. cxd4 {El centro de dos peones de las blancas puede resultar bastante peligroso. Ahora que las negras ya no tienen un peón en e5, el juego pasivo puede permitir a las blancas simplemente empujar a las negras fuera del tablero haciendo avanzar estos peones, acosando a los caballos negros. Es importante jugar lo más activamente posible, con el disruptivo jaque...Ab4+.} Bb4+ {Hemos llegado a una posición compleja, y se podrían dedicar varios vídeos a las diversas opciones de las blancas.} {La apertura italiana tiene una rica historia, y los análisis del año 1620 siguen siendo relevantes hoy en día. Una forma activa de responder al jaque es con Cc3.} 7. Nc3 {Con esta elección, las blancas no obstaculizan al alfil de casillas oscuras, amenazando una vez más con avanzar los peones centrales. Dado que el caballo blanco en c3 está clavado, es importante que las negras respondan con la misma moneda, jugando ...Cxe4,} Nxe4 {desmantelando el centro de dos peones de las blancas, mientras se añade presión contra el caballo clavado. Capturar el peón de e4 con el rey todavía en el centro no es una decisión que deba tomarse a la ligera. Pero si las blancas intentan explotar esto, con De2,} 8. Qe2 {Al clavar el caballo al rey, podemos ver el avance temático de peones de las negras en acción, ...d5,} d5 {recuperando una parte importante del centro. Nótese que Axd5 simplemente perdería una pieza ante ...Dxd5, aprovechando el caballo clavado en c3.} *"
+        }
+      ]
+    },
+    {
+      "id": "l_178637516880820",
+      "titulo": "Apertura Italiana XX:Practica",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Apertura Italiana XX:Practica",
+          "texto": "",
+          "orientacion": "blanca",
+          "secuenciaCorrecta": [
+            "e2e4",
+            "e7e5",
+            "g1f3",
+            "b8c6",
+            "f1c4",
+            "f8c5",
+            "c2c3",
+            "g8f6",
+            "d2d4",
+            "e5d4",
+            "c3d4",
+            "c5b4",
+            "b1c3",
+            "f6e4",
+            "d1e2",
+            "d7d5"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_178637516880821",
+      "titulo": "Apertura Italiana XXI",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "INFO",
+          "titulo": "Apertura Italiana XXI",
+          "texto": "",
+          "mostrarTablero": true,
+          "orientacion": "blanca",
+          "pgn": "{[%evp 0,12,24,15,19,27,12,8,13,32767,14,-37,-39,-158,-158] Cuando las blancas abren la partida con 1.e4, la continuación más clásica de las negras es responder de la misma manera con 1...e5:} 1. e4 e5 {La lucha central continúa después de Cf3,} 2. Nf3 {desarrollando el caballo y ejerciendo presión sobre el peón negro de e5. Así, las negras desarrollan activamente, mientras defienden el centro, con ...Cc6.} Nc6 {Ab5, conocida como la Apertura Española (Ruy López), es una de las respuestas más clásicas y consolidadas de las blancas, objeto de debate entre grandes maestros durante siglos. En este vídeo nos centraremos en otra apertura con una rica historia y una sólida base estratégica, que desarrolla el alfil de casillas claras hacia la diagonal activa a2-g8, con Ac4.} 3. Bc4 {El alfil disfruta de una diagonal activa, apuntando al punto más débil de las negras en el tablero, la casilla f7. Si las negras juegan el natural ...Cf6, conocido como la Defensa de los Dos Caballos, esto provoca increíbles complicaciones tras Cg5, aumentando la presión sobre el débil peón f7, tema de otro vídeo. Para desalentar Cg5, las negras a veces pierden tiempo con el dudoso ...h6, o desarrollan el alfil de casillas negras a la relativamente pasiva casilla e7. Ambos movimientos se contrarrestan bien atacando en el centro con d4, desarrollando una fuerte iniciativa para las blancas. Nos centraremos en la respuesta directa y sólida de las negras, ...Ac5.} Bc5 {Desarrollando activamente el alfil de casillas oscuras y luchando por el control de la casilla d4. Nótese que Cg5 no es posible, ya que esto simplemente dejaría una pieza expuesta a ...Dxg5.} {Cc3 es menos común a nivel de gran maestro, aunque con un juego adecuado observamos que ciertamente existen oportunidades para desarrollar ideas interesantes. En este punto, las blancas pueden decidir enrocar o intentar obtener mayor control central ofreciendo un peón con b4, conocido como el Gambito Evans, tema de otro video. O, en lugar de desarrollar el caballo, la casilla c3 puede usarse para preparar la expansión central, con c3:} 4. c3 {Las blancas se preparan para atacar en el centro con d4, intentando crear un poderoso centro de dos peones. Las negras suelen continuar desarrollando el caballo del flanco de rey y ejerciendo presión sobre el centro blanco con ...Cf6.} Nf6 {En lugar de defender el peón de e4, si las blancas están dispuestas a provocar complicaciones inmediatas, pueden continuar atacando en el centro con d4.} 5. d4 {confrontando el centro de las negras. Para mantener el equilibrio contra esta apertura, las negras deben responder enérgicamente, comenzando con ...exd4, cxd4.} exd4 6. cxd4 {El centro de dos peones de las blancas puede resultar bastante peligroso. Ahora que las negras ya no tienen un peón en e5, un juego pasivo podría permitir a las blancas simplemente expulsar a las negras del tablero avanzando estos peones y hostigando a los caballos negros. Es importante jugar de la forma más activa posible, con el disruptivo jaque ...Ab4+.} Bb4+ {Hemos llegado a una posición compleja, y se podrían dedicar varios vídeos a las diversas opciones de las blancas.} {La apertura italiana tiene una rica historia, y los análisis del año 1620 siguen siendo relevantes hoy en día. Una forma activa de responder al jaque es con Cc3.} 7. Nc3 {Con esta elección, las blancas no obstaculizan al alfil de casillas oscuras, amenazando una vez más con avanzar los peones centrales. Dado que el caballo blanco en c3 está clavado, es importante que las negras respondan con la misma moneda, jugando ...Cxe4,} Nxe4 {desmantelando el centro de dos peones de las blancas, mientras se añade presión contra el caballo clavado. Capturar el peón de e4 con el rey todavía en el centro no es una decisión que deba tomarse a la ligera. Pero si las blancas intentan explotar esto, con De2,} {En lugar de clavar el caballo con De2, podemos viajar en el tiempo hasta el año 1620, cuando el analista italiano Gioachino Greco sugirió el enroque en el flanco de rey.} 8. O-O {Las blancas están sacrificando material para desarrollarse rápidamente, construyendo una ventaja de tiempo potencialmente peligrosa. En uno de los ejemplos de Greco, podemos ver un caso extremo de material contra tiempo, comenzando con la aparentemente natural ...Cxc3, bxc3:} Nxc3 9. bxc3 {Las negras deberían atacar en el centro con ...d5, pero es tentador capturar otro peón con ...Axc3.} Bxc3 {Las blancas ya han sacrificado dos peones y apenas están comenzando. Aa3 es una opción interesante para explorar, pero Greco prefería Db3.} 10. Qb3 {atacando al alfil, mientras crea una peligrosa batería contra el peón f7. Una vez más, d5 es necesario para contrarrestar la iniciativa de las blancas y tratar de ponerse al día en el desarrollo, pero después de que las negras capturan la torre,} Bxa1 {Las negras han aceptado todo lo que se les ha ofrecido y ahora están perdiendo por completo. Esta ventaja de tiempo es abrumadora después del jaque Axf7+, ...Rf8, Ag5:} 11. Bxf7+ Kf8 12. Bg5 {Atacan a la Dama enemiga, que está casi atrapada. Las negras intentan defender a la Dama con ...Ce7:} Ne7 {Capturar el alfil negro en a1 o atacar el caballo clavado con Re1 son, sin duda, opciones posibles. Pero Greco hizo hincapié en la coordinación de sus poderosas piezas con Ce5:} 13. Ne5 {La jugada Ag6, que amenaza con jaque mate Df7#, es una idea interesante. Y ahora que ya no hay caballo en f3, las blancas están preparadas para jugar Df3, alineándose con el rey enemigo, cuando las fuerzas subdesarrolladas y el débil rey de las negras no son rival para el poderoso juego de piezas de Greco.} *"
+        }
+      ]
+    },
+    {
+      "id": "l_178637516883822",
+      "titulo": "Apertura Italiana XXII:Practica",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Apertura Italiana XXII:Practica",
+          "texto": "",
+          "orientacion": "blanca",
+          "secuenciaCorrecta": [
+            "e2e4",
+            "e7e5",
+            "g1f3",
+            "b8c6",
+            "f1c4",
+            "f8c5",
+            "c2c3",
+            "g8f6",
+            "d2d4",
+            "e5d4",
+            "c3d4",
+            "c5b4",
+            "b1c3",
+            "f6e4",
+            "e1g1",
+            "e4c3",
+            "b2c3",
+            "b4c3",
+            "d1b3",
+            "c3a1",
+            "c4f7",
+            "e8f8",
+            "c1g5",
+            "c6e7",
+            "f3e5"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_178637516883923",
+      "titulo": "Apertura Italiana XXIII",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "INFO",
+          "titulo": "Apertura Italiana XXIII",
+          "texto": "",
+          "mostrarTablero": true,
+          "orientacion": "blanca",
+          "pgn": "{[%evp 0,12,24,15,19,27,12,8,13,32767,14,-37,-39,-158,-158] Cuando las blancas abren la partida con 1.e4, la continuación más clásica de las negras es responder de la misma manera con 1...e5:} 1. e4 e5 {La lucha central continúa después de Cf3,} 2. Nf3 {desarrollando el caballo y ejerciendo presión sobre el peón negro de e5. Así, las negras desarrollan activamente, mientras defienden el centro, con ...Cc6.} Nc6 {Ab5, conocida como la Apertura Española (Ruy López), es una de las respuestas más clásicas y consolidadas de las blancas, objeto de debate entre grandes maestros durante siglos. En este vídeo nos centraremos en otra apertura con una rica historia y una sólida base estratégica, que desarrolla el alfil de casillas claras hacia la diagonal activa a2-g8, con Ac4.} 3. Bc4 {El alfil disfruta de una diagonal activa, apuntando al punto más débil de las negras en el tablero, la casilla f7. Si las negras juegan el natural ...Cf6, conocido como la Defensa de los Dos Caballos, esto provoca increíbles complicaciones tras Cg5, aumentando la presión sobre el débil peón f7, tema de otro vídeo. Para desalentar Cg5, las negras a veces pierden tiempo con el dudoso ...h6, o desarrollan el alfil de casillas negras a la relativamente pasiva casilla e7. Ambos movimientos se contrarrestan bien atacando en el centro con d4, desarrollando una fuerte iniciativa para las blancas. Nos centraremos en la respuesta directa y sólida de las negras, ...Ac5.} Bc5 {Desarrollando activamente el alfil de casillas oscuras y luchando por el control de la casilla d4. Nótese que Cg5 no es posible, ya que esto simplemente dejaría una pieza expuesta a ...Dxg5.} {Cc3 es menos común a nivel de gran maestro, aunque con un juego adecuado observamos que ciertamente existen oportunidades para desarrollar ideas interesantes. En este punto, las blancas pueden decidir enrocar o intentar obtener mayor control central ofreciendo un peón con b4, conocido como el Gambito Evans, tema de otro video. O, en lugar de desarrollar el caballo, la casilla c3 puede usarse para preparar la expansión central, con c3:} 4. c3 {Las blancas se preparan para atacar en el centro con d4, intentando crear un poderoso centro de dos peones. Las negras suelen continuar desarrollando el caballo del flanco de rey y ejerciendo presión sobre el centro blanco con ...Cf6.} Nf6 {En lugar de defender el peón de e4, si las blancas están dispuestas a provocar complicaciones inmediatas, pueden continuar atacando en el centro con d4.} 5. d4 {confrontando el centro de las negras. Para mantener el equilibrio contra esta apertura, las negras deben responder enérgicamente, comenzando con ...exd4, cxd4.} exd4 6. cxd4 {El centro de dos peones de las blancas puede resultar bastante peligroso. Ahora que las negras ya no tienen un peón en e5, un juego pasivo podría permitir a las blancas simplemente expulsar a las negras del tablero avanzando estos peones y hostigando a los caballos negros. Es importante jugar de la forma más activa posible, con el disruptivo jaque ...Ab4+.} Bb4+ {Hemos llegado a una posición compleja, y se podrían dedicar varios vídeos a las diversas opciones de las blancas.} {La apertura italiana tiene una rica historia, y los análisis del año 1620 siguen siendo relevantes hoy en día. Una forma activa de responder al jaque es con Cc3.} 7. Nc3 {Con esta elección, las blancas no obstaculizan al alfil de casillas oscuras, amenazando una vez más con avanzar los peones centrales. Dado que el caballo blanco en c3 está clavado, es importante que las negras respondan con la misma moneda, jugando ...Cxe4,} Nxe4 {desmantelando el centro de dos peones de las blancas, mientras se añade presión contra el caballo clavado.} {En lugar de clavar el caballo con De2, podemos viajar en el tiempo hasta el año 1620, cuando el analista italiano Gioachino Greco sugirió el enroque en el flanco de rey.} 8. O-O {Las blancas están sacrificando material para desarrollarse rápidamente, construyendo una ventaja de tiempo potencialmente peligrosa.} {En lugar de capturar el caballo con ...Cxc3, una opción más fiable para las negras es jugar ...Axc3.} Bxc3 {En lugar de intentar capturar la mayor cantidad de material posible, las negras se centran en reducir el control de las blancas sobre la casilla clave d5. El aventurero ataque Moeller con d5 es una línea fascinante para explorar, donde las negras pueden retirar el alfil en peligro con ...Af6, o considerar ...Ce5, preparando el escenario para agudas complicaciones. Si las blancas juegan el natural bxc3,} 9. bxc3 {La ambiciosa jugada ...Cxc3 es castigada inmediatamente con el jaque De1+, ganando el caballo. Pero las negras pueden asegurar una sólida posición con ...d5.} d5 {Las negras han logrado establecer una fuerte presencia central, preparándose para responder al alfil en Ad3 con un enroque en el flanco de rey.} 10. Bd3 O-O {Una vez que se disipe el humo, las negras gozan de una posición sólida y no deberían enfrentar problemas serios en la apertura.} *"
+        }
+      ]
+    },
+    {
+      "id": "l_178637516883924",
+      "titulo": "Apertura Italiana XXVI: Practica",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Apertura Italiana XXVI: Practica",
+          "texto": "",
+          "orientacion": "blanca",
+          "secuenciaCorrecta": [
+            "e2e4",
+            "e7e5",
+            "g1f3",
+            "b8c6",
+            "f1c4",
+            "f8c5",
+            "c2c3",
+            "g8f6",
+            "d2d4",
+            "e5d4",
+            "c3d4",
+            "c5b4",
+            "b1c3",
+            "f6e4",
+            "e1g1",
+            "b4c3",
+            "b2c3",
+            "d7d5",
+            "c4d3",
+            "e8g8"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_178637516883925",
+      "titulo": "Apertura Italina XXV",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "INFO",
+          "titulo": "Apertura Italina XXV",
+          "texto": "",
+          "mostrarTablero": true,
+          "orientacion": "blanca",
+          "pgn": "{[%evp 0,12,24,15,19,27,12,8,13,32767,14,-37,-39,-158,-158] Cuando las blancas abren la partida con 1.e4, la continuación más clásica de las negras es responder de la misma manera con 1...e5:} 1. e4 e5 {La lucha central continúa después de Cf3,} 2. Nf3 {desarrollando el caballo y ejerciendo presión sobre el peón negro de e5. Así, las negras desarrollan activamente, mientras defienden el centro, con ...Cc6.} Nc6 {Ab5, conocida como la Apertura Española (Ruy López), es una de las respuestas más clásicas y consolidadas de las blancas, objeto de debate entre grandes maestros durante siglos. En este vídeo nos centraremos en otra apertura con una rica historia y una sólida base estratégica, que desarrolla el alfil de casillas claras hacia la diagonal activa a2-g8, con Ac4.} 3. Bc4 {El alfil disfruta de una diagonal activa, apuntando al punto más débil de las negras en el tablero, la casilla f7. Si las negras juegan el natural ...Cf6, conocido como la Defensa de los Dos Caballos, esto provoca increíbles complicaciones tras Cg5, aumentando la presión sobre el débil peón f7, tema de otro vídeo. Para desalentar Cg5, las negras a veces pierden tiempo con el dudoso ...h6, o desarrollan el alfil de casillas negras a la relativamente pasiva casilla e7. Ambos movimientos se contrarrestan bien atacando en el centro con d4, desarrollando una fuerte iniciativa para las blancas. Nos centraremos en la respuesta directa y sólida de las negras, ...Ac5.} Bc5 {Desarrollando activamente el alfil de casillas oscuras y luchando por el control de la casilla d4. Nótese que Cg5 no es posible, ya que esto simplemente dejaría una pieza expuesta a ...Dxg5.} {Cc3 es menos común a nivel de gran maestro, aunque con un juego adecuado observamos que ciertamente existen oportunidades para desarrollar ideas interesantes. En este punto, las blancas pueden decidir enrocar o intentar obtener mayor control central ofreciendo un peón con b4, conocido como el Gambito Evans, tema de otro video. O, en lugar de desarrollar el caballo, la casilla c3 puede usarse para preparar la expansión central, con c3:} 4. c3 {Las blancas se preparan para atacar en el centro con d4, intentando crear un poderoso centro de dos peones. Las negras suelen continuar desarrollando el caballo del flanco de rey y ejerciendo presión sobre el centro blanco con ...Cf6.} Nf6 {En lugar de defender el peón de e4, si las blancas están dispuestas a provocar complicaciones inmediatas, pueden continuar atacando en el centro con d4.} 5. d4 {confrontando el centro de las negras.} exd4 {Tras ...exd4, el automático cxd4 permite una lucha intensa, aunque con un juego cuidadoso las negras deberían poder mantener el equilibrio, con el jaque activo ...Ab4+. Otra opción de prueba que se ha ensayado a nivel de gran maestro es e5:} 6. e5 {Simplemente aprovechando el espacio que queda, desafiando al caballo negro. Esta es una línea increíblemente peligrosa a la que enfrentarse sin la preparación adecuada, porque movimientos naturales como ...Ce4 son castigados por Ad5. Y ...Cg4 se encuentra, entre otras opciones interesantes, con cxd4, cuando las negras tendrán serios problemas para mantenerse a flote. Mencionamos anteriormente que las negras a menudo buscan el avance temático de peón ...d5. Una vez más, es precisamente este recurso el que mantiene el equilibrio para las negras. Cuando las blancas juegan el peligroso e5, es importante recordar el contraataque central clave ...d5:} d5 {A primera vista, esto parece una jugada terrible, ya que permite exf6,} 7. exf6 {después de ...dxc4, las blancas pueden jugar fxg7,} dxc4 8. fxg7 {atacando la torre negra. Entonces la torre se defiende con ...Tg8.} Rg8 {Resulta que a las negras les va perfectamente bien. Porque si las blancas deciden enrocar,} 9. O-O {...Df6, preparándose para abrir la columna g con ...Dxg7, amenazando jaque mate en g2, es una excelente opción para las negras. Y las negras también pueden decidir capturar inmediatamente el peón, con ...Txg7,} Rxg7 {de repente añade presión contra el flanco de rey enrocado de las blancas, preparándose para responder al jaque Te1+, con ...Ae6.} 10. Re1+ Be6 {Nótese que Cg5, que intenta presionar al alfil clavado, se enfrenta bien con ...Txg5. Así pues, las negras están preparadas para mover la dama y enrocar en el flanco de dama, momento en el que el rey blanco podría quedar más expuesto a un ataque peligroso.} *"
+        }
+      ]
+    },
+    {
+      "id": "l_178637516883926",
+      "titulo": "Apertura Italina XXVI: Practica",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Apertura Italina XXVI: Practica",
+          "texto": "",
+          "orientacion": "blanca",
+          "secuenciaCorrecta": [
+            "e2e4",
+            "e7e5",
+            "g1f3",
+            "b8c6",
+            "f1c4",
+            "f8c5",
+            "c2c3",
+            "g8f6",
+            "d2d4",
+            "e5d4",
+            "e4e5",
+            "d7d5",
+            "e5f6",
+            "d5c4",
+            "f6g7",
+            "h8g8",
+            "e1g1",
+            "g8g7",
+            "f1e1",
+            "c8e6"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_178637516884027",
+      "titulo": "Aperturas Italiana XXVII",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "INFO",
+          "titulo": "Aperturas Italiana XXVII",
+          "texto": "",
+          "mostrarTablero": true,
+          "orientacion": "blanca",
+          "pgn": "{[%evp 0,12,24,15,19,27,12,8,13,32767,14,-37,-39,-158,-158] Cuando las blancas abren la partida con 1.e4, la continuación más clásica de las negras es responder de la misma manera con 1...e5:} 1. e4 e5 {La lucha central continúa después de Cf3,} 2. Nf3 {desarrollando el caballo y ejerciendo presión sobre el peón negro de e5. Así, las negras desarrollan activamente, mientras defienden el centro, con ...Cc6.} Nc6 {Ab5, conocida como la Apertura Española (Ruy López), es una de las respuestas más clásicas y consolidadas de las blancas, objeto de debate entre grandes maestros durante siglos. En este vídeo nos centraremos en otra apertura con una rica historia y una sólida base estratégica, que desarrolla el alfil de casillas claras hacia la diagonal activa a2-g8, con Ac4.} 3. Bc4 {El alfil disfruta de una diagonal activa, apuntando al punto más débil de las negras en el tablero, la casilla f7. Si las negras juegan el natural ...Cf6, conocido como la Defensa de los Dos Caballos, esto provoca increíbles complicaciones tras Cg5, aumentando la presión sobre el débil peón f7, tema de otro vídeo. Para desalentar Cg5, las negras a veces pierden tiempo con el dudoso ...h6, o desarrollan el alfil de casillas negras a la relativamente pasiva casilla e7. Ambos movimientos se contrarrestan bien atacando en el centro con d4, desarrollando una fuerte iniciativa para las blancas. Nos centraremos en la respuesta directa y sólida de las negras, ...Ac5.} Bc5 {Desarrollando activamente el alfil de casillas oscuras y luchando por el control de la casilla d4. Nótese que Cg5 no es posible, ya que esto simplemente dejaría una pieza expuesta a ...Dxg5.} {Cc3 es menos común a nivel de gran maestro, aunque con un juego adecuado notamos que ciertamente hay oportunidades para desarrollar ideas interesantes. En este punto, las blancas pueden decidir enrocarse o intentar obtener un mayor control central ofreciendo un peón con b4, conocido como Gambito Evans, tema de otro vídeo. O en lugar de desarrollar el caballo, la casilla c3 puede usarse para preparar la expansión central, con c3:} 4. c3 {Las blancas se preparan para atacar en el centro con d4, intentando crear un poderoso centro de dos peones. Las negras suelen continuar desarrollando el caballo del flanco de rey y ejerciendo presión sobre el centro blanco con ...Cf6.} Nf6 {En lugar de defender el peón de e4, si las blancas están dispuestas a provocar complicaciones inmediatas, pueden continuar atacando en el centro con d4.} 5. d4 {confrontando el centro de las negras.} exd4 {Tras ...exd4, el automático cxd4 permite una lucha intensa, aunque con un juego cuidadoso las negras deberían poder mantener el equilibrio, con el jaque activo ...Ab4+. Otra opción de prueba que se ha ensayado a nivel de gran maestro es e5:} 6. e5 {Simplemente aprovechando el espacio que queda, desafiando al caballo negro. Esta es una línea increíblemente peligrosa a la que enfrentarse sin la preparación adecuada, porque movimientos naturales como ...Ce4 son castigados por Ad5. Y ...Cg4 se encuentra, entre otras opciones interesantes, con cxd4, donde las negras tendrán serios problemas para mantenerse a flote. Mencionamos anteriormente que las negras a menudo buscan el avance temático de peón ...d5. Una vez más, es precisamente este recurso el que mantiene el equilibrio para las negras. Las blancas juegan el peligroso e5, es importante recordar el contraataque central clave ...d5:} d5 {A primera vista, esto parece una jugada terrible, ya que permite exf6,} {Dado que el tentador exf6 no le ha prometido nada especial a las blancas, innumerables partidas de grandes maestros han continuado con Ab5,} 7. Bb5 {Clavando al caballo, mientras mueve al alfil a un lugar seguro, cuando las negras centralizan al caballo en peligro con ...Ce4.} Ne4 {Normalmente, las blancas recuperan el peón con cxd4.} 8. cxd4 {Gracias al peón de d5 que ancla el centro de las negras, en lugar de jugar ...Ab4+ jaque, que aún es posible, muchos grandes maestros prefieren jugar ...Ab6.} Bb6 {Dado que los peones centrales de las blancas no pueden avanzar favorablemente, las negras mantienen la presión sobre el peón de d4 retrasado de las blancas, lo que subraya que la ventaja de espacio central de las blancas también tiene sus inconvenientes. Se trata de una posición bastante equilibrada, con muchas oportunidades interesantes para ambos bandos.} *"
+        }
+      ]
+    },
+    {
+      "id": "l_178637516884028",
+      "titulo": "Aperturas Italiana XXVIII:Practica",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Aperturas Italiana XXVIII:Practica",
+          "texto": "",
+          "orientacion": "blanca",
+          "secuenciaCorrecta": [
+            "e2e4",
+            "e7e5",
+            "g1f3",
+            "b8c6",
+            "f1c4",
+            "f8c5",
+            "c2c3",
+            "g8f6",
+            "d2d4",
+            "e5d4",
+            "e4e5",
+            "d7d5",
+            "c4b5",
+            "f6e4",
+            "c3d4",
+            "c5b6"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_178637516884129",
+      "titulo": "Apertura Italiana XXIX",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "INFO",
+          "titulo": "Apertura Italiana XXIX",
+          "texto": "",
+          "mostrarTablero": true,
+          "orientacion": "blanca",
+          "pgn": "{[%evp 0,12,24,15,19,27,12,8,13,32767,14,-37,-39,-158,-158] Cuando las blancas abren la partida con 1.e4, la continuación más clásica de las negras es responder de la misma manera con 1...e5:} 1. e4 e5 {La lucha central continúa después de Cf3,} 2. Nf3 {desarrollando el caballo y ejerciendo presión sobre el peón negro de e5. Así, las negras desarrollan activamente, mientras defienden el centro, con ...Cc6.} Nc6 {Ab5, conocida como la Apertura Española (Ruy López), es una de las respuestas más clásicas y consolidadas de las blancas, objeto de debate entre grandes maestros durante siglos. En este vídeo nos centraremos en otra apertura con una rica historia y una sólida base estratégica, que desarrolla el alfil de casillas claras hacia la diagonal activa a2-g8, con Ac4.} 3. Bc4 {El alfil disfruta de una diagonal activa, apuntando al punto más débil de las negras en el tablero, la casilla f7. Si las negras juegan el natural ...Cf6, conocido como la Defensa de los Dos Caballos, esto provoca increíbles complicaciones tras Cg5, aumentando la presión sobre el débil peón f7, tema de otro vídeo. Para desalentar Cg5, las negras a veces pierden tiempo con el dudoso ...h6, o desarrollan el alfil de casillas negras a la relativamente pasiva casilla e7. Ambos movimientos se contrarrestan bien atacando en el centro con d4, desarrollando una fuerte iniciativa para las blancas. Nos centraremos en la respuesta directa y sólida de las negras, ...Ac5.} Bc5 {Desarrollando activamente el alfil de casillas oscuras y luchando por el control de la casilla d4. Nótese que Cg5 no es posible, ya que esto simplemente dejaría una pieza expuesta a ...Dxg5.} {Cc3 es menos común a nivel de gran maestro, aunque con un juego adecuado notamos que ciertamente hay oportunidades para desarrollar ideas interesantes. En este punto, las blancas pueden decidir enrocarse o intentar obtener un mayor control central ofreciendo un peón con b4, conocido como Gambito Evans, tema de otro vídeo. O en lugar de desarrollar el caballo, la casilla c3 puede usarse para preparar la expansión central, con c3:} 4. c3 {Las blancas se preparan para atacar en el centro con d4, intentando crear un poderoso centro de dos peones. Las negras suelen continuar desarrollando el caballo del flanco de rey y ejerciendo presión sobre el centro blanco con ...Cf6.} Nf6 {En lugar de defender el peón de e4, si las blancas están dispuestas a provocar complicaciones inmediatas, pueden continuar atacando en el centro con d4.} {La italiana es una apertura estratégicamente rica, y aunque c3 parece preparar d4, las blancas también pueden decidir evitar estas líneas forzadas y concretas, defendiendo el peón de e4 con d3:} 5. d3 {Muchos grandes maestros han vuelto a analizar la Apertura Italiana, especialmente porque la Defensa Berlinesa y el Ataque Marshall han causado bastantes quebraderos de cabeza a las blancas en la Apertura Española. Puede parecer extraño combinar c3 con d3. El hecho de que las blancas hayan jugado d3 no significa que d4 no siga siendo una posibilidad, y las blancas a menudo buscarán expandirse en el centro precisamente con este movimiento, una vez que hayan completado el desarrollo. Por ejemplo, después de ...d6,} d6 {Cuando el caballo estaba en c3, aprendimos cómo el enroque automático puede llevar rápidamente al desastre con un juego descuidado. Aunque el caballo en b1 parece restringido por el peón en c3, esto en realidad puede favorecer a las blancas. Hay muchas ideas que explorar, incluyendo Ab3, el inmediato Cbd2, y en este caso, las blancas pueden enrocar cómodamente.} 6. O-O {Las negras deciden clavar el caballo con ...Ag4.} Bg4 {En cuanto al peón de c3, esto es menos peligroso, ya que las negras no pueden agregar más presión contra el caballo clavado con ...Cd4. Las blancas pueden decidir cuestionar al alfil con h3,} 7. h3 {provocando ...Ah5,} Bh5 {el alfil de casillas claras puede resultar bastante fuera de lugar en el flanco de rey. Un tema a tener en cuenta es el espacio que gana a4.} 8. a4 {Si las negras no están atentas, entonces b4, seguido de a5, atrapará al alfil negro. En respuesta a a4, ...a6 o ...a5 tienen sus pros y sus contras. Digamos que las negras juegan ...a5,} a5 {Ganando espacio y desalentando b4 a costa de debilitar la casilla b5. Ahora podemos ver al caballo blanco del flanco de dama entrar en acción con una maniobra temática, Cbd2.} 9. Nbd2 {Después de que las negras enroquen, las blancas pueden centralizar la torre, con Te1,} O-O 10. Re1 {preparándose para completar el instructivo viaje del caballo del flanco de dama después de ...Dd7, con Cf1.} Qd7 11. Nf1 {El caballo blanco se prepara para encontrar actividad en el flanco de rey. Entonces, si las negras juegan ...h6,} h6 {Al impedir Ag5, las blancas pueden jugar Cg3,} 12. Ng3 {atacando al alfil de casillas claras. Entonces, después de ...Ag6,} Bg6 {El alfil de casillas claras está restringido por los peones blancos. El caballo blanco en g3 apunta a la casilla f5, que posteriormente podría ser apoyada por el otro caballo, con Ch4, ganando un tiempo contra el alfil negro, que sigue demostrando estar mal colocado. Esta es una posición de la Apertura Italiana más tranquila, que mantiene mucha tensión entre las piezas del tablero y que puede permitir al jugador más experimentado superar a un oponente menos familiarizado con las sutiles maniobras.} *"
+        }
+      ]
+    },
+    {
+      "id": "l_178637516886730",
+      "titulo": "Apertura Italiana XXX: Practica",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Apertura Italiana XXX: Practica",
+          "texto": "",
+          "orientacion": "blanca",
+          "secuenciaCorrecta": [
+            "e2e4",
+            "e7e5",
+            "g1f3",
+            "b8c6",
+            "f1c4",
+            "f8c5",
+            "c2c3",
+            "g8f6",
+            "d2d3",
+            "d7d6",
+            "e1g1",
+            "c8g4",
+            "h2h3",
+            "g4h5",
+            "a2a4",
+            "a7a5",
+            "b1d2",
+            "e8g8",
+            "f1e1",
+            "d8d7",
+            "d2f1",
+            "h7h6",
+            "f1g3",
+            "h5g6"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_178637516886831",
+      "titulo": "Apertura Italiana XXXI",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "INFO",
+          "titulo": "Apertura Italiana XXXI",
+          "texto": "",
+          "mostrarTablero": true,
+          "orientacion": "negra",
+          "pgn": "{[%evp 0,12,24,15,19,27,12,8,13,32767,14,-37,-39,-158,-158] Cuando las blancas abren la partida con 1.e4, la continuación más clásica de las negras es responder de la misma manera con 1...e5:} 1. e4 e5 {La lucha central continúa después de Cf3,} 2. Nf3 {desarrollando el caballo y ejerciendo presión sobre el peón negro de e5. Así, las negras desarrollan activamente, mientras defienden el centro, con ...Cc6.} Nc6 {Ab5, conocida como la Apertura Española (Ruy López), es una de las respuestas más clásicas y consolidadas de las blancas, objeto de debate entre grandes maestros durante siglos. En este vídeo nos centraremos en otra apertura con una rica historia y una sólida base estratégica, que desarrolla el alfil de casillas claras hacia la diagonal activa a2-g8, con Ac4.} 3. Bc4 {El alfil disfruta de una diagonal activa, apuntando al punto más débil de las negras en el tablero, la casilla f7. Si las negras juegan el natural ...Cf6, conocido como la Defensa de los Dos Caballos, esto provoca increíbles complicaciones tras Cg5, aumentando la presión sobre el débil peón f7, tema de otro vídeo. Para desalentar Cg5, las negras a veces pierden tiempo con el dudoso ...h6, o desarrollan el alfil de casillas negras a la relativamente pasiva casilla e7. Ambos movimientos se contrarrestan bien atacando en el centro con d4, desarrollando una fuerte iniciativa para las blancas. Nos centraremos en la respuesta directa y sólida de las negras, ...Ac5.} Bc5 {Desarrollando activamente el alfil de casillas oscuras y luchando por el control de la casilla d4. Nótese que Cg5 no es posible, ya que esto simplemente dejaría una pieza expuesta a ...Dxg5.} {Cc3 es menos común a nivel de gran maestro, aunque con un juego adecuado observamos que ciertamente existen oportunidades para desarrollar ideas interesantes. En este punto, las blancas pueden decidir enrocar o intentar obtener mayor control central ofreciendo un peón con b4, conocido como el Gambito Evans, tema de otro video. O, en lugar de desarrollar el caballo, la casilla c3 puede usarse para preparar la expansión central, con c3:} 4. c3 {Las blancas se preparan para atacar en el centro con d4, intentando crear un poderoso centro de dos peones. Las negras suelen continuar desarrollando el caballo del flanco de rey y ejerciendo presión sobre el centro blanco con ...Cf6.} Nf6 {En lugar de defender el peón de e4, si las blancas están dispuestas a provocar complicaciones inmediatas, pueden continuar atacando en el centro con d4.} {La italiana es una apertura estratégicamente rica, y aunque c3 parece preparar d4, las blancas también pueden decidir evitar estas líneas forzadas y concretas, defendiendo el peón de e4 con d3:} 5. d3 {Muchos grandes maestros han vuelto a analizar la Apertura Italiana, especialmente porque la Defensa Berlinesa y el Ataque Marshall han causado bastantes quebraderos de cabeza a las blancas en la Apertura Española. Puede parecer extraño combinar c3 con d3. El hecho de que las blancas hayan jugado d3 no significa que d4 no siga siendo una posibilidad, y las blancas a menudo buscarán expandirse en el centro precisamente con este movimiento, una vez que hayan completado el desarrollo. Por ejemplo, después de ...d6,} d6 {Cuando el caballo estaba en c3, aprendimos cómo el enroque automático puede llevar rápidamente al desastre con un juego descuidado. Aunque el caballo en b1 parece restringido por el peón en c3, esto en realidad puede favorecer a las blancas. Hay muchas ideas que explorar, incluyendo Ab3, el inmediato Cbd2, y en este caso, las blancas pueden enrocar cómodamente.} 6. O-O {Las negras deciden clavar el caballo con ...Ag4.} {Dado que ...Ag4 es menos desafiante sin una posible amenaza de ...Cd4, a las negras les conviene retrasar la decisión sobre cómo activar esta pieza. Al igual que con las blancas, hay muchas opciones a considerar, incluyendo simplemente enrocar en el flanco de rey. Una opción interesante y popular es jugar ...a6:} a6 {Este sutil movimiento de peón permite un futuro ...Aa7, asegurando el alfil en esta diagonal deseable, especialmente si el centro se abre repentinamente. ...a6 puede apoyar un futuro ...b5, pero ...a6 también impide que el alfil blanco use la casilla b5. Esto puede permitir que las negras obtengan la pareja de alfiles en el futuro, con ...Ca5, pero con el alfil en c5, esto aún no es una amenaza, ya que las blancas pueden jugar Axf7+ jaque, seguido de un ataque doble a las dos piezas menores con b4. Mientras las negras se toman un momento para asegurar el alfil de casillas oscuras, además de movimientos como a4, las blancas pueden tomarse un momento para asegurar el alfil de casillas claras con Ab3.} 7. Bb3 {El alfil blanco permanece flexible en la diagonal a2-g8, preparándose para moverse a c2 si fuera necesario. En respuesta a Ab3, las negras pueden optar por enrocar o, primero, mover el alfil a su posición favorita en a7.} Ba7 {Este movimiento puede parecer un poco extraño, pero el alfil permanece activo en la diagonal, a la vez que se siente un poco más seguro que en c5. Si las blancas finalmente juegan d4, lo cual suele ocurrir, esto ya no ataca al alfil de casillas oscuras, lo que le da a las negras mayor flexibilidad para manejar el centro. La apertura italiana es increíblemente sutil, con una cantidad aparentemente infinita de secuencias de movimientos disponibles para ambos bandos. Veamos una línea común, comenzando con Cbd2:} 8. Nbd2 {Ya hemos visto esta maniobra del caballo antes (Cf1, Cg3) y es una idea común a tener en cuenta. Tras el enroque de las negras, es posible jugar Te1, pero el caballo negro puede unirse a la presión del alfil de casillas negras sobre f2 con ...Cg4. La torre puede moverse a e2 con una posición perfectamente razonable, pero las blancas también pueden evitar esta posibilidad jugando primero h3.} O-O 9. h3 {Las negras pueden responder de la misma manera, con ...h6,} h6 {Las Blancas continúan como se esperaba, con Te1,} 10. Re1 {apoyando el centro, mientras despeja la casilla f1 para la típica maniobra del caballo de las blancas. Las negras tienen una variedad de opciones que vale la pena explorar, incluyendo enfrentar inmediatamente al alfil de casillas claras de las blancas con ...Ae6, intensificando la lucha por el centro. Preparar esto con ...Te8, seguido de ...Ae6, es una forma sólida de continuar. Enfocarse en el control central es una gran idea, pero las negras también pueden enfocarse en el flanco de rey con la interesante opción ...Ch5,} Nh5 {Observando las casillas f4 y g3. h3 ha debilitado la casilla g3, así que observe que g3 sería un error garrafal, no solo porque deja el peón colgado en h3. Las negras pueden simplemente jugar ...Cxg3, aprovechando el peón clavado en f2. Mover el caballo a h5 deja temporalmente suelta esta pieza, y como está alineada con la dama blanca, es importante entender qué sucede si las blancas juegan Cxe5:} 11. Nxe5 {capturando un peón, al tiempo que revela la presión de la dama sobre el caballo indefenso. Esto resulta ser un grave error, ya que las negras pueden jugar ...Dh4.} Qh4 {No olvides el alfil negro escondido en a7. Se une a la dama para atacar la casilla f2. Las blancas no pueden defender al caballo amenazado en e5, así como al peón de f2, por lo que Cxc6,} 12. Nxc6 {Se responde bien con ...Dxf2+, jaque.} Qxf2+ {Las negras recuperan la pieza con ...bxc6, y entonces el flanco de rey de las blancas, ya fracturado, queda sometido a una presión enorme.} *"
+        }
+      ]
+    },
+    {
+      "id": "l_178637516886832",
+      "titulo": "Apertura Italiana XXXII: Practica",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Apertura Italiana XXXII: Practica",
+          "texto": "",
+          "orientacion": "blanca",
+          "secuenciaCorrecta": [
+            "e2e4",
+            "e7e5",
+            "g1f3",
+            "b8c6",
+            "f1c4",
+            "f8c5",
+            "c2c3",
+            "g8f6",
+            "d2d3",
+            "d7d6",
+            "e1g1",
+            "a7a6",
+            "c4b3",
+            "c5a7",
+            "b1d2",
+            "e8g8",
+            "h2h3",
+            "h7h6",
+            "f1e1",
+            "f6h5",
+            "f3e5",
+            "d8h4",
+            "e5c6",
+            "h4f2"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_178637516886933",
+      "titulo": "Apertura Italiana XXXIII",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "INFO",
+          "titulo": "Apertura Italiana XXXIII",
+          "texto": "",
+          "mostrarTablero": true,
+          "orientacion": "blanca",
+          "pgn": "{[%evp 0,12,24,15,19,27,12,8,13,32767,14,-37,-39,-158,-158] Cuando las blancas abren la partida con 1.e4, la continuación más clásica de las negras es responder de la misma manera con 1...e5:} 1. e4 e5 {La lucha central continúa después de Cf3,} 2. Nf3 {desarrollando el caballo y ejerciendo presión sobre el peón negro de e5. Así, las negras desarrollan activamente, mientras defienden el centro, con ...Cc6.} Nc6 {Ab5, conocida como la Apertura Española (Ruy López), es una de las respuestas más clásicas y consolidadas de las blancas, objeto de debate entre grandes maestros durante siglos. En este vídeo nos centraremos en otra apertura con una rica historia y una sólida base estratégica, que desarrolla el alfil de casillas claras hacia la diagonal activa a2-g8, con Ac4.} 3. Bc4 {El alfil disfruta de una diagonal activa, apuntando al punto más débil de las negras en el tablero, la casilla f7. Si las negras juegan el natural ...Cf6, conocido como la Defensa de los Dos Caballos, esto provoca increíbles complicaciones tras Cg5, aumentando la presión sobre el débil peón f7, tema de otro vídeo. Para desalentar Cg5, las negras a veces pierden tiempo con el dudoso ...h6, o desarrollan el alfil de casillas negras a la relativamente pasiva casilla e7. Ambos movimientos se contrarrestan bien atacando en el centro con d4, desarrollando una fuerte iniciativa para las blancas. Nos centraremos en la respuesta directa y sólida de las negras, ...Ac5.} Bc5 {Desarrollando activamente el alfil de casillas oscuras y luchando por el control de la casilla d4. Nótese que Cg5 no es posible, ya que esto simplemente dejaría una pieza expuesta a ...Dxg5.} {Cc3 es menos común a nivel de gran maestro, aunque con un juego adecuado observamos que ciertamente existen oportunidades para desarrollar ideas interesantes. En este punto, las blancas pueden decidir enrocar o intentar obtener mayor control central ofreciendo un peón con b4, conocido como el Gambito Evans, tema de otro video. O, en lugar de desarrollar el caballo, la casilla c3 puede usarse para preparar la expansión central, con c3:} 4. c3 {Las blancas se preparan para atacar en el centro con d4, intentando crear un poderoso centro de dos peones. Las negras suelen continuar desarrollando el caballo del flanco de rey y ejerciendo presión sobre el centro blanco con ...Cf6.} Nf6 {En lugar de defender el peón de e4, si las blancas están dispuestas a provocar complicaciones inmediatas, pueden continuar atacando en el centro con d4.} {La italiana es una apertura estratégicamente rica, y aunque c3 parece preparar d4, las blancas también pueden decidir evitar estas líneas forzadas y concretas, defendiendo el peón de e4 con d3:} 5. d3 {Muchos grandes maestros han vuelto a analizar la Apertura Italiana, especialmente porque la Defensa Berlinesa y el Ataque Marshall han causado bastantes quebraderos de cabeza a las blancas en la Apertura Española. Puede parecer extraño combinar c3 con d3. El hecho de que las blancas hayan jugado d3 no significa que d4 no siga siendo una posibilidad, y las blancas a menudo buscarán expandirse en el centro precisamente con este movimiento, una vez que hayan completado el desarrollo. Por ejemplo, después de ...d6,} d6 {Cuando el caballo estaba en c3, aprendimos cómo el enroque automático puede llevar rápidamente al desastre con un juego descuidado. Aunque el caballo en b1 parece restringido por el peón en c3, esto en realidad puede favorecer a las blancas. Hay muchas ideas que explorar, incluyendo Ab3, el inmediato Cbd2, y en este caso, las blancas pueden enrocar cómodamente.} 6. O-O {Las negras deciden clavar el caballo, con ... Ag4.} {Dado que ...Ag4 es menos desafiante sin una posible amenaza de ...Cd4, a las negras les conviene retrasar la decisión sobre cómo activar esta pieza. Al igual que con las blancas, hay muchas opciones a considerar, incluyendo simplemente enrocar en el flanco de rey. Una opción interesante y popular es jugar ...a6:} a6 {Este sutil movimiento de peón permite un futuro ...Aa7, asegurando el alfil en esta diagonal deseable, especialmente si el centro se abre repentinamente. ...a6 puede apoyar un futuro ...b5, pero ...a6 también impide que el alfil blanco use la casilla b5. Esto puede permitir que las negras obtengan la pareja de alfiles en el futuro, con ...Ca5, pero con el alfil en c5, esto aún no es una amenaza, ya que las blancas pueden jugar Axf7+ jaque, seguido de un ataque doble a las dos piezas menores con b4. Mientras las negras se toman un momento para asegurar el alfil de casillas oscuras, además de movimientos como a4, las blancas pueden tomarse un momento para asegurar el alfil de casillas claras con Ab3.} 7. Bb3 {El alfil blanco permanece flexible en la diagonal a2-g8, preparándose para moverse a c2 si fuera necesario. En respuesta a Ab3, las negras pueden optar por enrocar o, primero, mover el alfil a su posición favorita en a7.} Ba7 {Este movimiento puede parecer un poco extraño, pero el alfil permanece activo en la diagonal, a la vez que se siente un poco más seguro que en c5. Si las blancas finalmente juegan d4, lo cual suele ocurrir, esto ya no ataca al alfil de casillas oscuras, lo que le da a las negras mayor flexibilidad para manejar el centro. La apertura italiana es increíblemente sutil, con una cantidad aparentemente infinita de secuencias de movimientos disponibles para ambos bandos. Veamos una línea común, comenzando con Cbd2:} 8. Nbd2 {Ya hemos visto esta maniobra del caballo antes (Cf1, Cg3) y es una idea común a tener en cuenta. Tras el enroque de las negras, es posible jugar Te1, pero el caballo negro puede unirse a la presión del alfil de casillas negras sobre f2 con ...Cg4. La torre puede moverse a e2 con una posición perfectamente razonable, pero las blancas también pueden evitar esta posibilidad jugando primero h3.} O-O 9. h3 {Las negras pueden responder de la misma manera, con ...h6} h6 {Las Blancas continúan como se esperaba, con Te1,} 10. Re1 {apoyando el centro, mientras despeja la casilla f1 para la típica maniobra del caballo de las blancas. Las negras tienen una variedad de opciones que vale la pena explorar, incluyendo enfrentar inmediatamente al alfil de casillas claras de las blancas con ...Ae6, intensificando la lucha por el centro. Preparar esto con ...Te8, seguido de ...Ae6, es una forma sólida de continuar. Enfocarse en el control central es una gran idea, pero las negras también pueden enfocarse en el flanco de rey con la interesante opción ...Ch5,} Nh5 {Observando las casillas f4 y g3. h3 ha debilitado la casilla g3, así que observe que g3 sería un error garrafal, no solo porque deja el peón colgado en h3. Las negras pueden simplemente jugar ...Cxg3, aprovechando el peón clavado en f2. Mover el caballo a h5 deja temporalmente suelta esta pieza, y como está alineada con la dama blanca, es importante entender qué sucede si las blancas juegan Cxe5:} {Dado que la ambiciosa jugada Cxe5 resulta contraproducente para las blancas, una opción más sensata es Cf1.} 11. Nf1 {Observe cómo el caballo en h5 restringe el plan típico de Cg3 por el momento. En algunos casos, el caballo puede moverse a h2, apoyando al otro caballo, además de observar la casilla g4. El caballo también ayuda a apoyar Ae3, que veremos en un momento. El caballo negro en h5 no quiere permanecer en la casilla para siempre, a menudo preparándose para saltar a la casilla f4. Vemos estas ideas en acción después de la continuación típica de las negras, ...Df6,} Qf6 {Apoyando el centro, mientras prepara ...Cf4. Las blancas continúan desarrollando y luchan por el control central con Ae3.} 12. Be3 {El caballo de las negras invade territorio enemigo, con ...Cf4,} Nf4 {Las blancas tienen varias opciones, incluyendo el típico Cg3. A veces las blancas juegan Rh2, apoyando el peón de h3 mientras dejan libre la casilla g1 para que otras piezas la utilicen. La continuación más directa de las blancas es d4,} 13. d4 {expandiéndose en el centro, mientras aumenta la tensión contra el peón de e5. Dado que la dama negra apoya e5, esto permite a las negras jugar la maniobra instructiva, ...Ce7,} Ne7 14. Ng3 {y entonces las negras también completan una maniobra de caballo útil, con ...Ceg6,} Neg6 {Apoyando el centro, el otro caballo en f4, y posiblemente considerando un futuro ...Ch4 si resulta conveniente ofrecer un intercambio de caballos. Las blancas pueden ganar más espacio en el flanco de dama con a4. Pero otra opción instructiva es Ac2:} 15. Bc2 {Puede parecer extraño mover este alfil a una diagonal aparentemente menos activa, pero cumple una función importante. El alfil apoya el centro, así como un futuro Cf5, aumentando la presión sobre el flanco de rey de las negras. Esta es una posición típica de la Apertura Italiana, llena de tensión entre piezas. De hecho, estamos en la jugada 15, sin que se haya capturado ni un solo peón ni pieza hasta el momento. Las negras pueden realizar mejoras discretas, como ...Te8, apoyando el centro, o atacar la disputada casilla d4 con ...c5. En este caso, las blancas pueden ganar más espacio central con d5, permitiendo a las negras reclamar espacio en el flanco de dama con ...c4, preparando el escenario para una tensa lucha posicional. Como ocurre con muchas variantes tranquilas de la Apertura Italiana, las blancas disfrutan de una partida ligeramente más cómoda, pero la posición de las negras se mantiene sólida, con muchas posibilidades para ambos bandos.} *"
+        }
+      ]
+    },
+    {
+      "id": "l_178637516886934",
+      "titulo": "Apertura Italiana XXXIV: Practica",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Apertura Italiana XXXIV: Practica",
+          "texto": "",
+          "orientacion": "blanca",
+          "secuenciaCorrecta": [
+            "e2e4",
+            "e7e5",
+            "g1f3",
+            "b8c6",
+            "f1c4",
+            "f8c5",
+            "c2c3",
+            "g8f6",
+            "d2d3",
+            "d7d6",
+            "e1g1",
+            "a7a6",
+            "c4b3",
+            "c5a7",
+            "b1d2",
+            "e8g8",
+            "h2h3",
+            "h7h6",
+            "f1e1",
+            "f6h5",
+            "d2f1",
+            "d8f6",
+            "c1e3",
+            "h5f4",
+            "d3d4",
+            "c6e7",
+            "f1g3",
+            "e7g6",
+            "b3c2"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_178637516887335",
+      "titulo": "Apertura Italiana: Ejercicio I",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Apertura Italiana: Ejercicio I",
+          "texto": "La amenaza de las blancas a f7 es ineficaz en esta posición. ¿Cómo deberían defenderse las negras y lograr una buena partida?",
+          "orientacion": "negra",
+          "fen": "r1bqk2r/pppp1ppp/2n2n2/2b1p1N1/2B1P3/3P4/PPP2PPP/RNBQK2R b KQkq - 0 5",
+          "secuenciaCorrecta": [
+            "e8g8",
+            "g5f7",
+            "f8f7",
+            "c4f7",
+            "g8f7"
+          ],
+          "comentariosMovimiento": [
+            "¡Buen comienzo! Las Blancas capturan en f7 de todos modos. ¿Cómo deberían responder las negras?",
+            "¡Correcto! ¿Qué sigue?",
+            "¡Buen trabajo! El rey negro está ligeramente expuesto, pero las blancas no tienen piezas desarrolladas y las negras tienen una excelente posición."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_178637516888136",
+      "titulo": "Apertura Italiana: Ejercicio II",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Apertura Italiana: Ejercicio II",
+          "texto": "Las blancas han elegido un mal momento para enrocar y las negras pueden lanzar un fuerte ataque. ¿Cómo deberían hacerlo?",
+          "orientacion": "negra",
+          "fen": "r2qk2r/ppp2ppp/2np1n2/2b1p1B1/2B1P1b1/2NP1N2/PPP2PPP/R2Q1RK1 b kq - 0 7",
+          "secuenciaCorrecta": [
+            "c6d4",
+            "c3d5",
+            "c7c6",
+            "d5e3",
+            "d4f3",
+            "g2f3",
+            "g4h3"
+          ],
+          "comentariosMovimiento": [
+            "",
+            "",
+            "",
+            "¡Bien jugado! Las blancas tendrán dificultades para defender al rey expuesto y las negras buscarán un jaque mate rápido si la dama logra llegar a g2."
+          ],
+          "comentariosRival": [
+            "¡Buena decisión! Las blancas intentaron copiar la idea de las negras, pero las negras aún no han enrocado, por lo que los peones doblados no son un problema. ¿Qué deberían jugar las negras?",
+            "¡Buena idea! ¿Cómo deberías exponer al rey blanco?",
+            "El flanco de rey de las blancas está expuesto. ¿Cómo deberías aprovecharlo?"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_178637516888137",
+      "titulo": "Apertura Italiana: Ejercicio III",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Apertura Italiana: Ejercicio III",
+          "texto": "Las negras tienen un ataque peligroso, pero el alfil blanco bloquea la columna g. ¿Qué deberías hacer al respecto?",
+          "orientacion": "negra",
+          "fen": "r2qk1r1/pp3p1p/2pp1p2/2b1p3/2B1P3/3P1PBb/PPP2P1P/R2QR1K1 b q - 0 13",
+          "secuenciaCorrecta": [
+            "h7h5",
+            "g1h1",
+            "h5h4",
+            "g3h4",
+            "h3g2",
+            "h1g1",
+            "g2f3",
+            "g1f1",
+            "f3d1"
+          ],
+          "comentariosMovimiento": [
+            "",
+            "",
+            "",
+            "",
+            "¡Bien jugado! Este es el tipo de problema que las clavadas en f3 o f6 pueden causar a cualquiera de los bandos."
+          ],
+          "comentariosRival": [
+            "¡Buen comienzo! ¿Cómo deberías continuar el ataque?",
+            "Las blancas habrían estado mejor sacrificando el alfil de g3. Ahora las negras pueden ganar la dama blanca. ¿Cómo?",
+            "¡Buen movimiento! ¿Cómo deberías continuar el ataque?",
+            "¡Sigue así! ¿Cómo se puede ganar material?"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_178637516889238",
+      "titulo": "Apertura Italiana: Ejercicio IV",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Apertura Italiana: Ejercicio IV",
+          "texto": "Clavar un caballo en el flanco de rey rara vez resulta ventajoso antes de que el oponente haya enrocado. ¿Cómo puede el negro sacar provecho del alfil mal colocado en h4?",
+          "orientacion": "negra",
+          "fen": "r1bqk2r/ppp2pp1/2np1n1p/2b1p3/2B1P2B/2NP1N2/PPP2PPP/R2QK2R b KQkq - 0 7",
+          "secuenciaCorrecta": [
+            "g7g5",
+            "f3g5",
+            "h6g5",
+            "h4g5",
+            "h8g8",
+            "h2h4",
+            "c5b4"
+          ],
+          "comentariosMovimiento": [
+            "",
+            "",
+            "",
+            "¡Buen trabajo! Las blancas no podrán aprovechar la clavada en f6. Eventualmente, las negras deberían convertir la ventaja material en una victoria."
+          ],
+          "comentariosRival": [
+            "Las blancas deberían haber retirado el alfil a g3, cuando era posible. El sacrificio de caballo de las blancas parece aterrador, pero las negras pueden refutarlo. ¿Cómo?",
+            "¡Buena elección! ¿Qué deberías hacer con la clavada en f6?",
+            "¡Buena jugada! ¿Cómo se puede evitar que las blancas ejerzan más presión sobre el caballo clavado en f6?"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_178637516889839",
+      "titulo": "Apertura Italiana: Ejercicio V",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Apertura Italiana: Ejercicio V",
+          "texto": "El gran centro de peones de las blancas amenaza con apoderarse del juego, pero las negras tienen un buen recurso defensivo. ¿Qué deberías jugar?",
+          "orientacion": "negra",
+          "fen": "r1bqk2r/pppp1ppp/2n2n2/2b1p3/2BPP3/2P2N2/PP3PPP/RNBQK2R b KQkq - 0 5",
+          "secuenciaCorrecta": [
+            "e5d4",
+            "c3d4",
+            "c5b4",
+            "b1c3",
+            "f6e4"
+          ],
+          "comentariosMovimiento": [
+            "",
+            "",
+            "¡Buen trabajo! Con un juego cuidadoso por parte de las negras, a las blancas les puede resultar difícil demostrar una compensación suficiente por el peón sacrificado."
+          ],
+          "comentariosRival": [
+            "¡Buena idea! ¿Cómo deberías salvar a tu Alfil?",
+            "La Cc3 de las blancas fue una decisión arriesgada. ¿Cómo pueden las negras ganar material?"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_178637516890140",
+      "titulo": "Apertura Italiana: Ejercicio VI",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Apertura Italiana: Ejercicio VI",
+          "texto": "El caballo negro en e4 es vulnerable a un ataque. ¿Cómo debería aprovecharlo el blanco?",
+          "orientacion": "blanca",
+          "fen": "r1bqk2r/pppp1ppp/2n5/2b1P3/2Bpn3/2P2N2/PP3PPP/RNBQK2R w KQkq - 0 7",
+          "secuenciaCorrecta": [
+            "c4d5",
+            "f7f5",
+            "c3d4"
+          ],
+          "comentariosMovimiento": [
+            "",
+            "¡Buen trabajo! El blanco tiene un centro dominante y un rey más seguro."
+          ],
+          "comentariosRival": [
+            "¡Buena jugada! La única forma en que las negras pueden defender al caballo es impidiendo que este enroque. ¿Cómo deberían las blancas tomar el control del centro?"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_178637516890341",
+      "titulo": "Apertura Italiana: Ejercicio VII",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Apertura Italiana: Ejercicio VII",
+          "texto": "¿Cómo deberían las negras impedir que las blancas dominen el centro?",
+          "orientacion": "negra",
+          "fen": "r1bqk2r/pppp1ppp/2n5/8/2BPn3/2P2N2/P4PPP/R1BQ1RK1 b kq - 0 9",
+          "secuenciaCorrecta": [
+            "d7d5"
+          ],
+          "comentariosMovimiento": [
+            "¡Gran jugada! Si las negras pueden jugar el avance temático d5, normalmente a las blancas les resulta difícil compensar el material sacrificado."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_178637516890842",
+      "titulo": "Apertura Italiana: Ejercicio VIII",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Apertura Italiana: Ejercicio VIII",
+          "texto": "Las negras han capturado demasiados peones y las blancas pueden ganar material. ¿Cómo deberías hacerlo?",
+          "orientacion": "blanca",
+          "fen": "r1bqk2r/pppp1ppp/2n5/8/2BP4/2n2N2/P4PPP/R1BQ1RK1 w kq - 0 10",
+          "secuenciaCorrecta": [
+            "d1e1",
+            "c6e7",
+            "e1c3"
+          ],
+          "comentariosMovimiento": [
+            "",
+            "¡Bien hecho! Las blancas ganan material y deberían ganar la partida."
+          ],
+          "comentariosRival": [
+            "¡Excelente jugada! ¿Qué sigue?"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_178637516891043",
+      "titulo": "Apertura Italiana: Ejercicio IX",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Apertura Italiana: Ejercicio IX",
+          "texto": "Las negras han sido imprudentes y las blancas pueden ganar material. ¿Cómo?",
+          "orientacion": "blanca",
+          "fen": "r2q1rk1/ppp2ppp/2np1n2/2b1p2b/P1B1P3/2PP1N1P/1P3PP1/RNBQ1RK1 w - - 0 9",
+          "secuenciaCorrecta": [
+            "b2b4",
+            "c5b6",
+            "a4a5"
+          ],
+          "comentariosMovimiento": [
+            "",
+            "¡Excelente trabajo! Las negras no tienen forma de salvar al alfil y las blancas ganarán material."
+          ],
+          "comentariosRival": [
+            "¡Buen comienzo! ¿Qué sigue?"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_178637516892344",
+      "titulo": "Apertura Italiana: Ejercicio X",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Apertura Italiana: Ejercicio X",
+          "texto": "¿Cómo justificó Gioachino Greco, el primer gran maestro de la Apertura Italiana, sus inmensos sacrificios materiales?",
+          "orientacion": "blanca",
+          "fen": "r1bqk2r/pppp1ppp/2n5/8/2BP4/1Q3N2/P4PPP/b1B2RK1 w kq - 0 11",
+          "secuenciaCorrecta": [
+            "c4f7",
+            "e8f8",
+            "c1g5",
+            "c6e7",
+            "f3e5",
+            "a1d4",
+            "f7g6",
+            "d7d5",
+            "b3f3",
+            "c8f5",
+            "g6f5",
+            "d4e5",
+            "f5e6",
+            "e5f6",
+            "g5f6",
+            "f8e8",
+            "f6g7"
+          ],
+          "comentariosMovimiento": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "¡Bien hecho! Las negras se rindieron en Greco - NN, 1620. No hay una buena defensa contra el ataque de mate de las blancas."
+          ],
+          "comentariosRival": [
+            "¡Buena jugada! ¿Cómo deberías mantener el ataque?",
+            "¡Buen trabajo! ¿Cómo logró Greco seguir incorporando piezas al ataque del flanco de rey?",
+            "Las negras ganan más material, pero el ataque de las blancas es imparable. ¿Cómo se debe amenazar con jaque mate?",
+            "¡Buena idea! ¿Cómo deberías mantener el ataque?",
+            "Los sacrificios de las negras no prolongarán la partida por mucho tiempo. ¿Cómo debes ganar material y prepararte para dar jaque mate?",
+            "¡Gran movimiento! Sólo hay un movimiento ganador. Greco lo encontró. ¿Puedes?",
+            "¡Gran idea! ¿Qué sigue?",
+            "¡Buena jugada! ¿Qué jugó Greco para forzar el jaque mate y convencer a su oponente de que se rindiera?"
+          ]
+        }
+      ]
+    }
+  ]
+}
