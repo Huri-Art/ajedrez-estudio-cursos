@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "actualizado": "2026-09-24",
+  "actualizado": "2026-09-25",
   "cursos": [
     {
       "id": "c_1774042840347",
@@ -8,7 +8,7 @@
       "descripcion": "Un curso para Intermedios",
       "imagenUrl": "https://assets-courses.chess.com/image/courses/291847_course_square_opt.jpeg",
       "version": 1,
-      "bundleUrl": "cursos/Kit-inter.json"
+      "bundleUrl": "cursos/1_Kit-inter.json"
     },
     {
       "id": "c_1777914602329",
@@ -16,23 +16,7 @@
       "descripcion": "Un metodo de ajedrez para Jaquetones!",
       "imagenUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4pH5_aHWAM0gj9NznUAG9mthKCTchY1dnHXNw2x1JU-i2qozA",
       "version": 1,
-      "bundleUrl": "cursos/Enigma.json"
-    },
-    {
-      "id": "c_1778114275285",
-      "titulo": "Bobby Fisher enseña a jugar Ajedrez Parte 2",
-      "descripcion": "Capitulo 2 del curso para principiantes",
-      "imagenUrl": "https://imgv2-1-f.scribdassets.com/img/document/250052576/original/78cefe5a94/1?v=1",
-      "version": 1,
-      "bundleUrl": "cursos/Bobby-teach2.json"
-    },
-    {
-      "id": "c_1779925430318",
-      "titulo": "Bobby Fisher enseña a jugar Ajedrez Parte 3",
-      "descripcion": "Capitulo 3 del curso para principiantes",
-      "imagenUrl": "https://imgv2-1-f.scribdassets.com/img/document/250052576/original/78cefe5a94/1?v=1",
-      "version": 1,
-      "bundleUrl": "cursos/Bobby-teach3.json"
+      "bundleUrl": "cursos/2_Enigma.json"
     },
     {
       "id": "c_1778515669205",
@@ -43,12 +27,28 @@
       "bundleUrl": "cursos/3-Finales-peones-C.json"
     },
     {
+      "id": "c_1778114275285",
+      "titulo": "Bobby Fisher enseña a jugar Ajedrez Parte 2",
+      "descripcion": "Capitulo 2 del curso para principiantes",
+      "imagenUrl": "https://imgv2-1-f.scribdassets.com/img/document/250052576/original/78cefe5a94/1?v=1",
+      "version": 1,
+      "bundleUrl": "cursos/4_Bobby-teach2.json"
+    },
+    {
+      "id": "c_1779925430318",
+      "titulo": "Bobby Fisher enseña a jugar Ajedrez Parte 3",
+      "descripcion": "Capitulo 3 del curso para principiantes",
+      "imagenUrl": "https://imgv2-1-f.scribdassets.com/img/document/250052576/original/78cefe5a94/1?v=1",
+      "version": 1,
+      "bundleUrl": "cursos/5_Bobby-teach3.json"
+    },
+    {
       "id": "c_1778516802217",
       "titulo": "1001 Sacrificios y Combinaciones Ganadoras de Ajedrez",
       "descripcion": "Libro clásico de táctica escrito por el reconocido autor Fred Reinfeld",
       "imagenUrl": "https://m.media-amazon.com/images/I/61FFVT10HjL._AC_UF1000,1000_QL80_.jpg",
       "version": 1,
-      "bundleUrl": "cursos/1001WCC.json"
+      "bundleUrl": "cursos/6_1001WCC.json"
     },
     {
       "id": "c_1780082111134",
@@ -56,15 +56,7 @@
       "descripcion": "Sistema intensivo de entrenamiento de ajedrez, creado por los Grandes Maestros Axel Smith y Hans Tikkanen. Consiste en resolver repetidamente una gran selección de problemas tácticos.",
       "imagenUrl": "https://imgv2-2-f.scribdassets.com/img/document/882244415/original/1f4cfbce5a/1?v=1",
       "version": 1,
-      "bundleUrl": "cursos/Metodo-Carpintero.json"
-    },
-    {
-      "id": "c_1786375168645",
-      "titulo": "50 lecciones de Apertura Parte 1: Italiana",
-      "descripcion": "Conoce la apertura Italiana por parte del equipo de Chess.com",
-      "imagenUrl": "https://images.chesscomfiles.com/uploads/v1/lesson_course/4f91031a-5171-11ed-a210-a9719cdde07d.4e781735.728x410o.bf2954b2ebbf.png",
-      "version": 1,
-      "bundleUrl": "cursos/50_Lec_Apertura_1.json"
+      "bundleUrl": "cursos/7_Metodo-Carpintero.json"
     },
     {
       "id": "c_1778520788196",
@@ -72,7 +64,15 @@
       "descripcion": "En este curso completo aprenderás la combinación de dos de las defensas más interesantes contra peón dama: la nimzoindia y la india de dama",
       "imagenUrl": "https://www.chessenigma.com/wp-content/uploads/2024/12/miguelindia-enigmatica-miguel-santos.webp",
       "version": 1,
-      "bundleUrl": "cursos/MiguelIndia.json"
+      "bundleUrl": "cursos/8_MiguelIndia.json"
+    },
+    {
+      "id": "c_1786375168645",
+      "titulo": "50 lecciones de Apertura Parte 1: Italiana",
+      "descripcion": "Conoce la apertura Italiana por parte del equipo de Chess.com",
+      "imagenUrl": "https://images.chesscomfiles.com/uploads/v1/lesson_course/4f91031a-5171-11ed-a210-a9719cdde07d.4e781735.728x410o.bf2954b2ebbf.png",
+      "version": 1,
+      "bundleUrl": "cursos/9_50Lec_Apertura_1.json"
     },
     {
       "id": "c_1790308935833",
@@ -81,6 +81,86 @@
       "imagenUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUBlKG4Ys6kGZEQFvRvIR1tRT8O4CQ3S2gmv8aFQN6wFKae1gqnGVCRzs&s=10",
       "version": 1,
       "bundleUrl": "cursos/10_Finales_Rui_Grafino_LC.json"
+    },
+    {
+      "id": "c_fpeones_01",
+      "titulo": "Finales de Peones Parte I - Lucas Chess",
+      "descripcion": "Rey y peón contra rey (KPK). Juega y gana contra la máquina · 581 posiciones.",
+      "imagenUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUBlKG4Ys6kGZEQFvRvIR1tRT8O4CQ3S2gmv8aFQN6wFKae1gqnGVCRzs&s=10",
+      "version": 1,
+      "bundleUrl": "cursos/11_Finales_Peones_01_KPK.json"
+    },
+    {
+      "id": "c_fpeones_02",
+      "titulo": "Finales de Peones Parte II - Lucas Chess",
+      "descripcion": "Rey y peón contra rey y peón (KPKP). Juega y gana contra la máquina · 545 posiciones.",
+      "imagenUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUBlKG4Ys6kGZEQFvRvIR1tRT8O4CQ3S2gmv8aFQN6wFKae1gqnGVCRzs&s=10",
+      "version": 1,
+      "bundleUrl": "cursos/12_Finales_Peones_02_KPKP.json"
+    },
+    {
+      "id": "c_fpeones_03",
+      "titulo": "Finales de Peones Parte III - Lucas Chess",
+      "descripcion": "Rey y dos peones contra rey (KPPK). Juega y gana contra la máquina · 129 posiciones.",
+      "imagenUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUBlKG4Ys6kGZEQFvRvIR1tRT8O4CQ3S2gmv8aFQN6wFKae1gqnGVCRzs&s=10",
+      "version": 1,
+      "bundleUrl": "cursos/13_Finales_Peones_03_KPPK.json"
+    },
+    {
+      "id": "c_fpeones_04",
+      "titulo": "Finales de Peones Parte IV - Lucas Chess",
+      "descripcion": "Rey y dos peones contra rey y peón (KPPKP). Juega y gana contra la máquina · 990 posiciones.",
+      "imagenUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUBlKG4Ys6kGZEQFvRvIR1tRT8O4CQ3S2gmv8aFQN6wFKae1gqnGVCRzs&s=10",
+      "version": 1,
+      "bundleUrl": "cursos/14_Finales_Peones_04_KPPKP.json"
+    },
+    {
+      "id": "c_fpeones_05",
+      "titulo": "Finales de Peones Parte V - Lucas Chess",
+      "descripcion": "Rey y dos peones contra rey y dos peones (KPPKPP). Juega y gana contra la máquina · 724 posiciones.",
+      "imagenUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUBlKG4Ys6kGZEQFvRvIR1tRT8O4CQ3S2gmv8aFQN6wFKae1gqnGVCRzs&s=10",
+      "version": 1,
+      "bundleUrl": "cursos/15_Finales_Peones_05_KPPKPP.json"
+    },
+    {
+      "id": "c_fpeones_06",
+      "titulo": "Finales de Peones Parte VI - Lucas Chess",
+      "descripcion": "Rey y dos peones contra rey y tres peones (KPPKPPP). Juega y gana contra la máquina · 115 posiciones.",
+      "imagenUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUBlKG4Ys6kGZEQFvRvIR1tRT8O4CQ3S2gmv8aFQN6wFKae1gqnGVCRzs&s=10",
+      "version": 1,
+      "bundleUrl": "cursos/16_Finales_Peones_06_KPPKPPP.json"
+    },
+    {
+      "id": "c_fpeones_07",
+      "titulo": "Finales de Peones Parte VII - Lucas Chess",
+      "descripcion": "Rey y tres peones contra rey y peón (KPPPKP). Juega y gana contra la máquina · 166 posiciones.",
+      "imagenUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUBlKG4Ys6kGZEQFvRvIR1tRT8O4CQ3S2gmv8aFQN6wFKae1gqnGVCRzs&s=10",
+      "version": 1,
+      "bundleUrl": "cursos/17_Finales_Peones_07_KPPPKP.json"
+    },
+    {
+      "id": "c_fpeones_08",
+      "titulo": "Finales de Peones Parte VIII - Lucas Chess",
+      "descripcion": "Rey y tres peones contra rey y dos peones (KPPPKPP). Juega y gana contra la máquina · 593 posiciones.",
+      "imagenUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUBlKG4Ys6kGZEQFvRvIR1tRT8O4CQ3S2gmv8aFQN6wFKae1gqnGVCRzs&s=10",
+      "version": 1,
+      "bundleUrl": "cursos/18_Finales_Peones_08_KPPPKPP.json"
+    },
+    {
+      "id": "c_fpeones_09",
+      "titulo": "Finales de Peones Parte IX - Lucas Chess",
+      "descripcion": "Rey y tres peones contra rey y tres peones (KPPPKPPP). Juega y gana contra la máquina · 287 posiciones.",
+      "imagenUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUBlKG4Ys6kGZEQFvRvIR1tRT8O4CQ3S2gmv8aFQN6wFKae1gqnGVCRzs&s=10",
+      "version": 1,
+      "bundleUrl": "cursos/19_Finales_Peones_09_KPPPKPPP.json"
+    },
+    {
+      "id": "c_fpeones_10",
+      "titulo": "Finales de Peones Parte X - Lucas Chess",
+      "descripcion": "Rey y cuatro peones contra rey y tres peones (KPPPPKPPP). Juega y gana contra la máquina · 187 posiciones.",
+      "imagenUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUBlKG4Ys6kGZEQFvRvIR1tRT8O4CQ3S2gmv8aFQN6wFKae1gqnGVCRzs&s=10",
+      "version": 1,
+      "bundleUrl": "cursos/20_Finales_Peones_10_KPPPPKPPP.json"
     }
   ]
 }
