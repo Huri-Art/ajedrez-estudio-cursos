@@ -1,0 +1,1848 @@
+{
+  "id": "c_fpeones_06",
+  "titulo": "Finales de Peones Parte VI - Lucas Chess",
+  "descripcion": "Rey y dos peones contra rey y tres peones (KPPKPPP). Juega y gana contra la máquina · 115 posiciones.",
+  "imagenUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUBlKG4Ys6kGZEQFvRvIR1tRT8O4CQ3S2gmv8aFQN6wFKae1gqnGVCRzs&s=10",
+  "lecciones": [
+    {
+      "id": "kppkppp_1",
+      "titulo": "KPPKPPP 1",
+      "descripcion": "Juegan Blancas y ganan",
+      "segmentos": [
+        {
+          "tipo": "VSPC",
+          "titulo": "KPPKPPP 1",
+          "texto": "Juegan Blancas y ganan",
+          "fen": "k7/8/1p3P1p/8/1K5P/4p3/8/8 w - - 0 73",
+          "orientacion": "blanca",
+          "colorAlumno": "white",
+          "condicion": "ganar"
+        }
+      ]
+    },
+    {
+      "id": "kppkppp_2",
+      "titulo": "KPPKPPP 2",
+      "descripcion": "Juegan Negras y ganan",
+      "segmentos": [
+        {
+          "tipo": "VSPC",
+          "titulo": "KPPKPPP 2",
+          "texto": "Juegan Negras y ganan",
+          "fen": "8/8/3k2P1/7K/Pp6/1p4P1/8/8 b - - 0 54",
+          "orientacion": "negra",
+          "colorAlumno": "black",
+          "condicion": "ganar"
+        }
+      ]
+    },
+    {
+      "id": "kppkppp_3",
+      "titulo": "KPPKPPP 3",
+      "descripcion": "Juegan Negras y ganan",
+      "segmentos": [
+        {
+          "tipo": "VSPC",
+          "titulo": "KPPKPPP 3",
+          "texto": "Juegan Negras y ganan",
+          "fen": "8/8/8/8/1p2p1P1/1P6/P2k2K1/8 b - - 0 50",
+          "orientacion": "negra",
+          "colorAlumno": "black",
+          "condicion": "ganar"
+        }
+      ]
+    },
+    {
+      "id": "kppkppp_4",
+      "titulo": "KPPKPPP 4",
+      "descripcion": "Juegan Negras y ganan",
+      "segmentos": [
+        {
+          "tipo": "VSPC",
+          "titulo": "KPPKPPP 4",
+          "texto": "Juegan Negras y ganan",
+          "fen": "8/p5K1/4k3/7p/P4P2/1P6/8/8 b - - 0 48",
+          "orientacion": "negra",
+          "colorAlumno": "black",
+          "condicion": "ganar"
+        }
+      ]
+    },
+    {
+      "id": "kppkppp_5",
+      "titulo": "KPPKPPP 5",
+      "descripcion": "Juegan Negras y ganan",
+      "segmentos": [
+        {
+          "tipo": "VSPC",
+          "titulo": "KPPKPPP 5",
+          "texto": "Juegan Negras y ganan",
+          "fen": "8/p7/P5K1/P7/7p/5k1P/8/8 b - - 0 61",
+          "orientacion": "negra",
+          "colorAlumno": "black",
+          "condicion": "ganar"
+        }
+      ]
+    },
+    {
+      "id": "kppkppp_6",
+      "titulo": "KPPKPPP 6",
+      "descripcion": "Juegan Negras y ganan",
+      "segmentos": [
+        {
+          "tipo": "VSPC",
+          "titulo": "KPPKPPP 6",
+          "texto": "Juegan Negras y ganan",
+          "fen": "8/6p1/4k3/8/P7/1P1Pp3/1K6/8 b - - 0 47",
+          "orientacion": "negra",
+          "colorAlumno": "black",
+          "condicion": "ganar"
+        }
+      ]
+    },
+    {
+      "id": "kppkppp_7",
+      "titulo": "KPPKPPP 7",
+      "descripcion": "Juegan Negras y ganan",
+      "segmentos": [
+        {
+          "tipo": "VSPC",
+          "titulo": "KPPKPPP 7",
+          "texto": "Juegan Negras y ganan",
+          "fen": "8/6p1/7p/7P/5kP1/5P2/3K4/8 b - - 0 74",
+          "orientacion": "negra",
+          "colorAlumno": "black",
+          "condicion": "ganar"
+        }
+      ]
+    },
+    {
+      "id": "kppkppp_8",
+      "titulo": "KPPKPPP 8",
+      "descripcion": "Juegan Negras y ganan",
+      "segmentos": [
+        {
+          "tipo": "VSPC",
+          "titulo": "KPPKPPP 8",
+          "texto": "Juegan Negras y ganan",
+          "fen": "8/8/2k1P3/2p5/8/1P3Pp1/3K4/8 b - - 0 78",
+          "orientacion": "negra",
+          "colorAlumno": "black",
+          "condicion": "ganar"
+        }
+      ]
+    },
+    {
+      "id": "kppkppp_9",
+      "titulo": "KPPKPPP 9",
+      "descripcion": "Juegan Negras y ganan",
+      "segmentos": [
+        {
+          "tipo": "VSPC",
+          "titulo": "KPPKPPP 9",
+          "texto": "Juegan Negras y ganan",
+          "fen": "8/8/2pP1k2/8/1p2P2P/5K2/8/8 b - - 0 46",
+          "orientacion": "negra",
+          "colorAlumno": "black",
+          "condicion": "ganar"
+        }
+      ]
+    },
+    {
+      "id": "kppkppp_10",
+      "titulo": "KPPKPPP 10",
+      "descripcion": "Juegan Blancas y ganan",
+      "segmentos": [
+        {
+          "tipo": "VSPC",
+          "titulo": "KPPKPPP 10",
+          "texto": "Juegan Blancas y ganan",
+          "fen": "8/pK6/1p3k2/1P4p1/8/5P2/8/8 w - - 1 66",
+          "orientacion": "blanca",
+          "colorAlumno": "white",
+          "condicion": "ganar"
+        }
+      ]
+    },
+    {
+      "id": "kppkppp_11",
+      "titulo": "KPPKPPP 11",
+      "descripcion": "Juegan Negras y ganan",
+      "segmentos": [
+        {
+          "tipo": "VSPC",
+          "titulo": "KPPKPPP 11",
+          "texto": "Juegan Negras y ganan",
+          "fen": "5K2/p7/1p6/1P6/2Pk4/1P6/8/8 b - - 0 54",
+          "orientacion": "negra",
+          "colorAlumno": "black",
+          "condicion": "ganar"
+        }
+      ]
+    },
+    {
+      "id": "kppkppp_12",
+      "titulo": "KPPKPPP 12",
+      "descripcion": "Juegan Negras y ganan",
+      "segmentos": [
+        {
+          "tipo": "VSPC",
+          "titulo": "KPPKPPP 12",
+          "texto": "Juegan Negras y ganan",
+          "fen": "6K1/p3k3/Pp2P3/1P6/8/8/8/8 b - - 0 99",
+          "orientacion": "negra",
+          "colorAlumno": "black",
+          "condicion": "ganar"
+        }
+      ]
+    },
+    {
+      "id": "kppkppp_13",
+      "titulo": "KPPKPPP 13",
+      "descripcion": "Juegan Negras y ganan",
+      "segmentos": [
+        {
+          "tipo": "VSPC",
+          "titulo": "KPPKPPP 13",
+          "texto": "Juegan Negras y ganan",
+          "fen": "8/1k6/6p1/6P1/2pP4/5PK1/8/8 b - - 0 79",
+          "orientacion": "negra",
+          "colorAlumno": "black",
+          "condicion": "ganar"
+        }
+      ]
+    },
+    {
+      "id": "kppkppp_14",
+      "titulo": "KPPKPPP 14",
+      "descripcion": "Juegan Negras y ganan",
+      "segmentos": [
+        {
+          "tipo": "VSPC",
+          "titulo": "KPPKPPP 14",
+          "texto": "Juegan Negras y ganan",
+          "fen": "8/8/8/8/4kP1p/3p3P/6P1/2K5 b - - 0 61",
+          "orientacion": "negra",
+          "colorAlumno": "black",
+          "condicion": "ganar"
+        }
+      ]
+    },
+    {
+      "id": "kppkppp_15",
+      "titulo": "KPPKPPP 15",
+      "descripcion": "Juegan Blancas y ganan",
+      "segmentos": [
+        {
+          "tipo": "VSPC",
+          "titulo": "KPPKPPP 15",
+          "texto": "Juegan Blancas y ganan",
+          "fen": "2k5/8/5p1p/2K2p1P/5P2/8/8/8 w - - 0 106",
+          "orientacion": "blanca",
+          "colorAlumno": "white",
+          "condicion": "ganar"
+        }
+      ]
+    },
+    {
+      "id": "kppkppp_16",
+      "titulo": "KPPKPPP 16",
+      "descripcion": "Juegan Blancas y ganan",
+      "segmentos": [
+        {
+          "tipo": "VSPC",
+          "titulo": "KPPKPPP 16",
+          "texto": "Juegan Blancas y ganan",
+          "fen": "6k1/p4p2/3K1P2/2p3P1/8/8/8/8 w - - 0 53",
+          "orientacion": "blanca",
+          "colorAlumno": "white",
+          "condicion": "ganar"
+        }
+      ]
+    },
+    {
+      "id": "kppkppp_17",
+      "titulo": "KPPKPPP 17",
+      "descripcion": "Juegan Blancas y ganan",
+      "segmentos": [
+        {
+          "tipo": "VSPC",
+          "titulo": "KPPKPPP 17",
+          "texto": "Juegan Blancas y ganan",
+          "fen": "8/8/1P6/4p3/7k/p1p5/P7/2K5 w - - 0 54",
+          "orientacion": "blanca",
+          "colorAlumno": "white",
+          "condicion": "ganar"
+        }
+      ]
+    },
+    {
+      "id": "kppkppp_18",
+      "titulo": "KPPKPPP 18",
+      "descripcion": "Juegan Negras y ganan",
+      "segmentos": [
+        {
+          "tipo": "VSPC",
+          "titulo": "KPPKPPP 18",
+          "texto": "Juegan Negras y ganan",
+          "fen": "8/8/2P5/8/5p2/PP2pk2/8/2K5 b - - 0 53",
+          "orientacion": "negra",
+          "colorAlumno": "black",
+          "condicion": "ganar"
+        }
+      ]
+    },
+    {
+      "id": "kppkppp_19",
+      "titulo": "KPPKPPP 19",
+      "descripcion": "Juegan Negras y ganan",
+      "segmentos": [
+        {
+          "tipo": "VSPC",
+          "titulo": "KPPKPPP 19",
+          "texto": "Juegan Negras y ganan",
+          "fen": "8/8/7p/7P/2p1kP2/2P5/K7/8 b - - 0 45",
+          "orientacion": "negra",
+          "colorAlumno": "black",
+          "condicion": "ganar"
+        }
+      ]
+    },
+    {
+      "id": "kppkppp_20",
+      "titulo": "KPPKPPP 20",
+      "descripcion": "Juegan Negras y ganan",
+      "segmentos": [
+        {
+          "tipo": "VSPC",
+          "titulo": "KPPKPPP 20",
+          "texto": "Juegan Negras y ganan",
+          "fen": "8/8/8/p7/1p3k2/P4P2/P7/7K b - - 0 59",
+          "orientacion": "negra",
+          "colorAlumno": "black",
+          "condicion": "ganar"
+        }
+      ]
+    },
+    {
+      "id": "kppkppp_21",
+      "titulo": "KPPKPPP 21",
+      "descripcion": "Juegan Blancas y ganan",
+      "segmentos": [
+        {
+          "tipo": "VSPC",
+          "titulo": "KPPKPPP 21",
+          "texto": "Juegan Blancas y ganan",
+          "fen": "8/2k5/4p3/1p2P3/1P3Kp1/8/8/8 w - - 0 81",
+          "orientacion": "blanca",
+          "colorAlumno": "white",
+          "condicion": "ganar"
+        }
+      ]
+    },
+    {
+      "id": "kppkppp_22",
+      "titulo": "KPPKPPP 22",
+      "descripcion": "Juegan Negras y ganan",
+      "segmentos": [
+        {
+          "tipo": "VSPC",
+          "titulo": "KPPKPPP 22",
+          "texto": "Juegan Negras y ganan",
+          "fen": "8/3k4/8/p5p1/P1P5/2P5/8/5K2 b - - 0 52",
+          "orientacion": "negra",
+          "colorAlumno": "black",
+          "condicion": "ganar"
+        }
+      ]
+    },
+    {
+      "id": "kppkppp_23",
+      "titulo": "KPPKPPP 23",
+      "descripcion": "Juegan Blancas y ganan",
+      "segmentos": [
+        {
+          "tipo": "VSPC",
+          "titulo": "KPPKPPP 23",
+          "texto": "Juegan Blancas y ganan",
+          "fen": "8/7k/5p2/1p1p4/1P1K4/8/5P2/8 w - - 0 48",
+          "orientacion": "blanca",
+          "colorAlumno": "white",
+          "condicion": "ganar"
+        }
+      ]
+    },
+    {
+      "id": "kppkppp_24",
+      "titulo": "KPPKPPP 24",
+      "descripcion": "Juegan Blancas y ganan",
+      "segmentos": [
+        {
+          "tipo": "VSPC",
+          "titulo": "KPPKPPP 24",
+          "texto": "Juegan Blancas y ganan",
+          "fen": "8/8/6k1/4p1p1/PK4P1/3p4/8/8 w - - 0 43",
+          "orientacion": "blanca",
+          "colorAlumno": "white",
+          "condicion": "ganar"
+        }
+      ]
+    },
+    {
+      "id": "kppkppp_25",
+      "titulo": "KPPKPPP 25",
+      "descripcion": "Juegan Negras y ganan",
+      "segmentos": [
+        {
+          "tipo": "VSPC",
+          "titulo": "KPPKPPP 25",
+          "texto": "Juegan Negras y ganan",
+          "fen": "8/8/p4K2/2P5/1P1pk3/1P6/8/8 b - - 0 62",
+          "orientacion": "negra",
+          "colorAlumno": "black",
+          "condicion": "ganar"
+        }
+      ]
+    },
+    {
+      "id": "kppkppp_26",
+      "titulo": "KPPKPPP 26",
+      "descripcion": "Juegan Negras y ganan",
+      "segmentos": [
+        {
+          "tipo": "VSPC",
+          "titulo": "KPPKPPP 26",
+          "texto": "Juegan Negras y ganan",
+          "fen": "8/2p5/8/1p1P1k2/1P6/P7/6K1/8 b - - 0 57",
+          "orientacion": "negra",
+          "colorAlumno": "black",
+          "condicion": "ganar"
+        }
+      ]
+    },
+    {
+      "id": "kppkppp_27",
+      "titulo": "KPPKPPP 27",
+      "descripcion": "Juegan Blancas y ganan",
+      "segmentos": [
+        {
+          "tipo": "VSPC",
+          "titulo": "KPPKPPP 27",
+          "texto": "Juegan Blancas y ganan",
+          "fen": "8/8/8/k6p/4p1pP/4K1P1/8/8 w - - 0 59",
+          "orientacion": "blanca",
+          "colorAlumno": "white",
+          "condicion": "ganar"
+        }
+      ]
+    },
+    {
+      "id": "kppkppp_28",
+      "titulo": "KPPKPPP 28",
+      "descripcion": "Juegan Blancas y ganan",
+      "segmentos": [
+        {
+          "tipo": "VSPC",
+          "titulo": "KPPKPPP 28",
+          "texto": "Juegan Blancas y ganan",
+          "fen": "1k6/8/4P1p1/8/p3K1Pp/8/8/8 w - - 0 55",
+          "orientacion": "blanca",
+          "colorAlumno": "white",
+          "condicion": "ganar"
+        }
+      ]
+    },
+    {
+      "id": "kppkppp_29",
+      "titulo": "KPPKPPP 29",
+      "descripcion": "Juegan Negras y ganan",
+      "segmentos": [
+        {
+          "tipo": "VSPC",
+          "titulo": "KPPKPPP 29",
+          "texto": "Juegan Negras y ganan",
+          "fen": "7k/7p/5KPP/7P/8/p7/8/8 b - - 0 53",
+          "orientacion": "negra",
+          "colorAlumno": "black",
+          "condicion": "ganar"
+        }
+      ]
+    },
+    {
+      "id": "kppkppp_30",
+      "titulo": "KPPKPPP 30",
+      "descripcion": "Juegan Blancas y ganan",
+      "segmentos": [
+        {
+          "tipo": "VSPC",
+          "titulo": "KPPKPPP 30",
+          "texto": "Juegan Blancas y ganan",
+          "fen": "8/8/2p1k3/2P1p1Kp/4P3/8/8/8 w - - 0 47",
+          "orientacion": "blanca",
+          "colorAlumno": "white",
+          "condicion": "ganar"
+        }
+      ]
+    },
+    {
+      "id": "kppkppp_31",
+      "titulo": "KPPKPPP 31",
+      "descripcion": "Juegan Negras y ganan",
+      "segmentos": [
+        {
+          "tipo": "VSPC",
+          "titulo": "KPPKPPP 31",
+          "texto": "Juegan Negras y ganan",
+          "fen": "8/7p/6p1/6P1/7P/5k2/5P2/3K4 b - - 0 50",
+          "orientacion": "negra",
+          "colorAlumno": "black",
+          "condicion": "ganar"
+        }
+      ]
+    },
+    {
+      "id": "kppkppp_32",
+      "titulo": "KPPKPPP 32",
+      "descripcion": "Juegan Negras y ganan",
+      "segmentos": [
+        {
+          "tipo": "VSPC",
+          "titulo": "KPPKPPP 32",
+          "texto": "Juegan Negras y ganan",
+          "fen": "8/p7/1p2k3/1P2P3/8/P5K1/8/8 b - - 0 58",
+          "orientacion": "negra",
+          "colorAlumno": "black",
+          "condicion": "ganar"
+        }
+      ]
+    },
+    {
+      "id": "kppkppp_33",
+      "titulo": "KPPKPPP 33",
+      "descripcion": "Juegan Blancas y ganan",
+      "segmentos": [
+        {
+          "tipo": "VSPC",
+          "titulo": "KPPKPPP 33",
+          "texto": "Juegan Blancas y ganan",
+          "fen": "8/8/4Kpp1/7p/7k/8/6PP/8 w - - 0 56",
+          "orientacion": "blanca",
+          "colorAlumno": "white",
+          "condicion": "ganar"
+        }
+      ]
+    },
+    {
+      "id": "kppkppp_34",
+      "titulo": "KPPKPPP 34",
+      "descripcion": "Juegan Negras y ganan",
+      "segmentos": [
+        {
+          "tipo": "VSPC",
+          "titulo": "KPPKPPP 34",
+          "texto": "Juegan Negras y ganan",
+          "fen": "8/6k1/5PP1/4p2K/8/7P/p7/8 b - - 0 60",
+          "orientacion": "negra",
+          "colorAlumno": "black",
+          "condicion": "ganar"
+        }
+      ]
+    },
+    {
+      "id": "kppkppp_35",
+      "titulo": "KPPKPPP 35",
+      "descripcion": "Juegan Negras y ganan",
+      "segmentos": [
+        {
+          "tipo": "VSPC",
+          "titulo": "KPPKPPP 35",
+          "texto": "Juegan Negras y ganan",
+          "fen": "8/6p1/8/2p1P3/2Pk4/1K6/2P5/8 b - - 0 38",
+          "orientacion": "negra",
+          "colorAlumno": "black",
+          "condicion": "ganar"
+        }
+      ]
+    },
+    {
+      "id": "kppkppp_36",
+      "titulo": "KPPKPPP 36",
+      "descripcion": "Juegan Negras y ganan",
+      "segmentos": [
+        {
+          "tipo": "VSPC",
+          "titulo": "KPPKPPP 36",
+          "texto": "Juegan Negras y ganan",
+          "fen": "8/8/1p6/6p1/6P1/P5kP/4K3/8 b - - 0 56",
+          "orientacion": "negra",
+          "colorAlumno": "black",
+          "condicion": "ganar"
+        }
+      ]
+    },
+    {
+      "id": "kppkppp_37",
+      "titulo": "KPPKPPP 37",
+      "descripcion": "Juegan Blancas y ganan",
+      "segmentos": [
+        {
+          "tipo": "VSPC",
+          "titulo": "KPPKPPP 37",
+          "texto": "Juegan Blancas y ganan",
+          "fen": "8/8/5p1p/7P/3pK3/8/1k4P1/8 w - - 0 49",
+          "orientacion": "blanca",
+          "colorAlumno": "white",
+          "condicion": "ganar"
+        }
+      ]
+    },
+    {
+      "id": "kppkppp_38",
+      "titulo": "KPPKPPP 38",
+      "descripcion": "Juegan Negras y ganan",
+      "segmentos": [
+        {
+          "tipo": "VSPC",
+          "titulo": "KPPKPPP 38",
+          "texto": "Juegan Negras y ganan",
+          "fen": "8/8/8/4k3/1p5P/p2P1P2/8/2K5 b - - 0 43",
+          "orientacion": "negra",
+          "colorAlumno": "black",
+          "condicion": "ganar"
+        }
+      ]
+    },
+    {
+      "id": "kppkppp_39",
+      "titulo": "KPPKPPP 39",
+      "descripcion": "Juegan Negras y ganan",
+      "segmentos": [
+        {
+          "tipo": "VSPC",
+          "titulo": "KPPKPPP 39",
+          "texto": "Juegan Negras y ganan",
+          "fen": "8/1p6/5p2/2P1PPk1/8/8/6K1/8 b - - 0 53",
+          "orientacion": "negra",
+          "colorAlumno": "black",
+          "condicion": "ganar"
+        }
+      ]
+    },
+    {
+      "id": "kppkppp_40",
+      "titulo": "KPPKPPP 40",
+      "descripcion": "Juegan Blancas y ganan",
+      "segmentos": [
+        {
+          "tipo": "VSPC",
+          "titulo": "KPPKPPP 40",
+          "texto": "Juegan Blancas y ganan",
+          "fen": "8/6k1/4p3/2p2p2/2P2K2/8/P7/8 w - - 0 50",
+          "orientacion": "blanca",
+          "colorAlumno": "white",
+          "condicion": "ganar"
+        }
+      ]
+    },
+    {
+      "id": "kppkppp_41",
+      "titulo": "KPPKPPP 41",
+      "descripcion": "Juegan Negras y ganan",
+      "segmentos": [
+        {
+          "tipo": "VSPC",
+          "titulo": "KPPKPPP 41",
+          "texto": "Juegan Negras y ganan",
+          "fen": "8/8/1P1k3p/7P/p4P2/6K1/8/8 b - - 0 67",
+          "orientacion": "negra",
+          "colorAlumno": "black",
+          "condicion": "ganar"
+        }
+      ]
+    },
+    {
+      "id": "kppkppp_42",
+      "titulo": "KPPKPPP 42",
+      "descripcion": "Juegan Negras y ganan",
+      "segmentos": [
+        {
+          "tipo": "VSPC",
+          "titulo": "KPPKPPP 42",
+          "texto": "Juegan Negras y ganan",
+          "fen": "8/8/8/1p4p1/2k3P1/P1P5/8/4K3 b - - 0 55",
+          "orientacion": "negra",
+          "colorAlumno": "black",
+          "condicion": "ganar"
+        }
+      ]
+    },
+    {
+      "id": "kppkppp_43",
+      "titulo": "KPPKPPP 43",
+      "descripcion": "Juegan Blancas y ganan",
+      "segmentos": [
+        {
+          "tipo": "VSPC",
+          "titulo": "KPPKPPP 43",
+          "texto": "Juegan Blancas y ganan",
+          "fen": "6k1/5p2/7p/5p2/4K2P/8/5P2/8 w - - 0 62",
+          "orientacion": "blanca",
+          "colorAlumno": "white",
+          "condicion": "ganar"
+        }
+      ]
+    },
+    {
+      "id": "kppkppp_44",
+      "titulo": "KPPKPPP 44",
+      "descripcion": "Juegan Blancas y ganan",
+      "segmentos": [
+        {
+          "tipo": "VSPC",
+          "titulo": "KPPKPPP 44",
+          "texto": "Juegan Blancas y ganan",
+          "fen": "8/1k6/8/8/1p1ppK2/1P6/2P5/8 w - - 0 66",
+          "orientacion": "blanca",
+          "colorAlumno": "white",
+          "condicion": "ganar"
+        }
+      ]
+    },
+    {
+      "id": "kppkppp_45",
+      "titulo": "KPPKPPP 45",
+      "descripcion": "Juegan Blancas y ganan",
+      "segmentos": [
+        {
+          "tipo": "VSPC",
+          "titulo": "KPPKPPP 45",
+          "texto": "Juegan Blancas y ganan",
+          "fen": "8/8/2k2p2/4p3/P3P3/6p1/6K1/8 w - - 0 54",
+          "orientacion": "blanca",
+          "colorAlumno": "white",
+          "condicion": "ganar"
+        }
+      ]
+    },
+    {
+      "id": "kppkppp_46",
+      "titulo": "KPPKPPP 46",
+      "descripcion": "Juegan Negras y ganan",
+      "segmentos": [
+        {
+          "tipo": "VSPC",
+          "titulo": "KPPKPPP 46",
+          "texto": "Juegan Negras y ganan",
+          "fen": "8/8/5p1p/4k3/4P2P/6P1/2K5/8 b - - 0 60",
+          "orientacion": "negra",
+          "colorAlumno": "black",
+          "condicion": "ganar"
+        }
+      ]
+    },
+    {
+      "id": "kppkppp_47",
+      "titulo": "KPPKPPP 47",
+      "descripcion": "Juegan Blancas y ganan",
+      "segmentos": [
+        {
+          "tipo": "VSPC",
+          "titulo": "KPPKPPP 47",
+          "texto": "Juegan Blancas y ganan",
+          "fen": "8/8/1p6/p1pK4/P1P5/5k2/8/8 w - - 0 83",
+          "orientacion": "blanca",
+          "colorAlumno": "white",
+          "condicion": "ganar"
+        }
+      ]
+    },
+    {
+      "id": "kppkppp_48",
+      "titulo": "KPPKPPP 48",
+      "descripcion": "Juegan Negras y ganan",
+      "segmentos": [
+        {
+          "tipo": "VSPC",
+          "titulo": "KPPKPPP 48",
+          "texto": "Juegan Negras y ganan",
+          "fen": "8/5pp1/8/4P3/4P2k/1K6/6P1/8 b - - 0 53",
+          "orientacion": "negra",
+          "colorAlumno": "black",
+          "condicion": "ganar"
+        }
+      ]
+    },
+    {
+      "id": "kppkppp_49",
+      "titulo": "KPPKPPP 49",
+      "descripcion": "Juegan Negras y ganan",
+      "segmentos": [
+        {
+          "tipo": "VSPC",
+          "titulo": "KPPKPPP 49",
+          "texto": "Juegan Negras y ganan",
+          "fen": "8/8/8/2k5/2P4p/4p2P/6P1/3K4 b - - 0 59",
+          "orientacion": "negra",
+          "colorAlumno": "black",
+          "condicion": "ganar"
+        }
+      ]
+    },
+    {
+      "id": "kppkppp_50",
+      "titulo": "KPPKPPP 50",
+      "descripcion": "Juegan Negras y ganan",
+      "segmentos": [
+        {
+          "tipo": "VSPC",
+          "titulo": "KPPKPPP 50",
+          "texto": "Juegan Negras y ganan",
+          "fen": "8/8/8/3k4/1PpPpK1P/8/8/8 b - - 0 45",
+          "orientacion": "negra",
+          "colorAlumno": "black",
+          "condicion": "ganar"
+        }
+      ]
+    },
+    {
+      "id": "kppkppp_51",
+      "titulo": "KPPKPPP 51",
+      "descripcion": "Juegan Blancas y ganan",
+      "segmentos": [
+        {
+          "tipo": "VSPC",
+          "titulo": "KPPKPPP 51",
+          "texto": "Juegan Blancas y ganan",
+          "fen": "8/5p1k/8/5p1p/4KP1P/8/8/8 w - - 0 72",
+          "orientacion": "blanca",
+          "colorAlumno": "white",
+          "condicion": "ganar"
+        }
+      ]
+    },
+    {
+      "id": "kppkppp_52",
+      "titulo": "KPPKPPP 52",
+      "descripcion": "Juegan Blancas y ganan",
+      "segmentos": [
+        {
+          "tipo": "VSPC",
+          "titulo": "KPPKPPP 52",
+          "texto": "Juegan Blancas y ganan",
+          "fen": "8/6k1/7p/3Kp1pP/6P1/8/8/8 w - - 0 59",
+          "orientacion": "blanca",
+          "colorAlumno": "white",
+          "condicion": "ganar"
+        }
+      ]
+    },
+    {
+      "id": "kppkppp_53",
+      "titulo": "KPPKPPP 53",
+      "descripcion": "Juegan Blancas y ganan",
+      "segmentos": [
+        {
+          "tipo": "VSPC",
+          "titulo": "KPPKPPP 53",
+          "texto": "Juegan Blancas y ganan",
+          "fen": "8/8/k2K1pp1/7p/7P/6P1/8/8 w - - 0 74",
+          "orientacion": "blanca",
+          "colorAlumno": "white",
+          "condicion": "ganar"
+        }
+      ]
+    },
+    {
+      "id": "kppkppp_54",
+      "titulo": "KPPKPPP 54",
+      "descripcion": "Juegan Negras y ganan",
+      "segmentos": [
+        {
+          "tipo": "VSPC",
+          "titulo": "KPPKPPP 54",
+          "texto": "Juegan Negras y ganan",
+          "fen": "8/3k3p/K7/3P1p2/5P2/8/6P1/8 b - - 0 51",
+          "orientacion": "negra",
+          "colorAlumno": "black",
+          "condicion": "ganar"
+        }
+      ]
+    },
+    {
+      "id": "kppkppp_55",
+      "titulo": "KPPKPPP 55",
+      "descripcion": "Juegan Blancas y ganan",
+      "segmentos": [
+        {
+          "tipo": "VSPC",
+          "titulo": "KPPKPPP 55",
+          "texto": "Juegan Blancas y ganan",
+          "fen": "3k4/8/4PK2/p6p/5p1P/8/8/8 w - - 0 63",
+          "orientacion": "blanca",
+          "colorAlumno": "white",
+          "condicion": "ganar"
+        }
+      ]
+    },
+    {
+      "id": "kppkppp_56",
+      "titulo": "KPPKPPP 56",
+      "descripcion": "Juegan Negras y ganan",
+      "segmentos": [
+        {
+          "tipo": "VSPC",
+          "titulo": "KPPKPPP 56",
+          "texto": "Juegan Negras y ganan",
+          "fen": "8/8/3k3p/5p1P/2P2P2/8/5K2/8 b - - 0 87",
+          "orientacion": "negra",
+          "colorAlumno": "black",
+          "condicion": "ganar"
+        }
+      ]
+    },
+    {
+      "id": "kppkppp_57",
+      "titulo": "KPPKPPP 57",
+      "descripcion": "Juegan Negras y ganan",
+      "segmentos": [
+        {
+          "tipo": "VSPC",
+          "titulo": "KPPKPPP 57",
+          "texto": "Juegan Negras y ganan",
+          "fen": "8/5pk1/8/7p/5P1P/5P2/8/3K4 b - - 0 55",
+          "orientacion": "negra",
+          "colorAlumno": "black",
+          "condicion": "ganar"
+        }
+      ]
+    },
+    {
+      "id": "kppkppp_58",
+      "titulo": "KPPKPPP 58",
+      "descripcion": "Juegan Negras y ganan",
+      "segmentos": [
+        {
+          "tipo": "VSPC",
+          "titulo": "KPPKPPP 58",
+          "texto": "Juegan Negras y ganan",
+          "fen": "8/6k1/7p/5PP1/p7/7P/8/2K5 b - - 0 70",
+          "orientacion": "negra",
+          "colorAlumno": "black",
+          "condicion": "ganar"
+        }
+      ]
+    },
+    {
+      "id": "kppkppp_59",
+      "titulo": "KPPKPPP 59",
+      "descripcion": "Juegan Negras y ganan",
+      "segmentos": [
+        {
+          "tipo": "VSPC",
+          "titulo": "KPPKPPP 59",
+          "texto": "Juegan Negras y ganan",
+          "fen": "8/8/7p/6p1/3k2P1/7P/K4P2/8 b - - 0 58",
+          "orientacion": "negra",
+          "colorAlumno": "black",
+          "condicion": "ganar"
+        }
+      ]
+    },
+    {
+      "id": "kppkppp_60",
+      "titulo": "KPPKPPP 60",
+      "descripcion": "Juegan Blancas y ganan",
+      "segmentos": [
+        {
+          "tipo": "VSPC",
+          "titulo": "KPPKPPP 60",
+          "texto": "Juegan Blancas y ganan",
+          "fen": "8/8/P7/3p4/5kp1/3P4/7p/7K w - - 0 61",
+          "orientacion": "blanca",
+          "colorAlumno": "white",
+          "condicion": "ganar"
+        }
+      ]
+    },
+    {
+      "id": "kppkppp_61",
+      "titulo": "KPPKPPP 61",
+      "descripcion": "Juegan Negras y ganan",
+      "segmentos": [
+        {
+          "tipo": "VSPC",
+          "titulo": "KPPKPPP 61",
+          "texto": "Juegan Negras y ganan",
+          "fen": "8/8/7k/5ppP/2K5/5P1P/8/8 b - - 0 57",
+          "orientacion": "negra",
+          "colorAlumno": "black",
+          "condicion": "ganar"
+        }
+      ]
+    },
+    {
+      "id": "kppkppp_62",
+      "titulo": "KPPKPPP 62",
+      "descripcion": "Juegan Blancas y ganan",
+      "segmentos": [
+        {
+          "tipo": "VSPC",
+          "titulo": "KPPKPPP 62",
+          "texto": "Juegan Blancas y ganan",
+          "fen": "8/4K1k1/4p1p1/6p1/7P/8/5P2/8 w - - 0 70",
+          "orientacion": "blanca",
+          "colorAlumno": "white",
+          "condicion": "ganar"
+        }
+      ]
+    },
+    {
+      "id": "kppkppp_63",
+      "titulo": "KPPKPPP 63",
+      "descripcion": "Juegan Blancas y ganan",
+      "segmentos": [
+        {
+          "tipo": "VSPC",
+          "titulo": "KPPKPPP 63",
+          "texto": "Juegan Blancas y ganan",
+          "fen": "8/7k/4p3/6p1/4p1P1/4P3/4K3/8 w - - 0 45",
+          "orientacion": "blanca",
+          "colorAlumno": "white",
+          "condicion": "ganar"
+        }
+      ]
+    },
+    {
+      "id": "kppkppp_64",
+      "titulo": "KPPKPPP 64",
+      "descripcion": "Juegan Negras y ganan",
+      "segmentos": [
+        {
+          "tipo": "VSPC",
+          "titulo": "KPPKPPP 64",
+          "texto": "Juegan Negras y ganan",
+          "fen": "8/8/1p6/p7/P1P1k3/1P6/7K/8 b - - 0 53",
+          "orientacion": "negra",
+          "colorAlumno": "black",
+          "condicion": "ganar"
+        }
+      ]
+    },
+    {
+      "id": "kppkppp_65",
+      "titulo": "KPPKPPP 65",
+      "descripcion": "Juegan Negras y ganan",
+      "segmentos": [
+        {
+          "tipo": "VSPC",
+          "titulo": "KPPKPPP 65",
+          "texto": "Juegan Negras y ganan",
+          "fen": "8/8/2k5/p1P1K3/1p2P3/1P6/8/8 b - - 0 55",
+          "orientacion": "negra",
+          "colorAlumno": "black",
+          "condicion": "ganar"
+        }
+      ]
+    },
+    {
+      "id": "kppkppp_66",
+      "titulo": "KPPKPPP 66",
+      "descripcion": "Juegan Blancas y ganan",
+      "segmentos": [
+        {
+          "tipo": "VSPC",
+          "titulo": "KPPKPPP 66",
+          "texto": "Juegan Blancas y ganan",
+          "fen": "3k4/8/4pKp1/2P3p1/8/6P1/8/8 w - - 0 46",
+          "orientacion": "blanca",
+          "colorAlumno": "white",
+          "condicion": "ganar"
+        }
+      ]
+    },
+    {
+      "id": "kppkppp_67",
+      "titulo": "KPPKPPP 67",
+      "descripcion": "Juegan Blancas y ganan",
+      "segmentos": [
+        {
+          "tipo": "VSPC",
+          "titulo": "KPPKPPP 67",
+          "texto": "Juegan Blancas y ganan",
+          "fen": "8/1k5p/8/3pKp1P/5P2/8/8/8 w - - 0 57",
+          "orientacion": "blanca",
+          "colorAlumno": "white",
+          "condicion": "ganar"
+        }
+      ]
+    },
+    {
+      "id": "kppkppp_68",
+      "titulo": "KPPKPPP 68",
+      "descripcion": "Juegan Blancas y ganan",
+      "segmentos": [
+        {
+          "tipo": "VSPC",
+          "titulo": "KPPKPPP 68",
+          "texto": "Juegan Blancas y ganan",
+          "fen": "8/1p3K1P/2p5/2P1k3/8/8/p7/8 w - - 0 72",
+          "orientacion": "blanca",
+          "colorAlumno": "white",
+          "condicion": "ganar"
+        }
+      ]
+    },
+    {
+      "id": "kppkppp_69",
+      "titulo": "KPPKPPP 69",
+      "descripcion": "Juegan Negras y ganan",
+      "segmentos": [
+        {
+          "tipo": "VSPC",
+          "titulo": "KPPKPPP 69",
+          "texto": "Juegan Negras y ganan",
+          "fen": "8/5p2/4p3/3kP3/8/6P1/5P2/1K6 b - - 0 59",
+          "orientacion": "negra",
+          "colorAlumno": "black",
+          "condicion": "ganar"
+        }
+      ]
+    },
+    {
+      "id": "kppkppp_70",
+      "titulo": "KPPKPPP 70",
+      "descripcion": "Juegan Blancas y ganan",
+      "segmentos": [
+        {
+          "tipo": "VSPC",
+          "titulo": "KPPKPPP 70",
+          "texto": "Juegan Blancas y ganan",
+          "fen": "5k2/8/3Kp1p1/4Pp2/5P2/8/8/8 w - - 0 107",
+          "orientacion": "blanca",
+          "colorAlumno": "white",
+          "condicion": "ganar"
+        }
+      ]
+    },
+    {
+      "id": "kppkppp_71",
+      "titulo": "KPPKPPP 71",
+      "descripcion": "Juegan Blancas y ganan",
+      "segmentos": [
+        {
+          "tipo": "VSPC",
+          "titulo": "KPPKPPP 71",
+          "texto": "Juegan Blancas y ganan",
+          "fen": "5k2/8/8/3K1p2/5p1p/7P/6P1/8 w - - 0 42",
+          "orientacion": "blanca",
+          "colorAlumno": "white",
+          "condicion": "ganar"
+        }
+      ]
+    },
+    {
+      "id": "kppkppp_72",
+      "titulo": "KPPKPPP 72",
+      "descripcion": "Juegan Blancas y ganan",
+      "segmentos": [
+        {
+          "tipo": "VSPC",
+          "titulo": "KPPKPPP 72",
+          "texto": "Juegan Blancas y ganan",
+          "fen": "8/4kp2/8/5p1K/5P1p/7P/8/8 w - - 0 50",
+          "orientacion": "blanca",
+          "colorAlumno": "white",
+          "condicion": "ganar"
+        }
+      ]
+    },
+    {
+      "id": "kppkppp_73",
+      "titulo": "KPPKPPP 73",
+      "descripcion": "Juegan Negras y ganan",
+      "segmentos": [
+        {
+          "tipo": "VSPC",
+          "titulo": "KPPKPPP 73",
+          "texto": "Juegan Negras y ganan",
+          "fen": "8/5p1K/8/5kPp/8/5PP1/8/8 b - - 0 55",
+          "orientacion": "negra",
+          "colorAlumno": "black",
+          "condicion": "ganar"
+        }
+      ]
+    },
+    {
+      "id": "kppkppp_74",
+      "titulo": "KPPKPPP 74",
+      "descripcion": "Juegan Negras y ganan",
+      "segmentos": [
+        {
+          "tipo": "VSPC",
+          "titulo": "KPPKPPP 74",
+          "texto": "Juegan Negras y ganan",
+          "fen": "8/8/3K4/2pP4/2P1p3/1k6/7P/8 b - - 0 55",
+          "orientacion": "negra",
+          "colorAlumno": "black",
+          "condicion": "ganar"
+        }
+      ]
+    },
+    {
+      "id": "kppkppp_75",
+      "titulo": "KPPKPPP 75",
+      "descripcion": "Juegan Blancas y ganan",
+      "segmentos": [
+        {
+          "tipo": "VSPC",
+          "titulo": "KPPKPPP 75",
+          "texto": "Juegan Blancas y ganan",
+          "fen": "8/8/6p1/2P3kp/2K1p3/8/5P2/8 w - - 0 44",
+          "orientacion": "blanca",
+          "colorAlumno": "white",
+          "condicion": "ganar"
+        }
+      ]
+    },
+    {
+      "id": "kppkppp_76",
+      "titulo": "KPPKPPP 76",
+      "descripcion": "Juegan Blancas y ganan",
+      "segmentos": [
+        {
+          "tipo": "VSPC",
+          "titulo": "KPPKPPP 76",
+          "texto": "Juegan Blancas y ganan",
+          "fen": "7k/8/5p1p/8/5pKP/8/6P1/8 w - - 0 60",
+          "orientacion": "blanca",
+          "colorAlumno": "white",
+          "condicion": "ganar"
+        }
+      ]
+    },
+    {
+      "id": "kppkppp_77",
+      "titulo": "KPPKPPP 77",
+      "descripcion": "Juegan Negras y ganan",
+      "segmentos": [
+        {
+          "tipo": "VSPC",
+          "titulo": "KPPKPPP 77",
+          "texto": "Juegan Negras y ganan",
+          "fen": "8/8/p1p5/2P5/1Pk5/P7/5K2/8 b - - 0 49",
+          "orientacion": "negra",
+          "colorAlumno": "black",
+          "condicion": "ganar"
+        }
+      ]
+    },
+    {
+      "id": "kppkppp_78",
+      "titulo": "KPPKPPP 78",
+      "descripcion": "Juegan Blancas y ganan",
+      "segmentos": [
+        {
+          "tipo": "VSPC",
+          "titulo": "KPPKPPP 78",
+          "texto": "Juegan Blancas y ganan",
+          "fen": "8/5pp1/3K4/6p1/k7/7P/6P1/8 w - - 0 56",
+          "orientacion": "blanca",
+          "colorAlumno": "white",
+          "condicion": "ganar"
+        }
+      ]
+    },
+    {
+      "id": "kppkppp_79",
+      "titulo": "KPPKPPP 79",
+      "descripcion": "Juegan Negras y ganan",
+      "segmentos": [
+        {
+          "tipo": "VSPC",
+          "titulo": "KPPKPPP 79",
+          "texto": "Juegan Negras y ganan",
+          "fen": "8/6k1/4p1P1/4P3/3K3p/7P/8/8 b - - 0 60",
+          "orientacion": "negra",
+          "colorAlumno": "black",
+          "condicion": "ganar"
+        }
+      ]
+    },
+    {
+      "id": "kppkppp_80",
+      "titulo": "KPPKPPP 80",
+      "descripcion": "Juegan Blancas y ganan",
+      "segmentos": [
+        {
+          "tipo": "VSPC",
+          "titulo": "KPPKPPP 80",
+          "texto": "Juegan Blancas y ganan",
+          "fen": "8/8/3k1p1p/8/1P4Kp/8/6P1/8 w - - 0 38",
+          "orientacion": "blanca",
+          "colorAlumno": "white",
+          "condicion": "ganar"
+        }
+      ]
+    },
+    {
+      "id": "kppkppp_81",
+      "titulo": "KPPKPPP 81",
+      "descripcion": "Juegan Negras y ganan",
+      "segmentos": [
+        {
+          "tipo": "VSPC",
+          "titulo": "KPPKPPP 81",
+          "texto": "Juegan Negras y ganan",
+          "fen": "8/8/3k3p/3P2p1/8/6P1/1K4P1/8 b - - 0 46",
+          "orientacion": "negra",
+          "colorAlumno": "black",
+          "condicion": "ganar"
+        }
+      ]
+    },
+    {
+      "id": "kppkppp_82",
+      "titulo": "KPPKPPP 82",
+      "descripcion": "Juegan Blancas y ganan",
+      "segmentos": [
+        {
+          "tipo": "VSPC",
+          "titulo": "KPPKPPP 82",
+          "texto": "Juegan Blancas y ganan",
+          "fen": "8/6k1/4p1p1/4K2p/5P1P/8/8/8 w - - 0 63",
+          "orientacion": "blanca",
+          "colorAlumno": "white",
+          "condicion": "ganar"
+        }
+      ]
+    },
+    {
+      "id": "kppkppp_83",
+      "titulo": "KPPKPPP 83",
+      "descripcion": "Juegan Negras y ganan",
+      "segmentos": [
+        {
+          "tipo": "VSPC",
+          "titulo": "KPPKPPP 83",
+          "texto": "Juegan Negras y ganan",
+          "fen": "8/6p1/5p2/5P2/7k/5K1P/7P/8 b - - 0 69",
+          "orientacion": "negra",
+          "colorAlumno": "black",
+          "condicion": "ganar"
+        }
+      ]
+    },
+    {
+      "id": "kppkppp_84",
+      "titulo": "KPPKPPP 84",
+      "descripcion": "Juegan Blancas y ganan",
+      "segmentos": [
+        {
+          "tipo": "VSPC",
+          "titulo": "KPPKPPP 84",
+          "texto": "Juegan Blancas y ganan",
+          "fen": "8/8/4p3/2k4p/4K1p1/6P1/7P/8 w - - 0 66",
+          "orientacion": "blanca",
+          "colorAlumno": "white",
+          "condicion": "ganar"
+        }
+      ]
+    },
+    {
+      "id": "kppkppp_85",
+      "titulo": "KPPKPPP 85",
+      "descripcion": "Juegan Blancas y ganan",
+      "segmentos": [
+        {
+          "tipo": "VSPC",
+          "titulo": "KPPKPPP 85",
+          "texto": "Juegan Blancas y ganan",
+          "fen": "8/8/8/5k2/p1pP4/p7/K1P5/8 w - - 0 47",
+          "orientacion": "blanca",
+          "colorAlumno": "white",
+          "condicion": "ganar"
+        }
+      ]
+    },
+    {
+      "id": "kppkppp_86",
+      "titulo": "KPPKPPP 86",
+      "descripcion": "Juegan Blancas y ganan",
+      "segmentos": [
+        {
+          "tipo": "VSPC",
+          "titulo": "KPPKPPP 86",
+          "texto": "Juegan Blancas y ganan",
+          "fen": "4k3/8/8/2p5/1p3p2/1P1K1P2/8/8 w - - 0 60",
+          "orientacion": "blanca",
+          "colorAlumno": "white",
+          "condicion": "ganar"
+        }
+      ]
+    },
+    {
+      "id": "kppkppp_87",
+      "titulo": "KPPKPPP 87",
+      "descripcion": "Juegan Blancas y ganan",
+      "segmentos": [
+        {
+          "tipo": "VSPC",
+          "titulo": "KPPKPPP 87",
+          "texto": "Juegan Blancas y ganan",
+          "fen": "5k2/3K4/4p1p1/4P2p/7P/8/8/8 w - - 0 61",
+          "orientacion": "blanca",
+          "colorAlumno": "white",
+          "condicion": "ganar"
+        }
+      ]
+    },
+    {
+      "id": "kppkppp_88",
+      "titulo": "KPPKPPP 88",
+      "descripcion": "Juegan Negras y ganan",
+      "segmentos": [
+        {
+          "tipo": "VSPC",
+          "titulo": "KPPKPPP 88",
+          "texto": "Juegan Negras y ganan",
+          "fen": "8/5p2/6k1/8/7p/5P1P/5P1K/8 b - - 0 48",
+          "orientacion": "negra",
+          "colorAlumno": "black",
+          "condicion": "ganar"
+        }
+      ]
+    },
+    {
+      "id": "kppkppp_89",
+      "titulo": "KPPKPPP 89",
+      "descripcion": "Juegan Blancas y ganan",
+      "segmentos": [
+        {
+          "tipo": "VSPC",
+          "titulo": "KPPKPPP 89",
+          "texto": "Juegan Blancas y ganan",
+          "fen": "8/6k1/8/4pKpp/8/7P/6P1/8 w - - 0 54",
+          "orientacion": "blanca",
+          "colorAlumno": "white",
+          "condicion": "ganar"
+        }
+      ]
+    },
+    {
+      "id": "kppkppp_90",
+      "titulo": "KPPKPPP 90",
+      "descripcion": "Juegan Negras y ganan",
+      "segmentos": [
+        {
+          "tipo": "VSPC",
+          "titulo": "KPPKPPP 90",
+          "texto": "Juegan Negras y ganan",
+          "fen": "8/8/6p1/7p/5P1P/4k1P1/8/1K6 b - - 0 70",
+          "orientacion": "negra",
+          "colorAlumno": "black",
+          "condicion": "ganar"
+        }
+      ]
+    },
+    {
+      "id": "kppkppp_91",
+      "titulo": "KPPKPPP 91",
+      "descripcion": "Juegan Negras y ganan",
+      "segmentos": [
+        {
+          "tipo": "VSPC",
+          "titulo": "KPPKPPP 91",
+          "texto": "Juegan Negras y ganan",
+          "fen": "8/8/6p1/7p/6kP/3K2P1/5P2/8 b - - 0 58",
+          "orientacion": "negra",
+          "colorAlumno": "black",
+          "condicion": "ganar"
+        }
+      ]
+    },
+    {
+      "id": "kppkppp_92",
+      "titulo": "KPPKPPP 92",
+      "descripcion": "Juegan Blancas y ganan",
+      "segmentos": [
+        {
+          "tipo": "VSPC",
+          "titulo": "KPPKPPP 92",
+          "texto": "Juegan Blancas y ganan",
+          "fen": "5k2/3K1p2/8/4PpPp/8/8/8/8 w - - 0 66",
+          "orientacion": "blanca",
+          "colorAlumno": "white",
+          "condicion": "ganar"
+        }
+      ]
+    },
+    {
+      "id": "kppkppp_93",
+      "titulo": "KPPKPPP 93",
+      "descripcion": "Juegan Blancas y ganan",
+      "segmentos": [
+        {
+          "tipo": "VSPC",
+          "titulo": "KPPKPPP 93",
+          "texto": "Juegan Blancas y ganan",
+          "fen": "8/8/4k3/8/1p1pp3/1P2K3/5P2/8 w - - 0 63",
+          "orientacion": "blanca",
+          "colorAlumno": "white",
+          "condicion": "ganar"
+        }
+      ]
+    },
+    {
+      "id": "kppkppp_94",
+      "titulo": "KPPKPPP 94",
+      "descripcion": "Juegan Negras y ganan",
+      "segmentos": [
+        {
+          "tipo": "VSPC",
+          "titulo": "KPPKPPP 94",
+          "texto": "Juegan Negras y ganan",
+          "fen": "8/p7/6p1/1P3kP1/5P2/8/4K3/8 b - - 0 57",
+          "orientacion": "negra",
+          "colorAlumno": "black",
+          "condicion": "ganar"
+        }
+      ]
+    },
+    {
+      "id": "kppkppp_95",
+      "titulo": "KPPKPPP 95",
+      "descripcion": "Juegan Blancas y ganan",
+      "segmentos": [
+        {
+          "tipo": "VSPC",
+          "titulo": "KPPKPPP 95",
+          "texto": "Juegan Blancas y ganan",
+          "fen": "5k2/8/6p1/5pKp/8/6P1/5P2/8 w - - 0 58",
+          "orientacion": "blanca",
+          "colorAlumno": "white",
+          "condicion": "ganar"
+        }
+      ]
+    },
+    {
+      "id": "kppkppp_96",
+      "titulo": "KPPKPPP 96",
+      "descripcion": "Juegan Blancas y ganan",
+      "segmentos": [
+        {
+          "tipo": "VSPC",
+          "titulo": "KPPKPPP 96",
+          "texto": "Juegan Blancas y ganan",
+          "fen": "8/8/3k1Kp1/1p4p1/1P6/8/5P2/8 w - - 0 53",
+          "orientacion": "blanca",
+          "colorAlumno": "white",
+          "condicion": "ganar"
+        }
+      ]
+    },
+    {
+      "id": "kppkppp_97",
+      "titulo": "KPPKPPP 97",
+      "descripcion": "Juegan Negras y ganan",
+      "segmentos": [
+        {
+          "tipo": "VSPC",
+          "titulo": "KPPKPPP 97",
+          "texto": "Juegan Negras y ganan",
+          "fen": "8/8/8/2P5/6p1/3k1p2/PP5K/8 b - - 0 55",
+          "orientacion": "negra",
+          "colorAlumno": "black",
+          "condicion": "ganar"
+        }
+      ]
+    },
+    {
+      "id": "kppkppp_98",
+      "titulo": "KPPKPPP 98",
+      "descripcion": "Juegan Blancas y ganan",
+      "segmentos": [
+        {
+          "tipo": "VSPC",
+          "titulo": "KPPKPPP 98",
+          "texto": "Juegan Blancas y ganan",
+          "fen": "8/k7/7p/7P/2p2p2/2K2P2/8/8 w - - 0 61",
+          "orientacion": "blanca",
+          "colorAlumno": "white",
+          "condicion": "ganar"
+        }
+      ]
+    },
+    {
+      "id": "kppkppp_99",
+      "titulo": "KPPKPPP 99",
+      "descripcion": "Juegan Negras y ganan",
+      "segmentos": [
+        {
+          "tipo": "VSPC",
+          "titulo": "KPPKPPP 99",
+          "texto": "Juegan Negras y ganan",
+          "fen": "8/p7/1p2k3/1P2P1K1/P7/8/8/8 b - - 0 59",
+          "orientacion": "negra",
+          "colorAlumno": "black",
+          "condicion": "ganar"
+        }
+      ]
+    },
+    {
+      "id": "kppkppp_100",
+      "titulo": "KPPKPPP 100",
+      "descripcion": "Juegan Blancas y ganan",
+      "segmentos": [
+        {
+          "tipo": "VSPC",
+          "titulo": "KPPKPPP 100",
+          "texto": "Juegan Blancas y ganan",
+          "fen": "7k/8/6p1/6P1/4p2p/4K2P/8/8 w - - 0 55",
+          "orientacion": "blanca",
+          "colorAlumno": "white",
+          "condicion": "ganar"
+        }
+      ]
+    },
+    {
+      "id": "kppkppp_101",
+      "titulo": "KPPKPPP 101",
+      "descripcion": "Juegan Blancas y ganan",
+      "segmentos": [
+        {
+          "tipo": "VSPC",
+          "titulo": "KPPKPPP 101",
+          "texto": "Juegan Blancas y ganan",
+          "fen": "8/1k1K1p2/4p1p1/6P1/5P2/8/8/8 w - - 1 63",
+          "orientacion": "blanca",
+          "colorAlumno": "white",
+          "condicion": "ganar"
+        }
+      ]
+    },
+    {
+      "id": "kppkppp_102",
+      "titulo": "KPPKPPP 102",
+      "descripcion": "Juegan Blancas y ganan",
+      "segmentos": [
+        {
+          "tipo": "VSPC",
+          "titulo": "KPPKPPP 102",
+          "texto": "Juegan Blancas y ganan",
+          "fen": "8/4k3/6p1/6Kp/8/4p1P1/4P3/8 w - - 0 57",
+          "orientacion": "blanca",
+          "colorAlumno": "white",
+          "condicion": "ganar"
+        }
+      ]
+    },
+    {
+      "id": "kppkppp_103",
+      "titulo": "KPPKPPP 103",
+      "descripcion": "Juegan Negras y ganan",
+      "segmentos": [
+        {
+          "tipo": "VSPC",
+          "titulo": "KPPKPPP 103",
+          "texto": "Juegan Negras y ganan",
+          "fen": "8/8/1p6/1P1k2p1/1P4P1/5K2/8/8 b - - 0 43",
+          "orientacion": "negra",
+          "colorAlumno": "black",
+          "condicion": "ganar"
+        }
+      ]
+    },
+    {
+      "id": "kppkppp_104",
+      "titulo": "KPPKPPP 104",
+      "descripcion": "Juegan Negras y ganan",
+      "segmentos": [
+        {
+          "tipo": "VSPC",
+          "titulo": "KPPKPPP 104",
+          "texto": "Juegan Negras y ganan",
+          "fen": "8/8/4P3/3k3p/p7/P5P1/1K6/8 b - - 0 49",
+          "orientacion": "negra",
+          "colorAlumno": "black",
+          "condicion": "ganar"
+        }
+      ]
+    },
+    {
+      "id": "kppkppp_105",
+      "titulo": "KPPKPPP 105",
+      "descripcion": "Juegan Blancas y ganan",
+      "segmentos": [
+        {
+          "tipo": "VSPC",
+          "titulo": "KPPKPPP 105",
+          "texto": "Juegan Blancas y ganan",
+          "fen": "8/8/6p1/2k1Kp1p/7P/6P1/8/8 w - - 0 75",
+          "orientacion": "blanca",
+          "colorAlumno": "white",
+          "condicion": "ganar"
+        }
+      ]
+    },
+    {
+      "id": "kppkppp_106",
+      "titulo": "KPPKPPP 106",
+      "descripcion": "Juegan Negras y ganan",
+      "segmentos": [
+        {
+          "tipo": "VSPC",
+          "titulo": "KPPKPPP 106",
+          "texto": "Juegan Negras y ganan",
+          "fen": "8/8/6pp/8/5PPP/4k2K/8/8 b - - 0 67",
+          "orientacion": "negra",
+          "colorAlumno": "black",
+          "condicion": "ganar"
+        }
+      ]
+    },
+    {
+      "id": "kppkppp_107",
+      "titulo": "KPPKPPP 107",
+      "descripcion": "Juegan Blancas y ganan",
+      "segmentos": [
+        {
+          "tipo": "VSPC",
+          "titulo": "KPPKPPP 107",
+          "texto": "Juegan Blancas y ganan",
+          "fen": "k7/8/4p3/3pP3/3P2p1/4K3/8/8 w - - 0 52",
+          "orientacion": "blanca",
+          "colorAlumno": "white",
+          "condicion": "ganar"
+        }
+      ]
+    },
+    {
+      "id": "kppkppp_108",
+      "titulo": "KPPKPPP 108",
+      "descripcion": "Juegan Blancas y ganan",
+      "segmentos": [
+        {
+          "tipo": "VSPC",
+          "titulo": "KPPKPPP 108",
+          "texto": "Juegan Blancas y ganan",
+          "fen": "8/1k4p1/6p1/4p3/7P/4K1P1/8/8 w - - 0 41",
+          "orientacion": "blanca",
+          "colorAlumno": "white",
+          "condicion": "ganar"
+        }
+      ]
+    },
+    {
+      "id": "kppkppp_109",
+      "titulo": "KPPKPPP 109",
+      "descripcion": "Juegan Blancas y ganan",
+      "segmentos": [
+        {
+          "tipo": "VSPC",
+          "titulo": "KPPKPPP 109",
+          "texto": "Juegan Blancas y ganan",
+          "fen": "8/1p6/8/PP6/4kpp1/8/5K2/8 w - - 0 54",
+          "orientacion": "blanca",
+          "colorAlumno": "white",
+          "condicion": "ganar"
+        }
+      ]
+    },
+    {
+      "id": "kppkppp_110",
+      "titulo": "KPPKPPP 110",
+      "descripcion": "Juegan Negras y ganan",
+      "segmentos": [
+        {
+          "tipo": "VSPC",
+          "titulo": "KPPKPPP 110",
+          "texto": "Juegan Negras y ganan",
+          "fen": "8/6p1/5k1p/5P1P/8/5P2/2K5/8 b - - 2 66",
+          "orientacion": "negra",
+          "colorAlumno": "black",
+          "condicion": "ganar"
+        }
+      ]
+    },
+    {
+      "id": "kppkppp_111",
+      "titulo": "KPPKPPP 111",
+      "descripcion": "Juegan Blancas y ganan",
+      "segmentos": [
+        {
+          "tipo": "VSPC",
+          "titulo": "KPPKPPP 111",
+          "texto": "Juegan Blancas y ganan",
+          "fen": "8/8/4k3/3p2p1/3P2P1/1p6/8/K7 w - - 0 44",
+          "orientacion": "blanca",
+          "colorAlumno": "white",
+          "condicion": "ganar"
+        }
+      ]
+    },
+    {
+      "id": "kppkppp_112",
+      "titulo": "KPPKPPP 112",
+      "descripcion": "Juegan Blancas y ganan",
+      "segmentos": [
+        {
+          "tipo": "VSPC",
+          "titulo": "KPPKPPP 112",
+          "texto": "Juegan Blancas y ganan",
+          "fen": "8/8/8/5p1p/1k5P/3pK1P1/8/8 w - - 0 108",
+          "orientacion": "blanca",
+          "colorAlumno": "white",
+          "condicion": "ganar"
+        }
+      ]
+    },
+    {
+      "id": "kppkppp_113",
+      "titulo": "KPPKPPP 113",
+      "descripcion": "Juegan Negras y ganan",
+      "segmentos": [
+        {
+          "tipo": "VSPC",
+          "titulo": "KPPKPPP 113",
+          "texto": "Juegan Negras y ganan",
+          "fen": "8/8/8/5p1p/2k2P1P/6P1/8/2K5 b - - 0 65",
+          "orientacion": "negra",
+          "colorAlumno": "black",
+          "condicion": "ganar"
+        }
+      ]
+    },
+    {
+      "id": "kppkppp_114",
+      "titulo": "KPPKPPP 114",
+      "descripcion": "Juegan Negras y ganan",
+      "segmentos": [
+        {
+          "tipo": "VSPC",
+          "titulo": "KPPKPPP 114",
+          "texto": "Juegan Negras y ganan",
+          "fen": "8/8/8/7p/P2P3P/6pk/8/5K2 b - - 0 68",
+          "orientacion": "negra",
+          "colorAlumno": "black",
+          "condicion": "ganar"
+        }
+      ]
+    },
+    {
+      "id": "kppkppp_115",
+      "titulo": "KPPKPPP 115",
+      "descripcion": "Juegan Blancas y ganan",
+      "segmentos": [
+        {
+          "tipo": "VSPC",
+          "titulo": "KPPKPPP 115",
+          "texto": "Juegan Blancas y ganan",
+          "fen": "k7/8/8/1p4Kp/5Pp1/6P1/8/8 w - - 0 54",
+          "orientacion": "blanca",
+          "colorAlumno": "white",
+          "condicion": "ganar"
+        }
+      ]
+    }
+  ]
+}
