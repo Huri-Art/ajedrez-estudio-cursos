@@ -1,0 +1,904 @@
+{
+  "id": "c_1790308935833",
+  "titulo": "Finales de Rui Grafino - Lucas Chess",
+  "descripcion": "Colección de Finales de Rui Grafino incluidos en Lucas Chess",
+  "imagenUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUBlKG4Ys6kGZEQFvRvIR1tRT8O4CQ3S2gmv8aFQN6wFKae1gqnGVCRzs&s=10",
+  "lecciones": [
+    {
+      "id": "l_17903089358350",
+      "titulo": "Manuscrito Arabe Posición 1140",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "VSPC",
+          "titulo": "Manuscrito Arabe Posición 1140",
+          "texto": "Las Blancas siempre ganan",
+          "fen": "8/kn6/8/1K6/8/8/8/7R w - - 1 1",
+          "orientacion": "blanca",
+          "colorAlumno": "white",
+          "condicion": "ganar"
+        }
+      ]
+    },
+    {
+      "id": "l_17903089358351",
+      "titulo": "Posición Centurini I",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "VSPC",
+          "titulo": "Posición Centurini I",
+          "texto": "Blancas juegan y ganan",
+          "fen": "8/2K5/1P6/2k5/8/5b2/2B5/8 w - - 0 1",
+          "orientacion": "blanca",
+          "colorAlumno": "white",
+          "condicion": "ganar"
+        }
+      ]
+    },
+    {
+      "id": "l_17903089358352",
+      "titulo": "Posición Centurni II",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "VSPC",
+          "titulo": "Posición Centurni II",
+          "texto": "Blancas juegan y ganan",
+          "fen": "8/4B1b1/6P1/5K1k/8/8/8/8 w - - 0 1",
+          "orientacion": "blanca",
+          "colorAlumno": "white",
+          "condicion": "ganar"
+        }
+      ]
+    },
+    {
+      "id": "l_17903089358353",
+      "titulo": "Posición Centurni III",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "VSPC",
+          "titulo": "Posición Centurni III",
+          "texto": "Blancas juegan y ganan",
+          "fen": "2KB4/1P6/2k5/8/8/8/7b/8 w - - 0 1",
+          "orientacion": "blanca",
+          "colorAlumno": "white",
+          "condicion": "ganar"
+        }
+      ]
+    },
+    {
+      "id": "l_17903089358364",
+      "titulo": "Posición Lucena I",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "VSPC",
+          "titulo": "Posición Lucena I",
+          "texto": "Blancas juegan y ganan",
+          "fen": "1K1k4/1P6/8/8/8/8/r7/2R5 w - - 1 1",
+          "orientacion": "blanca",
+          "colorAlumno": "white",
+          "condicion": "ganar"
+        }
+      ]
+    },
+    {
+      "id": "l_17903089358365",
+      "titulo": "Posición Lucena II",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "VSPC",
+          "titulo": "Posición Lucena II",
+          "texto": "Blancas juegan y ganan",
+          "fen": "3K4/3P2k1/8/8/8/8/2r5/5R2 w - - 1 1",
+          "orientacion": "blanca",
+          "colorAlumno": "white",
+          "condicion": "ganar"
+        }
+      ]
+    },
+    {
+      "id": "l_17903089358366",
+      "titulo": "Posición Philidor",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "VSPC",
+          "titulo": "Posición Philidor",
+          "texto": "Juegan Negras y las Blancas hacen tablas",
+          "fen": "8/8/8/8/4pk2/R7/7r/4K3 b - - 1 1",
+          "orientacion": "blanca",
+          "colorAlumno": "white",
+          "condicion": "tablas"
+        }
+      ]
+    },
+    {
+      "id": "l_17903089358367",
+      "titulo": "Posición Reti",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "VSPC",
+          "titulo": "Posición Reti",
+          "texto": "Juegan Blancas y hacen tablas",
+          "fen": "7K/8/k1P5/7p/8/8/8/8 w - - 1 1",
+          "orientacion": "blanca",
+          "colorAlumno": "white",
+          "condicion": "tablas"
+        }
+      ]
+    },
+    {
+      "id": "l_17903089358368",
+      "titulo": "Posición Saavedra",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "VSPC",
+          "titulo": "Posición Saavedra",
+          "texto": "Juegan Blancas y ganan",
+          "fen": "8/8/1KP5/3r4/8/8/8/k7 w - - 1 1",
+          "orientacion": "blanca",
+          "colorAlumno": "white",
+          "condicion": "ganar"
+        }
+      ]
+    },
+    {
+      "id": "l_17903089358369",
+      "titulo": "Posición Vancura",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "VSPC",
+          "titulo": "Posición Vancura",
+          "texto": "Juegan blancas y las negras hacen tablas",
+          "fen": "R7/6k1/P4r2/8/2K5/8/8/8 w - - 1 1",
+          "orientacion": "negra",
+          "colorAlumno": "black",
+          "condicion": "tablas"
+        }
+      ]
+    },
+    {
+      "id": "l_179030893583610",
+      "titulo": "Rey y dos Torres I",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "VSPC",
+          "titulo": "Rey y dos Torres I",
+          "texto": "Juegan Blancas y ganan",
+          "fen": "4k3/8/8/8/8/8/8/R3K2R w KQ - 1 1",
+          "orientacion": "blanca",
+          "colorAlumno": "white",
+          "condicion": "ganar"
+        }
+      ]
+    },
+    {
+      "id": "l_179030893583611",
+      "titulo": "Rey y dos Torres II",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "VSPC",
+          "titulo": "Rey y dos Torres II",
+          "texto": "Juegan Blancas y ganan",
+          "fen": "1R1R4/8/8/2k5/5K2/8/8/8 w - - 1 1",
+          "orientacion": "blanca",
+          "colorAlumno": "white",
+          "condicion": "ganar"
+        }
+      ]
+    },
+    {
+      "id": "l_179030893583612",
+      "titulo": "Rey y dos Torres III",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "VSPC",
+          "titulo": "Rey y dos Torres III",
+          "texto": "Juegan Blancas y ganan",
+          "fen": "8/8/4K3/8/2k5/8/6RR/8 w - - 1 1",
+          "orientacion": "blanca",
+          "colorAlumno": "white",
+          "condicion": "ganar"
+        }
+      ]
+    },
+    {
+      "id": "l_179030893583613",
+      "titulo": "Rey y dos Torres contra Rey y Dama",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "VSPC",
+          "titulo": "Rey y dos Torres contra Rey y Dama",
+          "texto": "Juegan Blancas y ganan",
+          "fen": "8/R7/8/3K4/8/7R/5q2/1k6 w - - 1 1",
+          "orientacion": "blanca",
+          "colorAlumno": "white",
+          "condicion": "ganar"
+        }
+      ]
+    },
+    {
+      "id": "l_179030893583614",
+      "titulo": "Rey y dos Torres contra Rey y Torre",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "VSPC",
+          "titulo": "Rey y dos Torres contra Rey y Torre",
+          "texto": "Juegan Blancas y ganan",
+          "fen": "1r6/8/8/8/R7/8/1K5R/3k4 w - - 1 1",
+          "orientacion": "blanca",
+          "colorAlumno": "white",
+          "condicion": "ganar"
+        }
+      ]
+    },
+    {
+      "id": "l_179030893583615",
+      "titulo": "Rey y Dama contra Rey y Alfil I",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "VSPC",
+          "titulo": "Rey y Dama contra Rey y Alfil I",
+          "texto": "Juegan Blancas y ganan",
+          "fen": "8/8/2k5/3b3Q/8/3K4/8/8 w - - 0 1",
+          "orientacion": "blanca",
+          "colorAlumno": "white",
+          "condicion": "ganar"
+        }
+      ]
+    },
+    {
+      "id": "l_179030893583616",
+      "titulo": "Rey y Dama contra Rey y Alfil II",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "VSPC",
+          "titulo": "Rey y Dama contra Rey y Alfil II",
+          "texto": "Juegan Blancas y ganan",
+          "fen": "8/8/8/3b3Q/8/8/k1K5/8 w - - 0 1",
+          "orientacion": "blanca",
+          "colorAlumno": "white",
+          "condicion": "ganar"
+        }
+      ]
+    },
+    {
+      "id": "l_179030893583717",
+      "titulo": "Rey y Dama contra Rey y Alfil III",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "VSPC",
+          "titulo": "Rey y Dama contra Rey y Alfil III",
+          "texto": "Juegan Blancas y ganan",
+          "fen": "6Q1/8/8/8/3kb3/8/2K5/8 w - - 0 1",
+          "orientacion": "blanca",
+          "colorAlumno": "white",
+          "condicion": "ganar"
+        }
+      ]
+    },
+    {
+      "id": "l_179030893583718",
+      "titulo": "Rey y Dama contra Rey y Alfil IV",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "VSPC",
+          "titulo": "Rey y Dama contra Rey y Alfil IV",
+          "texto": "Juegan Blancas y ganan",
+          "fen": "8/8/5K2/8/8/2kb4/6Q1/8 w - - 0 1",
+          "orientacion": "blanca",
+          "colorAlumno": "white",
+          "condicion": "ganar"
+        }
+      ]
+    },
+    {
+      "id": "l_179030893583719",
+      "titulo": "Rey y Dama contra Rey y Caballo I",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "VSPC",
+          "titulo": "Rey y Dama contra Rey y Caballo I",
+          "texto": "Juegan Blancas y ganan",
+          "fen": "8/8/2k5/3n3Q/8/3K4/8/8 w - - 0 1",
+          "orientacion": "blanca",
+          "colorAlumno": "white",
+          "condicion": "ganar"
+        }
+      ]
+    },
+    {
+      "id": "l_179030893583720",
+      "titulo": "Rey y Dama contra Rey y Caballo II",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "VSPC",
+          "titulo": "Rey y Dama contra Rey y Caballo II",
+          "texto": "Juegan Blancas y ganan",
+          "fen": "8/8/8/3n3Q/8/8/k1K5/8 w - - 0 1",
+          "orientacion": "blanca",
+          "colorAlumno": "white",
+          "condicion": "ganar"
+        }
+      ]
+    },
+    {
+      "id": "l_179030893583721",
+      "titulo": "Rey y Dama contra Rey y Caballo III",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "VSPC",
+          "titulo": "Rey y Dama contra Rey y Caballo III",
+          "texto": "Juegan Blancas y ganan",
+          "fen": "6Q1/8/8/8/3kn3/8/2K5/8 w - - 0 1",
+          "orientacion": "blanca",
+          "colorAlumno": "white",
+          "condicion": "ganar"
+        }
+      ]
+    },
+    {
+      "id": "l_179030893583722",
+      "titulo": "Rey y Dama contra Rey y Caballo IV",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "VSPC",
+          "titulo": "Rey y Dama contra Rey y Caballo IV",
+          "texto": "Juegan Blancas y ganan",
+          "fen": "8/8/5K2/8/8/2kn4/6Q1/8 w - - 0 1",
+          "orientacion": "blanca",
+          "colorAlumno": "white",
+          "condicion": "ganar"
+        }
+      ]
+    },
+    {
+      "id": "l_179030893583723",
+      "titulo": "Rey y Torre contra Rey y Alfil I",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "VSPC",
+          "titulo": "Rey y Torre contra Rey y Alfil I",
+          "texto": "Blancas juegan y Negras hacen tablas",
+          "fen": "8/8/2k5/3b3R/8/3K4/8/8 w - - 0 1",
+          "orientacion": "negra",
+          "colorAlumno": "black",
+          "condicion": "tablas"
+        }
+      ]
+    },
+    {
+      "id": "l_179030893583724",
+      "titulo": "Rey y Torre contra Rey y Alfil II",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "VSPC",
+          "titulo": "Rey y Torre contra Rey y Alfil II",
+          "texto": "Juegan Blancas y ganan",
+          "fen": "8/8/8/3b3R/8/8/k1K5/8 w - - 0 1",
+          "orientacion": "blanca",
+          "colorAlumno": "white",
+          "condicion": "ganar"
+        }
+      ]
+    },
+    {
+      "id": "l_179030893583725",
+      "titulo": "Rey y Torre contra Rey y Alfil III",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "VSPC",
+          "titulo": "Rey y Torre contra Rey y Alfil III",
+          "texto": "Blancas juegan y Negras hacen tablas",
+          "fen": "6R1/8/8/8/3kb3/8/2K5/8 w - - 0 1",
+          "orientacion": "negra",
+          "colorAlumno": "black",
+          "condicion": "tablas"
+        }
+      ]
+    },
+    {
+      "id": "l_179030893583726",
+      "titulo": "Rey y Torre contra Rey y Alfil IV",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "VSPC",
+          "titulo": "Rey y Torre contra Rey y Alfil IV",
+          "texto": "Blancas juegan y Negras hacen tablas",
+          "fen": "8/8/5K2/8/8/2kb4/6R1/8 w - - 0 1",
+          "orientacion": "negra",
+          "colorAlumno": "black",
+          "condicion": "tablas"
+        }
+      ]
+    },
+    {
+      "id": "l_179030893583727",
+      "titulo": "Rey y Torre contra Rey y Caballo I",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "VSPC",
+          "titulo": "Rey y Torre contra Rey y Caballo I",
+          "texto": "Blancas juegan y Negras hacen tablas",
+          "fen": "8/8/2k5/3n3R/8/3K4/8/8 w - - 0 1",
+          "orientacion": "negra",
+          "colorAlumno": "black",
+          "condicion": "tablas"
+        }
+      ]
+    },
+    {
+      "id": "l_179030893583728",
+      "titulo": "Rey y Torre contra Rey y Caballo II",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "VSPC",
+          "titulo": "Rey y Torre contra Rey y Caballo II",
+          "texto": "Juegan Blancas y ganan",
+          "fen": "8/8/8/3n3R/8/8/k1K5/8 w - - 0 1",
+          "orientacion": "blanca",
+          "colorAlumno": "white",
+          "condicion": "ganar"
+        }
+      ]
+    },
+    {
+      "id": "l_179030893583729",
+      "titulo": "Rey y Torre contra Rey y Caballo III",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "VSPC",
+          "titulo": "Rey y Torre contra Rey y Caballo III",
+          "texto": "Blancas juegan y Negras hacen tablas",
+          "fen": "6R1/8/8/8/3kn3/8/2K5/8 w - - 0 1",
+          "orientacion": "negra",
+          "colorAlumno": "black",
+          "condicion": "tablas"
+        }
+      ]
+    },
+    {
+      "id": "l_179030893583730",
+      "titulo": "Rey y Torre contra Rey y Caballo IV",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "VSPC",
+          "titulo": "Rey y Torre contra Rey y Caballo IV",
+          "texto": "Blancas juegan y Negras hacen tablas",
+          "fen": "8/8/5K2/8/8/2kn4/6R1/8 w - - 0 1",
+          "orientacion": "negra",
+          "colorAlumno": "black",
+          "condicion": "tablas"
+        }
+      ]
+    },
+    {
+      "id": "l_179030893583731",
+      "titulo": "Mate con Caballo y Alfil I",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "VSPC",
+          "titulo": "Mate con Caballo y Alfil I",
+          "texto": "Juegan Blancas y ganan",
+          "fen": "8/2N5/6B1/8/2k5/8/5K2/8 w - - 1 1",
+          "orientacion": "blanca",
+          "colorAlumno": "white",
+          "condicion": "ganar"
+        }
+      ]
+    },
+    {
+      "id": "l_179030893583732",
+      "titulo": "Mate con Caballo y Alfil II",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "VSPC",
+          "titulo": "Mate con Caballo y Alfil II",
+          "texto": "Juegan Blancas y ganan",
+          "fen": "4k3/8/8/8/8/8/8/4KBN1 w - - 1 1",
+          "orientacion": "blanca",
+          "colorAlumno": "white",
+          "condicion": "ganar"
+        }
+      ]
+    },
+    {
+      "id": "l_179030893583733",
+      "titulo": "Mate con Caballo y Alfil III",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "VSPC",
+          "titulo": "Mate con Caballo y Alfil III",
+          "texto": "Juegan Blancas y ganan",
+          "fen": "8/4k3/8/1B5N/8/8/8/4K3 w - - 1 1",
+          "orientacion": "blanca",
+          "colorAlumno": "white",
+          "condicion": "ganar"
+        }
+      ]
+    },
+    {
+      "id": "l_179030893583734",
+      "titulo": "Mate con Caballo y Alfil IV",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "VSPC",
+          "titulo": "Mate con Caballo y Alfil IV",
+          "texto": "Juegan Blancas y ganan",
+          "fen": "1k6/8/1K3B2/2N5/8/8/8/8 w - - 1 1",
+          "orientacion": "blanca",
+          "colorAlumno": "white",
+          "condicion": "ganar"
+        }
+      ]
+    },
+    {
+      "id": "l_179030893583735",
+      "titulo": "Mate con Rey y Dama I",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "VSPC",
+          "titulo": "Mate con Rey y Dama I",
+          "texto": "Juegan Blancas y ganan",
+          "fen": "8/8/6K1/8/3k4/8/8/1Q6 w - - 1 1",
+          "orientacion": "blanca",
+          "colorAlumno": "white",
+          "condicion": "ganar"
+        }
+      ]
+    },
+    {
+      "id": "l_179030893583736",
+      "titulo": "Mate con Rey y Dama II",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "VSPC",
+          "titulo": "Mate con Rey y Dama II",
+          "texto": "Juegan Blancas y ganan",
+          "fen": "4k3/8/8/8/8/8/8/3QK3 w - - 1 1",
+          "orientacion": "blanca",
+          "colorAlumno": "white",
+          "condicion": "ganar"
+        }
+      ]
+    },
+    {
+      "id": "l_179030893583737",
+      "titulo": "Mate con Rey y Dama III",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "VSPC",
+          "titulo": "Mate con Rey y Dama III",
+          "texto": "Juegan Blancas y ganan",
+          "fen": "1k6/8/2Q5/1K6/8/8/8/8 w - - 1 1",
+          "orientacion": "blanca",
+          "colorAlumno": "white",
+          "condicion": "ganar"
+        }
+      ]
+    },
+    {
+      "id": "l_179030893583738",
+      "titulo": "Mate con Rey y Dama IV",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "VSPC",
+          "titulo": "Mate con Rey y Dama IV",
+          "texto": "Juegan Blancas y ganan",
+          "fen": "8/8/3k4/8/8/1Q6/8/7K w - - 0 1",
+          "orientacion": "blanca",
+          "colorAlumno": "white",
+          "condicion": "ganar"
+        }
+      ]
+    },
+    {
+      "id": "l_179030893583739",
+      "titulo": "Mate con Rey y Dama V",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "VSPC",
+          "titulo": "Mate con Rey y Dama V",
+          "texto": "Juegan Blancas y ganan",
+          "fen": "Q7/4k3/8/8/8/K7/8/8 w - - 0 1",
+          "orientacion": "blanca",
+          "colorAlumno": "white",
+          "condicion": "ganar"
+        }
+      ]
+    },
+    {
+      "id": "l_179030893583740",
+      "titulo": "Mate con Rey y Dama VI",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "VSPC",
+          "titulo": "Mate con Rey y Dama VI",
+          "texto": "Juegan Blancas y ganan",
+          "fen": "Q7/8/8/8/8/K7/8/k7 w - - 0 1",
+          "orientacion": "blanca",
+          "colorAlumno": "white",
+          "condicion": "ganar"
+        }
+      ]
+    },
+    {
+      "id": "l_179030893583741",
+      "titulo": "Mate con Rey y Torre I",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "VSPC",
+          "titulo": "Mate con Rey y Torre I",
+          "texto": "Juegan Blancas y ganan",
+          "fen": "3k4/8/3K4/8/8/3R4/8/8 w - - 1 1",
+          "orientacion": "blanca",
+          "colorAlumno": "white",
+          "condicion": "ganar"
+        }
+      ]
+    },
+    {
+      "id": "l_179030893583742",
+      "titulo": "Mate con Rey y Torre II",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "VSPC",
+          "titulo": "Mate con Rey y Torre II",
+          "texto": "Juegan Blancas y ganan",
+          "fen": "4k3/8/8/8/8/8/8/R3K3 w Q - 1 1",
+          "orientacion": "blanca",
+          "colorAlumno": "white",
+          "condicion": "ganar"
+        }
+      ]
+    },
+    {
+      "id": "l_179030893583743",
+      "titulo": "Mate con Rey y Torre III",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "VSPC",
+          "titulo": "Mate con Rey y Torre III",
+          "texto": "Juegan Blancas y ganan",
+          "fen": "8/8/6K1/8/3k4/8/8/R7 w - - 1 1",
+          "orientacion": "blanca",
+          "colorAlumno": "white",
+          "condicion": "ganar"
+        }
+      ]
+    },
+    {
+      "id": "l_179030893583744",
+      "titulo": "Mate con Rey y Torre IV",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "VSPC",
+          "titulo": "Mate con Rey y Torre IV",
+          "texto": "Juegan Blancas y ganan",
+          "fen": "4R3/8/8/6K1/2k5/8/8/8 w - - 0 1",
+          "orientacion": "blanca",
+          "colorAlumno": "white",
+          "condicion": "ganar"
+        }
+      ]
+    },
+    {
+      "id": "l_179030893583745",
+      "titulo": "Mate con Rey y Torre V",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "VSPC",
+          "titulo": "Mate con Rey y Torre V",
+          "texto": "Juegan Blancas y ganan",
+          "fen": "8/8/7K/8/2k5/5R2/8/8 w - - 1 1",
+          "orientacion": "blanca",
+          "colorAlumno": "white",
+          "condicion": "ganar"
+        }
+      ]
+    },
+    {
+      "id": "l_179030893583846",
+      "titulo": "Mate con Rey y Torre VI",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "VSPC",
+          "titulo": "Mate con Rey y Torre VI",
+          "texto": "Juegan Blancas y ganan",
+          "fen": "8/R7/7K/8/8/8/8/6k1 w - - 1 1",
+          "orientacion": "blanca",
+          "colorAlumno": "white",
+          "condicion": "ganar"
+        }
+      ]
+    },
+    {
+      "id": "l_179030893583847",
+      "titulo": "Mate con dos Alfiles I",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "VSPC",
+          "titulo": "Mate con dos Alfiles I",
+          "texto": "Juegan Blancas y ganan",
+          "fen": "4k3/8/8/8/8/8/8/2B1KB2 w - - 1 1",
+          "orientacion": "blanca",
+          "colorAlumno": "white",
+          "condicion": "ganar"
+        }
+      ]
+    },
+    {
+      "id": "l_179030893583848",
+      "titulo": "Mate con dos Alfiles II",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "VSPC",
+          "titulo": "Mate con dos Alfiles II",
+          "texto": "Juegan Blancas y ganan",
+          "fen": "8/8/8/3k4/5B2/3B4/5K2/8 w - - 1 1",
+          "orientacion": "blanca",
+          "colorAlumno": "white",
+          "condicion": "ganar"
+        }
+      ]
+    },
+    {
+      "id": "l_179030893583849",
+      "titulo": "Mate con dos Alfiles III",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "VSPC",
+          "titulo": "Mate con dos Alfiles III",
+          "texto": "Juegan Blancas y ganan",
+          "fen": "8/2B5/6B1/8/2k5/8/5K2/8 w - - 1 1",
+          "orientacion": "blanca",
+          "colorAlumno": "white",
+          "condicion": "ganar"
+        }
+      ]
+    },
+    {
+      "id": "l_179030893583850",
+      "titulo": "Peones pasados",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "VSPC",
+          "titulo": "Peones pasados",
+          "texto": "Juegan blancas y ganan",
+          "fen": "8/3k1ppp/8/8/5KPP/8/P7/8 w - - 1 1",
+          "orientacion": "blanca",
+          "colorAlumno": "white",
+          "condicion": "ganar"
+        }
+      ]
+    },
+    {
+      "id": "l_179030893583851",
+      "titulo": "Rupturas complejas",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "VSPC",
+          "titulo": "Rupturas complejas",
+          "texto": "Juegan negras y ganan",
+          "fen": "8/2k5/8/2Kp1p1p/3Pp1p1/4P1P1/5PP1/8 b - - 1 1",
+          "orientacion": "negra",
+          "colorAlumno": "black",
+          "condicion": "ganar"
+        }
+      ]
+    },
+    {
+      "id": "l_179030893583852",
+      "titulo": "Rupturas de cuatro peones",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "VSPC",
+          "titulo": "Rupturas de cuatro peones",
+          "texto": "Juegan blancas y ganan",
+          "fen": "8/5pp1/4p2p/4P2P/5PP1/k7/8/K7 w - - 1 1",
+          "orientacion": "blanca",
+          "colorAlumno": "white",
+          "condicion": "ganar"
+        }
+      ]
+    },
+    {
+      "id": "l_179030893583853",
+      "titulo": "Rupturas de tres peones I",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "VSPC",
+          "titulo": "Rupturas de tres peones I",
+          "texto": "Juegan blancas y ganan",
+          "fen": "8/5ppp/8/k4PPP/8/K7/8/8 w - - 1 1",
+          "orientacion": "blanca",
+          "colorAlumno": "white",
+          "condicion": "ganar"
+        }
+      ]
+    },
+    {
+      "id": "l_179030893583854",
+      "titulo": "Rupturas de tres peones II",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "VSPC",
+          "titulo": "Rupturas de tres peones II",
+          "texto": "Juegan blancas y ganan",
+          "fen": "8/7k/4K1p1/5p1p/5P1P/6P1/8/8 w - - 1 1",
+          "orientacion": "blanca",
+          "colorAlumno": "white",
+          "condicion": "ganar"
+        }
+      ]
+    },
+    {
+      "id": "l_179030893583855",
+      "titulo": "Rupturas de tres peones III",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "VSPC",
+          "titulo": "Rupturas de tres peones III",
+          "texto": "Juegan blancas y ganan",
+          "fen": "8/4k1pp/8/4KPPP/8/8/8/8 w - - 1 1",
+          "orientacion": "blanca",
+          "colorAlumno": "white",
+          "condicion": "ganar"
+        }
+      ]
+    }
+  ]
+}
