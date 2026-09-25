@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "actualizado": "2026-05-04",
+  "actualizado": "2026-09-24",
   "cursos": [
     {
       "id": "c_1774042840347",
@@ -73,6 +73,14 @@
       "imagenUrl": "https://www.chessenigma.com/wp-content/uploads/2024/12/miguelindia-enigmatica-miguel-santos.webp",
       "version": 1,
       "bundleUrl": "cursos/MiguelIndia.json"
+    },
+    {
+      "id": "c_1790308935833",
+      "titulo": "Finales de Rui Grafino - Lucas Chess",
+      "descripcion": "Juega finales clave contra la computadora hasta ganar o hacer tablas (modo VSPC).",
+      "imagenUrl": "https://assets-courses.chess.com/image/courses/295333_course_square_opt.jpeg",
+      "version": 1,
+      "bundleUrl": "cursos/10_Finales_Rui_Grafino_LC.json"
     }
   ]
- }
+}
