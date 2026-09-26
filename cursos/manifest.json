@@ -161,6 +161,14 @@
       "imagenUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUBlKG4Ys6kGZEQFvRvIR1tRT8O4CQ3S2gmv8aFQN6wFKae1gqnGVCRzs&s=10",
       "version": 1,
       "bundleUrl": "cursos/20_Finales_Peones_10_KPPPPKPPP.json"
+    },
+    {
+      "id": "c_1790382559657",
+      "titulo": "Bobby Fisher enseña a jugar Ajedrez Parte 4",
+      "descripcion": "Capitulo 4 del curso",
+      "imagenUrl": "https://imgv2-1-f.scribdassets.com/img/document/250052576/original/78cefe5a94/1?v=1",
+      "version": 1,
+      "bundleUrl": "cursos/21_Bobby_Teach4.json"
     }
   ]
 }
