@@ -199,10 +199,17 @@
           "texto": "¿Pueden dar mate las blancas alejando primero a un defensor negro?",
           "orientacion": "blanca",
           "fen": "7k/1p4pp/1pn5/q4p2/2P2Q1P/bP3P2/6P1/3R3K w - - 0 1",
-          "secuenciaCorrecta": [],
+          "secuenciaCorrecta": [
+            "f4b8",
+            "c6b8",
+            "d1d8",
+            "a3f8",
+            "d8f8"
+          ],
           "comentariosMovimiento": [
             "Si. Primero se aleja al Caballo negro.",
-            "A continuación la Torre blanca da mate. Las negras sólo pueden interponer inútilmente su Alfil."
+            "A continuación la Torre blanca da mate. Las negras sólo pueden interponer inútilmente su Alfil.",
+            ""
           ]
         }
       ]
@@ -277,10 +284,17 @@
           "texto": "Siempre sobre el mismo tema de alejar a su adversario de una posición defensiva clave, aquí tenemos otro ejemplo.",
           "orientacion": "blanca",
           "fen": "2k4r/ppp5/4p1n1/4Pp1q/2p3pp/1P2P3/PB1Q1PPP/3R2K1 w - - 0 1",
-          "secuenciaCorrecta": [],
+          "secuenciaCorrecta": [
+            "d2d7",
+            "c8b8",
+            "d7d8",
+            "h8d8",
+            "d1d8"
+          ],
           "comentariosMovimiento": [
-            "La Torre y la Dama blancas no pueden dar mate directamente en la última fila. Hay dos defensores: el Rey y la Torre negros. La idea es apartar primero al Rey, de manera de eliminarlo como defensor.Por tanto. la Dama blanca da jaque y el Rey negro se ve forzado a moverse hacia el rincón",
-            "Y ahora las blancas pueden dar un mate muy simple en la última fila."
+            "La Torre y la Dama blancas no pueden dar mate directamente en la última fila. Hay dos defensores: el Rey y la Torre negros. La idea es apartar primero al Rey, de manera de eliminarlo como defensor. Por tanto. la Dama blanca da jaque.El Rey negro se ve forzado a moverse hacia el rincón.",
+            "",
+            "Y ahora las blancas pueden dar un mate muy simple en la última fila"
           ]
         }
       ]
