@@ -1,0 +1,1010 @@
+{
+  "id": "c_1790382559657",
+  "titulo": "Bobby Fisher enseña a jugar Ajedrez Parte 4",
+  "descripcion": "Capitulo 4 del curso",
+  "imagenUrl": "https://imgv2-1-f.scribdassets.com/img/document/250052576/original/78cefe5a94/1?v=1",
+  "lecciones": [
+    {
+      "id": "l_17903825596600",
+      "titulo": "PARA DESCOLOCAR A LOS DEFENSORES",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "INFO",
+          "titulo": "PARA DESCOLOCAR A LOS DEFENSORES",
+          "texto": "Sus planes de dar jaque mate se ven. a veces, perturbados por la presencia de una pieza adversaria, que es clave en su sistema defensivo. En tales situaciones usted sólo podrá dar mate una vez que haya alejado la mencionada pieza.",
+          "mostrarTablero": false,
+          "orientacion": "blanca"
+        }
+      ]
+    },
+    {
+      "id": "l_17903825596611",
+      "titulo": "Diagrama 159",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "INFO",
+          "titulo": "Diagrama 159",
+          "texto": "",
+          "mostrarTablero": true,
+          "orientacion": "blanca",
+          "fen": "6k1/5ppp/2b5/6q1/8/8/5PPP/R3R1K1 w - - 0 1",
+          "pgn": "{Las blancas tienen en este caso un mate muy simple. A simple vista puede parecer dificil, pues el Alfil negro puede capturar cualquier Torre blanca que dé jaque. Estudie los movimientos de ambos jugadores, tal como se le indicarán.} Ra8+ {En primer término, se sacrifica la Torre de la izquierda, moviéndola hasta la última fila negra. El Alfil negro tiene que capturarla. (la interposición es inútil.)} Bxa8 {El Alfil negro ya capturó y ahora la segunda Torre puede dar mate. La Idea de este plan es apartar al Alf-il negro de su posición de guardián de un cuadrado clave.} Re8# *"
+        }
+      ]
+    },
+    {
+      "id": "l_17903825596622",
+      "titulo": "Diagrama 159 II",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "INFO",
+          "titulo": "Diagrama 159 II",
+          "texto": "",
+          "mostrarTablero": true,
+          "orientacion": "blanca",
+          "fen": "6k1/5ppp/2b5/6q1/8/8/5PPP/R3R1K1 w - - 0 1",
+          "pgn": "{Vea lo que sucede si las blancas, por error, dieran primero jaque con la otra Torre} Re8+ Bxe8 Ra8 {En el segundo movimiento, la Torre blanca amenaza dar mate, pero ni siquiera consigue dar jaque, dando a las negras tiempo de defenderse. La defensa resulta de hecho tan buena, que son las negras las que dan mate a las blancas.} Qc1# *"
+        }
+      ]
+    },
+    {
+      "id": "l_17903825596723",
+      "titulo": "Diagrama 160",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 160",
+          "texto": "Para iniciar una combinación de mate, ¿cuál debe ser el movimiento de las blancas?",
+          "orientacion": "blanca",
+          "fen": "6k1/5ppp/2n5/8/4b3/8/r4PPP/1R1R2K1 w - - 0 1",
+          "secuenciaCorrecta": [
+            "b1b8",
+            "c6b8",
+            "d1d8"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_17903825596834",
+      "titulo": "Diagrama 161",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 161",
+          "texto": "La Torre blanca da jaque",
+          "orientacion": "negra",
+          "fen": "1k6/p1p2n2/1p4r1/4b1p1/5p2/2P3P1/PPK2PB1/3R3R w - - 0 1",
+          "secuenciaCorrecta": [
+            "h1h8",
+            "e5h8"
+          ],
+          "comentariosMovimiento": [
+            "[%cal Gf7d8,Rd1d8] Alfil, las negras no deben permitir que su Caballo sea alejado."
+          ],
+          "comentariosRival": [
+            "Con que deben capturar las negras para salvarse?"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_17903825596855",
+      "titulo": "Diagrama 162",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 162",
+          "texto": "",
+          "orientacion": "blanca",
+          "fen": "2r3k1/5ppp/4b3/3p4/8/8/5PPP/2R1R1K1 w - - 0 1",
+          "secuenciaCorrecta": [
+            "c1c8",
+            "e6c8",
+            "e1e8"
+          ],
+          "comentariosMovimiento": [
+            "la captura del Alfíl negro permitiría a la Torre restante dar mate.",
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_17903825596856",
+      "titulo": "Diagrama 163",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "QUIZ",
+          "titulo": "Diagrama 163",
+          "texto": "¿Pueden dar mate las blancas alejando primero a la Dama negra?",
+          "mostrarTablero": true,
+          "orientacion": "blanca",
+          "opciones": [
+            "Si",
+            "No"
+          ],
+          "respuestaCorrecta": "No",
+          "fen": "1k6/ppp1q1rp/8/6p1/2P3P1/P4Q1P/1P6/K2R4 w - - 0 1"
+        }
+      ]
+    },
+    {
+      "id": "l_17903825596857",
+      "titulo": "Respuesta: Diagrama 163",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "INFO",
+          "titulo": "Respuesta: Diagrama 163",
+          "texto": "",
+          "mostrarTablero": true,
+          "orientacion": "blanca",
+          "fen": "1k6/ppp1q1rp/8/6p1/2P3P1/P4Q1P/1P6/K2R4 w - - 0 1",
+          "pgn": "{No.No resultará en casos como éste, porque la Dama continuará cubriendo la última fila.} Qf8+ {Después que la Dama blanca se mueva a la última fila, dando jaque, las negras pueden simplemente capturarla.} Qxf8 *"
+        }
+      ]
+    },
+    {
+      "id": "l_17903825596868",
+      "titulo": "Diagrama 164",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "QUIZ",
+          "titulo": "Diagrama 164",
+          "texto": "¿Pueden dar mate las blancas alejando primero a un defensor negro?",
+          "mostrarTablero": true,
+          "orientacion": "blanca",
+          "opciones": [
+            "Si",
+            "No"
+          ],
+          "respuestaCorrecta": "No",
+          "fen": "1k6/pp4p1/3b2n1/2pN2p1/P1P5/1P5R/4r1P1/5RK1 w - - 0 1"
+        }
+      ]
+    },
+    {
+      "id": "l_17903825596869",
+      "titulo": "Respuesta: Diagrama 164",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "INFO",
+          "titulo": "Respuesta: Diagrama 164",
+          "texto": "",
+          "mostrarTablero": true,
+          "orientacion": "blanca",
+          "fen": "1k6/pp4p1/3b2n1/2pN2p1/P1P5/1P5R/4r1P1/5RK1 w - - 0 1",
+          "pgn": "{No.Aunque se lograra alejar el Cabstlo negro, el Alfil negro seguiría cubriendo la posición.} Rh8+ Nxh8 Rf8 {[%cal Rd6f8]} *"
+        }
+      ]
+    },
+    {
+      "id": "l_179038255968910",
+      "titulo": "Diagrama 165",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 165",
+          "texto": "¿Pueden dar mate las blancas alejando primero a un defensor negro?",
+          "orientacion": "blanca",
+          "fen": "7k/1p4pp/1pn5/q4p2/2P2Q1P/bP3P2/6P1/3R3K w - - 0 1",
+          "secuenciaCorrecta": [],
+          "comentariosMovimiento": [
+            "Si. Primero se aleja al Caballo negro.",
+            "A continuación la Torre blanca da mate. Las negras sólo pueden interponer inútilmente su Alfil."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_179038255969111",
+      "titulo": "Diagrama 166",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 166",
+          "texto": "¿Pueden dar mate las blancas en este caso?",
+          "orientacion": "blanca",
+          "fen": "4r2k/6pp/p4n2/1pp5/3b4/8/B5PP/4RR1K w - - 0 1",
+          "secuenciaCorrecta": [
+            "e1e8",
+            "f6e8",
+            "f1f8"
+          ],
+          "comentariosMovimiento": [
+            "",
+            "El Caballo negro toma la Torre. La segunda T arre blanca da mate en la última fila. Si, en cambio, se interpone el Caballo, las blancas dan mate capturando el Caballo con la Torre"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_179038255969112",
+      "titulo": "Diagrama 167",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "QUIZ",
+          "titulo": "Diagrama 167",
+          "texto": "¿Pueden dar mate las blancas capturando primero un defensor negro?",
+          "mostrarTablero": true,
+          "orientacion": "blanca",
+          "opciones": [
+            "Si",
+            "No"
+          ],
+          "respuestaCorrecta": "No",
+          "fen": "6k1/5pp1/3n4/8/8/4RN1P/rq4P1/2Q3K1 w - - 0 1"
+        }
+      ]
+    },
+    {
+      "id": "l_179038255969213",
+      "titulo": "Respuesta:Diagrama 167",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "INFO",
+          "titulo": "Respuesta:Diagrama 167",
+          "texto": "",
+          "mostrarTablero": true,
+          "orientacion": "blanca",
+          "fen": "6k1/5pp1/3n4/8/8/4RN1P/rq4P1/2Q3K1 w - - 0 1",
+          "pgn": "{No.Si la Dama blanca trata de descolocar al Caballo negro. no conseguirá nada. El Rey negro tiene un cuadrado de escape.} Qc8+ Nxc8 Re8+ {[%cal Rg8h7]} *"
+        }
+      ]
+    },
+    {
+      "id": "l_179038255969514",
+      "titulo": "Diagrama 168",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 168",
+          "texto": "Siempre sobre el mismo tema de alejar a su adversario de una posición defensiva clave, aquí tenemos otro ejemplo.",
+          "orientacion": "blanca",
+          "fen": "2k4r/ppp5/4p1n1/4Pp1q/2p3pp/1P2P3/PB1Q1PPP/3R2K1 w - - 0 1",
+          "secuenciaCorrecta": [],
+          "comentariosMovimiento": [
+            "La Torre y la Dama blancas no pueden dar mate directamente en la última fila. Hay dos defensores: el Rey y la Torre negros. La idea es apartar primero al Rey, de manera de eliminarlo como defensor.Por tanto. la Dama blanca da jaque y el Rey negro se ve forzado a moverse hacia el rincón",
+            "Y ahora las blancas pueden dar un mate muy simple en la última fila."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_179038255969515",
+      "titulo": "Diagrama 169",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "QUIZ",
+          "titulo": "Diagrama 169",
+          "texto": "[%cal Rd2d7] ¿Pueden dar mate las blancas si en este caso primero se mueve la Dama donde indica la flecha?",
+          "mostrarTablero": true,
+          "orientacion": "blanca",
+          "opciones": [
+            "Si",
+            "No"
+          ],
+          "respuestaCorrecta": "No",
+          "fen": "2k4r/1pp2p2/p4pq1/4p3/P7/7p/1PPQ1PPP/3R2K1 w - - 0 1"
+        }
+      ]
+    },
+    {
+      "id": "l_179038255969516",
+      "titulo": "Respuesta: Diagrama 169",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "INFO",
+          "titulo": "Respuesta: Diagrama 169",
+          "texto": "",
+          "mostrarTablero": true,
+          "orientacion": "blanca",
+          "fen": "2k4r/1pp2p2/p4pq1/4p3/P7/7p/1PPQ1PPP/3R2K1 w - - 0 1",
+          "pgn": "Qd7+ {No, no se consigue nada con apartar al Rey. El Rey negro puede ser obligado a alejarse, pero tiene un cuadrado de escape.} Kb8 Qd8+ Rxd8 Rxd8+ {[%cal Rb8a7]} *"
+        }
+      ]
+    },
+    {
+      "id": "l_179038255969517",
+      "titulo": "Diagrama 170",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "QUIZ",
+          "titulo": "Diagrama 170",
+          "texto": "[%cal Rb7f7] Si la Dama blanca se mueve donde indica la flecha, ¿darán mate las blancas?",
+          "mostrarTablero": true,
+          "orientacion": "blanca",
+          "opciones": [
+            "Si",
+            "No"
+          ],
+          "respuestaCorrecta": "No",
+          "fen": "3r2k1/pQ3ppp/3p4/2pPp2b/q1P1P3/P1PB4/6PP/5RK1 w - - 0 1"
+        }
+      ]
+    },
+    {
+      "id": "l_179038255969518",
+      "titulo": "Respuesta:Diagrama 170",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "INFO",
+          "titulo": "Respuesta:Diagrama 170",
+          "texto": "",
+          "mostrarTablero": true,
+          "orientacion": "blanca",
+          "fen": "3r2k1/pQ3ppp/3p4/2pPp2b/q1P1P3/P1PB4/6PP/5RK1 w - - 0 1",
+          "pgn": "{No.} Qxf7+ {[%cal Rh5f7]} {El Alfil negro captura a la Dama blancn. Si, en cambio, y por error. las negras alejan a su Rey, hay mate de las blancas.)} *"
+        }
+      ]
+    },
+    {
+      "id": "l_179038255969819",
+      "titulo": "Diagrama 171",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 171",
+          "texto": "Hay muchas maneras de alejar al Rey negro",
+          "orientacion": "blanca",
+          "fen": "1R3rk1/5ppp/8/2pNb3/2P5/r3P3/5PPP/1R4K1 w - - 0 1",
+          "secuenciaCorrecta": [
+            "d5e7",
+            "g8h8",
+            "b8f8"
+          ],
+          "comentariosMovimiento": [
+            "Las blancas dan jaque con el Caballo",
+            "Ya está el Rey negro en el rincón. las blancas pueden ahora capturar la Torre negra con su Torre. Mate."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_179038255970420",
+      "titulo": "Diagrama 171  II",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 171  II",
+          "texto": "",
+          "orientacion": "blanca",
+          "fen": "6k1/p4rpp/1p6/5p2/5P2/6P1/PPr3BP/4R1K1 w - - 0 1",
+          "secuenciaCorrecta": [
+            "e1e8",
+            "f7f8",
+            "g2d5",
+            "g8h8",
+            "e8f8"
+          ],
+          "comentariosMovimiento": [
+            "La Torre blanca ha dado jaque . Las negras deben interponer su Torre",
+            "Y ahora el Alfil blanco ataca. El Rey negro se ve obligado a dirigirse al rincón su Torre está clavada y no puede interponerse",
+            "Las blancas capturan la Torre negra con su Torre. Mate"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_179038255970921",
+      "titulo": "Diagrama 171  III",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 171  III",
+          "texto": "",
+          "orientacion": "blanca",
+          "fen": "6k1/p4ppp/1b6/2q5/8/1B6/P5PP/4Q2K w - - 0 1",
+          "secuenciaCorrecta": [
+            "e1e8",
+            "c5f8",
+            "b3f7",
+            "g8h8",
+            "e8f8"
+          ],
+          "comentariosMovimiento": [
+            "La Dama blanca ha dado jaque, la Dama negra debe interponerse",
+            "Las blancas toman el Peón con el Alfil con Jaque. ¿Qué pueden hacer las negras? Su Dama no puede moverse. está clavada. Tampoco puede capturar el Rey mismo. Sólo le queda moverse al rincón. donde le darán mate.",
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_179038255971222",
+      "titulo": "Diagrama 171  IV",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 171  IV",
+          "texto": "",
+          "orientacion": "blanca",
+          "fen": "1kqQ4/p1p5/8/8/5p1p/P2R4/KPP3rP/8 w - - 0 1",
+          "secuenciaCorrecta": [
+            "d3b3",
+            "b8a8",
+            "d8c8"
+          ],
+          "comentariosMovimiento": [
+            "Aquí la Torre da jaque",
+            "Las blancas capturan la Dama con su Dama. Mate."
+          ],
+          "comentariosRival": [
+            "las negras tienen un solo movimiento: el Rey al rincón"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_179038255971523",
+      "titulo": "Diagrama 171  V",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 171  V",
+          "texto": "",
+          "orientacion": "blanca",
+          "fen": "2kqQ3/ppp5/2P4p/NP4p1/5b2/8/1P3P2/K7 w - - 0 1",
+          "secuenciaCorrecta": [
+            "c6b7",
+            "c8b8",
+            "e8d8"
+          ],
+          "comentariosMovimiento": [
+            "A veces hasta un Peón avanzado puede participar. En este caso, el Peón blanco captura el Peón adversario. Jaque. Observe ahora la posición. El Peón blanco está protegido por el Caballo. Al Rey negro sólo le queda alejarse",
+            "El mate se dará capturando la Dama negra con la Dama"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_179038255971924",
+      "titulo": "Diagrama 172",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 172",
+          "texto": "Cual es el movimiento correcto de las blancas?",
+          "orientacion": "blanca",
+          "fen": "4Rrk1/1pp2p1p/5p2/1p6/5P2/2P5/rPK2P1P/4R3 w - - 0 1",
+          "secuenciaCorrecta": [
+            "e1g1",
+            "g8h8",
+            "e8f8"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_179038255972125",
+      "titulo": "Diagrama 173",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 173",
+          "texto": "",
+          "orientacion": "blanca",
+          "fen": "r1b1Qqk1/1p4pp/1np2P2/p7/7N/1P6/P1P3PP/4R2K w - - 0 1",
+          "secuenciaCorrecta": [
+            "f6f7",
+            "g8h8",
+            "e8f8"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_179038255972226",
+      "titulo": "Diagrama 174",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 174",
+          "texto": "Veamos algunas defensas simples para evitar que el adversario consiga su propósito de descolocar nuestras piezas",
+          "orientacion": "negra",
+          "fen": "r2br1k1/1bq3pp/p1n5/1pp1p3/P3P2N/2P2Q2/1PB3PP/R1B2RK1 w - - 0 1",
+          "secuenciaCorrecta": [
+            "f3f7",
+            "c7f7"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_179038255972527",
+      "titulo": "Diagrama 174 II",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 174 II",
+          "texto": "Veamos algunas defensas simples para evitar que el adversario consiga su propósito de descolocar nuestras piezas",
+          "orientacion": "negra",
+          "fen": "r2br1k1/1bq3pp/p1n5/1pp1p3/P3P2N/5Q2/1PB3PP/R1B2RK1 w - - 0 1",
+          "secuenciaCorrecta": [
+            "c2b3",
+            "c5c4"
+          ],
+          "comentariosMovimiento": [
+            "El Peón negro avanza y se interpone."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_179038255973028",
+      "titulo": "Diagrama 175",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 175",
+          "texto": "En esta posición, las blancas tienen varias alternativas, pero hay un solo movimiento correcto. ¿Cuál es el movimiento correcto de las blancas?",
+          "orientacion": "blanca",
+          "fen": "4r1k1/q5pp/8/1n6/1pp5/6P1/1P3QBP/5R1K w - - 0 1",
+          "secuenciaCorrecta": [
+            "g2d5",
+            "g8h8",
+            "f2f8",
+            "e8f8",
+            "f1f8"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_179038255973229",
+      "titulo": "Diagrama 176",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 176",
+          "texto": "¿Cómo debe moverse la Dama blanca?",
+          "orientacion": "blanca",
+          "fen": "2k2r2/ppp4Q/5p2/4p3/8/qP6/P1P5/1K1R4 w - - 0 1",
+          "secuenciaCorrecta": [
+            "h7d7",
+            "c8b8",
+            "d7d8",
+            "f8d8",
+            "d1d8"
+          ],
+          "comentariosMovimiento": [
+            "",
+            "",
+            "Si se mueven al cuadrado Rojo, las blancas no tendrían suficiente poder para dar mate en la última fila"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_179038255973630",
+      "titulo": "Diagrama 177",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 177",
+          "texto": "En este caso las blancas pueden intentar descolocar o al Rey negro o a otro defensor. Cual es el movimiento correcto?",
+          "orientacion": "blanca",
+          "fen": "6k1/3r2pp/2pb4/r3q3/8/7P/P4QP1/1R3R1K w - - 0 1",
+          "secuenciaCorrecta": [
+            "b1b8"
+          ],
+          "comentariosMovimiento": [
+            "El jaque de la dama blanca fracasaria, pues el Alfil negro la capturaría"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_179038255973931",
+      "titulo": "Diagrama 178",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 178",
+          "texto": "Cual es el movimiento correcto?",
+          "orientacion": "blanca",
+          "fen": "r1n1Qqk1/p4ppp/3p4/1pp2N2/3b4/PB6/1PP2PPP/R5K1 w - - 0 1",
+          "secuenciaCorrecta": [
+            "b3f7"
+          ],
+          "comentariosMovimiento": [
+            "Las negras están obligadas a mover al Rey a la esquina. Las blancas dan mate capturando la Dama negra con su Dama."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_179038255974132",
+      "titulo": "Diagrama 179",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 179",
+          "texto": "¿Cual es el movimiento de victoria de las blancas?",
+          "orientacion": "blanca",
+          "fen": "2k2r2/ppp3pp/1b6/8/qP3p2/6P1/2PQ1PBP/3R2K1 w - - 0 1",
+          "secuenciaCorrecta": [
+            "g2h3"
+          ],
+          "comentariosMovimiento": [
+            "La Dama blanca no puede lograr alejar al Rey negro porque el cuadro crítico está cubierto por la Dama negra"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_179038255975033",
+      "titulo": "Diagrama 180",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 180",
+          "texto": "Observe cuidadosamente este diagrama De no hacerlo así, no apreciará todas las alternativas de las blancas y puede equivocarse en la solución.Muestra el movimiento de las blancas que conduce al mate:",
+          "orientacion": "blanca",
+          "fen": "2k4r/ppp4q/1b3pn1/2N1r1p1/1PP4p/6P1/1P1Q1PBP/R2R2K1 w - - 0 1",
+          "secuenciaCorrecta": [
+            "g2b7",
+            "c8b8",
+            "d2d8",
+            "h8d8",
+            "d1d8"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_179038255975434",
+      "titulo": "Diagrama 181",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 181",
+          "texto": "Observe esta posición. Parece bastante inocente. Sin embargo, las blancas pueden forzar un mate.",
+          "orientacion": "blanca",
+          "fen": "4Qqk1/ppp2ppp/8/3n4/6N1/4R2P/PPP2PPK/3r4 w - - 0 1",
+          "secuenciaCorrecta": [
+            "g4h6",
+            "g7h6",
+            "e3g3",
+            "g8h8",
+            "e8f8"
+          ],
+          "comentariosMovimiento": [
+            "Primer movimiento de la combinación: el caballo da jaque.Si las negras permiten que su Rey sea arrinconado, su Dama quedará sin protección. Su única alternativa es capturar el Caballo negro con el Peón",
+            "¡Y ahora la idea queda clara! Aqur tenemos un ejemplo del tema sobre \"alejar al adversario\". La Torre da jaque, y después del movimiento del Rey negro, la Dama blanca dará mate.\"",
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_179038255975535",
+      "titulo": "Diagrama 182",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 182",
+          "texto": "El Caballo blanco dio jaque. Como pueden las negras pueden salvarse?",
+          "orientacion": "negra",
+          "fen": "2R2bk1/5pp1/4pN1p/r2n4/p1R5/P2B1P1P/1rP3PK/8 b - - 0 1",
+          "secuenciaCorrecta": [
+            "d5f6"
+          ],
+          "comentariosMovimiento": [
+            "Si es el Peón el que captura, la Torre blanca —aprovechando la nueva línea abierta— dará jaque al Rey y lo obligará a refugiarse en el rincón. La otra Torre dará el mate. Si es el Rey el que se mueve, la Torre captura al Alfil. Mate."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_179038255975836",
+      "titulo": "Diagrama 183",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 183",
+          "texto": "Cual es el movimiento correcto de las Blancas?",
+          "orientacion": "blanca",
+          "fen": "rn2Rrk1/pp3ppp/3p4/q1p5/1nP3N1/4Q3/PP3PPP/2R4K w - - 0 1",
+          "secuenciaCorrecta": [
+            "g4f6",
+            "g7f6",
+            "e3g3"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_179038255975837",
+      "titulo": "Diagrama 184",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "QUIZ",
+          "titulo": "Diagrama 184",
+          "texto": "[%cal Rg4h6] En este caso las blancas intentan desplazar al Rey negro, comenzando con un jaque del Caballo. Piense si la combinación tendrá éxito. ¿Conduce al Mate?",
+          "mostrarTablero": true,
+          "orientacion": "blanca",
+          "opciones": [
+            "Si",
+            "No"
+          ],
+          "respuestaCorrecta": "No",
+          "fen": "1Q3qk1/5ppp/4p2N/3r4/n2pR3/3P2PP/2P2P2/6K1 b - - 0 1"
+        }
+      ]
+    },
+    {
+      "id": "l_179038255975838",
+      "titulo": "Respuesta:Diagrama 184",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "INFO",
+          "titulo": "Respuesta:Diagrama 184",
+          "texto": "",
+          "mostrarTablero": true,
+          "orientacion": "blanca",
+          "fen": "1Q3qk1/5ppp/4p2N/3r4/n2pR3/3P2PP/2P2P2/6K1 b - - 0 1",
+          "pgn": "{No, las negras capturan el Caballo con el Peón} gxh6 Rg4+ Rg5 {La Torre blanca da jaque. Se interpone la Torre negra. protegida por un Peón. Si el Ca· bailo da jaque en el otro cuadrado, la situación es similar} *"
+        }
+      ]
+    },
+    {
+      "id": "l_179038255976239",
+      "titulo": "Diagrama 185",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 185",
+          "texto": "¿Cual es el mejor movimiento de las Blancas",
+          "orientacion": "blanca",
+          "fen": "1kr4R/ppp5/4ppq1/5b2/3N1P2/P1P5/1P6/2KQ4 w - - 0 1",
+          "secuenciaCorrecta": [
+            "d4c6",
+            "b7c6",
+            "d1b3",
+            "b8a8"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_179038255976440",
+      "titulo": "Diagrama 186",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 186",
+          "texto": "Indique el movimiento correcto de las blancas en su combinación para dar mate",
+          "orientacion": "blanca",
+          "fen": "2k2n1r/ppp2pp1/2q5/4pp2/1P5p/P2QP3/4BPPP/3R2K1 w - - 0 1",
+          "secuenciaCorrecta": [
+            "d3d8"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_179038255976841",
+      "titulo": "Diagrama 187",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 187",
+          "texto": "Indique el primer movimiento de las blancas en su combinación de mate",
+          "orientacion": "blanca",
+          "fen": "r5k1/5ppp/8/8/3q4/1Q6/p5PP/5R1K w - - 0 1",
+          "secuenciaCorrecta": [
+            "b3f7",
+            "g8h8",
+            "f7f8",
+            "a8f8",
+            "f1f8"
+          ],
+          "comentariosRival": [
+            "Las blancas obligan al Rey negro a refugiarse en el rincón. Esta jugada les da suficiente poder para dar mate",
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_179038255977042",
+      "titulo": "Diagrama 188",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 188",
+          "texto": "Cual es el primer movimiento de las blancas en su combinación de mate",
+          "orientacion": "blanca",
+          "fen": "q1r3k1/2Q2ppp/3p3n/1p1Pp3/1n2P3/1P4N1/rP4PP/2R2R1K w - - 0 1",
+          "secuenciaCorrecta": [
+            "c7c8",
+            "a8c8",
+            "c1c8"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_179038255977443",
+      "titulo": "Diagrama 189",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 189",
+          "texto": "Cual es el primer movimiento de las blancas en su combinación de mate",
+          "orientacion": "blanca",
+          "fen": "R4rk1/1bq2pp1/1p1p3p/2nPp3/2P1N2Q/8/1PB2PPP/6K1 w - - 0 1",
+          "secuenciaCorrecta": [
+            "e4f6",
+            "g7f6",
+            "h4g4",
+            "g8h8",
+            "a8f8"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_179038255977644",
+      "titulo": "Diagrama 190",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 190",
+          "texto": "Cual es el primer movimiento de las blancas en su combinación de mate",
+          "orientacion": "blanca",
+          "fen": "1R3rk1/3r1ppp/6b1/2pN4/2P5/1R6/5PPP/6K1 w - - 0 1",
+          "secuenciaCorrecta": [
+            "b8f8",
+            "g8f8",
+            "b3b8",
+            "d7d8",
+            "b8d8"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_179038255978145",
+      "titulo": "Diagrama 191",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 191",
+          "texto": "¿Cual es el primer movimiento de las blancas en su combinación de mate?",
+          "orientacion": "blanca",
+          "fen": "2k5/1p3p2/p1p2bp1/B3p3/2P1Pn2/8/PP2BqP1/2KR3R w - - 0 1",
+          "secuenciaCorrecta": [
+            "h1h8",
+            "f6h8",
+            "d1d8"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_179038255978446",
+      "titulo": "Diagrama 192",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 192",
+          "texto": "Indica el primer movimiento de las blancas en su combinación de mate",
+          "orientacion": "blanca",
+          "fen": "4Rrk1/4Rppp/1bp5/1pn5/p5N1/P6P/BPPr1PP1/6K1 w - - 0 1",
+          "secuenciaCorrecta": [
+            "a2f7",
+            "g8h8",
+            "e8f8"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_179038255978847",
+      "titulo": "Diagrama 193",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 193",
+          "texto": "Muestra el primer movimiento de las blancas en una combinación de mate",
+          "orientacion": "blanca",
+          "fen": "1r4k1/1rp3pp/n7/p7/1p6/2P4B/PP3RPP/5R1K w - - 0 1",
+          "secuenciaCorrecta": [
+            "h3e6",
+            "g8h8",
+            "f2f8",
+            "b8f8",
+            "f1f8"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_179038255979148",
+      "titulo": "Diagrama 194",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 194",
+          "texto": "Muestra el primer movimiento de las blancas en su combinación de mate",
+          "orientacion": "blanca",
+          "fen": "2k4r/ppp3p1/1b5p/4p2q/P7/2P3P1/1P1Q1PBP/3R2K1 w - - 0 1",
+          "secuenciaCorrecta": [
+            "d2d7",
+            "c8b8",
+            "d7d8",
+            "h8d8",
+            "d1d8"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_179038255979749",
+      "titulo": "RESUMEN",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "INFO",
+          "titulo": "RESUMEN",
+          "texto": "",
+          "mostrarTablero": true,
+          "orientacion": "negra",
+          "fen": "2r1r1k1/2q1bp2/3p1p1p/3P4/1p2RP2/8/PPP1Q1PP/1K2R3 w - - 0 1",
+          "pgn": "{Descolocación de los defensores: Este es un ejemplo de mate, después de obligar al Rey a refugiarse en el rincón. Tomado de mi partida con Herbert Seidman (blancas) durante el Campeonato de los Estados Unidos en 1957.} Rxe7 {Las blancas quisieran tomar mi Alfil y quedar en ventaja —dos Peones— de piezas. Veamos qué pasaría. Las blancas capturan el Alfil con su Torre.Yo, a continuación tomo esa Torre con la mía} Rxe7 {La Dama captura la Torre negra} Qxe7 {Ahora yo (negras) puedo dar jaque, tomando el Peón con mi Dama} Qxc2+ Ka1 {El Rey va al rincón. Todo termina en un simple mate en la última fila de las blancas.} Qc1# *"
+        }
+      ]
+    }
+  ]
+}
