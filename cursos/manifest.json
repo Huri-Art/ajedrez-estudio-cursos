@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "actualizado": "2026-09-25",
+  "actualizado": "2026-10-04",
   "cursos": [
     {
       "id": "c_1774042840347",
@@ -8,7 +8,9 @@
       "descripcion": "Un curso para Intermedios",
       "imagenUrl": "https://assets-courses.chess.com/image/courses/291847_course_square_opt.jpeg",
       "version": 1,
-      "bundleUrl": "cursos/1_Kit-inter.json"
+      "bundleUrl": "cursos/1_Kit-inter.json",
+      "numLecciones": 75,
+      "numEjercicios": 27
     },
     {
       "id": "c_1777914602329",
@@ -16,7 +18,9 @@
       "descripcion": "Un metodo de ajedrez para Jaquetones!",
       "imagenUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4pH5_aHWAM0gj9NznUAG9mthKCTchY1dnHXNw2x1JU-i2qozA",
       "version": 1,
-      "bundleUrl": "cursos/2_Enigma.json"
+      "bundleUrl": "cursos/2_Enigma.json",
+      "numLecciones": 209,
+      "numEjercicios": 39
     },
     {
       "id": "c_1778515669205",
@@ -24,7 +28,9 @@
       "descripcion": "¡Aprende a jugar finales de peones como un profesional! con IM Eric Tangborn & FM Thomas Wolski",
       "imagenUrl": "https://images.chesscomfiles.com/uploads/v1/lesson_course/692077ee-5eed-11ea-8cbf-377521826905.4108bc11.728x410o.69cb98c49d89.png",
       "version": 1,
-      "bundleUrl": "cursos/3-Finales-peones-C.json"
+      "bundleUrl": "cursos/3-Finales-peones-C.json",
+      "numLecciones": 85,
+      "numEjercicios": 79
     },
     {
       "id": "c_1778114275285",
@@ -32,7 +38,9 @@
       "descripcion": "Capitulo 2 del curso para principiantes",
       "imagenUrl": "https://imgv2-1-f.scribdassets.com/img/document/250052576/original/78cefe5a94/1?v=1",
       "version": 1,
-      "bundleUrl": "cursos/4_Bobby-teach2.json"
+      "bundleUrl": "cursos/4_Bobby-teach2.json",
+      "numLecciones": 95,
+      "numEjercicios": 41
     },
     {
       "id": "c_1779925430318",
@@ -40,7 +48,9 @@
       "descripcion": "Capitulo 3 del curso para principiantes",
       "imagenUrl": "https://imgv2-1-f.scribdassets.com/img/document/250052576/original/78cefe5a94/1?v=1",
       "version": 1,
-      "bundleUrl": "cursos/5_Bobby-teach3.json"
+      "bundleUrl": "cursos/5_Bobby-teach3.json",
+      "numLecciones": 57,
+      "numEjercicios": 35
     },
     {
       "id": "c_1778516802217",
@@ -48,7 +58,9 @@
       "descripcion": "Libro clásico de táctica escrito por el reconocido autor Fred Reinfeld",
       "imagenUrl": "https://m.media-amazon.com/images/I/61FFVT10HjL._AC_UF1000,1000_QL80_.jpg",
       "version": 1,
-      "bundleUrl": "cursos/6_1001WCC.json"
+      "bundleUrl": "cursos/6_1001WCC.json",
+      "numLecciones": 1086,
+      "numEjercicios": 1063
     },
     {
       "id": "c_1780082111134",
@@ -56,7 +68,9 @@
       "descripcion": "Sistema intensivo de entrenamiento de ajedrez, creado por los Grandes Maestros Axel Smith y Hans Tikkanen. Consiste en resolver repetidamente una gran selección de problemas tácticos.",
       "imagenUrl": "https://imgv2-2-f.scribdassets.com/img/document/882244415/original/1f4cfbce5a/1?v=1",
       "version": 1,
-      "bundleUrl": "cursos/7_Metodo-Carpintero.json"
+      "bundleUrl": "cursos/7_Metodo-Carpintero.json",
+      "numLecciones": 1030,
+      "numEjercicios": 984
     },
     {
       "id": "c_1778520788196",
@@ -64,7 +78,9 @@
       "descripcion": "En este curso completo aprenderás la combinación de dos de las defensas más interesantes contra peón dama: la nimzoindia y la india de dama",
       "imagenUrl": "https://www.chessenigma.com/wp-content/uploads/2024/12/miguelindia-enigmatica-miguel-santos.webp",
       "version": 1,
-      "bundleUrl": "cursos/8_MiguelIndia.json"
+      "bundleUrl": "cursos/8_MiguelIndia.json",
+      "numLecciones": 14,
+      "numEjercicios": 0
     },
     {
       "id": "c_1786375168645",
@@ -72,7 +88,9 @@
       "descripcion": "Conoce la apertura Italiana por parte del equipo de Chess.com",
       "imagenUrl": "https://images.chesscomfiles.com/uploads/v1/lesson_course/4f91031a-5171-11ed-a210-a9719cdde07d.4e781735.728x410o.bf2954b2ebbf.png",
       "version": 1,
-      "bundleUrl": "cursos/9_50Lec_Apertura_1.json"
+      "bundleUrl": "cursos/9_50Lec_Apertura_1.json",
+      "numLecciones": 44,
+      "numEjercicios": 27
     },
     {
       "id": "c_1790308935833",
@@ -80,7 +98,9 @@
       "descripcion": "Juega finales clave contra la computadora hasta ganar o hacer tablas (modo VSPC).",
       "imagenUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUBlKG4Ys6kGZEQFvRvIR1tRT8O4CQ3S2gmv8aFQN6wFKae1gqnGVCRzs&s=10",
       "version": 1,
-      "bundleUrl": "cursos/10_Finales_Rui_Grafino_LC.json"
+      "bundleUrl": "cursos/10_Finales_Rui_Grafino_LC.json",
+      "numLecciones": 56,
+      "numEjercicios": 56
     },
     {
       "id": "c_fpeones_01",
@@ -88,7 +108,9 @@
       "descripcion": "Rey y peón contra rey (KPK). Juega y gana contra la máquina · 581 posiciones.",
       "imagenUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUBlKG4Ys6kGZEQFvRvIR1tRT8O4CQ3S2gmv8aFQN6wFKae1gqnGVCRzs&s=10",
       "version": 1,
-      "bundleUrl": "cursos/11_Finales_Peones_01_KPK.json"
+      "bundleUrl": "cursos/11_Finales_Peones_01_KPK.json",
+      "numLecciones": 581,
+      "numEjercicios": 581
     },
     {
       "id": "c_fpeones_02",
@@ -96,7 +118,9 @@
       "descripcion": "Rey y peón contra rey y peón (KPKP). Juega y gana contra la máquina · 545 posiciones.",
       "imagenUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUBlKG4Ys6kGZEQFvRvIR1tRT8O4CQ3S2gmv8aFQN6wFKae1gqnGVCRzs&s=10",
       "version": 1,
-      "bundleUrl": "cursos/12_Finales_Peones_02_KPKP.json"
+      "bundleUrl": "cursos/12_Finales_Peones_02_KPKP.json",
+      "numLecciones": 545,
+      "numEjercicios": 545
     },
     {
       "id": "c_fpeones_03",
@@ -104,7 +128,9 @@
       "descripcion": "Rey y dos peones contra rey (KPPK). Juega y gana contra la máquina · 129 posiciones.",
       "imagenUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUBlKG4Ys6kGZEQFvRvIR1tRT8O4CQ3S2gmv8aFQN6wFKae1gqnGVCRzs&s=10",
       "version": 1,
-      "bundleUrl": "cursos/13_Finales_Peones_03_KPPK.json"
+      "bundleUrl": "cursos/13_Finales_Peones_03_KPPK.json",
+      "numLecciones": 129,
+      "numEjercicios": 129
     },
     {
       "id": "c_fpeones_04",
@@ -112,7 +138,9 @@
       "descripcion": "Rey y dos peones contra rey y peón (KPPKP). Juega y gana contra la máquina · 990 posiciones.",
       "imagenUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUBlKG4Ys6kGZEQFvRvIR1tRT8O4CQ3S2gmv8aFQN6wFKae1gqnGVCRzs&s=10",
       "version": 1,
-      "bundleUrl": "cursos/14_Finales_Peones_04_KPPKP.json"
+      "bundleUrl": "cursos/14_Finales_Peones_04_KPPKP.json",
+      "numLecciones": 990,
+      "numEjercicios": 990
     },
     {
       "id": "c_fpeones_05",
@@ -120,7 +148,9 @@
       "descripcion": "Rey y dos peones contra rey y dos peones (KPPKPP). Juega y gana contra la máquina · 724 posiciones.",
       "imagenUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUBlKG4Ys6kGZEQFvRvIR1tRT8O4CQ3S2gmv8aFQN6wFKae1gqnGVCRzs&s=10",
       "version": 1,
-      "bundleUrl": "cursos/15_Finales_Peones_05_KPPKPP.json"
+      "bundleUrl": "cursos/15_Finales_Peones_05_KPPKPP.json",
+      "numLecciones": 724,
+      "numEjercicios": 724
     },
     {
       "id": "c_fpeones_06",
@@ -128,7 +158,9 @@
       "descripcion": "Rey y dos peones contra rey y tres peones (KPPKPPP). Juega y gana contra la máquina · 115 posiciones.",
       "imagenUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUBlKG4Ys6kGZEQFvRvIR1tRT8O4CQ3S2gmv8aFQN6wFKae1gqnGVCRzs&s=10",
       "version": 1,
-      "bundleUrl": "cursos/16_Finales_Peones_06_KPPKPPP.json"
+      "bundleUrl": "cursos/16_Finales_Peones_06_KPPKPPP.json",
+      "numLecciones": 115,
+      "numEjercicios": 115
     },
     {
       "id": "c_fpeones_07",
@@ -136,7 +168,9 @@
       "descripcion": "Rey y tres peones contra rey y peón (KPPPKP). Juega y gana contra la máquina · 166 posiciones.",
       "imagenUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUBlKG4Ys6kGZEQFvRvIR1tRT8O4CQ3S2gmv8aFQN6wFKae1gqnGVCRzs&s=10",
       "version": 1,
-      "bundleUrl": "cursos/17_Finales_Peones_07_KPPPKP.json"
+      "bundleUrl": "cursos/17_Finales_Peones_07_KPPPKP.json",
+      "numLecciones": 166,
+      "numEjercicios": 166
     },
     {
       "id": "c_fpeones_08",
@@ -144,7 +178,9 @@
       "descripcion": "Rey y tres peones contra rey y dos peones (KPPPKPP). Juega y gana contra la máquina · 593 posiciones.",
       "imagenUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUBlKG4Ys6kGZEQFvRvIR1tRT8O4CQ3S2gmv8aFQN6wFKae1gqnGVCRzs&s=10",
       "version": 1,
-      "bundleUrl": "cursos/18_Finales_Peones_08_KPPPKPP.json"
+      "bundleUrl": "cursos/18_Finales_Peones_08_KPPPKPP.json",
+      "numLecciones": 593,
+      "numEjercicios": 593
     },
     {
       "id": "c_fpeones_09",
@@ -152,7 +188,9 @@
       "descripcion": "Rey y tres peones contra rey y tres peones (KPPPKPPP). Juega y gana contra la máquina · 287 posiciones.",
       "imagenUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUBlKG4Ys6kGZEQFvRvIR1tRT8O4CQ3S2gmv8aFQN6wFKae1gqnGVCRzs&s=10",
       "version": 1,
-      "bundleUrl": "cursos/19_Finales_Peones_09_KPPPKPPP.json"
+      "bundleUrl": "cursos/19_Finales_Peones_09_KPPPKPPP.json",
+      "numLecciones": 287,
+      "numEjercicios": 287
     },
     {
       "id": "c_fpeones_10",
@@ -160,7 +198,9 @@
       "descripcion": "Rey y cuatro peones contra rey y tres peones (KPPPPKPPP). Juega y gana contra la máquina · 187 posiciones.",
       "imagenUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUBlKG4Ys6kGZEQFvRvIR1tRT8O4CQ3S2gmv8aFQN6wFKae1gqnGVCRzs&s=10",
       "version": 1,
-      "bundleUrl": "cursos/20_Finales_Peones_10_KPPPPKPPP.json"
+      "bundleUrl": "cursos/20_Finales_Peones_10_KPPPPKPPP.json",
+      "numLecciones": 187,
+      "numEjercicios": 187
     },
     {
       "id": "c_1790382559657",
@@ -168,7 +208,9 @@
       "descripcion": "Capitulo 4 del curso",
       "imagenUrl": "https://imgv2-1-f.scribdassets.com/img/document/250052576/original/78cefe5a94/1?v=1",
       "version": 1,
-      "bundleUrl": "cursos/21_Bobby_Teach4.json"
+      "bundleUrl": "cursos/21_Bobby_Teach4.json",
+      "numLecciones": 50,
+      "numEjercicios": 40
     }
   ]
 }
