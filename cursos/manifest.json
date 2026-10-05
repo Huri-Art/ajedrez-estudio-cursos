@@ -211,6 +211,16 @@
       "bundleUrl": "cursos/21_Bobby_Teach4.json",
       "numLecciones": 50,
       "numEjercicios": 40
+    },
+    {
+      "id": "c_1791224568741",
+      "titulo": "Nivel 1 - Principiante: de 0 a 200 ELO",
+      "descripcion": "En el presente nivel se describen detalladamente los fundamentos del ajedrez. El curso servirá perfectamente tanto para niños como para adultos que deseen aprender las reglas del ajedrez más al pormenor",
+      "imagenUrl": "https://c1.chessking.com/course-image/r136x193/ac/4/ac4cc9dd-a6a2-4be0-bf1a-301d0b447614.jpg",
+      "version": 1,
+      "bundleUrl": "cursos/22_University1.json",
+      "numLecciones": 0,
+      "numEjercicios": 0
     }
   ]
 }
