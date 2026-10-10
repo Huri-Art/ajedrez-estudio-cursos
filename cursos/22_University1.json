@@ -5,22 +5,21 @@
   "imagenUrl": "https://c1.chessking.com/course-image/r136x193/ac/4/ac4cc9dd-a6a2-4be0-bf1a-301d0b447614.jpg",
   "lecciones": [
     {
-      "id": "l_17915843521260",
+      "id": "l_17916061518920",
       "titulo": "Introducción",
-      "descripcion": "",
+      "descripcion": "Introducción al Ajedrez",
       "segmentos": [
         {
           "tipo": "INFO",
           "titulo": "Introducción",
           "texto": "Introducción. En la lección de hoy, vamos a aprender lo que es el ajedrez, como fue inventado y cómo se juega hoy en día. El ajedrez es un juego maravilloso que ayuda a desarrollar la memoria, el ingenio, la imaginación y muchas otras cualidades útiles más.",
-          "mostrarTablero": true,
-          "orientacion": "blanca",
-          "fen": "8/8/8/8/8/8/8/8 w - - 0 1"
+          "mostrarTablero": false,
+          "orientacion": "blanca"
         }
       ]
     },
     {
-      "id": "l_17915843521271",
+      "id": "l_17916061518931",
       "titulo": "La historia del ajedrez",
       "descripcion": "",
       "segmentos": [
@@ -28,14 +27,13 @@
           "tipo": "INFO",
           "titulo": "La historia del ajedrez",
           "texto": "La historia del ajedrez. El ajedrez fue inventado hace mil quinientos años en la India. Un poderoso jeque índio tenía un gran ejército, compuesto por diez mil soldados a pie, miles de caballos y jinetes, cientos de elefantes de guerra, fortalezas inexpugnables y generales experimentados.. Tras haber rechazado los ataques de todos sus vecinos, el jeque empezó a sentirse aburrido. Y entonces, llamó a un sabio, quien ha inventado el \"Ajedrez\", un juego que le permitía al jeque librar batallas todos los días, sin derramar la sangre de nadie. Mucho tiempo ha transcurrido desde entonces, y sin embargo, millones de personas siguen practicando hoy en día este fabuloso juego. El ajedrez se juega de a dos. El combate se produce sobre un tablero de ajedrez, entre piezas blancas y negras. Antes de comenzar la partida, los jugadores se saludan con un apretón de manos.",
-          "mostrarTablero": true,
-          "orientacion": "blanca",
-          "fen": "8/8/8/8/8/8/8/8 w - - 0 1"
+          "mostrarTablero": false,
+          "orientacion": "blanca"
         }
       ]
     },
     {
-      "id": "l_17915843521272",
+      "id": "l_17916061518932",
       "titulo": "Piezas de ajedrez",
       "descripcion": "",
       "segmentos": [
@@ -43,14 +41,13 @@
           "tipo": "INFO",
           "titulo": "Piezas de ajedrez",
           "texto": "Piezas de ajedrez. Las piezas de ajedrez se dibujan y se transcriben de diferentes maneras, pero siempre se trata de las mismas piezas: Rey, Dama, Torre, Alfil, Caballo y Peón.",
-          "mostrarTablero": true,
-          "orientacion": "blanca",
-          "fen": "8/8/8/8/8/8/8/8 w - - 0 1"
+          "mostrarTablero": false,
+          "orientacion": "blanca"
         }
       ]
     },
     {
-      "id": "l_17915843521273",
+      "id": "l_17916061518933",
       "titulo": "Piezas de ajedrez (2)",
       "descripcion": "",
       "segmentos": [
@@ -65,7 +62,7 @@
       ]
     },
     {
-      "id": "l_17915843521274",
+      "id": "l_17916061518934",
       "titulo": "Posición inicial",
       "descripcion": "",
       "segmentos": [
@@ -79,7 +76,7 @@
       ]
     },
     {
-      "id": "l_17915843521275",
+      "id": "l_17916061518935",
       "titulo": "El tablero",
       "descripcion": "",
       "segmentos": [
@@ -94,7 +91,7 @@
       ]
     },
     {
-      "id": "l_17915843521286",
+      "id": "l_17916061518936",
       "titulo": "Las filas",
       "descripcion": "",
       "segmentos": [
@@ -109,7 +106,7 @@
       ]
     },
     {
-      "id": "l_17915843521287",
+      "id": "l_17916061518947",
       "titulo": "Las columnas",
       "descripcion": "",
       "segmentos": [
@@ -124,7 +121,7 @@
       ]
     },
     {
-      "id": "l_17915843521288",
+      "id": "l_17916061518948",
       "titulo": "Las diagonales",
       "descripcion": "",
       "segmentos": [
@@ -139,7 +136,7 @@
       ]
     },
     {
-      "id": "l_17915843521289",
+      "id": "l_17916061518949",
       "titulo": "El centro",
       "descripcion": "",
       "segmentos": [
@@ -154,7 +151,7 @@
       ]
     },
     {
-      "id": "l_179158435212910",
+      "id": "l_179160615189510",
       "titulo": "Pregunta 1",
       "descripcion": "",
       "segmentos": [
@@ -175,7 +172,7 @@
       ]
     },
     {
-      "id": "l_179158435212911",
+      "id": "l_179160615189511",
       "titulo": "Pregunta 2",
       "descripcion": "",
       "segmentos": [
@@ -196,7 +193,7 @@
       ]
     },
     {
-      "id": "l_179158435212912",
+      "id": "l_179160615189512",
       "titulo": "Pregunta 3",
       "descripcion": "",
       "segmentos": [
@@ -217,7 +214,7 @@
       ]
     },
     {
-      "id": "l_179158435212913",
+      "id": "l_179160615189513",
       "titulo": "Pregunta 4",
       "descripcion": "",
       "segmentos": [
@@ -238,7 +235,7 @@
       ]
     },
     {
-      "id": "l_179158435212914",
+      "id": "l_179160615189514",
       "titulo": "Pregunta 5",
       "descripcion": "",
       "segmentos": [
@@ -259,7 +256,7 @@
       ]
     },
     {
-      "id": "l_179158435212915",
+      "id": "l_179160615189515",
       "titulo": "Pregunta 6",
       "descripcion": "",
       "segmentos": [
@@ -280,7 +277,7 @@
       ]
     },
     {
-      "id": "l_179158435212916",
+      "id": "l_179160615189516",
       "titulo": "Pregunta 7",
       "descripcion": "",
       "segmentos": [
@@ -301,7 +298,7 @@
       ]
     },
     {
-      "id": "l_179158435213017",
+      "id": "l_179160615189517",
       "titulo": "Pregunta 8",
       "descripcion": "",
       "segmentos": [
@@ -322,7 +319,7 @@
       ]
     },
     {
-      "id": "l_179158435213018",
+      "id": "l_179160615189618",
       "titulo": "Pregunta 9",
       "descripcion": "",
       "segmentos": [
@@ -343,7 +340,7 @@
       ]
     },
     {
-      "id": "l_179158435213019",
+      "id": "l_179160615189619",
       "titulo": "Pregunta 10",
       "descripcion": "",
       "segmentos": [
@@ -364,7 +361,7 @@
       ]
     },
     {
-      "id": "l_179158435213020",
+      "id": "l_179160615189620",
       "titulo": "Pregunta 11",
       "descripcion": "",
       "segmentos": [
@@ -385,7 +382,7 @@
       ]
     },
     {
-      "id": "l_179158435213021",
+      "id": "l_179160615189621",
       "titulo": "Pregunta 12",
       "descripcion": "",
       "segmentos": [
@@ -404,7 +401,7 @@
       ]
     },
     {
-      "id": "l_179158435213022",
+      "id": "l_179160615189622",
       "titulo": "Pregunta 13",
       "descripcion": "",
       "segmentos": [
@@ -423,7 +420,7 @@
       ]
     },
     {
-      "id": "l_179158435213023",
+      "id": "l_179160615189623",
       "titulo": "Pregunta 14",
       "descripcion": "",
       "segmentos": [
@@ -443,7 +440,7 @@
       ]
     },
     {
-      "id": "l_179158435213024",
+      "id": "l_179160615189624",
       "titulo": "Pregunta 15",
       "descripcion": "",
       "segmentos": [
@@ -464,7 +461,7 @@
       ]
     },
     {
-      "id": "l_179158435213025",
+      "id": "l_179160615189625",
       "titulo": "Pregunta 16",
       "descripcion": "",
       "segmentos": [
@@ -472,8 +469,7 @@
           "tipo": "QUIZ",
           "titulo": "Pregunta 16",
           "texto": "Cuántas filas (horizontales) tiene el tablero?",
-          "mostrarTablero": true,
-          "orientacion": "blanca",
+          "mostrarTablero": false,
           "opciones": [
             "2",
             "4",
@@ -485,7 +481,7 @@
       ]
     },
     {
-      "id": "l_179158435213026",
+      "id": "l_179160615189626",
       "titulo": "Pregunta 17",
       "descripcion": "",
       "segmentos": [
@@ -505,7 +501,7 @@
       ]
     },
     {
-      "id": "l_179158435213027",
+      "id": "l_179160615189627",
       "titulo": "Pregunta 18",
       "descripcion": "",
       "segmentos": [
@@ -525,7 +521,7 @@
       ]
     },
     {
-      "id": "l_179158435213028",
+      "id": "l_179160615189628",
       "titulo": "Pregunta 19",
       "descripcion": "",
       "segmentos": [
@@ -545,7 +541,7 @@
       ]
     },
     {
-      "id": "l_179158435213029",
+      "id": "l_179160615189629",
       "titulo": "Pregunta 20",
       "descripcion": "",
       "segmentos": [
@@ -563,7 +559,7 @@
       ]
     },
     {
-      "id": "l_179158435213030",
+      "id": "l_179160615189630",
       "titulo": "Pregunta 21",
       "descripcion": "",
       "segmentos": [
@@ -584,7 +580,7 @@
       ]
     },
     {
-      "id": "l_179158435213031",
+      "id": "l_179160615189631",
       "titulo": "Pregunta 22",
       "descripcion": "",
       "segmentos": [
@@ -604,7 +600,7 @@
       ]
     },
     {
-      "id": "l_179158435213032",
+      "id": "l_179160615189732",
       "titulo": "Pregunta 23",
       "descripcion": "",
       "segmentos": [
@@ -624,7 +620,7 @@
       ]
     },
     {
-      "id": "l_179158435213133",
+      "id": "l_179160615189733",
       "titulo": "Pregunta 24",
       "descripcion": "",
       "segmentos": [
@@ -643,7 +639,7 @@
       ]
     },
     {
-      "id": "l_179158435213134",
+      "id": "l_179160615189734",
       "titulo": "Pregunta 25",
       "descripcion": "",
       "segmentos": [
@@ -663,7 +659,7 @@
       ]
     },
     {
-      "id": "l_179158435213135",
+      "id": "l_179160615189735",
       "titulo": "Pregunta 26",
       "descripcion": "",
       "segmentos": [
@@ -683,7 +679,7 @@
       ]
     },
     {
-      "id": "l_179158435213136",
+      "id": "l_179160615189736",
       "titulo": "Pregunta 27",
       "descripcion": "",
       "segmentos": [
@@ -702,7 +698,7 @@
       ]
     },
     {
-      "id": "l_179158435213137",
+      "id": "l_179160615189737",
       "titulo": "Pregunta 28",
       "descripcion": "",
       "segmentos": [
@@ -723,7 +719,7 @@
       ]
     },
     {
-      "id": "l_179158435213138",
+      "id": "l_179160615189738",
       "titulo": "Pregunta 29",
       "descripcion": "",
       "segmentos": [
@@ -741,7 +737,7 @@
       ]
     },
     {
-      "id": "l_179158435213139",
+      "id": "l_179160615189739",
       "titulo": "Pregunta 30",
       "descripcion": "",
       "segmentos": [
@@ -761,7 +757,7 @@
       ]
     },
     {
-      "id": "l_179158435213140",
+      "id": "l_179160615189740",
       "titulo": "Pregunta 31",
       "descripcion": "",
       "segmentos": [
@@ -781,7 +777,7 @@
       ]
     },
     {
-      "id": "l_179158435213141",
+      "id": "l_179160615189741",
       "titulo": "Pregunta 32",
       "descripcion": "",
       "segmentos": [
@@ -801,7 +797,7 @@
       ]
     },
     {
-      "id": "l_179158435213142",
+      "id": "l_179160615189742",
       "titulo": "Pregunta 33",
       "descripcion": "",
       "segmentos": [
@@ -823,7 +819,7 @@
       ]
     },
     {
-      "id": "l_179158435213143",
+      "id": "l_179160615189743",
       "titulo": "Pregunta 34",
       "descripcion": "",
       "segmentos": [
@@ -843,7 +839,7 @@
       ]
     },
     {
-      "id": "l_179158435213144",
+      "id": "l_179160615189844",
       "titulo": "Pregunta 35",
       "descripcion": "",
       "segmentos": [
@@ -863,7 +859,7 @@
       ]
     },
     {
-      "id": "l_179158435213145",
+      "id": "l_179160615189845",
       "titulo": "Pregunta 36",
       "descripcion": "",
       "segmentos": [
@@ -881,7 +877,7 @@
       ]
     },
     {
-      "id": "l_179158435213146",
+      "id": "l_179160615189846",
       "titulo": "Pregunta 37",
       "descripcion": "",
       "segmentos": [
@@ -901,7 +897,7 @@
       ]
     },
     {
-      "id": "l_179158435213147",
+      "id": "l_179160615189847",
       "titulo": "Pregunta 38",
       "descripcion": "",
       "segmentos": [
@@ -921,7 +917,7 @@
       ]
     },
     {
-      "id": "l_179158435213148",
+      "id": "l_179160615189848",
       "titulo": "Pregunta 39",
       "descripcion": "",
       "segmentos": [
@@ -941,7 +937,7 @@
       ]
     },
     {
-      "id": "l_179158435213149",
+      "id": "l_179160615189849",
       "titulo": "Pregunta 40",
       "descripcion": "",
       "segmentos": [
@@ -961,7 +957,7 @@
       ]
     },
     {
-      "id": "l_179158435213150",
+      "id": "l_179160615189850",
       "titulo": "Pregunta 41",
       "descripcion": "",
       "segmentos": [
@@ -981,7 +977,7 @@
       ]
     },
     {
-      "id": "l_179158435213151",
+      "id": "l_179160615189851",
       "titulo": "Pregunta 42",
       "descripcion": "",
       "segmentos": [
@@ -1001,7 +997,7 @@
       ]
     },
     {
-      "id": "l_179158435213152",
+      "id": "l_179160615189852",
       "titulo": "Pregunta 43",
       "descripcion": "",
       "segmentos": [
@@ -1021,26 +1017,28 @@
       ]
     },
     {
-      "id": "l_179158435213153",
+      "id": "l_179160615189853",
       "titulo": "Pregunta 44",
       "descripcion": "",
       "segmentos": [
         {
           "tipo": "QUIZ",
           "titulo": "Pregunta 44",
-          "texto": "Cuál es la denominación correcta de esta casilla?",
-          "mostrarTablero": false,
+          "texto": "[%csl Gd4][%cal Gd1d4,Ga4d4] Cuál es la denominación correcta de esta casilla?",
+          "mostrarTablero": true,
+          "orientacion": "blanca",
           "opciones": [
             "4d",
             "d4",
             "e5"
           ],
-          "respuestaCorrecta": "d4"
+          "respuestaCorrecta": "d4",
+          "fen": "8/8/8/8/8/8/8/8 w - - 0 1"
         }
       ]
     },
     {
-      "id": "l_179158435213154",
+      "id": "l_179160615189954",
       "titulo": "Pregunta 45",
       "descripcion": "",
       "segmentos": [
@@ -1060,26 +1058,28 @@
       ]
     },
     {
-      "id": "l_179158435213155",
+      "id": "l_179160615189955",
       "titulo": "Pregunta 46",
       "descripcion": "",
       "segmentos": [
         {
           "tipo": "QUIZ",
           "titulo": "Pregunta 46",
-          "texto": "Cuál es la denominación correcta de esta casilla?",
-          "mostrarTablero": false,
+          "texto": "[%csl Ge3][%cal Ge1e3,Ga3e3] Cuál es la denominación correcta de esta casilla?",
+          "mostrarTablero": true,
+          "orientacion": "blanca",
           "opciones": [
             "3e",
             "e3",
             "e5"
           ],
-          "respuestaCorrecta": "e3"
+          "respuestaCorrecta": "e3",
+          "fen": "8/8/8/8/8/8/8/8 w - - 0 1"
         }
       ]
     },
     {
-      "id": "l_179158435213256",
+      "id": "l_179160615189956",
       "titulo": "El tablero. La notación",
       "descripcion": "",
       "segmentos": [
@@ -1093,7 +1093,7 @@
       ]
     },
     {
-      "id": "l_179158435213257",
+      "id": "l_179160615190057",
       "titulo": "El tablero. La notación (2)",
       "descripcion": "",
       "segmentos": [
@@ -1108,7 +1108,7 @@
       ]
     },
     {
-      "id": "l_179158435213258",
+      "id": "l_179160615190058",
       "titulo": "El tablero. La notación (3)",
       "descripcion": "",
       "segmentos": [
@@ -1123,7 +1123,7 @@
       ]
     },
     {
-      "id": "l_179158435213359",
+      "id": "l_179160615190059",
       "titulo": "Las piezas y los peones. La posición inicial",
       "descripcion": "",
       "segmentos": [
@@ -1131,13 +1131,14 @@
           "tipo": "INFO",
           "titulo": "Las piezas y los peones. La posición inicial",
           "texto": "[%csl Ra8,Bd8,Bd1,Rh1] Al inicio del juego (o la partida), cada bando tiene: Un Rey ♔ Una Dama ♕ Dos Torres ♖ Dos Alfiles ♗ Dos Caballos ♘ Ocho peones ♙ Las piezas y los peones se denominan \"material\". Una partida, por lo tanto, se comienza con una igualdad material entre ambos bandos. El objetivo del juego consiste en tomar prisionero al Rey adversario, o sea, anunciarle el jaque mate (jaque mate en árabe quiere decir \"el rey está muerto\"). La Dama y las torres son consideradas \"piezas pesadas\", los alfiles y los caballos se llaman \"piezas ligeras\". En la notación ajedrecística se usan las siguientes abreviaturas: Rey - R, Dama - D, Torre - T, Alfil - A, Caballo - C, peón - p. (para designar a dos o más peones - pp.). Cualquier distribución (disposición) de piezas y peones sobre el tablero se llama \"posición\". El diagrama muestra la posición inicial. Por lo tanto, las blancas ocupan la primera y la segunda filas, y las negras, la séptima y la octava. El tablero debe quedar posicionado de tal modo que del lado derecho del jugador (en el ángulo inferior derecho) esté la casilla blanca, o sea h1 (para las blancas) y la casilla a8 (para las negras). Para que no te confundas, entre cuál es la casilla de la Dama y cuál es la del Rey, tienes que recordar el siguiente \"dicho\": \"A la Dama le gusta su propio color\". Es decir que la Dama blanca debe ocupar la casilla blanca (d1, y la Dama negra, la casilla negra (d8.",
-          "mostrarTablero": false,
-          "orientacion": "blanca"
+          "mostrarTablero": true,
+          "orientacion": "blanca",
+          "fen": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1"
         }
       ]
     },
     {
-      "id": "l_179158435213360",
+      "id": "l_179160615190060",
       "titulo": "La anotación de las jugadas",
       "descripcion": "",
       "segmentos": [
@@ -1153,7 +1154,7 @@
       ]
     },
     {
-      "id": "l_179158435213361",
+      "id": "l_179160615190161",
       "titulo": "Pregunta 47",
       "descripcion": "",
       "segmentos": [
@@ -1172,7 +1173,7 @@
       ]
     },
     {
-      "id": "l_179158435213362",
+      "id": "l_179160615190162",
       "titulo": "Pregunta 48",
       "descripcion": "",
       "segmentos": [
@@ -1191,7 +1192,7 @@
       ]
     },
     {
-      "id": "l_179158435213363",
+      "id": "l_179160615190163",
       "titulo": "Pregunta 49",
       "descripcion": "",
       "segmentos": [
@@ -1210,7 +1211,7 @@
       ]
     },
     {
-      "id": "l_179158435213364",
+      "id": "l_179160615190164",
       "titulo": "Pregunta 50",
       "descripcion": "",
       "segmentos": [
@@ -1229,7 +1230,7 @@
       ]
     },
     {
-      "id": "l_179158435213365",
+      "id": "l_179160615190165",
       "titulo": "Pregunta 51",
       "descripcion": "",
       "segmentos": [
@@ -1248,7 +1249,7 @@
       ]
     },
     {
-      "id": "l_179158435213366",
+      "id": "l_179160615190166",
       "titulo": "Pregunta 52",
       "descripcion": "",
       "segmentos": [
@@ -1267,7 +1268,7 @@
       ]
     },
     {
-      "id": "l_179158435213467",
+      "id": "l_179160615190167",
       "titulo": "Pregunta 53",
       "descripcion": "",
       "segmentos": [
@@ -1288,7 +1289,7 @@
       ]
     },
     {
-      "id": "l_179158435213468",
+      "id": "l_179160615190168",
       "titulo": "Pregunta 54",
       "descripcion": "",
       "segmentos": [
@@ -1309,7 +1310,7 @@
       ]
     },
     {
-      "id": "l_179158435213469",
+      "id": "l_179160615190169",
       "titulo": "Pregunta 55",
       "descripcion": "",
       "segmentos": [
@@ -1330,7 +1331,7 @@
       ]
     },
     {
-      "id": "l_179158435219470",
+      "id": "l_179160615195970",
       "titulo": "Ejercicio 1",
       "descripcion": "",
       "segmentos": [
@@ -1456,7 +1457,7 @@
       ]
     },
     {
-      "id": "l_179158435228671",
+      "id": "l_179160615203171",
       "titulo": "Ejercicio 2",
       "descripcion": "",
       "segmentos": [
@@ -1688,7 +1689,7 @@
       ]
     },
     {
-      "id": "l_179158435230372",
+      "id": "l_179160615204772",
       "titulo": "Ejercicio 3",
       "descripcion": "",
       "segmentos": [
@@ -1848,7 +1849,7 @@
       ]
     },
     {
-      "id": "l_179158435230373",
+      "id": "l_179160615204773",
       "titulo": "Introducción",
       "descripcion": "",
       "segmentos": [
@@ -1856,14 +1857,13 @@
           "tipo": "INFO",
           "titulo": "Introducción",
           "texto": "Introducción. En una partida de ajedrez, cada jugador dirige un ejército de piezas. Hoy vamos a conocer cuáles son esas piezas.",
-          "mostrarTablero": true,
-          "orientacion": "blanca",
-          "fen": "8/8/8/8/8/8/8/8 w - - 0 1"
+          "mostrarTablero": false,
+          "orientacion": "blanca"
         }
       ]
     },
     {
-      "id": "l_179158435230374",
+      "id": "l_179160615204774",
       "titulo": "Introducción (2)",
       "descripcion": "",
       "segmentos": [
@@ -1871,13 +1871,14 @@
           "tipo": "INFO",
           "titulo": "Introducción (2)",
           "texto": "[%csl Ga2,Gb2,Gc2,Gd2,Ge2,Gf2,Gg2,Gh2,Ga7,Gb7,Gc7,Gd7,Ge7,Gf7,Gg7,Gh7] El ajedrez aparece como un juego de guerra en la Antigua India. Las piezas representaban las cuatro partes principales de un ejercito: infanteria, caballería, elefantes y carros de combate; además del rey y su consorte. En español los elefantes se convierten en alfiles. La caballería se denominan caballos. Las piezas en las esquinas son llamadas torres. En la Edad Media, cuando el ajedrez llegó a Europa, los carros ya no estaban en uso, por lo que la pieza se convirtió en torres. La consorte del rey es ahora la dama.",
-          "mostrarTablero": false,
-          "orientacion": "blanca"
+          "mostrarTablero": true,
+          "orientacion": "blanca",
+          "fen": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1"
         }
       ]
     },
     {
-      "id": "l_179158435230375",
+      "id": "l_179160615204775",
       "titulo": "El Rey",
       "descripcion": "",
       "segmentos": [
@@ -1885,14 +1886,13 @@
           "tipo": "INFO",
           "titulo": "El Rey",
           "texto": "El Rey. Y bien, en el juego participan los siguientes tipos de piezas: Rey Así es el Rey blanco. Y así es el Rey negro.",
-          "mostrarTablero": true,
-          "orientacion": "blanca",
-          "fen": "8/8/8/8/8/8/8/8 w - - 0 1"
+          "mostrarTablero": false,
+          "orientacion": "blanca"
         }
       ]
     },
     {
-      "id": "l_179158435230376",
+      "id": "l_179160615204776",
       "titulo": "La Dama",
       "descripcion": "",
       "segmentos": [
@@ -1900,14 +1900,13 @@
           "tipo": "INFO",
           "titulo": "La Dama",
           "texto": "La Dama. La Dama Así es la Dama blanca. Y así es la Dama negra.",
-          "mostrarTablero": true,
-          "orientacion": "blanca",
-          "fen": "8/8/8/8/8/8/8/8 w - - 0 1"
+          "mostrarTablero": false,
+          "orientacion": "blanca"
         }
       ]
     },
     {
-      "id": "l_179158435230377",
+      "id": "l_179160615204777",
       "titulo": "La Torre",
       "descripcion": "",
       "segmentos": [
@@ -1915,14 +1914,13 @@
           "tipo": "INFO",
           "titulo": "La Torre",
           "texto": "La Torre. La Torre Así se ve la Torre blanca. Y así, la Torre negra.",
-          "mostrarTablero": true,
-          "orientacion": "blanca",
-          "fen": "8/8/8/8/8/8/8/8 w - - 0 1"
+          "mostrarTablero": false,
+          "orientacion": "blanca"
         }
       ]
     },
     {
-      "id": "l_179158435230378",
+      "id": "l_179160615204778",
       "titulo": "El Alfil",
       "descripcion": "",
       "segmentos": [
@@ -1930,14 +1928,13 @@
           "tipo": "INFO",
           "titulo": "El Alfil",
           "texto": "El Alfil. El Alfil Así se ve el Alfil blanco. Y así, el Alfil negro.",
-          "mostrarTablero": true,
-          "orientacion": "blanca",
-          "fen": "8/8/8/8/8/8/8/8 w - - 0 1"
+          "mostrarTablero": false,
+          "orientacion": "blanca"
         }
       ]
     },
     {
-      "id": "l_179158435230379",
+      "id": "l_179160615204779",
       "titulo": "El Caballo",
       "descripcion": "",
       "segmentos": [
@@ -1945,14 +1942,13 @@
           "tipo": "INFO",
           "titulo": "El Caballo",
           "texto": "El Caballo. El Caballo Así es el Caballo blanco. Y así es el Caballo negro.",
-          "mostrarTablero": true,
-          "orientacion": "blanca",
-          "fen": "8/8/8/8/8/8/8/8 w - - 0 1"
+          "mostrarTablero": false,
+          "orientacion": "blanca"
         }
       ]
     },
     {
-      "id": "l_179158435230380",
+      "id": "l_179160615204780",
       "titulo": "El Peón",
       "descripcion": "",
       "segmentos": [
@@ -1960,14 +1956,13 @@
           "tipo": "INFO",
           "titulo": "El Peón",
           "texto": "El Peón. El Peón Así se ve el Peón blanco. Y así se ve el Peón negro.",
-          "mostrarTablero": true,
-          "orientacion": "blanca",
-          "fen": "8/8/8/8/8/8/8/8 w - - 0 1"
+          "mostrarTablero": false,
+          "orientacion": "blanca"
         }
       ]
     },
     {
-      "id": "l_179158435230381",
+      "id": "l_179160615204781",
       "titulo": "La posición inicial",
       "descripcion": "",
       "segmentos": [
@@ -1975,14 +1970,13 @@
           "tipo": "INFO",
           "titulo": "La posición inicial",
           "texto": "La posición inicial. Una partida de ajedrez siempre comienza desde la posición inicial. En la posición inicial cada jugador tiene 16 piezas. La posición inicial es fácil de recordar. Vamos a colocar las piezas en el tablero, una por una.",
-          "mostrarTablero": true,
-          "orientacion": "blanca",
-          "fen": "8/8/8/8/8/8/8/8 w - - 0 1"
+          "mostrarTablero": false,
+          "orientacion": "blanca"
         }
       ]
     },
     {
-      "id": "l_179158435230382",
+      "id": "l_179160615204782",
       "titulo": "La colocación de las piezas",
       "descripcion": "",
       "segmentos": [
@@ -1997,7 +1991,7 @@
       ]
     },
     {
-      "id": "l_179158435230383",
+      "id": "l_179160615204883",
       "titulo": "La colocación de las piezas (2)",
       "descripcion": "",
       "segmentos": [
@@ -2012,7 +2006,7 @@
       ]
     },
     {
-      "id": "l_179158435230384",
+      "id": "l_179160615204884",
       "titulo": "La colocación de las piezas (3)",
       "descripcion": "",
       "segmentos": [
@@ -2027,7 +2021,7 @@
       ]
     },
     {
-      "id": "l_179158435230385",
+      "id": "l_179160615204885",
       "titulo": "La colocación de las piezas (4)",
       "descripcion": "",
       "segmentos": [
@@ -2042,7 +2036,7 @@
       ]
     },
     {
-      "id": "l_179158435230386",
+      "id": "l_179160615204886",
       "titulo": "La colocación de las piezas (5)",
       "descripcion": "",
       "segmentos": [
@@ -2057,7 +2051,7 @@
       ]
     },
     {
-      "id": "l_179158435230487",
+      "id": "l_179160615204887",
       "titulo": "La colocación de las piezas (6)",
       "descripcion": "",
       "segmentos": [
@@ -2072,7 +2066,7 @@
       ]
     },
     {
-      "id": "l_179158435230488",
+      "id": "l_179160615204888",
       "titulo": "La cantidad y la posición de las piezas",
       "descripcion": "",
       "segmentos": [
@@ -2080,13 +2074,14 @@
           "tipo": "INFO",
           "titulo": "La cantidad y la posición de las piezas",
           "texto": "[%csl Ra8,Ra1,Rh8,Rh1] Las blancas y las negras tienen 2 torres por bando. 2 caballos. 2 alfiles. Una dama. Un rey. Y 8 peones. La cantidad y la posición de las piezas. Veamos las piezas en su posición inicial y memoricémoslas.",
-          "mostrarTablero": false,
-          "orientacion": "blanca"
+          "mostrarTablero": true,
+          "orientacion": "blanca",
+          "fen": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1"
         }
       ]
     },
     {
-      "id": "l_179158435230489",
+      "id": "l_179160615204889",
       "titulo": "Flancos de dama y de rey",
       "descripcion": "",
       "segmentos": [
@@ -2101,7 +2096,7 @@
       ]
     },
     {
-      "id": "l_179158435230490",
+      "id": "l_179160615204890",
       "titulo": "Flancos de dama y de rey (2)",
       "descripcion": "",
       "segmentos": [
@@ -2116,7 +2111,7 @@
       ]
     },
     {
-      "id": "l_179158435230491",
+      "id": "l_179160615204891",
       "titulo": "Flancos de dama y de rey (3)",
       "descripcion": "",
       "segmentos": [
@@ -2131,7 +2126,7 @@
       ]
     },
     {
-      "id": "l_179158435230492",
+      "id": "l_179160615204892",
       "titulo": "Flancos de dama y de rey (4)",
       "descripcion": "",
       "segmentos": [
@@ -2146,7 +2141,7 @@
       ]
     },
     {
-      "id": "l_179158435230493",
+      "id": "l_179160615204893",
       "titulo": "Pregunta 56",
       "descripcion": "",
       "segmentos": [
@@ -2165,7 +2160,7 @@
       ]
     },
     {
-      "id": "l_179158435230494",
+      "id": "l_179160615204894",
       "titulo": "Pregunta 57",
       "descripcion": "",
       "segmentos": [
@@ -2183,7 +2178,7 @@
       ]
     },
     {
-      "id": "l_179158435230495",
+      "id": "l_179160615204895",
       "titulo": "Pregunta 58",
       "descripcion": "",
       "segmentos": [
@@ -2201,7 +2196,7 @@
       ]
     },
     {
-      "id": "l_179158435230496",
+      "id": "l_179160615204896",
       "titulo": "Pregunta 59",
       "descripcion": "",
       "segmentos": [
@@ -2222,7 +2217,7 @@
       ]
     },
     {
-      "id": "l_179158435230497",
+      "id": "l_179160615204897",
       "titulo": "Pregunta 60",
       "descripcion": "",
       "segmentos": [
@@ -2243,7 +2238,7 @@
       ]
     },
     {
-      "id": "l_179158435230498",
+      "id": "l_179160615204898",
       "titulo": "Pregunta 61",
       "descripcion": "",
       "segmentos": [
@@ -2262,7 +2257,7 @@
       ]
     },
     {
-      "id": "l_179158435230499",
+      "id": "l_179160615204899",
       "titulo": "Pregunta 62",
       "descripcion": "",
       "segmentos": [
@@ -2282,7 +2277,7 @@
       ]
     },
     {
-      "id": "l_1791584352304100",
+      "id": "l_1791606152048100",
       "titulo": "Pregunta 63",
       "descripcion": "",
       "segmentos": [
@@ -2302,7 +2297,7 @@
       ]
     },
     {
-      "id": "l_1791584352304101",
+      "id": "l_1791606152048101",
       "titulo": "Pregunta 64",
       "descripcion": "",
       "segmentos": [
@@ -2322,7 +2317,7 @@
       ]
     },
     {
-      "id": "l_1791584352304102",
+      "id": "l_1791606152048102",
       "titulo": "Pregunta 65",
       "descripcion": "",
       "segmentos": [
@@ -2342,7 +2337,7 @@
       ]
     },
     {
-      "id": "l_1791584352304103",
+      "id": "l_1791606152048103",
       "titulo": "Pregunta 66",
       "descripcion": "",
       "segmentos": [
@@ -2362,7 +2357,7 @@
       ]
     },
     {
-      "id": "l_1791584352304104",
+      "id": "l_1791606152048104",
       "titulo": "Pregunta 67",
       "descripcion": "",
       "segmentos": [
@@ -2382,7 +2377,7 @@
       ]
     },
     {
-      "id": "l_1791584352304105",
+      "id": "l_1791606152048105",
       "titulo": "Pregunta 68",
       "descripcion": "",
       "segmentos": [
@@ -2401,7 +2396,7 @@
       ]
     },
     {
-      "id": "l_1791584352304106",
+      "id": "l_1791606152048106",
       "titulo": "Pregunta 69",
       "descripcion": "",
       "segmentos": [
@@ -2420,7 +2415,7 @@
       ]
     },
     {
-      "id": "l_1791584352304107",
+      "id": "l_1791606152048107",
       "titulo": "Pregunta 70",
       "descripcion": "",
       "segmentos": [
@@ -2438,7 +2433,7 @@
       ]
     },
     {
-      "id": "l_1791584352304108",
+      "id": "l_1791606152049108",
       "titulo": "Pregunta 71",
       "descripcion": "",
       "segmentos": [
@@ -2456,7 +2451,7 @@
       ]
     },
     {
-      "id": "l_1791584352304109",
+      "id": "l_1791606152049109",
       "titulo": "Pregunta 72",
       "descripcion": "",
       "segmentos": [
@@ -2475,7 +2470,7 @@
       ]
     },
     {
-      "id": "l_1791584352304110",
+      "id": "l_1791606152049110",
       "titulo": "Pregunta 73",
       "descripcion": "",
       "segmentos": [
@@ -2494,7 +2489,7 @@
       ]
     },
     {
-      "id": "l_1791584352304111",
+      "id": "l_1791606152049111",
       "titulo": "Pregunta 74",
       "descripcion": "",
       "segmentos": [
@@ -2515,7 +2510,7 @@
       ]
     },
     {
-      "id": "l_1791584352305112",
+      "id": "l_1791606152049112",
       "titulo": "Pregunta 75",
       "descripcion": "",
       "segmentos": [
@@ -2536,7 +2531,7 @@
       ]
     },
     {
-      "id": "l_1791584352305113",
+      "id": "l_1791606152049113",
       "titulo": "Pregunta 76",
       "descripcion": "",
       "segmentos": [
@@ -2554,7 +2549,7 @@
       ]
     },
     {
-      "id": "l_1791584352305114",
+      "id": "l_1791606152049114",
       "titulo": "Pregunta 77",
       "descripcion": "",
       "segmentos": [
@@ -2572,7 +2567,7 @@
       ]
     },
     {
-      "id": "l_1791584352305115",
+      "id": "l_1791606152049115",
       "titulo": "Pregunta 78",
       "descripcion": "",
       "segmentos": [
@@ -2590,7 +2585,7 @@
       ]
     },
     {
-      "id": "l_1791584352305116",
+      "id": "l_1791606152049116",
       "titulo": "Pregunta 79",
       "descripcion": "",
       "segmentos": [
@@ -2610,7 +2605,7 @@
       ]
     },
     {
-      "id": "l_1791584352305117",
+      "id": "l_1791606152049117",
       "titulo": "Pregunta 80",
       "descripcion": "",
       "segmentos": [
@@ -2630,7 +2625,7 @@
       ]
     },
     {
-      "id": "l_1791584352305118",
+      "id": "l_1791606152049118",
       "titulo": "Pregunta 81",
       "descripcion": "",
       "segmentos": [
@@ -2650,7 +2645,7 @@
       ]
     },
     {
-      "id": "l_1791584352305119",
+      "id": "l_1791606152049119",
       "titulo": "Pregunta 82",
       "descripcion": "",
       "segmentos": [
@@ -2670,7 +2665,7 @@
       ]
     },
     {
-      "id": "l_1791584352305120",
+      "id": "l_1791606152049120",
       "titulo": "Pregunta 83",
       "descripcion": "",
       "segmentos": [
@@ -2688,7 +2683,7 @@
       ]
     },
     {
-      "id": "l_1791584352305121",
+      "id": "l_1791606152049121",
       "titulo": "Pregunta 84",
       "descripcion": "",
       "segmentos": [
@@ -2706,7 +2701,7 @@
       ]
     },
     {
-      "id": "l_1791584352305122",
+      "id": "l_1791606152049122",
       "titulo": "Pregunta 85",
       "descripcion": "",
       "segmentos": [
@@ -2724,7 +2719,7 @@
       ]
     },
     {
-      "id": "l_1791584352305123",
+      "id": "l_1791606152049123",
       "titulo": "Pregunta 86",
       "descripcion": "",
       "segmentos": [
@@ -2744,7 +2739,7 @@
       ]
     },
     {
-      "id": "l_1791584352307124",
+      "id": "l_1791606152051124",
       "titulo": "Ejercicio 4",
       "descripcion": "",
       "segmentos": [
@@ -2772,7 +2767,7 @@
       ]
     },
     {
-      "id": "l_1791584352307125",
+      "id": "l_1791606152052125",
       "titulo": "Ejercicio 5",
       "descripcion": "",
       "segmentos": [
@@ -2800,7 +2795,7 @@
       ]
     },
     {
-      "id": "l_1791584352312126",
+      "id": "l_1791606152056126",
       "titulo": "Ejercicio 6",
       "descripcion": "",
       "segmentos": [
@@ -2830,7 +2825,7 @@
       ]
     },
     {
-      "id": "l_1791584352314127",
+      "id": "l_1791606152057127",
       "titulo": "Ejercicio 7",
       "descripcion": "",
       "segmentos": [
@@ -2850,7 +2845,7 @@
       ]
     },
     {
-      "id": "l_1791584352316128",
+      "id": "l_1791606152060128",
       "titulo": "Ejercicio 8",
       "descripcion": "",
       "segmentos": [
@@ -2878,7 +2873,7 @@
       ]
     },
     {
-      "id": "l_1791584352318129",
+      "id": "l_1791606152061129",
       "titulo": "Ejercicio 9",
       "descripcion": "",
       "segmentos": [
@@ -2898,7 +2893,7 @@
       ]
     },
     {
-      "id": "l_1791584352318130",
+      "id": "l_1791606152061130",
       "titulo": "Introducción",
       "descripcion": "",
       "segmentos": [
@@ -2913,7 +2908,7 @@
       ]
     },
     {
-      "id": "l_1791584352318131",
+      "id": "l_1791606152061131",
       "titulo": "Introducción (2)",
       "descripcion": "",
       "segmentos": [
@@ -2928,7 +2923,7 @@
       ]
     },
     {
-      "id": "l_1791584352318132",
+      "id": "l_1791606152061132",
       "titulo": "Introducción (3)",
       "descripcion": "",
       "segmentos": [
@@ -2943,7 +2938,7 @@
       ]
     },
     {
-      "id": "l_1791584352318133",
+      "id": "l_1791606152061133",
       "titulo": "Movimiento y captura",
       "descripcion": "",
       "segmentos": [
@@ -2959,7 +2954,7 @@
       ]
     },
     {
-      "id": "l_1791584352318134",
+      "id": "l_1791606152061134",
       "titulo": "Ejemplos",
       "descripcion": "",
       "segmentos": [
@@ -2975,7 +2970,7 @@
       ]
     },
     {
-      "id": "l_1791584352318135",
+      "id": "l_1791606152061135",
       "titulo": "Ejemplos (2)",
       "descripcion": "",
       "segmentos": [
@@ -2990,7 +2985,7 @@
       ]
     },
     {
-      "id": "l_1791584352318136",
+      "id": "l_1791606152061136",
       "titulo": "Promoción",
       "descripcion": "",
       "segmentos": [
@@ -3006,7 +3001,7 @@
       ]
     },
     {
-      "id": "l_1791584352318137",
+      "id": "l_1791606152061137",
       "titulo": "Problema 1",
       "descripcion": "",
       "segmentos": [
@@ -3022,7 +3017,7 @@
       ]
     },
     {
-      "id": "l_1791584352318138",
+      "id": "l_1791606152061138",
       "titulo": "«Saltando» dos casillas",
       "descripcion": "",
       "segmentos": [
@@ -3037,7 +3032,7 @@
       ]
     },
     {
-      "id": "l_1791584352318139",
+      "id": "l_1791606152061139",
       "titulo": "«Saltando» dos casillas (2)",
       "descripcion": "",
       "segmentos": [
@@ -3053,7 +3048,7 @@
       ]
     },
     {
-      "id": "l_1791584352318140",
+      "id": "l_1791606152061140",
       "titulo": "«Saltando» dos casillas 2",
       "descripcion": "",
       "segmentos": [
@@ -3068,7 +3063,7 @@
       ]
     },
     {
-      "id": "l_1791584352318141",
+      "id": "l_1791606152062141",
       "titulo": "«Saltando» dos casillas 3",
       "descripcion": "",
       "segmentos": [
@@ -3083,7 +3078,7 @@
       ]
     },
     {
-      "id": "l_1791584352318142",
+      "id": "l_1791606152062142",
       "titulo": "Captura al paso",
       "descripcion": "",
       "segmentos": [
@@ -3099,7 +3094,7 @@
       ]
     },
     {
-      "id": "l_1791584352318143",
+      "id": "l_1791606152062143",
       "titulo": "Captura al paso (2)",
       "descripcion": "",
       "segmentos": [
@@ -3115,7 +3110,7 @@
       ]
     },
     {
-      "id": "l_1791584352318144",
+      "id": "l_1791606152062144",
       "titulo": "La estructura del peones",
       "descripcion": "",
       "segmentos": [
@@ -3130,7 +3125,7 @@
       ]
     },
     {
-      "id": "l_1791584352319145",
+      "id": "l_1791606152062145",
       "titulo": "La importancia de los peones",
       "descripcion": "",
       "segmentos": [
@@ -3146,7 +3141,7 @@
       ]
     },
     {
-      "id": "l_1791584352319146",
+      "id": "l_1791606152062146",
       "titulo": "Pregunta 87",
       "descripcion": "",
       "segmentos": [
@@ -3167,7 +3162,7 @@
       ]
     },
     {
-      "id": "l_1791584352319147",
+      "id": "l_1791606152062147",
       "titulo": "Pregunta 88",
       "descripcion": "",
       "segmentos": [
@@ -3188,7 +3183,7 @@
       ]
     },
     {
-      "id": "l_1791584352319148",
+      "id": "l_1791606152062148",
       "titulo": "Pregunta 89",
       "descripcion": "",
       "segmentos": [
@@ -3209,7 +3204,7 @@
       ]
     },
     {
-      "id": "l_1791584352319149",
+      "id": "l_1791606152062149",
       "titulo": "Pregunta 90",
       "descripcion": "",
       "segmentos": [
@@ -3229,7 +3224,7 @@
       ]
     },
     {
-      "id": "l_1791584352319150",
+      "id": "l_1791606152062150",
       "titulo": "Pregunta 91",
       "descripcion": "",
       "segmentos": [
@@ -3249,7 +3244,7 @@
       ]
     },
     {
-      "id": "l_1791584352319151",
+      "id": "l_1791606152062151",
       "titulo": "Pregunta 92",
       "descripcion": "",
       "segmentos": [
@@ -3269,7 +3264,7 @@
       ]
     },
     {
-      "id": "l_1791584352319152",
+      "id": "l_1791606152062152",
       "titulo": "Pregunta 93",
       "descripcion": "",
       "segmentos": [
@@ -3289,7 +3284,7 @@
       ]
     },
     {
-      "id": "l_1791584352319153",
+      "id": "l_1791606152062153",
       "titulo": "Ejercicio 10",
       "descripcion": "",
       "segmentos": [
@@ -3309,7 +3304,7 @@
       ]
     },
     {
-      "id": "l_1791584352319154",
+      "id": "l_1791606152063154",
       "titulo": "Pregunta 94",
       "descripcion": "",
       "segmentos": [
@@ -3330,7 +3325,7 @@
       ]
     },
     {
-      "id": "l_1791584352319155",
+      "id": "l_1791606152063155",
       "titulo": "Pregunta 95",
       "descripcion": "",
       "segmentos": [
@@ -3351,7 +3346,7 @@
       ]
     },
     {
-      "id": "l_1791584352323156",
+      "id": "l_1791606152067156",
       "titulo": "Ejercicio 11",
       "descripcion": "",
       "segmentos": [
@@ -3437,7 +3432,7 @@
       ]
     },
     {
-      "id": "l_1791584352324157",
+      "id": "l_1791606152068157",
       "titulo": "Ejercicio 12",
       "descripcion": "",
       "segmentos": [
@@ -3463,7 +3458,7 @@
       ]
     },
     {
-      "id": "l_1791584352324158",
+      "id": "l_1791606152068158",
       "titulo": "Pregunta 96",
       "descripcion": "",
       "segmentos": [
@@ -3484,7 +3479,7 @@
       ]
     },
     {
-      "id": "l_1791584352324159",
+      "id": "l_1791606152068159",
       "titulo": "Pregunta 97",
       "descripcion": "",
       "segmentos": [
@@ -3505,7 +3500,7 @@
       ]
     },
     {
-      "id": "l_1791584352324160",
+      "id": "l_1791606152068160",
       "titulo": "Pregunta 98",
       "descripcion": "",
       "segmentos": [
@@ -3526,7 +3521,7 @@
       ]
     },
     {
-      "id": "l_1791584352326161",
+      "id": "l_1791606152069161",
       "titulo": "Ejercicio 13",
       "descripcion": "",
       "segmentos": [
@@ -3589,7 +3584,7 @@
       ]
     },
     {
-      "id": "l_1791584352327162",
+      "id": "l_1791606152071162",
       "titulo": "Ejercicio 14",
       "descripcion": "",
       "segmentos": [
@@ -3623,7 +3618,7 @@
       ]
     },
     {
-      "id": "l_1791584352330163",
+      "id": "l_1791606152074163",
       "titulo": "Ejercicio 15",
       "descripcion": "",
       "segmentos": [
@@ -3704,7 +3699,7 @@
       ]
     },
     {
-      "id": "l_1791584352332164",
+      "id": "l_1791606152075164",
       "titulo": "Ejercicio 16",
       "descripcion": "",
       "segmentos": [
@@ -3758,7 +3753,7 @@
       ]
     },
     {
-      "id": "l_1791584352332165",
+      "id": "l_1791606152075165",
       "titulo": "Ejercicio 17",
       "descripcion": "",
       "segmentos": [
@@ -3789,7 +3784,7 @@
       ]
     },
     {
-      "id": "l_1791584352332166",
+      "id": "l_1791606152076166",
       "titulo": "Ejercicio 18",
       "descripcion": "",
       "segmentos": [
@@ -3809,7 +3804,7 @@
       ]
     },
     {
-      "id": "l_1791584352332167",
+      "id": "l_1791606152076167",
       "titulo": "Introducción",
       "descripcion": "",
       "segmentos": [
@@ -3817,13 +3812,14 @@
           "tipo": "INFO",
           "titulo": "Introducción",
           "texto": "[%csl Ra1,Rh1,Ra8,Rh8] Introducción. La Torre Ya hemos aprendido cómo mueven y capturan los peones. Ya ha llegado el momento para conocer las piezas más fuertes. Empecemos con la torre. Si recuerdas, al empezar la partida, cada jugador posee dos torres. Ellas están situadas en las dos esquinas del tablero.",
-          "mostrarTablero": false,
-          "orientacion": "blanca"
+          "mostrarTablero": true,
+          "orientacion": "blanca",
+          "fen": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1"
         }
       ]
     },
     {
-      "id": "l_1791584352333168",
+      "id": "l_1791606152076168",
       "titulo": "Movimiento de torre",
       "descripcion": "",
       "segmentos": [
@@ -3839,7 +3835,7 @@
       ]
     },
     {
-      "id": "l_1791584352333169",
+      "id": "l_1791606152076169",
       "titulo": "Los obstáculos",
       "descripcion": "",
       "segmentos": [
@@ -3854,7 +3850,7 @@
       ]
     },
     {
-      "id": "l_1791584352333170",
+      "id": "l_1791606152076170",
       "titulo": "Los obstáculos (2)",
       "descripcion": "",
       "segmentos": [
@@ -3869,7 +3865,7 @@
       ]
     },
     {
-      "id": "l_1791584352333171",
+      "id": "l_1791606152076171",
       "titulo": "La captura",
       "descripcion": "",
       "segmentos": [
@@ -3885,7 +3881,7 @@
       ]
     },
     {
-      "id": "l_1791584352333172",
+      "id": "l_1791606152076172",
       "titulo": "La captura (2)",
       "descripcion": "",
       "segmentos": [
@@ -3900,7 +3896,7 @@
       ]
     },
     {
-      "id": "l_1791584352333173",
+      "id": "l_1791606152076173",
       "titulo": "Movilidad inicial del torre",
       "descripcion": "",
       "segmentos": [
@@ -3910,12 +3906,13 @@
           "texto": "",
           "mostrarTablero": true,
           "orientacion": "blanca",
+          "fen": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1",
           "pgn": "{ [%csl Rh1,Ra1,Ra8,Rh8] Para hacer que la torre pueda jugar, los jugadores deben avanzar algunos peones y desarrollar algunas piezas. Así la movilidad de la torre depende de la presencia de columnas y filas abiertas. Movilidad inicial del torre. En la posición inicial la movilidad de las cuatro torres (dos blancas y dos negras) es igual a cero! Como usted puede ver, su actividad está restringida por piezas de su mismo color. } 1. h4 { [%csl Rh1,Ra1,Ra8,Rh8,Ga2,Gb1,Ga7,Gb8,Gg8,Gh7,Bh2,Bh3][%cal Bh1h3,Bh3e3,Be3e5] } *"
         }
       ]
     },
     {
-      "id": "l_1791584352333174",
+      "id": "l_1791606152076174",
       "titulo": "Conclusiones",
       "descripcion": "",
       "segmentos": [
@@ -3930,7 +3927,7 @@
       ]
     },
     {
-      "id": "l_1791584352333175",
+      "id": "l_1791606152076175",
       "titulo": "Conclusiones (2)",
       "descripcion": "",
       "segmentos": [
@@ -3946,7 +3943,7 @@
       ]
     },
     {
-      "id": "l_1791584352333176",
+      "id": "l_1791606152076176",
       "titulo": "Conclusiones (3)",
       "descripcion": "",
       "segmentos": [
@@ -3962,7 +3959,7 @@
       ]
     },
     {
-      "id": "l_1791584352333177",
+      "id": "l_1791606152076177",
       "titulo": "Pregunta 99",
       "descripcion": "",
       "segmentos": [
@@ -3983,7 +3980,7 @@
       ]
     },
     {
-      "id": "l_1791584352334178",
+      "id": "l_1791606152077178",
       "titulo": "Ejercicio 19",
       "descripcion": "",
       "segmentos": [
@@ -4003,7 +4000,7 @@
       ]
     },
     {
-      "id": "l_1791584352334179",
+      "id": "l_1791606152077179",
       "titulo": "Ejercicio 20",
       "descripcion": "",
       "segmentos": [
@@ -4023,7 +4020,7 @@
       ]
     },
     {
-      "id": "l_1791584352335180",
+      "id": "l_1791606152078180",
       "titulo": "Ejercicio 21",
       "descripcion": "",
       "segmentos": [
@@ -4043,7 +4040,7 @@
       ]
     },
     {
-      "id": "l_1791584352335181",
+      "id": "l_1791606152078181",
       "titulo": "Ejercicio 22",
       "descripcion": "",
       "segmentos": [
@@ -4063,7 +4060,7 @@
       ]
     },
     {
-      "id": "l_1791584352335182",
+      "id": "l_1791606152078182",
       "titulo": "Pregunta 100",
       "descripcion": "",
       "segmentos": [
@@ -4083,7 +4080,7 @@
       ]
     },
     {
-      "id": "l_1791584352335183",
+      "id": "l_1791606152078183",
       "titulo": "Pregunta 101",
       "descripcion": "",
       "segmentos": [
@@ -4103,7 +4100,7 @@
       ]
     },
     {
-      "id": "l_1791584352335184",
+      "id": "l_1791606152078184",
       "titulo": "Pregunta 102",
       "descripcion": "",
       "segmentos": [
@@ -4123,7 +4120,7 @@
       ]
     },
     {
-      "id": "l_1791584352335185",
+      "id": "l_1791606152078185",
       "titulo": "Pregunta 103",
       "descripcion": "",
       "segmentos": [
@@ -4143,7 +4140,7 @@
       ]
     },
     {
-      "id": "l_1791584352335186",
+      "id": "l_1791606152078186",
       "titulo": "Pregunta 104",
       "descripcion": "",
       "segmentos": [
@@ -4163,7 +4160,7 @@
       ]
     },
     {
-      "id": "l_1791584352336187",
+      "id": "l_1791606152078187",
       "titulo": "Ejercicio 23",
       "descripcion": "",
       "segmentos": [
@@ -4183,7 +4180,7 @@
       ]
     },
     {
-      "id": "l_1791584352336188",
+      "id": "l_1791606152079188",
       "titulo": "Ejercicio 24",
       "descripcion": "",
       "segmentos": [
@@ -4203,7 +4200,7 @@
       ]
     },
     {
-      "id": "l_1791584352336189",
+      "id": "l_1791606152079189",
       "titulo": "Ejercicio 25",
       "descripcion": "",
       "segmentos": [
@@ -4223,7 +4220,7 @@
       ]
     },
     {
-      "id": "l_1791584352337190",
+      "id": "l_1791606152080190",
       "titulo": "Ejercicio 26",
       "descripcion": "",
       "segmentos": [
@@ -4243,7 +4240,7 @@
       ]
     },
     {
-      "id": "l_1791584352337191",
+      "id": "l_1791606152080191",
       "titulo": "Ejercicio 27",
       "descripcion": "",
       "segmentos": [
@@ -4263,7 +4260,7 @@
       ]
     },
     {
-      "id": "l_1791584352338192",
+      "id": "l_1791606152081192",
       "titulo": "Ejercicio 28",
       "descripcion": "",
       "segmentos": [
@@ -4283,7 +4280,7 @@
       ]
     },
     {
-      "id": "l_1791584352338193",
+      "id": "l_1791606152081193",
       "titulo": "Ejercicio 29",
       "descripcion": "",
       "segmentos": [
@@ -4303,7 +4300,7 @@
       ]
     },
     {
-      "id": "l_1791584352340194",
+      "id": "l_1791606152082194",
       "titulo": "Ejercicio 30",
       "descripcion": "",
       "segmentos": [
@@ -4323,7 +4320,7 @@
       ]
     },
     {
-      "id": "l_1791584352340195",
+      "id": "l_1791606152083195",
       "titulo": "Ejercicio 31",
       "descripcion": "",
       "segmentos": [
@@ -4343,7 +4340,7 @@
       ]
     },
     {
-      "id": "l_1791584352341196",
+      "id": "l_1791606152084196",
       "titulo": "Ejercicio 32",
       "descripcion": "",
       "segmentos": [
@@ -4363,7 +4360,7 @@
       ]
     },
     {
-      "id": "l_1791584352342197",
+      "id": "l_1791606152085197",
       "titulo": "Ejercicio 33",
       "descripcion": "",
       "segmentos": [
@@ -4383,7 +4380,7 @@
       ]
     },
     {
-      "id": "l_1791584352348198",
+      "id": "l_1791606152091198",
       "titulo": "Ejercicio 34",
       "descripcion": "",
       "segmentos": [
@@ -4445,7 +4442,7 @@
       ]
     },
     {
-      "id": "l_1791584352354199",
+      "id": "l_1791606152097199",
       "titulo": "Ejercicio 35",
       "descripcion": "",
       "segmentos": [
@@ -4554,7 +4551,7 @@
       ]
     },
     {
-      "id": "l_1791584352372200",
+      "id": "l_1791606152115200",
       "titulo": "Ejercicio 36",
       "descripcion": "",
       "segmentos": [
@@ -4617,7 +4614,7 @@
       ]
     },
     {
-      "id": "l_1791584352373201",
+      "id": "l_1791606152116201",
       "titulo": "Ejercicio 37",
       "descripcion": "",
       "segmentos": [
@@ -4662,7 +4659,7 @@
       ]
     },
     {
-      "id": "l_1791584352384202",
+      "id": "l_1791606152126202",
       "titulo": "Ejercicio 38",
       "descripcion": "",
       "segmentos": [
@@ -4736,7 +4733,7 @@
       ]
     },
     {
-      "id": "l_1791584352385203",
+      "id": "l_1791606152127203",
       "titulo": "Ejercicio 39",
       "descripcion": "",
       "segmentos": [
@@ -4762,7 +4759,7 @@
       ]
     },
     {
-      "id": "l_1791584352387204",
+      "id": "l_1791606152129204",
       "titulo": "Ejercicio 40",
       "descripcion": "",
       "segmentos": [
@@ -4786,7 +4783,7 @@
       ]
     },
     {
-      "id": "l_1791584352391205",
+      "id": "l_1791606152133205",
       "titulo": "Ejercicio 41",
       "descripcion": "",
       "segmentos": [
@@ -4891,7 +4888,7 @@
       ]
     },
     {
-      "id": "l_1791584352393206",
+      "id": "l_1791606152136206",
       "titulo": "Ejercicio 42",
       "descripcion": "",
       "segmentos": [
@@ -4946,7 +4943,7 @@
       ]
     },
     {
-      "id": "l_1791584352394207",
+      "id": "l_1791606152137207",
       "titulo": "Ejercicio 43",
       "descripcion": "",
       "segmentos": [
@@ -4995,7 +4992,7 @@
       ]
     },
     {
-      "id": "l_1791584352396208",
+      "id": "l_1791606152138208",
       "titulo": "Ejercicio 44",
       "descripcion": "",
       "segmentos": [
@@ -5034,7 +5031,7 @@
       ]
     },
     {
-      "id": "l_1791584352396209",
+      "id": "l_1791606152138209",
       "titulo": "Introducción",
       "descripcion": "",
       "segmentos": [
@@ -5042,13 +5039,14 @@
           "tipo": "INFO",
           "titulo": "Introducción",
           "texto": "[%csl Rf1,Rc1,Rc8,Rf8] Cada jugador dispone de dos alfiles que están al lado del rey y la dama en el comienzo de la partida. Introducción. El Alfil Acabas de aprender los movimientos de la torre y cómo ella captura. Ahora llegó el momento de conocer una pieza parecida, esa pieza se llama Alfil.",
-          "mostrarTablero": false,
-          "orientacion": "blanca"
+          "mostrarTablero": true,
+          "orientacion": "blanca",
+          "fen": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1"
         }
       ]
     },
     {
-      "id": "l_1791584352396210",
+      "id": "l_1791606152138210",
       "titulo": "Los alfiles de distinto color",
       "descripcion": "",
       "segmentos": [
@@ -5062,7 +5060,7 @@
       ]
     },
     {
-      "id": "l_1791584352396211",
+      "id": "l_1791606152138211",
       "titulo": "Los alfiles de distinto color (2)",
       "descripcion": "",
       "segmentos": [
@@ -5077,7 +5075,7 @@
       ]
     },
     {
-      "id": "l_1791584352396212",
+      "id": "l_1791606152138212",
       "titulo": "Los movimientos del alfil",
       "descripcion": "",
       "segmentos": [
@@ -5093,7 +5091,7 @@
       ]
     },
     {
-      "id": "l_1791584352396213",
+      "id": "l_1791606152139213",
       "titulo": "Los obstáculos y las capturas",
       "descripcion": "",
       "segmentos": [
@@ -5109,7 +5107,7 @@
       ]
     },
     {
-      "id": "l_1791584352396214",
+      "id": "l_1791606152139214",
       "titulo": "Los alfiles de distinto color 2",
       "descripcion": "",
       "segmentos": [
@@ -5125,7 +5123,7 @@
       ]
     },
     {
-      "id": "l_1791584352397215",
+      "id": "l_1791606152139215",
       "titulo": "Ejercicio 45",
       "descripcion": "",
       "segmentos": [
@@ -5145,7 +5143,7 @@
       ]
     },
     {
-      "id": "l_1791584352397216",
+      "id": "l_1791606152139216",
       "titulo": "Pregunta 105",
       "descripcion": "",
       "segmentos": [
@@ -5166,7 +5164,7 @@
       ]
     },
     {
-      "id": "l_1791584352397217",
+      "id": "l_1791606152139217",
       "titulo": "Pregunta 106",
       "descripcion": "",
       "segmentos": [
@@ -5187,7 +5185,7 @@
       ]
     },
     {
-      "id": "l_1791584352397218",
+      "id": "l_1791606152139218",
       "titulo": "Ejercicio 46",
       "descripcion": "",
       "segmentos": [
@@ -5205,7 +5203,7 @@
       ]
     },
     {
-      "id": "l_1791584352397219",
+      "id": "l_1791606152139219",
       "titulo": "Ejercicio 47",
       "descripcion": "",
       "segmentos": [
@@ -5225,7 +5223,7 @@
       ]
     },
     {
-      "id": "l_1791584352397220",
+      "id": "l_1791606152139220",
       "titulo": "Ejercicio 48",
       "descripcion": "",
       "segmentos": [
@@ -5245,7 +5243,7 @@
       ]
     },
     {
-      "id": "l_1791584352397221",
+      "id": "l_1791606152140221",
       "titulo": "Ejercicio 49",
       "descripcion": "",
       "segmentos": [
@@ -5265,7 +5263,7 @@
       ]
     },
     {
-      "id": "l_1791584352397222",
+      "id": "l_1791606152140222",
       "titulo": "Pregunta 107",
       "descripcion": "",
       "segmentos": [
@@ -5285,7 +5283,7 @@
       ]
     },
     {
-      "id": "l_1791584352397223",
+      "id": "l_1791606152140223",
       "titulo": "Pregunta 108",
       "descripcion": "",
       "segmentos": [
@@ -5305,7 +5303,7 @@
       ]
     },
     {
-      "id": "l_1791584352397224",
+      "id": "l_1791606152140224",
       "titulo": "Pregunta 109",
       "descripcion": "",
       "segmentos": [
@@ -5325,7 +5323,7 @@
       ]
     },
     {
-      "id": "l_1791584352397225",
+      "id": "l_1791606152140225",
       "titulo": "Pregunta 110",
       "descripcion": "",
       "segmentos": [
@@ -5345,7 +5343,7 @@
       ]
     },
     {
-      "id": "l_1791584352397226",
+      "id": "l_1791606152140226",
       "titulo": "Pregunta 111",
       "descripcion": "",
       "segmentos": [
@@ -5367,7 +5365,7 @@
       ]
     },
     {
-      "id": "l_1791584352397227",
+      "id": "l_1791606152140227",
       "titulo": "Pregunta 112",
       "descripcion": "",
       "segmentos": [
@@ -5387,7 +5385,7 @@
       ]
     },
     {
-      "id": "l_1791584352398228",
+      "id": "l_1791606152140228",
       "titulo": "Pregunta 113",
       "descripcion": "",
       "segmentos": [
@@ -5407,7 +5405,7 @@
       ]
     },
     {
-      "id": "l_1791584352398229",
+      "id": "l_1791606152140229",
       "titulo": "Pregunta 114",
       "descripcion": "",
       "segmentos": [
@@ -5427,7 +5425,7 @@
       ]
     },
     {
-      "id": "l_1791584352398230",
+      "id": "l_1791606152140230",
       "titulo": "Ejercicio 50",
       "descripcion": "",
       "segmentos": [
@@ -5447,7 +5445,7 @@
       ]
     },
     {
-      "id": "l_1791584352398231",
+      "id": "l_1791606152140231",
       "titulo": "Ejercicio 51",
       "descripcion": "",
       "segmentos": [
@@ -5467,7 +5465,7 @@
       ]
     },
     {
-      "id": "l_1791584352399232",
+      "id": "l_1791606152142232",
       "titulo": "Ejercicio 52",
       "descripcion": "",
       "segmentos": [
@@ -5514,7 +5512,7 @@
       ]
     },
     {
-      "id": "l_1791584352400233",
+      "id": "l_1791606152142233",
       "titulo": "Ejercicio 53",
       "descripcion": "",
       "segmentos": [
@@ -5534,7 +5532,7 @@
       ]
     },
     {
-      "id": "l_1791584352400234",
+      "id": "l_1791606152142234",
       "titulo": "Ejercicio 54",
       "descripcion": "",
       "segmentos": [
@@ -5554,7 +5552,7 @@
       ]
     },
     {
-      "id": "l_1791584352400235",
+      "id": "l_1791606152142235",
       "titulo": "Ejercicio 55",
       "descripcion": "",
       "segmentos": [
@@ -5574,7 +5572,7 @@
       ]
     },
     {
-      "id": "l_1791584352401236",
+      "id": "l_1791606152143236",
       "titulo": "Ejercicio 56",
       "descripcion": "",
       "segmentos": [
@@ -5594,7 +5592,7 @@
       ]
     },
     {
-      "id": "l_1791584352401237",
+      "id": "l_1791606152143237",
       "titulo": "Ejercicio 57",
       "descripcion": "",
       "segmentos": [
@@ -5614,7 +5612,7 @@
       ]
     },
     {
-      "id": "l_1791584352401238",
+      "id": "l_1791606152143238",
       "titulo": "Ejercicio 58",
       "descripcion": "",
       "segmentos": [
@@ -5634,7 +5632,7 @@
       ]
     },
     {
-      "id": "l_1791584352404239",
+      "id": "l_1791606152146239",
       "titulo": "Ejercicio 59",
       "descripcion": "",
       "segmentos": [
@@ -5719,7 +5717,7 @@
       ]
     },
     {
-      "id": "l_1791584352404240",
+      "id": "l_1791606152146240",
       "titulo": "Ejercicio 60",
       "descripcion": "",
       "segmentos": [
@@ -5745,7 +5743,7 @@
       ]
     },
     {
-      "id": "l_1791584352404241",
+      "id": "l_1791606152147241",
       "titulo": "Ejercicio 61",
       "descripcion": "",
       "segmentos": [
@@ -5771,7 +5769,7 @@
       ]
     },
     {
-      "id": "l_1791584352405242",
+      "id": "l_1791606152147242",
       "titulo": "Ejercicio 62",
       "descripcion": "",
       "segmentos": [
@@ -5812,7 +5810,7 @@
       ]
     },
     {
-      "id": "l_1791584352406243",
+      "id": "l_1791606152148243",
       "titulo": "Ejercicio 63",
       "descripcion": "",
       "segmentos": [
@@ -5838,7 +5836,7 @@
       ]
     },
     {
-      "id": "l_1791584352407244",
+      "id": "l_1791606152149244",
       "titulo": "Ejercicio 64",
       "descripcion": "",
       "segmentos": [
@@ -5906,7 +5904,7 @@
       ]
     },
     {
-      "id": "l_1791584352411245",
+      "id": "l_1791606152153245",
       "titulo": "Ejercicio 65",
       "descripcion": "",
       "segmentos": [
@@ -5932,7 +5930,7 @@
       ]
     },
     {
-      "id": "l_1791584352413246",
+      "id": "l_1791606152155246",
       "titulo": "Ejercicio 66",
       "descripcion": "",
       "segmentos": [
@@ -6007,7 +6005,7 @@
       ]
     },
     {
-      "id": "l_1791584352416247",
+      "id": "l_1791606152158247",
       "titulo": "Ejercicio 67",
       "descripcion": "",
       "segmentos": [
@@ -6095,7 +6093,7 @@
       ]
     },
     {
-      "id": "l_1791584352418248",
+      "id": "l_1791606152159248",
       "titulo": "Ejercicio 68",
       "descripcion": "",
       "segmentos": [
@@ -6121,7 +6119,7 @@
       ]
     },
     {
-      "id": "l_1791584352420249",
+      "id": "l_1791606152161249",
       "titulo": "Ejercicio 69",
       "descripcion": "",
       "segmentos": [
@@ -6151,7 +6149,7 @@
       ]
     },
     {
-      "id": "l_1791584352421250",
+      "id": "l_1791606152163250",
       "titulo": "Ejercicio 70",
       "descripcion": "",
       "segmentos": [
@@ -6203,7 +6201,7 @@
       ]
     },
     {
-      "id": "l_1791584352422251",
+      "id": "l_1791606152163251",
       "titulo": "Ejercicio 71",
       "descripcion": "",
       "segmentos": [
@@ -6232,7 +6230,7 @@
       ]
     },
     {
-      "id": "l_1791584352422252",
+      "id": "l_1791606152163252",
       "titulo": "Introducción",
       "descripcion": "",
       "segmentos": [
@@ -6240,13 +6238,14 @@
           "tipo": "INFO",
           "titulo": "Introducción",
           "texto": "[%csl Rd8,Rd1] Cada jugador empieza la partida con una dama en su disposición. En el comienzo de la partida las damas están al lado de su rey, ocupando las casillas de su color. Recuerda: \"la dama adora su propio color\". Introducción. La Dama Ahora que ya sabes cómo mueven la torre y el alfil, vamos a conocer la pieza más fuerte del tablero. Estamos hablando de la dama.",
-          "mostrarTablero": false,
-          "orientacion": "blanca"
+          "mostrarTablero": true,
+          "orientacion": "blanca",
+          "fen": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1"
         }
       ]
     },
     {
-      "id": "l_1791584352422253",
+      "id": "l_1791606152163253",
       "titulo": "Los movimientos de la dama",
       "descripcion": "",
       "segmentos": [
@@ -6260,7 +6259,7 @@
       ]
     },
     {
-      "id": "l_1791584352422254",
+      "id": "l_1791606152163254",
       "titulo": "Los movimientos de la dama (2)",
       "descripcion": "",
       "segmentos": [
@@ -6275,7 +6274,7 @@
       ]
     },
     {
-      "id": "l_1791584352422255",
+      "id": "l_1791606152163255",
       "titulo": "Los movimientos de la dama (3)",
       "descripcion": "",
       "segmentos": [
@@ -6290,7 +6289,7 @@
       ]
     },
     {
-      "id": "l_1791584352422256",
+      "id": "l_1791606152163256",
       "titulo": "Los movimientos de la dama (4)",
       "descripcion": "",
       "segmentos": [
@@ -6305,7 +6304,7 @@
       ]
     },
     {
-      "id": "l_1791584352422257",
+      "id": "l_1791606152164257",
       "titulo": "Los movimientos de la dama (5)",
       "descripcion": "",
       "segmentos": [
@@ -6321,7 +6320,7 @@
       ]
     },
     {
-      "id": "l_1791584352422258",
+      "id": "l_1791606152164258",
       "titulo": "Los movimientos de la dama (6)",
       "descripcion": "",
       "segmentos": [
@@ -6337,7 +6336,7 @@
       ]
     },
     {
-      "id": "l_1791584352422259",
+      "id": "l_1791606152164259",
       "titulo": "Los movimientos de la dama (7)",
       "descripcion": "",
       "segmentos": [
@@ -6353,7 +6352,7 @@
       ]
     },
     {
-      "id": "l_1791584352422260",
+      "id": "l_1791606152164260",
       "titulo": "Los movimientos de la dama (8)",
       "descripcion": "",
       "segmentos": [
@@ -6369,7 +6368,7 @@
       ]
     },
     {
-      "id": "l_1791584352422261",
+      "id": "l_1791606152164261",
       "titulo": "Los movimientos de la dama (9)",
       "descripcion": "",
       "segmentos": [
@@ -6384,7 +6383,7 @@
       ]
     },
     {
-      "id": "l_1791584352422262",
+      "id": "l_1791606152164262",
       "titulo": "Los obstáculos",
       "descripcion": "",
       "segmentos": [
@@ -6400,7 +6399,7 @@
       ]
     },
     {
-      "id": "l_1791584352422263",
+      "id": "l_1791606152164263",
       "titulo": "Los obstáculos (2)",
       "descripcion": "",
       "segmentos": [
@@ -6416,7 +6415,7 @@
       ]
     },
     {
-      "id": "l_1791584352422264",
+      "id": "l_1791606152164264",
       "titulo": "Los obstáculos (3)",
       "descripcion": "",
       "segmentos": [
@@ -6432,7 +6431,7 @@
       ]
     },
     {
-      "id": "l_1791584352422265",
+      "id": "l_1791606152164265",
       "titulo": "Los obstáculos (4)",
       "descripcion": "",
       "segmentos": [
@@ -6447,7 +6446,7 @@
       ]
     },
     {
-      "id": "l_1791584352422266",
+      "id": "l_1791606152164266",
       "titulo": "La captura",
       "descripcion": "",
       "segmentos": [
@@ -6463,7 +6462,7 @@
       ]
     },
     {
-      "id": "l_1791584352422267",
+      "id": "l_1791606152164267",
       "titulo": "Conclusiones",
       "descripcion": "",
       "segmentos": [
@@ -6478,7 +6477,7 @@
       ]
     },
     {
-      "id": "l_1791584352422268",
+      "id": "l_1791606152164268",
       "titulo": "Conclusiones (2)",
       "descripcion": "",
       "segmentos": [
@@ -6494,7 +6493,7 @@
       ]
     },
     {
-      "id": "l_1791584352422269",
+      "id": "l_1791606152164269",
       "titulo": "Pregunta 115",
       "descripcion": "",
       "segmentos": [
@@ -6515,7 +6514,7 @@
       ]
     },
     {
-      "id": "l_1791584352423270",
+      "id": "l_1791606152164270",
       "titulo": "Ejercicio 72",
       "descripcion": "",
       "segmentos": [
@@ -6535,7 +6534,7 @@
       ]
     },
     {
-      "id": "l_1791584352424271",
+      "id": "l_1791606152165271",
       "titulo": "Ejercicio 73",
       "descripcion": "",
       "segmentos": [
@@ -6553,7 +6552,7 @@
       ]
     },
     {
-      "id": "l_1791584352425272",
+      "id": "l_1791606152166272",
       "titulo": "Ejercicio 74",
       "descripcion": "",
       "segmentos": [
@@ -6586,7 +6585,7 @@
       ]
     },
     {
-      "id": "l_1791584352426273",
+      "id": "l_1791606152167273",
       "titulo": "Ejercicio 75",
       "descripcion": "",
       "segmentos": [
@@ -6606,7 +6605,7 @@
       ]
     },
     {
-      "id": "l_1791584352426274",
+      "id": "l_1791606152167274",
       "titulo": "Ejercicio 76",
       "descripcion": "",
       "segmentos": [
@@ -6624,7 +6623,7 @@
       ]
     },
     {
-      "id": "l_1791584352427275",
+      "id": "l_1791606152168275",
       "titulo": "Ejercicio 77",
       "descripcion": "",
       "segmentos": [
@@ -6657,7 +6656,7 @@
       ]
     },
     {
-      "id": "l_1791584352429276",
+      "id": "l_1791606152171276",
       "titulo": "Ejercicio 78",
       "descripcion": "",
       "segmentos": [
@@ -6696,7 +6695,7 @@
       ]
     },
     {
-      "id": "l_1791584352430277",
+      "id": "l_1791606152172277",
       "titulo": "Ejercicio 79",
       "descripcion": "",
       "segmentos": [
@@ -6716,7 +6715,7 @@
       ]
     },
     {
-      "id": "l_1791584352431278",
+      "id": "l_1791606152172278",
       "titulo": "Ejercicio 80",
       "descripcion": "",
       "segmentos": [
@@ -6736,7 +6735,7 @@
       ]
     },
     {
-      "id": "l_1791584352435279",
+      "id": "l_1791606152175279",
       "titulo": "Ejercicio 81",
       "descripcion": "",
       "segmentos": [
@@ -6781,7 +6780,7 @@
       ]
     },
     {
-      "id": "l_1791584352437280",
+      "id": "l_1791606152177280",
       "titulo": "Ejercicio 82",
       "descripcion": "",
       "segmentos": [
@@ -6820,7 +6819,7 @@
       ]
     },
     {
-      "id": "l_1791584352437281",
+      "id": "l_1791606152177281",
       "titulo": "Pregunta 116",
       "descripcion": "",
       "segmentos": [
@@ -6840,7 +6839,7 @@
       ]
     },
     {
-      "id": "l_1791584352437282",
+      "id": "l_1791606152177282",
       "titulo": "Pregunta 117",
       "descripcion": "",
       "segmentos": [
@@ -6860,7 +6859,7 @@
       ]
     },
     {
-      "id": "l_1791584352437283",
+      "id": "l_1791606152177283",
       "titulo": "Pregunta 118",
       "descripcion": "",
       "segmentos": [
@@ -6880,7 +6879,7 @@
       ]
     },
     {
-      "id": "l_1791584352437284",
+      "id": "l_1791606152177284",
       "titulo": "Pregunta 119",
       "descripcion": "",
       "segmentos": [
@@ -6900,7 +6899,7 @@
       ]
     },
     {
-      "id": "l_1791584352437285",
+      "id": "l_1791606152177285",
       "titulo": "Pregunta 120",
       "descripcion": "",
       "segmentos": [
@@ -6922,7 +6921,7 @@
       ]
     },
     {
-      "id": "l_1791584352437286",
+      "id": "l_1791606152177286",
       "titulo": "Pregunta 121",
       "descripcion": "",
       "segmentos": [
@@ -6944,7 +6943,7 @@
       ]
     },
     {
-      "id": "l_1791584352437287",
+      "id": "l_1791606152177287",
       "titulo": "Pregunta 122",
       "descripcion": "",
       "segmentos": [
@@ -6965,7 +6964,7 @@
       ]
     },
     {
-      "id": "l_1791584352437288",
+      "id": "l_1791606152177288",
       "titulo": "Pregunta 123",
       "descripcion": "",
       "segmentos": [
@@ -6985,7 +6984,7 @@
       ]
     },
     {
-      "id": "l_1791584352437289",
+      "id": "l_1791606152178289",
       "titulo": "Pregunta 124",
       "descripcion": "",
       "segmentos": [
@@ -7005,7 +7004,7 @@
       ]
     },
     {
-      "id": "l_1791584352438290",
+      "id": "l_1791606152179290",
       "titulo": "Ejercicio 83",
       "descripcion": "",
       "segmentos": [
@@ -7025,7 +7024,7 @@
       ]
     },
     {
-      "id": "l_1791584352439291",
+      "id": "l_1791606152180291",
       "titulo": "Ejercicio 84",
       "descripcion": "",
       "segmentos": [
@@ -7045,7 +7044,7 @@
       ]
     },
     {
-      "id": "l_1791584352439292",
+      "id": "l_1791606152180292",
       "titulo": "Ejercicio 85",
       "descripcion": "",
       "segmentos": [
@@ -7063,7 +7062,7 @@
       ]
     },
     {
-      "id": "l_1791584352439293",
+      "id": "l_1791606152181293",
       "titulo": "Ejercicio 86",
       "descripcion": "",
       "segmentos": [
@@ -7083,7 +7082,7 @@
       ]
     },
     {
-      "id": "l_1791584352440294",
+      "id": "l_1791606152182294",
       "titulo": "Ejercicio 87",
       "descripcion": "",
       "segmentos": [
@@ -7103,7 +7102,7 @@
       ]
     },
     {
-      "id": "l_1791584352441295",
+      "id": "l_1791606152182295",
       "titulo": "Ejercicio 88",
       "descripcion": "",
       "segmentos": [
@@ -7123,7 +7122,7 @@
       ]
     },
     {
-      "id": "l_1791584352441296",
+      "id": "l_1791606152182296",
       "titulo": "Ejercicio 89",
       "descripcion": "",
       "segmentos": [
@@ -7143,7 +7142,7 @@
       ]
     },
     {
-      "id": "l_1791584352442297",
+      "id": "l_1791606152183297",
       "titulo": "Ejercicio 90",
       "descripcion": "",
       "segmentos": [
@@ -7163,7 +7162,7 @@
       ]
     },
     {
-      "id": "l_1791584352443298",
+      "id": "l_1791606152183298",
       "titulo": "Ejercicio 91",
       "descripcion": "",
       "segmentos": [
@@ -7183,7 +7182,7 @@
       ]
     },
     {
-      "id": "l_1791584352451299",
+      "id": "l_1791606152192299",
       "titulo": "Ejercicio 92",
       "descripcion": "",
       "segmentos": [
@@ -7266,7 +7265,7 @@
       ]
     },
     {
-      "id": "l_1791584352453300",
+      "id": "l_1791606152193300",
       "titulo": "Ejercicio 93",
       "descripcion": "",
       "segmentos": [
@@ -7305,7 +7304,7 @@
       ]
     },
     {
-      "id": "l_1791584352454301",
+      "id": "l_1791606152194301",
       "titulo": "Ejercicio 94",
       "descripcion": "",
       "segmentos": [
@@ -7342,7 +7341,7 @@
       ]
     },
     {
-      "id": "l_1791584352457302",
+      "id": "l_1791606152198302",
       "titulo": "Ejercicio 95",
       "descripcion": "",
       "segmentos": [
@@ -7397,7 +7396,7 @@
       ]
     },
     {
-      "id": "l_1791584352458303",
+      "id": "l_1791606152198303",
       "titulo": "Ejercicio 96",
       "descripcion": "",
       "segmentos": [
@@ -7415,7 +7414,7 @@
       ]
     },
     {
-      "id": "l_1791584352458304",
+      "id": "l_1791606152199304",
       "titulo": "Ejercicio 97",
       "descripcion": "",
       "segmentos": [
@@ -7435,7 +7434,7 @@
       ]
     },
     {
-      "id": "l_1791584352460305",
+      "id": "l_1791606152200305",
       "titulo": "Ejercicio 98",
       "descripcion": "",
       "segmentos": [
@@ -7470,7 +7469,7 @@
       ]
     },
     {
-      "id": "l_1791584352461306",
+      "id": "l_1791606152201306",
       "titulo": "Ejercicio 99",
       "descripcion": "",
       "segmentos": [
@@ -7490,7 +7489,7 @@
       ]
     },
     {
-      "id": "l_1791584352462307",
+      "id": "l_1791606152202307",
       "titulo": "Ejercicio 100",
       "descripcion": "",
       "segmentos": [
@@ -7510,7 +7509,7 @@
       ]
     },
     {
-      "id": "l_1791584352464308",
+      "id": "l_1791606152205308",
       "titulo": "Ejercicio 101",
       "descripcion": "",
       "segmentos": [
@@ -7550,7 +7549,7 @@
       ]
     },
     {
-      "id": "l_1791584352470309",
+      "id": "l_1791606152210309",
       "titulo": "Ejercicio 102",
       "descripcion": "",
       "segmentos": [
@@ -7626,7 +7625,7 @@
       ]
     },
     {
-      "id": "l_1791584352475310",
+      "id": "l_1791606152215310",
       "titulo": "Ejercicio 103",
       "descripcion": "",
       "segmentos": [
@@ -7667,7 +7666,7 @@
       ]
     },
     {
-      "id": "l_1791584352479311",
+      "id": "l_1791606152218311",
       "titulo": "Ejercicio 104",
       "descripcion": "",
       "segmentos": [
@@ -7718,7 +7717,7 @@
       ]
     },
     {
-      "id": "l_1791584352482312",
+      "id": "l_1791606152222312",
       "titulo": "Ejercicio 105",
       "descripcion": "",
       "segmentos": [
@@ -7783,7 +7782,7 @@
       ]
     },
     {
-      "id": "l_1791584352487313",
+      "id": "l_1791606152225313",
       "titulo": "Ejercicio 106",
       "descripcion": "",
       "segmentos": [
@@ -7832,7 +7831,7 @@
       ]
     },
     {
-      "id": "l_1791584352489314",
+      "id": "l_1791606152228314",
       "titulo": "Ejercicio 107",
       "descripcion": "",
       "segmentos": [
@@ -7858,7 +7857,7 @@
       ]
     },
     {
-      "id": "l_1791584352489315",
+      "id": "l_1791606152228315",
       "titulo": "Ejercicio 108",
       "descripcion": "",
       "segmentos": [
@@ -7880,7 +7879,7 @@
       ]
     },
     {
-      "id": "l_1791584352492316",
+      "id": "l_1791606152231316",
       "titulo": "Ejercicio 109",
       "descripcion": "",
       "segmentos": [
@@ -7942,7 +7941,7 @@
       ]
     },
     {
-      "id": "l_1791584352492317",
+      "id": "l_1791606152231317",
       "titulo": "Introducción",
       "descripcion": "",
       "segmentos": [
@@ -7950,13 +7949,14 @@
           "tipo": "INFO",
           "titulo": "Introducción",
           "texto": "[%csl Rb1,Rg1,Rg8,Rb8] Introducción. El Caballo Tal vez ya te habrás dado cuenta, que al conocer las piezas hemos dejado de lado al caballo, que está entre la torre y el alfil. Lo que sucede es que el caballo se mueve muy diferente, distinto a los movimientos de la torre, el alfil y la dama.",
-          "mostrarTablero": false,
-          "orientacion": "blanca"
+          "mostrarTablero": true,
+          "orientacion": "blanca",
+          "fen": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1"
         }
       ]
     },
     {
-      "id": "l_1791584352492318",
+      "id": "l_1791606152231318",
       "titulo": "Los movimientos del caballo",
       "descripcion": "",
       "segmentos": [
@@ -7972,7 +7972,7 @@
       ]
     },
     {
-      "id": "l_1791584352492319",
+      "id": "l_1791606152231319",
       "titulo": "Los obstáculos",
       "descripcion": "",
       "segmentos": [
@@ -7988,7 +7988,7 @@
       ]
     },
     {
-      "id": "l_1791584352492320",
+      "id": "l_1791606152231320",
       "titulo": "La captura",
       "descripcion": "",
       "segmentos": [
@@ -8004,7 +8004,7 @@
       ]
     },
     {
-      "id": "l_1791584352492321",
+      "id": "l_1791606152231321",
       "titulo": "Conclusiones",
       "descripcion": "",
       "segmentos": [
@@ -8020,7 +8020,7 @@
       ]
     },
     {
-      "id": "l_1791584352492322",
+      "id": "l_1791606152231322",
       "titulo": "Pregunta 125",
       "descripcion": "",
       "segmentos": [
@@ -8040,7 +8040,7 @@
       ]
     },
     {
-      "id": "l_1791584352492323",
+      "id": "l_1791606152231323",
       "titulo": "Pregunta 126",
       "descripcion": "",
       "segmentos": [
@@ -8060,7 +8060,7 @@
       ]
     },
     {
-      "id": "l_1791584352492324",
+      "id": "l_1791606152231324",
       "titulo": "Pregunta 127",
       "descripcion": "",
       "segmentos": [
@@ -8080,7 +8080,7 @@
       ]
     },
     {
-      "id": "l_1791584352493325",
+      "id": "l_1791606152232325",
       "titulo": "Ejercicio 110",
       "descripcion": "",
       "segmentos": [
@@ -8100,7 +8100,7 @@
       ]
     },
     {
-      "id": "l_1791584352493326",
+      "id": "l_1791606152232326",
       "titulo": "Ejercicio 111",
       "descripcion": "",
       "segmentos": [
@@ -8120,7 +8120,7 @@
       ]
     },
     {
-      "id": "l_1791584352503327",
+      "id": "l_1791606152239327",
       "titulo": "Ejercicio 112",
       "descripcion": "",
       "segmentos": [
@@ -8189,7 +8189,7 @@
       ]
     },
     {
-      "id": "l_1791584352505328",
+      "id": "l_1791606152241328",
       "titulo": "Ejercicio 113",
       "descripcion": "",
       "segmentos": [
@@ -8222,7 +8222,7 @@
       ]
     },
     {
-      "id": "l_1791584352507329",
+      "id": "l_1791606152243329",
       "titulo": "Ejercicio 114",
       "descripcion": "",
       "segmentos": [
@@ -8255,7 +8255,7 @@
       ]
     },
     {
-      "id": "l_1791584352509330",
+      "id": "l_1791606152246330",
       "titulo": "Ejercicio 115",
       "descripcion": "",
       "segmentos": [
@@ -8294,7 +8294,7 @@
       ]
     },
     {
-      "id": "l_1791584352510331",
+      "id": "l_1791606152246331",
       "titulo": "Ejercicio 116",
       "descripcion": "",
       "segmentos": [
@@ -8314,7 +8314,7 @@
       ]
     },
     {
-      "id": "l_1791584352516332",
+      "id": "l_1791606152252332",
       "titulo": "Ejercicio 117",
       "descripcion": "",
       "segmentos": [
@@ -8377,7 +8377,7 @@
       ]
     },
     {
-      "id": "l_1791584352516333",
+      "id": "l_1791606152252333",
       "titulo": "Ejercicio 118",
       "descripcion": "",
       "segmentos": [
@@ -8397,7 +8397,7 @@
       ]
     },
     {
-      "id": "l_1791584352516334",
+      "id": "l_1791606152252334",
       "titulo": "Ejercicio 119",
       "descripcion": "",
       "segmentos": [
@@ -8415,7 +8415,7 @@
       ]
     },
     {
-      "id": "l_1791584352517335",
+      "id": "l_1791606152253335",
       "titulo": "Ejercicio 120",
       "descripcion": "",
       "segmentos": [
@@ -8446,7 +8446,7 @@
       ]
     },
     {
-      "id": "l_1791584352517336",
+      "id": "l_1791606152253336",
       "titulo": "Pregunta 128",
       "descripcion": "",
       "segmentos": [
@@ -8466,7 +8466,7 @@
       ]
     },
     {
-      "id": "l_1791584352517337",
+      "id": "l_1791606152253337",
       "titulo": "Pregunta 129",
       "descripcion": "",
       "segmentos": [
@@ -8486,7 +8486,7 @@
       ]
     },
     {
-      "id": "l_1791584352517338",
+      "id": "l_1791606152253338",
       "titulo": "Pregunta 130",
       "descripcion": "",
       "segmentos": [
@@ -8506,7 +8506,7 @@
       ]
     },
     {
-      "id": "l_1791584352517339",
+      "id": "l_1791606152253339",
       "titulo": "Pregunta 131",
       "descripcion": "",
       "segmentos": [
@@ -8528,7 +8528,7 @@
       ]
     },
     {
-      "id": "l_1791584352517340",
+      "id": "l_1791606152253340",
       "titulo": "Pregunta 132",
       "descripcion": "",
       "segmentos": [
@@ -8548,7 +8548,7 @@
       ]
     },
     {
-      "id": "l_1791584352517341",
+      "id": "l_1791606152253341",
       "titulo": "Pregunta 133",
       "descripcion": "",
       "segmentos": [
@@ -8568,7 +8568,7 @@
       ]
     },
     {
-      "id": "l_1791584352518342",
+      "id": "l_1791606152253342",
       "titulo": "Pregunta 134",
       "descripcion": "",
       "segmentos": [
@@ -8588,7 +8588,7 @@
       ]
     },
     {
-      "id": "l_1791584352518343",
+      "id": "l_1791606152253343",
       "titulo": "Ejercicio 121",
       "descripcion": "",
       "segmentos": [
@@ -8608,7 +8608,7 @@
       ]
     },
     {
-      "id": "l_1791584352518344",
+      "id": "l_1791606152253344",
       "titulo": "Ejercicio 122",
       "descripcion": "",
       "segmentos": [
@@ -8628,7 +8628,7 @@
       ]
     },
     {
-      "id": "l_1791584352518345",
+      "id": "l_1791606152253345",
       "titulo": "Ejercicio 123",
       "descripcion": "",
       "segmentos": [
@@ -8648,7 +8648,7 @@
       ]
     },
     {
-      "id": "l_1791584352518346",
+      "id": "l_1791606152254346",
       "titulo": "Ejercicio 124",
       "descripcion": "",
       "segmentos": [
@@ -8668,7 +8668,7 @@
       ]
     },
     {
-      "id": "l_1791584352518347",
+      "id": "l_1791606152254347",
       "titulo": "Ejercicio 125",
       "descripcion": "",
       "segmentos": [
@@ -8688,7 +8688,7 @@
       ]
     },
     {
-      "id": "l_1791584352519348",
+      "id": "l_1791606152254348",
       "titulo": "Ejercicio 126",
       "descripcion": "",
       "segmentos": [
@@ -8708,7 +8708,7 @@
       ]
     },
     {
-      "id": "l_1791584352519349",
+      "id": "l_1791606152254349",
       "titulo": "Ejercicio 127",
       "descripcion": "",
       "segmentos": [
@@ -8741,7 +8741,7 @@
       ]
     },
     {
-      "id": "l_1791584352519350",
+      "id": "l_1791606152254350",
       "titulo": "Ejercicio 128",
       "descripcion": "",
       "segmentos": [
@@ -8774,7 +8774,7 @@
       ]
     },
     {
-      "id": "l_1791584352519351",
+      "id": "l_1791606152255351",
       "titulo": "Ejercicio 129",
       "descripcion": "",
       "segmentos": [
@@ -8792,7 +8792,7 @@
       ]
     },
     {
-      "id": "l_1791584352522352",
+      "id": "l_1791606152258352",
       "titulo": "Ejercicio 130",
       "descripcion": "",
       "segmentos": [
@@ -8849,7 +8849,7 @@
       ]
     },
     {
-      "id": "l_1791584352523353",
+      "id": "l_1791606152258353",
       "titulo": "Ejercicio 131",
       "descripcion": "",
       "segmentos": [
@@ -8892,7 +8892,7 @@
       ]
     },
     {
-      "id": "l_1791584352525354",
+      "id": "l_1791606152260354",
       "titulo": "Ejercicio 132",
       "descripcion": "",
       "segmentos": [
@@ -8955,7 +8955,7 @@
       ]
     },
     {
-      "id": "l_1791584352525355",
+      "id": "l_1791606152260355",
       "titulo": "Ejercicio 133",
       "descripcion": "",
       "segmentos": [
@@ -8975,7 +8975,7 @@
       ]
     },
     {
-      "id": "l_1791584352525356",
+      "id": "l_1791606152260356",
       "titulo": "Ejercicio 134",
       "descripcion": "",
       "segmentos": [
@@ -8995,7 +8995,7 @@
       ]
     },
     {
-      "id": "l_1791584352525357",
+      "id": "l_1791606152260357",
       "titulo": "Ejercicio 135",
       "descripcion": "",
       "segmentos": [
@@ -9015,7 +9015,7 @@
       ]
     },
     {
-      "id": "l_1791584352525358",
+      "id": "l_1791606152260358",
       "titulo": "Ejercicio 136",
       "descripcion": "",
       "segmentos": [
@@ -9035,7 +9035,7 @@
       ]
     },
     {
-      "id": "l_1791584352526359",
+      "id": "l_1791606152261359",
       "titulo": "Ejercicio 137",
       "descripcion": "",
       "segmentos": [
@@ -9055,7 +9055,7 @@
       ]
     },
     {
-      "id": "l_1791584352526360",
+      "id": "l_1791606152261360",
       "titulo": "Ejercicio 138",
       "descripcion": "",
       "segmentos": [
@@ -9075,7 +9075,7 @@
       ]
     },
     {
-      "id": "l_1791584352526361",
+      "id": "l_1791606152261361",
       "titulo": "Ejercicio 139",
       "descripcion": "",
       "segmentos": [
@@ -9095,7 +9095,7 @@
       ]
     },
     {
-      "id": "l_1791584352526362",
+      "id": "l_1791606152261362",
       "titulo": "Ejercicio 140",
       "descripcion": "",
       "segmentos": [
@@ -9115,7 +9115,7 @@
       ]
     },
     {
-      "id": "l_1791584352527363",
+      "id": "l_1791606152262363",
       "titulo": "Ejercicio 141",
       "descripcion": "",
       "segmentos": [
@@ -9135,7 +9135,7 @@
       ]
     },
     {
-      "id": "l_1791584352527364",
+      "id": "l_1791606152263364",
       "titulo": "Ejercicio 142",
       "descripcion": "",
       "segmentos": [
@@ -9180,7 +9180,7 @@
       ]
     },
     {
-      "id": "l_1791584352528365",
+      "id": "l_1791606152263365",
       "titulo": "Ejercicio 143",
       "descripcion": "",
       "segmentos": [
@@ -9225,7 +9225,7 @@
       ]
     },
     {
-      "id": "l_1791584352529366",
+      "id": "l_1791606152264366",
       "titulo": "Ejercicio 144",
       "descripcion": "",
       "segmentos": [
@@ -9251,7 +9251,7 @@
       ]
     },
     {
-      "id": "l_1791584352530367",
+      "id": "l_1791606152264367",
       "titulo": "Ejercicio 145",
       "descripcion": "",
       "segmentos": [
@@ -9281,7 +9281,7 @@
       ]
     },
     {
-      "id": "l_1791584352531368",
+      "id": "l_1791606152265368",
       "titulo": "Ejercicio 146",
       "descripcion": "",
       "segmentos": [
@@ -9338,7 +9338,7 @@
       ]
     },
     {
-      "id": "l_1791584352532369",
+      "id": "l_1791606152265369",
       "titulo": "Ejercicio 147",
       "descripcion": "",
       "segmentos": [
@@ -9360,7 +9360,7 @@
       ]
     },
     {
-      "id": "l_1791584352533370",
+      "id": "l_1791606152266370",
       "titulo": "Ejercicio 148",
       "descripcion": "",
       "segmentos": [
@@ -9407,7 +9407,7 @@
       ]
     },
     {
-      "id": "l_1791584352534371",
+      "id": "l_1791606152267371",
       "titulo": "Ejercicio 149",
       "descripcion": "",
       "segmentos": [
@@ -9437,7 +9437,7 @@
       ]
     },
     {
-      "id": "l_1791584352536372",
+      "id": "l_1791606152268372",
       "titulo": "Ejercicio 150",
       "descripcion": "",
       "segmentos": [
@@ -9504,7 +9504,7 @@
       ]
     },
     {
-      "id": "l_1791584352537373",
+      "id": "l_1791606152269373",
       "titulo": "Ejercicio 151",
       "descripcion": "",
       "segmentos": [
@@ -9534,7 +9534,7 @@
       ]
     },
     {
-      "id": "l_1791584352538374",
+      "id": "l_1791606152270374",
       "titulo": "Ejercicio 152",
       "descripcion": "",
       "segmentos": [
@@ -9560,7 +9560,7 @@
       ]
     },
     {
-      "id": "l_1791584352539375",
+      "id": "l_1791606152271375",
       "titulo": "Ejercicio 153",
       "descripcion": "",
       "segmentos": [
@@ -9609,7 +9609,7 @@
       ]
     },
     {
-      "id": "l_1791584352540376",
+      "id": "l_1791606152271376",
       "titulo": "Ejercicio 154",
       "descripcion": "",
       "segmentos": [
@@ -9660,7 +9660,7 @@
       ]
     },
     {
-      "id": "l_1791584352540377",
+      "id": "l_1791606152271377",
       "titulo": "Introducción",
       "descripcion": "",
       "segmentos": [
@@ -9668,13 +9668,14 @@
           "tipo": "INFO",
           "titulo": "Introducción",
           "texto": "[%csl Re1,Re8] En la posición inicial, el rey se sitúa entre la dama y el alfil. El rey blanco ocupa la casilla negra y el rey negro, la blanca. Introducción. Introducción En esta lección vamos a conocer la pieza más importante de todo el tablero, el rey. El rey, a pesar de ser una pieza poco móvil, representa la pieza más importante sobre el tablero. El rey no puede ser capturado, pero sí puede ser tomado prisionero, lo que constituye el objetivo de toda la batalla ajedrecística, representando el fin inmediato de la partida.",
-          "mostrarTablero": false,
-          "orientacion": "blanca"
+          "mostrarTablero": true,
+          "orientacion": "blanca",
+          "fen": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1"
         }
       ]
     },
     {
-      "id": "l_1791584352541378",
+      "id": "l_1791606152271378",
       "titulo": "Introducción (2)",
       "descripcion": "",
       "segmentos": [
@@ -9689,7 +9690,7 @@
       ]
     },
     {
-      "id": "l_1791584352541379",
+      "id": "l_1791606152271379",
       "titulo": "Introducción (3)",
       "descripcion": "",
       "segmentos": [
@@ -9704,7 +9705,7 @@
       ]
     },
     {
-      "id": "l_1791584352541380",
+      "id": "l_1791606152271380",
       "titulo": "Movimiento del rey",
       "descripcion": "",
       "segmentos": [
@@ -9719,7 +9720,7 @@
       ]
     },
     {
-      "id": "l_1791584352541381",
+      "id": "l_1791606152272381",
       "titulo": "La captura",
       "descripcion": "",
       "segmentos": [
@@ -9735,7 +9736,7 @@
       ]
     },
     {
-      "id": "l_1791584352541382",
+      "id": "l_1791606152272382",
       "titulo": "La pieza más valiosa de todas",
       "descripcion": "",
       "segmentos": [
@@ -9750,7 +9751,7 @@
       ]
     },
     {
-      "id": "l_1791584352541383",
+      "id": "l_1791606152272383",
       "titulo": "La pieza más valiosa de todas (2)",
       "descripcion": "",
       "segmentos": [
@@ -9765,7 +9766,7 @@
       ]
     },
     {
-      "id": "l_1791584352541384",
+      "id": "l_1791606152272384",
       "titulo": "La pieza más valiosa de todas (3)",
       "descripcion": "",
       "segmentos": [
@@ -9780,7 +9781,7 @@
       ]
     },
     {
-      "id": "l_1791584352541385",
+      "id": "l_1791606152272385",
       "titulo": "Los dos reyes",
       "descripcion": "",
       "segmentos": [
@@ -9795,7 +9796,7 @@
       ]
     },
     {
-      "id": "l_1791584352541386",
+      "id": "l_1791606152272386",
       "titulo": "Conclusiones",
       "descripcion": "",
       "segmentos": [
@@ -9810,7 +9811,7 @@
       ]
     },
     {
-      "id": "l_1791584352541387",
+      "id": "l_1791606152272387",
       "titulo": "Conclusiones (2)",
       "descripcion": "",
       "segmentos": [
@@ -9825,7 +9826,7 @@
       ]
     },
     {
-      "id": "l_1791584352542388",
+      "id": "l_1791606152272388",
       "titulo": "Conclusiones (3)",
       "descripcion": "",
       "segmentos": [
@@ -9840,7 +9841,7 @@
       ]
     },
     {
-      "id": "l_1791584352542389",
+      "id": "l_1791606152272389",
       "titulo": "Conclusiones (4)",
       "descripcion": "",
       "segmentos": [
@@ -9855,7 +9856,7 @@
       ]
     },
     {
-      "id": "l_1791584352542390",
+      "id": "l_1791606152272390",
       "titulo": "Ejercicio 155",
       "descripcion": "",
       "segmentos": [
@@ -9875,7 +9876,7 @@
       ]
     },
     {
-      "id": "l_1791584352542391",
+      "id": "l_1791606152272391",
       "titulo": "Ejercicio 156",
       "descripcion": "",
       "segmentos": [
@@ -9895,7 +9896,7 @@
       ]
     },
     {
-      "id": "l_1791584352543392",
+      "id": "l_1791606152273392",
       "titulo": "Ejercicio 157",
       "descripcion": "",
       "segmentos": [
@@ -9915,7 +9916,7 @@
       ]
     },
     {
-      "id": "l_1791584352543393",
+      "id": "l_1791606152273393",
       "titulo": "Ejercicio 158",
       "descripcion": "",
       "segmentos": [
@@ -9935,7 +9936,7 @@
       ]
     },
     {
-      "id": "l_1791584352544394",
+      "id": "l_1791606152273394",
       "titulo": "Ejercicio 159",
       "descripcion": "",
       "segmentos": [
@@ -9955,7 +9956,7 @@
       ]
     },
     {
-      "id": "l_1791584352544395",
+      "id": "l_1791606152274395",
       "titulo": "Ejercicio 160",
       "descripcion": "",
       "segmentos": [
@@ -9975,7 +9976,7 @@
       ]
     },
     {
-      "id": "l_1791584352544396",
+      "id": "l_1791606152274396",
       "titulo": "Ejercicio 161",
       "descripcion": "",
       "segmentos": [
@@ -9995,7 +9996,7 @@
       ]
     },
     {
-      "id": "l_1791584352545397",
+      "id": "l_1791606152274397",
       "titulo": "Ejercicio 162",
       "descripcion": "",
       "segmentos": [
@@ -10015,7 +10016,7 @@
       ]
     },
     {
-      "id": "l_1791584352546398",
+      "id": "l_1791606152274398",
       "titulo": "Ejercicio 163",
       "descripcion": "",
       "segmentos": [
@@ -10035,7 +10036,7 @@
       ]
     },
     {
-      "id": "l_1791584352546399",
+      "id": "l_1791606152275399",
       "titulo": "Ejercicio 164",
       "descripcion": "",
       "segmentos": [
@@ -10055,7 +10056,7 @@
       ]
     },
     {
-      "id": "l_1791584352546400",
+      "id": "l_1791606152275400",
       "titulo": "Ejercicio 165",
       "descripcion": "",
       "segmentos": [
@@ -10075,7 +10076,7 @@
       ]
     },
     {
-      "id": "l_1791584352546401",
+      "id": "l_1791606152275401",
       "titulo": "Ejercicio 166",
       "descripcion": "",
       "segmentos": [
@@ -10095,7 +10096,7 @@
       ]
     },
     {
-      "id": "l_1791584352547402",
+      "id": "l_1791606152275402",
       "titulo": "Pregunta 135",
       "descripcion": "",
       "segmentos": [
@@ -10116,7 +10117,7 @@
       ]
     },
     {
-      "id": "l_1791584352547403",
+      "id": "l_1791606152275403",
       "titulo": "Pregunta 136",
       "descripcion": "",
       "segmentos": [
@@ -10138,7 +10139,7 @@
       ]
     },
     {
-      "id": "l_1791584352547404",
+      "id": "l_1791606152276404",
       "titulo": "Ejercicio 167",
       "descripcion": "",
       "segmentos": [
@@ -10158,7 +10159,7 @@
       ]
     },
     {
-      "id": "l_1791584352547405",
+      "id": "l_1791606152276405",
       "titulo": "Pregunta 137",
       "descripcion": "",
       "segmentos": [
@@ -10178,7 +10179,7 @@
       ]
     },
     {
-      "id": "l_1791584352547406",
+      "id": "l_1791606152276406",
       "titulo": "Ejercicio 168",
       "descripcion": "",
       "segmentos": [
@@ -10198,7 +10199,7 @@
       ]
     },
     {
-      "id": "l_1791584352548407",
+      "id": "l_1791606152276407",
       "titulo": "Ejercicio 169",
       "descripcion": "",
       "segmentos": [
@@ -10218,7 +10219,7 @@
       ]
     },
     {
-      "id": "l_1791584352548408",
+      "id": "l_1791606152276408",
       "titulo": "Ejercicio 170",
       "descripcion": "",
       "segmentos": [
@@ -10238,7 +10239,7 @@
       ]
     },
     {
-      "id": "l_1791584352548409",
+      "id": "l_1791606152277409",
       "titulo": "Ejercicio 171",
       "descripcion": "",
       "segmentos": [
@@ -10258,7 +10259,7 @@
       ]
     },
     {
-      "id": "l_1791584352548410",
+      "id": "l_1791606152277410",
       "titulo": "Ejercicio 172",
       "descripcion": "",
       "segmentos": [
@@ -10278,7 +10279,7 @@
       ]
     },
     {
-      "id": "l_1791584352549411",
+      "id": "l_1791606152277411",
       "titulo": "Ejercicio 173",
       "descripcion": "",
       "segmentos": [
@@ -10313,7 +10314,7 @@
       ]
     },
     {
-      "id": "l_1791584352549412",
+      "id": "l_1791606152277412",
       "titulo": "Ejercicio 174",
       "descripcion": "",
       "segmentos": [
@@ -10344,7 +10345,7 @@
       ]
     },
     {
-      "id": "l_1791584352550413",
+      "id": "l_1791606152278413",
       "titulo": "Ejercicio 175",
       "descripcion": "",
       "segmentos": [
@@ -10375,7 +10376,7 @@
       ]
     },
     {
-      "id": "l_1791584352550414",
+      "id": "l_1791606152278414",
       "titulo": "Ejercicio 176",
       "descripcion": "",
       "segmentos": [
@@ -10395,7 +10396,7 @@
       ]
     },
     {
-      "id": "l_1791584352551415",
+      "id": "l_1791606152278415",
       "titulo": "Ejercicio 177",
       "descripcion": "",
       "segmentos": [
@@ -10415,7 +10416,7 @@
       ]
     },
     {
-      "id": "l_1791584352551416",
+      "id": "l_1791606152279416",
       "titulo": "Ejercicio 178",
       "descripcion": "",
       "segmentos": [
@@ -10435,7 +10436,7 @@
       ]
     },
     {
-      "id": "l_1791584352552417",
+      "id": "l_1791606152279417",
       "titulo": "Ejercicio 179",
       "descripcion": "",
       "segmentos": [
@@ -10455,7 +10456,7 @@
       ]
     },
     {
-      "id": "l_1791584352553418",
+      "id": "l_1791606152280418",
       "titulo": "Ejercicio 180",
       "descripcion": "",
       "segmentos": [
@@ -10485,7 +10486,7 @@
       ]
     },
     {
-      "id": "l_1791584352554419",
+      "id": "l_1791606152281419",
       "titulo": "Ejercicio 181",
       "descripcion": "",
       "segmentos": [
@@ -10548,7 +10549,7 @@
       ]
     },
     {
-      "id": "l_1791584352555420",
+      "id": "l_1791606152282420",
       "titulo": "Ejercicio 182",
       "descripcion": "",
       "segmentos": [
@@ -10595,7 +10596,7 @@
       ]
     },
     {
-      "id": "l_1791584352557421",
+      "id": "l_1791606152283421",
       "titulo": "Ejercicio 183",
       "descripcion": "",
       "segmentos": [
@@ -10645,7 +10646,7 @@
       ]
     },
     {
-      "id": "l_1791584352558422",
+      "id": "l_1791606152284422",
       "titulo": "Ejercicio 184",
       "descripcion": "",
       "segmentos": [
@@ -10671,7 +10672,7 @@
       ]
     },
     {
-      "id": "l_1791584352560423",
+      "id": "l_1791606152286423",
       "titulo": "Ejercicio 185",
       "descripcion": "",
       "segmentos": [
@@ -10717,7 +10718,7 @@
       ]
     },
     {
-      "id": "l_1791584352561424",
+      "id": "l_1791606152286424",
       "titulo": "Ejercicio 186",
       "descripcion": "",
       "segmentos": [
@@ -10743,7 +10744,7 @@
       ]
     },
     {
-      "id": "l_1791584352561425",
+      "id": "l_1791606152287425",
       "titulo": "Ejercicio 187",
       "descripcion": "",
       "segmentos": [
@@ -10769,7 +10770,7 @@
       ]
     },
     {
-      "id": "l_1791584352564426",
+      "id": "l_1791606152288426",
       "titulo": "Ejercicio 188",
       "descripcion": "",
       "segmentos": [
@@ -10829,7 +10830,7 @@
       ]
     },
     {
-      "id": "l_1791584352565427",
+      "id": "l_1791606152289427",
       "titulo": "Ejercicio 189",
       "descripcion": "",
       "segmentos": [
@@ -10867,7 +10868,7 @@
       ]
     },
     {
-      "id": "l_1791584352567428",
+      "id": "l_1791606152291428",
       "titulo": "Ejercicio 190",
       "descripcion": "",
       "segmentos": [
@@ -10921,7 +10922,7 @@
       ]
     },
     {
-      "id": "l_1791584352567429",
+      "id": "l_1791606152291429",
       "titulo": "Introducción",
       "descripcion": "",
       "segmentos": [
@@ -10937,7 +10938,7 @@
       ]
     },
     {
-      "id": "l_1791584352567430",
+      "id": "l_1791606152291430",
       "titulo": "Ejemplos de jaques",
       "descripcion": "",
       "segmentos": [
@@ -10952,7 +10953,7 @@
       ]
     },
     {
-      "id": "l_1791584352567431",
+      "id": "l_1791606152291431",
       "titulo": "Ejemplos de jaques (2)",
       "descripcion": "",
       "segmentos": [
@@ -10967,7 +10968,7 @@
       ]
     },
     {
-      "id": "l_1791584352567432",
+      "id": "l_1791606152291432",
       "titulo": "Ejemplos de jaques (3)",
       "descripcion": "",
       "segmentos": [
@@ -10982,7 +10983,7 @@
       ]
     },
     {
-      "id": "l_1791584352567433",
+      "id": "l_1791606152291433",
       "titulo": "La defensa del jaque",
       "descripcion": "",
       "segmentos": [
@@ -10990,14 +10991,13 @@
           "tipo": "INFO",
           "titulo": "La defensa del jaque",
           "texto": "La defensa del jaque. Existen 3 maneras para defenderse del jaque:",
-          "mostrarTablero": true,
-          "orientacion": "blanca",
-          "fen": "8/8/8/8/8/8/8/8 w - - 0 1"
+          "mostrarTablero": false,
+          "orientacion": "blanca"
         }
       ]
     },
     {
-      "id": "l_1791584352567434",
+      "id": "l_1791606152291434",
       "titulo": "La defensa del jaque (2)",
       "descripcion": "",
       "segmentos": [
@@ -11013,7 +11013,7 @@
       ]
     },
     {
-      "id": "l_1791584352567435",
+      "id": "l_1791606152291435",
       "titulo": "La defensa del jaque (3)",
       "descripcion": "",
       "segmentos": [
@@ -11029,7 +11029,7 @@
       ]
     },
     {
-      "id": "l_1791584352567436",
+      "id": "l_1791606152291436",
       "titulo": "La defensa del jaque (4)",
       "descripcion": "",
       "segmentos": [
@@ -11045,7 +11045,7 @@
       ]
     },
     {
-      "id": "l_1791584352567437",
+      "id": "l_1791606152291437",
       "titulo": "Mate",
       "descripcion": "",
       "segmentos": [
@@ -11060,7 +11060,7 @@
       ]
     },
     {
-      "id": "l_1791584352567438",
+      "id": "l_1791606152291438",
       "titulo": "Ejemplos",
       "descripcion": "",
       "segmentos": [
@@ -11075,7 +11075,7 @@
       ]
     },
     {
-      "id": "l_1791584352567439",
+      "id": "l_1791606152291439",
       "titulo": "Ejemplos (2)",
       "descripcion": "",
       "segmentos": [
@@ -11090,7 +11090,7 @@
       ]
     },
     {
-      "id": "l_1791584352567440",
+      "id": "l_1791606152291440",
       "titulo": "Ejemplos (3)",
       "descripcion": "",
       "segmentos": [
@@ -11105,7 +11105,7 @@
       ]
     },
     {
-      "id": "l_1791584352567441",
+      "id": "l_1791606152291441",
       "titulo": "Ejemplos (4)",
       "descripcion": "",
       "segmentos": [
@@ -11121,7 +11121,7 @@
       ]
     },
     {
-      "id": "l_1791584352567442",
+      "id": "l_1791606152291442",
       "titulo": "Ahogado",
       "descripcion": "",
       "segmentos": [
@@ -11136,7 +11136,7 @@
       ]
     },
     {
-      "id": "l_1791584352567443",
+      "id": "l_1791606152291443",
       "titulo": "Ahogado con piezas presentes",
       "descripcion": "",
       "segmentos": [
@@ -11151,7 +11151,7 @@
       ]
     },
     {
-      "id": "l_1791584352568444",
+      "id": "l_1791606152291444",
       "titulo": "Exemplo 2",
       "descripcion": "",
       "segmentos": [
@@ -11166,7 +11166,7 @@
       ]
     },
     {
-      "id": "l_1791584352568445",
+      "id": "l_1791606152291445",
       "titulo": "Exemplo 2 (2)",
       "descripcion": "",
       "segmentos": [
@@ -11181,7 +11181,7 @@
       ]
     },
     {
-      "id": "l_1791584352568446",
+      "id": "l_1791606152291446",
       "titulo": "Exemplo 2 (3)",
       "descripcion": "",
       "segmentos": [
@@ -11196,7 +11196,7 @@
       ]
     },
     {
-      "id": "l_1791584352568447",
+      "id": "l_1791606152291447",
       "titulo": "Exemplo 2 (4)",
       "descripcion": "",
       "segmentos": [
@@ -11211,7 +11211,7 @@
       ]
     },
     {
-      "id": "l_1791584352568448",
+      "id": "l_1791606152292448",
       "titulo": "Ejercicio 191",
       "descripcion": "",
       "segmentos": [
@@ -11231,7 +11231,7 @@
       ]
     },
     {
-      "id": "l_1791584352569449",
+      "id": "l_1791606152294449",
       "titulo": "Ejercicio 192",
       "descripcion": "",
       "segmentos": [
@@ -11251,7 +11251,7 @@
       ]
     },
     {
-      "id": "l_1791584352569450",
+      "id": "l_1791606152295450",
       "titulo": "Ejercicio 193",
       "descripcion": "",
       "segmentos": [
@@ -11271,7 +11271,7 @@
       ]
     },
     {
-      "id": "l_1791584352570451",
+      "id": "l_1791606152296451",
       "titulo": "Ejercicio 194",
       "descripcion": "",
       "segmentos": [
@@ -11291,7 +11291,7 @@
       ]
     },
     {
-      "id": "l_1791584352571452",
+      "id": "l_1791606152298452",
       "titulo": "Ejercicio 195",
       "descripcion": "",
       "segmentos": [
@@ -11311,7 +11311,7 @@
       ]
     },
     {
-      "id": "l_1791584352572453",
+      "id": "l_1791606152300453",
       "titulo": "Ejercicio 196",
       "descripcion": "",
       "segmentos": [
@@ -11331,7 +11331,7 @@
       ]
     },
     {
-      "id": "l_1791584352572454",
+      "id": "l_1791606152300454",
       "titulo": "Ejercicio 197",
       "descripcion": "",
       "segmentos": [
@@ -11351,7 +11351,7 @@
       ]
     },
     {
-      "id": "l_1791584352573455",
+      "id": "l_1791606152302455",
       "titulo": "Ejercicio 198",
       "descripcion": "",
       "segmentos": [
@@ -11371,7 +11371,7 @@
       ]
     },
     {
-      "id": "l_1791584352574456",
+      "id": "l_1791606152302456",
       "titulo": "Ejercicio 199",
       "descripcion": "",
       "segmentos": [
@@ -11391,7 +11391,7 @@
       ]
     },
     {
-      "id": "l_1791584352574457",
+      "id": "l_1791606152302457",
       "titulo": "Ejercicio 200",
       "descripcion": "",
       "segmentos": [
@@ -11411,7 +11411,7 @@
       ]
     },
     {
-      "id": "l_1791584352574458",
+      "id": "l_1791606152303458",
       "titulo": "Ejercicio 201",
       "descripcion": "",
       "segmentos": [
@@ -11431,7 +11431,7 @@
       ]
     },
     {
-      "id": "l_1791584352575459",
+      "id": "l_1791606152303459",
       "titulo": "Ejercicio 202",
       "descripcion": "",
       "segmentos": [
@@ -11451,7 +11451,7 @@
       ]
     },
     {
-      "id": "l_1791584352576460",
+      "id": "l_1791606152304460",
       "titulo": "Ejercicio 203",
       "descripcion": "",
       "segmentos": [
@@ -11471,7 +11471,7 @@
       ]
     },
     {
-      "id": "l_1791584352577461",
+      "id": "l_1791606152305461",
       "titulo": "Ejercicio 204",
       "descripcion": "",
       "segmentos": [
@@ -11491,7 +11491,7 @@
       ]
     },
     {
-      "id": "l_1791584352577462",
+      "id": "l_1791606152306462",
       "titulo": "Ejercicio 205",
       "descripcion": "",
       "segmentos": [
@@ -11511,7 +11511,7 @@
       ]
     },
     {
-      "id": "l_1791584352577463",
+      "id": "l_1791606152306463",
       "titulo": "Ejercicio 206",
       "descripcion": "",
       "segmentos": [
@@ -11531,7 +11531,7 @@
       ]
     },
     {
-      "id": "l_1791584352578464",
+      "id": "l_1791606152307464",
       "titulo": "Ejercicio 207",
       "descripcion": "",
       "segmentos": [
@@ -11551,7 +11551,7 @@
       ]
     },
     {
-      "id": "l_1791584352579465",
+      "id": "l_1791606152308465",
       "titulo": "Ejercicio 208",
       "descripcion": "",
       "segmentos": [
@@ -11571,7 +11571,7 @@
       ]
     },
     {
-      "id": "l_1791584352580466",
+      "id": "l_1791606152309466",
       "titulo": "Ejercicio 209",
       "descripcion": "",
       "segmentos": [
@@ -11591,7 +11591,7 @@
       ]
     },
     {
-      "id": "l_1791584352580467",
+      "id": "l_1791606152309467",
       "titulo": "Ejercicio 210",
       "descripcion": "",
       "segmentos": [
@@ -11611,7 +11611,7 @@
       ]
     },
     {
-      "id": "l_1791584352581468",
+      "id": "l_1791606152309468",
       "titulo": "Ejercicio 211",
       "descripcion": "",
       "segmentos": [
@@ -11631,7 +11631,7 @@
       ]
     },
     {
-      "id": "l_1791584352581469",
+      "id": "l_1791606152310469",
       "titulo": "Ejercicio 212",
       "descripcion": "",
       "segmentos": [
@@ -11651,7 +11651,7 @@
       ]
     },
     {
-      "id": "l_1791584352583470",
+      "id": "l_1791606152312470",
       "titulo": "Ejercicio 213",
       "descripcion": "",
       "segmentos": [
@@ -11671,7 +11671,7 @@
       ]
     },
     {
-      "id": "l_1791584352586471",
+      "id": "l_1791606152315471",
       "titulo": "Ejercicio 214",
       "descripcion": "",
       "segmentos": [
@@ -11691,7 +11691,7 @@
       ]
     },
     {
-      "id": "l_1791584352587472",
+      "id": "l_1791606152316472",
       "titulo": "Ejercicio 215",
       "descripcion": "",
       "segmentos": [
@@ -11711,7 +11711,7 @@
       ]
     },
     {
-      "id": "l_1791584352587473",
+      "id": "l_1791606152316473",
       "titulo": "Ejercicio 216",
       "descripcion": "",
       "segmentos": [
@@ -11731,7 +11731,7 @@
       ]
     },
     {
-      "id": "l_1791584352590474",
+      "id": "l_1791606152319474",
       "titulo": "Ejercicio 217",
       "descripcion": "",
       "segmentos": [
@@ -11751,7 +11751,7 @@
       ]
     },
     {
-      "id": "l_1791584352590475",
+      "id": "l_1791606152319475",
       "titulo": "Ejercicio 218",
       "descripcion": "",
       "segmentos": [
@@ -11771,7 +11771,7 @@
       ]
     },
     {
-      "id": "l_1791584352593476",
+      "id": "l_1791606152322476",
       "titulo": "Ejercicio 219",
       "descripcion": "",
       "segmentos": [
@@ -11791,7 +11791,7 @@
       ]
     },
     {
-      "id": "l_1791584352596477",
+      "id": "l_1791606152324477",
       "titulo": "Ejercicio 220",
       "descripcion": "",
       "segmentos": [
@@ -11811,7 +11811,7 @@
       ]
     },
     {
-      "id": "l_1791584352596478",
+      "id": "l_1791606152324478",
       "titulo": "Pregunta 138",
       "descripcion": "",
       "segmentos": [
@@ -11831,7 +11831,7 @@
       ]
     },
     {
-      "id": "l_1791584352596479",
+      "id": "l_1791606152324479",
       "titulo": "Pregunta 139",
       "descripcion": "",
       "segmentos": [
@@ -11851,7 +11851,7 @@
       ]
     },
     {
-      "id": "l_1791584352596480",
+      "id": "l_1791606152324480",
       "titulo": "Pregunta 140",
       "descripcion": "",
       "segmentos": [
@@ -11871,7 +11871,7 @@
       ]
     },
     {
-      "id": "l_1791584352597481",
+      "id": "l_1791606152324481",
       "titulo": "Pregunta 141",
       "descripcion": "",
       "segmentos": [
@@ -11891,7 +11891,7 @@
       ]
     },
     {
-      "id": "l_1791584352597482",
+      "id": "l_1791606152324482",
       "titulo": "Pregunta 142",
       "descripcion": "",
       "segmentos": [
@@ -11911,7 +11911,7 @@
       ]
     },
     {
-      "id": "l_1791584352597483",
+      "id": "l_1791606152324483",
       "titulo": "Pregunta 143",
       "descripcion": "",
       "segmentos": [
@@ -11931,7 +11931,7 @@
       ]
     },
     {
-      "id": "l_1791584352597484",
+      "id": "l_1791606152325484",
       "titulo": "Pregunta 144",
       "descripcion": "",
       "segmentos": [
@@ -11951,7 +11951,7 @@
       ]
     },
     {
-      "id": "l_1791584352597485",
+      "id": "l_1791606152325485",
       "titulo": "Pregunta 145",
       "descripcion": "",
       "segmentos": [
@@ -11971,7 +11971,7 @@
       ]
     },
     {
-      "id": "l_1791584352597486",
+      "id": "l_1791606152325486",
       "titulo": "Pregunta 146",
       "descripcion": "",
       "segmentos": [
@@ -11991,7 +11991,7 @@
       ]
     },
     {
-      "id": "l_1791584352597487",
+      "id": "l_1791606152325487",
       "titulo": "Pregunta 147",
       "descripcion": "",
       "segmentos": [
@@ -12011,7 +12011,7 @@
       ]
     },
     {
-      "id": "l_1791584352597488",
+      "id": "l_1791606152325488",
       "titulo": "Pregunta 148",
       "descripcion": "",
       "segmentos": [
@@ -12031,7 +12031,7 @@
       ]
     },
     {
-      "id": "l_1791584352597489",
+      "id": "l_1791606152325489",
       "titulo": "Pregunta 149",
       "descripcion": "",
       "segmentos": [
@@ -12051,7 +12051,7 @@
       ]
     },
     {
-      "id": "l_1791584352597490",
+      "id": "l_1791606152325490",
       "titulo": "Pregunta 150",
       "descripcion": "",
       "segmentos": [
@@ -12071,7 +12071,7 @@
       ]
     },
     {
-      "id": "l_1791584352597491",
+      "id": "l_1791606152325491",
       "titulo": "Pregunta 151",
       "descripcion": "",
       "segmentos": [
@@ -12091,7 +12091,7 @@
       ]
     },
     {
-      "id": "l_1791584352597492",
+      "id": "l_1791606152325492",
       "titulo": "Pregunta 152",
       "descripcion": "",
       "segmentos": [
@@ -12111,7 +12111,7 @@
       ]
     },
     {
-      "id": "l_1791584352597493",
+      "id": "l_1791606152325493",
       "titulo": "Pregunta 153",
       "descripcion": "",
       "segmentos": [
@@ -12131,7 +12131,7 @@
       ]
     },
     {
-      "id": "l_1791584352597494",
+      "id": "l_1791606152325494",
       "titulo": "Pregunta 154",
       "descripcion": "",
       "segmentos": [
@@ -12151,7 +12151,7 @@
       ]
     },
     {
-      "id": "l_1791584352597495",
+      "id": "l_1791606152325495",
       "titulo": "Introducción",
       "descripcion": "",
       "segmentos": [
@@ -12166,7 +12166,7 @@
       ]
     },
     {
-      "id": "l_1791584352597496",
+      "id": "l_1791606152325496",
       "titulo": "Introducción (2)",
       "descripcion": "",
       "segmentos": [
@@ -12181,7 +12181,7 @@
       ]
     },
     {
-      "id": "l_1791584352597497",
+      "id": "l_1791606152325497",
       "titulo": "Introducción (3)",
       "descripcion": "",
       "segmentos": [
@@ -12196,7 +12196,7 @@
       ]
     },
     {
-      "id": "l_1791584352597498",
+      "id": "l_1791606152325498",
       "titulo": "Ejemplos",
       "descripcion": "",
       "segmentos": [
@@ -12211,7 +12211,7 @@
       ]
     },
     {
-      "id": "l_1791584352597499",
+      "id": "l_1791606152326499",
       "titulo": "Ejemplos (2)",
       "descripcion": "",
       "segmentos": [
@@ -12226,7 +12226,7 @@
       ]
     },
     {
-      "id": "l_1791584352597500",
+      "id": "l_1791606152326500",
       "titulo": "Ejemplos (3)",
       "descripcion": "",
       "segmentos": [
@@ -12241,7 +12241,7 @@
       ]
     },
     {
-      "id": "l_1791584352597501",
+      "id": "l_1791606152326501",
       "titulo": "Tipos de enroque",
       "descripcion": "",
       "segmentos": [
@@ -12257,7 +12257,7 @@
       ]
     },
     {
-      "id": "l_1791584352597502",
+      "id": "l_1791606152326502",
       "titulo": "Tipos de enroque (2)",
       "descripcion": "",
       "segmentos": [
@@ -12273,7 +12273,7 @@
       ]
     },
     {
-      "id": "l_1791584352597503",
+      "id": "l_1791606152326503",
       "titulo": "Las reglas del enroque",
       "descripcion": "",
       "segmentos": [
@@ -12288,7 +12288,7 @@
       ]
     },
     {
-      "id": "l_1791584352597504",
+      "id": "l_1791606152326504",
       "titulo": "Las reglas del enroque (2)",
       "descripcion": "",
       "segmentos": [
@@ -12303,7 +12303,7 @@
       ]
     },
     {
-      "id": "l_1791584352597505",
+      "id": "l_1791606152326505",
       "titulo": "Las reglas del enroque (3)",
       "descripcion": "",
       "segmentos": [
@@ -12318,7 +12318,7 @@
       ]
     },
     {
-      "id": "l_1791584352597506",
+      "id": "l_1791606152326506",
       "titulo": "Las reglas del enroque (4)",
       "descripcion": "",
       "segmentos": [
@@ -12333,7 +12333,7 @@
       ]
     },
     {
-      "id": "l_1791584352598507",
+      "id": "l_1791606152326507",
       "titulo": "Las reglas del enroque (5)",
       "descripcion": "",
       "segmentos": [
@@ -12348,7 +12348,7 @@
       ]
     },
     {
-      "id": "l_1791584352598508",
+      "id": "l_1791606152326508",
       "titulo": "Las reglas del enroque (6)",
       "descripcion": "",
       "segmentos": [
@@ -12364,7 +12364,7 @@
       ]
     },
     {
-      "id": "l_1791584352598509",
+      "id": "l_1791606152326509",
       "titulo": "Condiciones de enroque",
       "descripcion": "",
       "segmentos": [
@@ -12379,7 +12379,7 @@
       ]
     },
     {
-      "id": "l_1791584352598510",
+      "id": "l_1791606152326510",
       "titulo": "Ejemplo 1",
       "descripcion": "",
       "segmentos": [
@@ -12395,7 +12395,7 @@
       ]
     },
     {
-      "id": "l_1791584352598511",
+      "id": "l_1791606152326511",
       "titulo": "Ejemplo 2",
       "descripcion": "",
       "segmentos": [
@@ -12411,7 +12411,7 @@
       ]
     },
     {
-      "id": "l_1791584352598512",
+      "id": "l_1791606152326512",
       "titulo": "Ejemplo 3",
       "descripcion": "",
       "segmentos": [
@@ -12427,7 +12427,7 @@
       ]
     },
     {
-      "id": "l_1791584352598513",
+      "id": "l_1791606152326513",
       "titulo": "Ejemplo 4",
       "descripcion": "",
       "segmentos": [
@@ -12442,7 +12442,7 @@
       ]
     },
     {
-      "id": "l_1791584352598514",
+      "id": "l_1791606152326514",
       "titulo": "Ejemplo 5",
       "descripcion": "",
       "segmentos": [
@@ -12458,7 +12458,7 @@
       ]
     },
     {
-      "id": "l_1791584352598515",
+      "id": "l_1791606152326515",
       "titulo": "Pregunta 155",
       "descripcion": "",
       "segmentos": [
@@ -12478,7 +12478,7 @@
       ]
     },
     {
-      "id": "l_1791584352598516",
+      "id": "l_1791606152326516",
       "titulo": "Pregunta 156",
       "descripcion": "",
       "segmentos": [
@@ -12501,7 +12501,7 @@
       ]
     },
     {
-      "id": "l_1791584352599517",
+      "id": "l_1791606152326517",
       "titulo": "Pregunta 157",
       "descripcion": "",
       "segmentos": [
@@ -12521,7 +12521,7 @@
       ]
     },
     {
-      "id": "l_1791584352599518",
+      "id": "l_1791606152326518",
       "titulo": "Pregunta 158",
       "descripcion": "",
       "segmentos": [
@@ -12544,7 +12544,7 @@
       ]
     },
     {
-      "id": "l_1791584352599519",
+      "id": "l_1791606152326519",
       "titulo": "Pregunta 159",
       "descripcion": "",
       "segmentos": [
@@ -12564,7 +12564,7 @@
       ]
     },
     {
-      "id": "l_1791584352599520",
+      "id": "l_1791606152326520",
       "titulo": "Pregunta 160",
       "descripcion": "",
       "segmentos": [
@@ -12584,7 +12584,7 @@
       ]
     },
     {
-      "id": "l_1791584352599521",
+      "id": "l_1791606152326521",
       "titulo": "Pregunta 161",
       "descripcion": "",
       "segmentos": [
@@ -12607,7 +12607,7 @@
       ]
     },
     {
-      "id": "l_1791584352599522",
+      "id": "l_1791606152326522",
       "titulo": "Pregunta 162",
       "descripcion": "",
       "segmentos": [
@@ -12627,7 +12627,7 @@
       ]
     },
     {
-      "id": "l_1791584352599523",
+      "id": "l_1791606152326523",
       "titulo": "Pregunta 163",
       "descripcion": "",
       "segmentos": [
@@ -12650,7 +12650,7 @@
       ]
     },
     {
-      "id": "l_1791584352599524",
+      "id": "l_1791606152326524",
       "titulo": "Pregunta 164",
       "descripcion": "",
       "segmentos": [
@@ -12670,7 +12670,7 @@
       ]
     },
     {
-      "id": "l_1791584352599525",
+      "id": "l_1791606152327525",
       "titulo": "Pregunta 165",
       "descripcion": "",
       "segmentos": [
@@ -12693,7 +12693,7 @@
       ]
     },
     {
-      "id": "l_1791584352599526",
+      "id": "l_1791606152327526",
       "titulo": "Pregunta 166",
       "descripcion": "",
       "segmentos": [
@@ -12713,7 +12713,7 @@
       ]
     },
     {
-      "id": "l_1791584352599527",
+      "id": "l_1791606152327527",
       "titulo": "Pregunta 167",
       "descripcion": "",
       "segmentos": [
@@ -12736,7 +12736,7 @@
       ]
     },
     {
-      "id": "l_1791584352599528",
+      "id": "l_1791606152327528",
       "titulo": "Pregunta 168",
       "descripcion": "",
       "segmentos": [
@@ -12756,7 +12756,7 @@
       ]
     },
     {
-      "id": "l_1791584352599529",
+      "id": "l_1791606152327529",
       "titulo": "Pregunta 169",
       "descripcion": "",
       "segmentos": [
@@ -12776,7 +12776,7 @@
       ]
     },
     {
-      "id": "l_1791584352599530",
+      "id": "l_1791606152327530",
       "titulo": "Pregunta 170",
       "descripcion": "",
       "segmentos": [
@@ -12799,7 +12799,7 @@
       ]
     },
     {
-      "id": "l_1791584352599531",
+      "id": "l_1791606152327531",
       "titulo": "Pregunta 171",
       "descripcion": "",
       "segmentos": [
@@ -12819,7 +12819,7 @@
       ]
     },
     {
-      "id": "l_1791584352599532",
+      "id": "l_1791606152327532",
       "titulo": "Pregunta 172",
       "descripcion": "",
       "segmentos": [
@@ -12842,7 +12842,7 @@
       ]
     },
     {
-      "id": "l_1791584352599533",
+      "id": "l_1791606152327533",
       "titulo": "Pregunta 173",
       "descripcion": "",
       "segmentos": [
@@ -12862,7 +12862,7 @@
       ]
     },
     {
-      "id": "l_1791584352599534",
+      "id": "l_1791606152327534",
       "titulo": "Pregunta 174",
       "descripcion": "",
       "segmentos": [
@@ -12882,7 +12882,7 @@
       ]
     },
     {
-      "id": "l_1791584352599535",
+      "id": "l_1791606152327535",
       "titulo": "Pregunta 175",
       "descripcion": "",
       "segmentos": [
@@ -12905,7 +12905,7 @@
       ]
     },
     {
-      "id": "l_1791584352599536",
+      "id": "l_1791606152327536",
       "titulo": "Pregunta 176",
       "descripcion": "",
       "segmentos": [
@@ -12925,7 +12925,7 @@
       ]
     },
     {
-      "id": "l_1791584352599537",
+      "id": "l_1791606152327537",
       "titulo": "Pregunta 177",
       "descripcion": "",
       "segmentos": [
@@ -12948,7 +12948,7 @@
       ]
     },
     {
-      "id": "l_1791584352599538",
+      "id": "l_1791606152327538",
       "titulo": "Pregunta 178",
       "descripcion": "",
       "segmentos": [
@@ -12968,7 +12968,7 @@
       ]
     },
     {
-      "id": "l_1791584352599539",
+      "id": "l_1791606152327539",
       "titulo": "Pregunta 179",
       "descripcion": "",
       "segmentos": [
@@ -12988,7 +12988,7 @@
       ]
     },
     {
-      "id": "l_1791584352600540",
+      "id": "l_1791606152327540",
       "titulo": "Pregunta 180",
       "descripcion": "",
       "segmentos": [
@@ -13008,7 +13008,7 @@
       ]
     },
     {
-      "id": "l_1791584352600541",
+      "id": "l_1791606152327541",
       "titulo": "Pregunta 181",
       "descripcion": "",
       "segmentos": [
@@ -13031,7 +13031,7 @@
       ]
     },
     {
-      "id": "l_1791584352600542",
+      "id": "l_1791606152327542",
       "titulo": "Pregunta 182",
       "descripcion": "",
       "segmentos": [
@@ -13051,7 +13051,7 @@
       ]
     },
     {
-      "id": "l_1791584352600543",
+      "id": "l_1791606152327543",
       "titulo": "Pregunta 183",
       "descripcion": "",
       "segmentos": [
@@ -13074,7 +13074,7 @@
       ]
     },
     {
-      "id": "l_1791584352600544",
+      "id": "l_1791606152327544",
       "titulo": "Pregunta 184",
       "descripcion": "",
       "segmentos": [
@@ -13094,7 +13094,7 @@
       ]
     },
     {
-      "id": "l_1791584352600545",
+      "id": "l_1791606152327545",
       "titulo": "Pregunta 185",
       "descripcion": "",
       "segmentos": [
@@ -13114,7 +13114,7 @@
       ]
     },
     {
-      "id": "l_1791584352600546",
+      "id": "l_1791606152327546",
       "titulo": "Pregunta 186",
       "descripcion": "",
       "segmentos": [
@@ -13137,7 +13137,7 @@
       ]
     },
     {
-      "id": "l_1791584352600547",
+      "id": "l_1791606152327547",
       "titulo": "Pregunta 187",
       "descripcion": "",
       "segmentos": [
@@ -13157,7 +13157,7 @@
       ]
     },
     {
-      "id": "l_1791584352600548",
+      "id": "l_1791606152327548",
       "titulo": "Pregunta 188",
       "descripcion": "",
       "segmentos": [
@@ -13177,7 +13177,7 @@
       ]
     },
     {
-      "id": "l_1791584352600549",
+      "id": "l_1791606152327549",
       "titulo": "Pregunta 189",
       "descripcion": "",
       "segmentos": [
@@ -13197,7 +13197,7 @@
       ]
     },
     {
-      "id": "l_1791584352636550",
+      "id": "l_1791606152358550",
       "titulo": "Ejercicio 221",
       "descripcion": "",
       "segmentos": [
@@ -13268,7 +13268,7 @@
       ]
     },
     {
-      "id": "l_1791584352636551",
+      "id": "l_1791606152358551",
       "titulo": "Pregunta 190",
       "descripcion": "",
       "segmentos": [
@@ -13288,7 +13288,7 @@
       ]
     },
     {
-      "id": "l_1791584352636552",
+      "id": "l_1791606152358552",
       "titulo": "Pregunta 191",
       "descripcion": "",
       "segmentos": [
@@ -13308,7 +13308,7 @@
       ]
     },
     {
-      "id": "l_1791584352636553",
+      "id": "l_1791606152358553",
       "titulo": "Pregunta 192",
       "descripcion": "",
       "segmentos": [
@@ -13328,7 +13328,7 @@
       ]
     },
     {
-      "id": "l_1791584352636554",
+      "id": "l_1791606152358554",
       "titulo": "Pregunta 193",
       "descripcion": "",
       "segmentos": [
@@ -13348,7 +13348,7 @@
       ]
     },
     {
-      "id": "l_1791584352636555",
+      "id": "l_1791606152358555",
       "titulo": "Pregunta 194",
       "descripcion": "",
       "segmentos": [
@@ -13368,7 +13368,7 @@
       ]
     },
     {
-      "id": "l_1791584352636556",
+      "id": "l_1791606152358556",
       "titulo": "Pregunta 195",
       "descripcion": "",
       "segmentos": [
@@ -13388,7 +13388,7 @@
       ]
     },
     {
-      "id": "l_1791584352636557",
+      "id": "l_1791606152358557",
       "titulo": "Pregunta 196",
       "descripcion": "",
       "segmentos": [
@@ -13408,7 +13408,7 @@
       ]
     },
     {
-      "id": "l_1791584352636558",
+      "id": "l_1791606152358558",
       "titulo": "Pregunta 197",
       "descripcion": "",
       "segmentos": [
