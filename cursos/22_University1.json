@@ -5,7 +5,7 @@
   "imagenUrl": "https://c1.chessking.com/course-image/r136x193/ac/4/ac4cc9dd-a6a2-4be0-bf1a-301d0b447614.jpg",
   "lecciones": [
     {
-      "id": "l_17920104476450",
+      "id": "l_17920232224730",
       "titulo": "Introducción",
       "descripcion": "",
       "segmentos": [
@@ -19,7 +19,7 @@
       ]
     },
     {
-      "id": "l_17920104476461",
+      "id": "l_17920232224741",
       "titulo": "La historia del ajedrez",
       "descripcion": "",
       "segmentos": [
@@ -33,7 +33,7 @@
       ]
     },
     {
-      "id": "l_17920104476462",
+      "id": "l_17920232224742",
       "titulo": "Piezas de ajedrez",
       "descripcion": "",
       "segmentos": [
@@ -47,7 +47,7 @@
       ]
     },
     {
-      "id": "l_17920104476463",
+      "id": "l_17920232224743",
       "titulo": "Piezas de ajedrez (2)",
       "descripcion": "",
       "segmentos": [
@@ -62,7 +62,7 @@
       ]
     },
     {
-      "id": "l_17920104476464",
+      "id": "l_17920232224744",
       "titulo": "Posición inicial",
       "descripcion": "",
       "segmentos": [
@@ -76,7 +76,7 @@
       ]
     },
     {
-      "id": "l_17920104476465",
+      "id": "l_17920232224745",
       "titulo": "El tablero",
       "descripcion": "",
       "segmentos": [
@@ -91,7 +91,7 @@
       ]
     },
     {
-      "id": "l_17920104476476",
+      "id": "l_17920232224756",
       "titulo": "Las filas",
       "descripcion": "",
       "segmentos": [
@@ -106,7 +106,7 @@
       ]
     },
     {
-      "id": "l_17920104476477",
+      "id": "l_17920232224757",
       "titulo": "Las columnas",
       "descripcion": "",
       "segmentos": [
@@ -121,7 +121,7 @@
       ]
     },
     {
-      "id": "l_17920104476478",
+      "id": "l_17920232224758",
       "titulo": "Las diagonales",
       "descripcion": "",
       "segmentos": [
@@ -136,7 +136,7 @@
       ]
     },
     {
-      "id": "l_17920104476479",
+      "id": "l_17920232224759",
       "titulo": "El centro",
       "descripcion": "",
       "segmentos": [
@@ -151,7 +151,7 @@
       ]
     },
     {
-      "id": "l_179201044764810",
+      "id": "l_179202322247710",
       "titulo": "Pregunta 1",
       "descripcion": "",
       "segmentos": [
@@ -172,7 +172,7 @@
       ]
     },
     {
-      "id": "l_179201044764811",
+      "id": "l_179202322247711",
       "titulo": "Pregunta 2",
       "descripcion": "",
       "segmentos": [
@@ -193,7 +193,7 @@
       ]
     },
     {
-      "id": "l_179201044764812",
+      "id": "l_179202322247712",
       "titulo": "Pregunta 3",
       "descripcion": "",
       "segmentos": [
@@ -214,7 +214,7 @@
       ]
     },
     {
-      "id": "l_179201044764813",
+      "id": "l_179202322247713",
       "titulo": "Pregunta 4",
       "descripcion": "",
       "segmentos": [
@@ -235,7 +235,7 @@
       ]
     },
     {
-      "id": "l_179201044764914",
+      "id": "l_179202322247714",
       "titulo": "Pregunta 5",
       "descripcion": "",
       "segmentos": [
@@ -256,7 +256,7 @@
       ]
     },
     {
-      "id": "l_179201044764915",
+      "id": "l_179202322247715",
       "titulo": "Pregunta 6",
       "descripcion": "",
       "segmentos": [
@@ -277,7 +277,7 @@
       ]
     },
     {
-      "id": "l_179201044764916",
+      "id": "l_179202322247716",
       "titulo": "Pregunta 7",
       "descripcion": "",
       "segmentos": [
@@ -298,7 +298,7 @@
       ]
     },
     {
-      "id": "l_179201044764917",
+      "id": "l_179202322247717",
       "titulo": "Pregunta 8",
       "descripcion": "",
       "segmentos": [
@@ -319,7 +319,7 @@
       ]
     },
     {
-      "id": "l_179201044764918",
+      "id": "l_179202322247718",
       "titulo": "Pregunta 9",
       "descripcion": "",
       "segmentos": [
@@ -340,7 +340,7 @@
       ]
     },
     {
-      "id": "l_179201044764919",
+      "id": "l_179202322247719",
       "titulo": "Pregunta 10",
       "descripcion": "",
       "segmentos": [
@@ -361,7 +361,7 @@
       ]
     },
     {
-      "id": "l_179201044764920",
+      "id": "l_179202322247820",
       "titulo": "Pregunta 11",
       "descripcion": "",
       "segmentos": [
@@ -382,7 +382,7 @@
       ]
     },
     {
-      "id": "l_179201044764921",
+      "id": "l_179202322247821",
       "titulo": "Pregunta 12",
       "descripcion": "",
       "segmentos": [
@@ -401,7 +401,7 @@
       ]
     },
     {
-      "id": "l_179201044764922",
+      "id": "l_179202322247822",
       "titulo": "Pregunta 13",
       "descripcion": "",
       "segmentos": [
@@ -420,7 +420,7 @@
       ]
     },
     {
-      "id": "l_179201044764923",
+      "id": "l_179202322247823",
       "titulo": "Pregunta 14",
       "descripcion": "",
       "segmentos": [
@@ -440,7 +440,7 @@
       ]
     },
     {
-      "id": "l_179201044764924",
+      "id": "l_179202322247824",
       "titulo": "Pregunta 15",
       "descripcion": "",
       "segmentos": [
@@ -461,7 +461,7 @@
       ]
     },
     {
-      "id": "l_179201044764925",
+      "id": "l_179202322247825",
       "titulo": "Pregunta 16",
       "descripcion": "",
       "segmentos": [
@@ -481,7 +481,7 @@
       ]
     },
     {
-      "id": "l_179201044764926",
+      "id": "l_179202322247826",
       "titulo": "Pregunta 17",
       "descripcion": "",
       "segmentos": [
@@ -501,7 +501,7 @@
       ]
     },
     {
-      "id": "l_179201044764927",
+      "id": "l_179202322247827",
       "titulo": "Pregunta 18",
       "descripcion": "",
       "segmentos": [
@@ -521,7 +521,7 @@
       ]
     },
     {
-      "id": "l_179201044764928",
+      "id": "l_179202322247828",
       "titulo": "Pregunta 19",
       "descripcion": "",
       "segmentos": [
@@ -541,7 +541,7 @@
       ]
     },
     {
-      "id": "l_179201044764929",
+      "id": "l_179202322247829",
       "titulo": "Pregunta 20",
       "descripcion": "",
       "segmentos": [
@@ -559,7 +559,7 @@
       ]
     },
     {
-      "id": "l_179201044765030",
+      "id": "l_179202322247830",
       "titulo": "Pregunta 21",
       "descripcion": "",
       "segmentos": [
@@ -580,7 +580,7 @@
       ]
     },
     {
-      "id": "l_179201044765031",
+      "id": "l_179202322247831",
       "titulo": "Pregunta 22",
       "descripcion": "",
       "segmentos": [
@@ -600,7 +600,7 @@
       ]
     },
     {
-      "id": "l_179201044765032",
+      "id": "l_179202322247832",
       "titulo": "Pregunta 23",
       "descripcion": "",
       "segmentos": [
@@ -620,7 +620,7 @@
       ]
     },
     {
-      "id": "l_179201044765033",
+      "id": "l_179202322247833",
       "titulo": "Pregunta 24",
       "descripcion": "",
       "segmentos": [
@@ -639,7 +639,7 @@
       ]
     },
     {
-      "id": "l_179201044765034",
+      "id": "l_179202322247834",
       "titulo": "Pregunta 25",
       "descripcion": "",
       "segmentos": [
@@ -659,7 +659,7 @@
       ]
     },
     {
-      "id": "l_179201044765035",
+      "id": "l_179202322247835",
       "titulo": "Pregunta 26",
       "descripcion": "",
       "segmentos": [
@@ -679,7 +679,7 @@
       ]
     },
     {
-      "id": "l_179201044765036",
+      "id": "l_179202322247836",
       "titulo": "Pregunta 27",
       "descripcion": "",
       "segmentos": [
@@ -698,7 +698,7 @@
       ]
     },
     {
-      "id": "l_179201044765037",
+      "id": "l_179202322247837",
       "titulo": "Pregunta 28",
       "descripcion": "",
       "segmentos": [
@@ -719,7 +719,7 @@
       ]
     },
     {
-      "id": "l_179201044765038",
+      "id": "l_179202322247938",
       "titulo": "Pregunta 29",
       "descripcion": "",
       "segmentos": [
@@ -737,7 +737,7 @@
       ]
     },
     {
-      "id": "l_179201044765039",
+      "id": "l_179202322247939",
       "titulo": "Pregunta 30",
       "descripcion": "",
       "segmentos": [
@@ -757,7 +757,7 @@
       ]
     },
     {
-      "id": "l_179201044765040",
+      "id": "l_179202322247940",
       "titulo": "Pregunta 31",
       "descripcion": "",
       "segmentos": [
@@ -777,7 +777,7 @@
       ]
     },
     {
-      "id": "l_179201044765041",
+      "id": "l_179202322247941",
       "titulo": "Pregunta 32",
       "descripcion": "",
       "segmentos": [
@@ -797,7 +797,7 @@
       ]
     },
     {
-      "id": "l_179201044765042",
+      "id": "l_179202322247942",
       "titulo": "Pregunta 33",
       "descripcion": "",
       "segmentos": [
@@ -819,7 +819,7 @@
       ]
     },
     {
-      "id": "l_179201044765143",
+      "id": "l_179202322247943",
       "titulo": "Pregunta 34",
       "descripcion": "",
       "segmentos": [
@@ -839,7 +839,7 @@
       ]
     },
     {
-      "id": "l_179201044765144",
+      "id": "l_179202322247944",
       "titulo": "Pregunta 35",
       "descripcion": "",
       "segmentos": [
@@ -859,7 +859,7 @@
       ]
     },
     {
-      "id": "l_179201044765145",
+      "id": "l_179202322247945",
       "titulo": "Pregunta 36",
       "descripcion": "",
       "segmentos": [
@@ -877,7 +877,7 @@
       ]
     },
     {
-      "id": "l_179201044765146",
+      "id": "l_179202322247946",
       "titulo": "Pregunta 37",
       "descripcion": "",
       "segmentos": [
@@ -897,7 +897,7 @@
       ]
     },
     {
-      "id": "l_179201044765147",
+      "id": "l_179202322247947",
       "titulo": "Pregunta 38",
       "descripcion": "",
       "segmentos": [
@@ -917,7 +917,7 @@
       ]
     },
     {
-      "id": "l_179201044765148",
+      "id": "l_179202322247948",
       "titulo": "Pregunta 39",
       "descripcion": "",
       "segmentos": [
@@ -937,7 +937,7 @@
       ]
     },
     {
-      "id": "l_179201044765149",
+      "id": "l_179202322247949",
       "titulo": "Pregunta 40",
       "descripcion": "",
       "segmentos": [
@@ -957,7 +957,7 @@
       ]
     },
     {
-      "id": "l_179201044765150",
+      "id": "l_179202322247950",
       "titulo": "Pregunta 41",
       "descripcion": "",
       "segmentos": [
@@ -977,7 +977,7 @@
       ]
     },
     {
-      "id": "l_179201044765151",
+      "id": "l_179202322247951",
       "titulo": "Pregunta 42",
       "descripcion": "",
       "segmentos": [
@@ -997,7 +997,7 @@
       ]
     },
     {
-      "id": "l_179201044765152",
+      "id": "l_179202322247952",
       "titulo": "Pregunta 43",
       "descripcion": "",
       "segmentos": [
@@ -1017,7 +1017,7 @@
       ]
     },
     {
-      "id": "l_179201044765153",
+      "id": "l_179202322247953",
       "titulo": "Pregunta 44",
       "descripcion": "",
       "segmentos": [
@@ -1038,7 +1038,7 @@
       ]
     },
     {
-      "id": "l_179201044765154",
+      "id": "l_179202322247954",
       "titulo": "Pregunta 45",
       "descripcion": "",
       "segmentos": [
@@ -1058,7 +1058,7 @@
       ]
     },
     {
-      "id": "l_179201044765155",
+      "id": "l_179202322247955",
       "titulo": "Pregunta 46",
       "descripcion": "",
       "segmentos": [
@@ -1079,7 +1079,7 @@
       ]
     },
     {
-      "id": "l_179201044765256",
+      "id": "l_179202322247956",
       "titulo": "El tablero. La notación",
       "descripcion": "",
       "segmentos": [
@@ -1093,7 +1093,7 @@
       ]
     },
     {
-      "id": "l_179201044765257",
+      "id": "l_179202322248057",
       "titulo": "El tablero. La notación (2)",
       "descripcion": "",
       "segmentos": [
@@ -1108,7 +1108,7 @@
       ]
     },
     {
-      "id": "l_179201044765358",
+      "id": "l_179202322248058",
       "titulo": "El tablero. La notación (3)",
       "descripcion": "",
       "segmentos": [
@@ -1123,7 +1123,7 @@
       ]
     },
     {
-      "id": "l_179201044765359",
+      "id": "l_179202322248059",
       "titulo": "Las piezas y los peones. La posición inicial",
       "descripcion": "",
       "segmentos": [
@@ -1138,7 +1138,7 @@
       ]
     },
     {
-      "id": "l_179201044765460",
+      "id": "l_179202322248160",
       "titulo": "La anotación de las jugadas",
       "descripcion": "",
       "segmentos": [
@@ -1154,7 +1154,7 @@
       ]
     },
     {
-      "id": "l_179201044765461",
+      "id": "l_179202322248161",
       "titulo": "Pregunta 47",
       "descripcion": "",
       "segmentos": [
@@ -1173,7 +1173,7 @@
       ]
     },
     {
-      "id": "l_179201044765462",
+      "id": "l_179202322248162",
       "titulo": "Pregunta 48",
       "descripcion": "",
       "segmentos": [
@@ -1192,7 +1192,7 @@
       ]
     },
     {
-      "id": "l_179201044765463",
+      "id": "l_179202322248163",
       "titulo": "Pregunta 49",
       "descripcion": "",
       "segmentos": [
@@ -1211,7 +1211,7 @@
       ]
     },
     {
-      "id": "l_179201044765464",
+      "id": "l_179202322248164",
       "titulo": "Pregunta 50",
       "descripcion": "",
       "segmentos": [
@@ -1230,7 +1230,7 @@
       ]
     },
     {
-      "id": "l_179201044765465",
+      "id": "l_179202322248265",
       "titulo": "Pregunta 51",
       "descripcion": "",
       "segmentos": [
@@ -1249,7 +1249,7 @@
       ]
     },
     {
-      "id": "l_179201044765466",
+      "id": "l_179202322248266",
       "titulo": "Pregunta 52",
       "descripcion": "",
       "segmentos": [
@@ -1268,7 +1268,7 @@
       ]
     },
     {
-      "id": "l_179201044765467",
+      "id": "l_179202322248267",
       "titulo": "Pregunta 53",
       "descripcion": "",
       "segmentos": [
@@ -1289,7 +1289,7 @@
       ]
     },
     {
-      "id": "l_179201044765468",
+      "id": "l_179202322248268",
       "titulo": "Pregunta 54",
       "descripcion": "",
       "segmentos": [
@@ -1310,7 +1310,7 @@
       ]
     },
     {
-      "id": "l_179201044765469",
+      "id": "l_179202322248269",
       "titulo": "Pregunta 55",
       "descripcion": "",
       "segmentos": [
@@ -1331,7 +1331,7 @@
       ]
     },
     {
-      "id": "l_179201044771170",
+      "id": "l_179202322254270",
       "titulo": "Ejercicio 1",
       "descripcion": "",
       "segmentos": [
@@ -1457,7 +1457,7 @@
       ]
     },
     {
-      "id": "l_179201044778671",
+      "id": "l_179202322262071",
       "titulo": "Ejercicio 2",
       "descripcion": "",
       "segmentos": [
@@ -1689,7 +1689,7 @@
       ]
     },
     {
-      "id": "l_179201044780372",
+      "id": "l_179202322263972",
       "titulo": "Ejercicio 3",
       "descripcion": "",
       "segmentos": [
@@ -1849,7 +1849,7 @@
       ]
     },
     {
-      "id": "l_179201044780373",
+      "id": "l_179202322263973",
       "titulo": "Introducción",
       "descripcion": "",
       "segmentos": [
@@ -1863,7 +1863,7 @@
       ]
     },
     {
-      "id": "l_179201044780374",
+      "id": "l_179202322263974",
       "titulo": "Introducción (2)",
       "descripcion": "",
       "segmentos": [
@@ -1878,7 +1878,7 @@
       ]
     },
     {
-      "id": "l_179201044780375",
+      "id": "l_179202322263975",
       "titulo": "El Rey",
       "descripcion": "",
       "segmentos": [
@@ -1892,7 +1892,7 @@
       ]
     },
     {
-      "id": "l_179201044780376",
+      "id": "l_179202322263976",
       "titulo": "La Dama",
       "descripcion": "",
       "segmentos": [
@@ -1906,7 +1906,7 @@
       ]
     },
     {
-      "id": "l_179201044780377",
+      "id": "l_179202322263977",
       "titulo": "La Torre",
       "descripcion": "",
       "segmentos": [
@@ -1920,7 +1920,7 @@
       ]
     },
     {
-      "id": "l_179201044780378",
+      "id": "l_179202322263978",
       "titulo": "El Alfil",
       "descripcion": "",
       "segmentos": [
@@ -1934,7 +1934,7 @@
       ]
     },
     {
-      "id": "l_179201044780379",
+      "id": "l_179202322263979",
       "titulo": "El Caballo",
       "descripcion": "",
       "segmentos": [
@@ -1948,7 +1948,7 @@
       ]
     },
     {
-      "id": "l_179201044780380",
+      "id": "l_179202322263980",
       "titulo": "El Peón",
       "descripcion": "",
       "segmentos": [
@@ -1962,7 +1962,7 @@
       ]
     },
     {
-      "id": "l_179201044780381",
+      "id": "l_179202322263981",
       "titulo": "La posición inicial",
       "descripcion": "",
       "segmentos": [
@@ -1976,7 +1976,7 @@
       ]
     },
     {
-      "id": "l_179201044780382",
+      "id": "l_179202322263982",
       "titulo": "La colocación de las piezas",
       "descripcion": "",
       "segmentos": [
@@ -1991,7 +1991,7 @@
       ]
     },
     {
-      "id": "l_179201044780383",
+      "id": "l_179202322263983",
       "titulo": "La colocación de las piezas (2)",
       "descripcion": "",
       "segmentos": [
@@ -2006,7 +2006,7 @@
       ]
     },
     {
-      "id": "l_179201044780384",
+      "id": "l_179202322263984",
       "titulo": "La colocación de las piezas (3)",
       "descripcion": "",
       "segmentos": [
@@ -2021,7 +2021,7 @@
       ]
     },
     {
-      "id": "l_179201044780385",
+      "id": "l_179202322263985",
       "titulo": "La colocación de las piezas (4)",
       "descripcion": "",
       "segmentos": [
@@ -2036,7 +2036,7 @@
       ]
     },
     {
-      "id": "l_179201044780486",
+      "id": "l_179202322263986",
       "titulo": "La colocación de las piezas (5)",
       "descripcion": "",
       "segmentos": [
@@ -2051,7 +2051,7 @@
       ]
     },
     {
-      "id": "l_179201044780487",
+      "id": "l_179202322263987",
       "titulo": "La colocación de las piezas (6)",
       "descripcion": "",
       "segmentos": [
@@ -2066,7 +2066,7 @@
       ]
     },
     {
-      "id": "l_179201044780488",
+      "id": "l_179202322263988",
       "titulo": "La cantidad y la posición de las piezas",
       "descripcion": "",
       "segmentos": [
@@ -2081,7 +2081,7 @@
       ]
     },
     {
-      "id": "l_179201044780489",
+      "id": "l_179202322263989",
       "titulo": "Flancos de dama y de rey",
       "descripcion": "",
       "segmentos": [
@@ -2096,7 +2096,7 @@
       ]
     },
     {
-      "id": "l_179201044780490",
+      "id": "l_179202322263990",
       "titulo": "Flancos de dama y de rey (2)",
       "descripcion": "",
       "segmentos": [
@@ -2111,7 +2111,7 @@
       ]
     },
     {
-      "id": "l_179201044780491",
+      "id": "l_179202322263991",
       "titulo": "Flancos de dama y de rey (3)",
       "descripcion": "",
       "segmentos": [
@@ -2126,7 +2126,7 @@
       ]
     },
     {
-      "id": "l_179201044780492",
+      "id": "l_179202322263992",
       "titulo": "Flancos de dama y de rey (4)",
       "descripcion": "",
       "segmentos": [
@@ -2141,7 +2141,7 @@
       ]
     },
     {
-      "id": "l_179201044780493",
+      "id": "l_179202322264093",
       "titulo": "Pregunta 56",
       "descripcion": "",
       "segmentos": [
@@ -2160,7 +2160,7 @@
       ]
     },
     {
-      "id": "l_179201044780494",
+      "id": "l_179202322264094",
       "titulo": "Pregunta 57",
       "descripcion": "",
       "segmentos": [
@@ -2178,7 +2178,7 @@
       ]
     },
     {
-      "id": "l_179201044780495",
+      "id": "l_179202322264095",
       "titulo": "Pregunta 58",
       "descripcion": "",
       "segmentos": [
@@ -2196,7 +2196,7 @@
       ]
     },
     {
-      "id": "l_179201044780496",
+      "id": "l_179202322264096",
       "titulo": "Pregunta 59",
       "descripcion": "",
       "segmentos": [
@@ -2217,7 +2217,7 @@
       ]
     },
     {
-      "id": "l_179201044780497",
+      "id": "l_179202322264097",
       "titulo": "Pregunta 60",
       "descripcion": "",
       "segmentos": [
@@ -2238,7 +2238,7 @@
       ]
     },
     {
-      "id": "l_179201044780498",
+      "id": "l_179202322264098",
       "titulo": "Pregunta 61",
       "descripcion": "",
       "segmentos": [
@@ -2257,7 +2257,7 @@
       ]
     },
     {
-      "id": "l_179201044780499",
+      "id": "l_179202322264099",
       "titulo": "Pregunta 62",
       "descripcion": "",
       "segmentos": [
@@ -2277,7 +2277,7 @@
       ]
     },
     {
-      "id": "l_1792010447804100",
+      "id": "l_1792023222640100",
       "titulo": "Pregunta 63",
       "descripcion": "",
       "segmentos": [
@@ -2297,7 +2297,7 @@
       ]
     },
     {
-      "id": "l_1792010447804101",
+      "id": "l_1792023222640101",
       "titulo": "Pregunta 64",
       "descripcion": "",
       "segmentos": [
@@ -2317,7 +2317,7 @@
       ]
     },
     {
-      "id": "l_1792010447804102",
+      "id": "l_1792023222640102",
       "titulo": "Pregunta 65",
       "descripcion": "",
       "segmentos": [
@@ -2337,7 +2337,7 @@
       ]
     },
     {
-      "id": "l_1792010447804103",
+      "id": "l_1792023222640103",
       "titulo": "Pregunta 66",
       "descripcion": "",
       "segmentos": [
@@ -2357,7 +2357,7 @@
       ]
     },
     {
-      "id": "l_1792010447804104",
+      "id": "l_1792023222640104",
       "titulo": "Pregunta 67",
       "descripcion": "",
       "segmentos": [
@@ -2377,7 +2377,7 @@
       ]
     },
     {
-      "id": "l_1792010447804105",
+      "id": "l_1792023222640105",
       "titulo": "Pregunta 68",
       "descripcion": "",
       "segmentos": [
@@ -2396,7 +2396,7 @@
       ]
     },
     {
-      "id": "l_1792010447804106",
+      "id": "l_1792023222640106",
       "titulo": "Pregunta 69",
       "descripcion": "",
       "segmentos": [
@@ -2415,7 +2415,7 @@
       ]
     },
     {
-      "id": "l_1792010447804107",
+      "id": "l_1792023222640107",
       "titulo": "Pregunta 70",
       "descripcion": "",
       "segmentos": [
@@ -2433,7 +2433,7 @@
       ]
     },
     {
-      "id": "l_1792010447804108",
+      "id": "l_1792023222640108",
       "titulo": "Pregunta 71",
       "descripcion": "",
       "segmentos": [
@@ -2451,7 +2451,7 @@
       ]
     },
     {
-      "id": "l_1792010447804109",
+      "id": "l_1792023222640109",
       "titulo": "Pregunta 72",
       "descripcion": "",
       "segmentos": [
@@ -2470,7 +2470,7 @@
       ]
     },
     {
-      "id": "l_1792010447805110",
+      "id": "l_1792023222640110",
       "titulo": "Pregunta 73",
       "descripcion": "",
       "segmentos": [
@@ -2489,7 +2489,7 @@
       ]
     },
     {
-      "id": "l_1792010447805111",
+      "id": "l_1792023222640111",
       "titulo": "Pregunta 74",
       "descripcion": "",
       "segmentos": [
@@ -2507,7 +2507,7 @@
       ]
     },
     {
-      "id": "l_1792010447805112",
+      "id": "l_1792023222640112",
       "titulo": "Pregunta 75",
       "descripcion": "",
       "segmentos": [
@@ -2525,7 +2525,7 @@
       ]
     },
     {
-      "id": "l_1792010447805113",
+      "id": "l_1792023222640113",
       "titulo": "Pregunta 76",
       "descripcion": "",
       "segmentos": [
@@ -2543,7 +2543,7 @@
       ]
     },
     {
-      "id": "l_1792010447805114",
+      "id": "l_1792023222640114",
       "titulo": "Pregunta 77",
       "descripcion": "",
       "segmentos": [
@@ -2563,7 +2563,7 @@
       ]
     },
     {
-      "id": "l_1792010447805115",
+      "id": "l_1792023222640115",
       "titulo": "Pregunta 78",
       "descripcion": "",
       "segmentos": [
@@ -2583,7 +2583,7 @@
       ]
     },
     {
-      "id": "l_1792010447805116",
+      "id": "l_1792023222641116",
       "titulo": "Pregunta 79",
       "descripcion": "",
       "segmentos": [
@@ -2603,7 +2603,7 @@
       ]
     },
     {
-      "id": "l_1792010447805117",
+      "id": "l_1792023222641117",
       "titulo": "Pregunta 80",
       "descripcion": "",
       "segmentos": [
@@ -2623,7 +2623,7 @@
       ]
     },
     {
-      "id": "l_1792010447805118",
+      "id": "l_1792023222641118",
       "titulo": "Pregunta 81",
       "descripcion": "",
       "segmentos": [
@@ -2641,7 +2641,7 @@
       ]
     },
     {
-      "id": "l_1792010447805119",
+      "id": "l_1792023222641119",
       "titulo": "Pregunta 82",
       "descripcion": "",
       "segmentos": [
@@ -2659,7 +2659,7 @@
       ]
     },
     {
-      "id": "l_1792010447805120",
+      "id": "l_1792023222641120",
       "titulo": "Pregunta 83",
       "descripcion": "",
       "segmentos": [
@@ -2677,7 +2677,7 @@
       ]
     },
     {
-      "id": "l_1792010447805121",
+      "id": "l_1792023222641121",
       "titulo": "Pregunta 84",
       "descripcion": "",
       "segmentos": [
@@ -2697,7 +2697,7 @@
       ]
     },
     {
-      "id": "l_1792010447805122",
+      "id": "l_1792023222641122",
       "titulo": "Introducción",
       "descripcion": "",
       "segmentos": [
@@ -2712,7 +2712,7 @@
       ]
     },
     {
-      "id": "l_1792010447805123",
+      "id": "l_1792023222641123",
       "titulo": "Introducción (2)",
       "descripcion": "",
       "segmentos": [
@@ -2727,7 +2727,7 @@
       ]
     },
     {
-      "id": "l_1792010447805124",
+      "id": "l_1792023222641124",
       "titulo": "Introducción (3)",
       "descripcion": "",
       "segmentos": [
@@ -2742,7 +2742,7 @@
       ]
     },
     {
-      "id": "l_1792010447805125",
+      "id": "l_1792023222641125",
       "titulo": "Movimiento y captura",
       "descripcion": "",
       "segmentos": [
@@ -2758,7 +2758,7 @@
       ]
     },
     {
-      "id": "l_1792010447805126",
+      "id": "l_1792023222641126",
       "titulo": "Ejemplos",
       "descripcion": "",
       "segmentos": [
@@ -2774,7 +2774,7 @@
       ]
     },
     {
-      "id": "l_1792010447805127",
+      "id": "l_1792023222641127",
       "titulo": "Ejemplos (2)",
       "descripcion": "",
       "segmentos": [
@@ -2789,7 +2789,7 @@
       ]
     },
     {
-      "id": "l_1792010447805128",
+      "id": "l_1792023222641128",
       "titulo": "Promoción",
       "descripcion": "",
       "segmentos": [
@@ -2805,7 +2805,7 @@
       ]
     },
     {
-      "id": "l_1792010447805129",
+      "id": "l_1792023222641129",
       "titulo": "Problema 1",
       "descripcion": "",
       "segmentos": [
@@ -2821,7 +2821,7 @@
       ]
     },
     {
-      "id": "l_1792010447805130",
+      "id": "l_1792023222641130",
       "titulo": "«Saltando» dos casillas",
       "descripcion": "",
       "segmentos": [
@@ -2836,7 +2836,7 @@
       ]
     },
     {
-      "id": "l_1792010447806131",
+      "id": "l_1792023222642131",
       "titulo": "«Saltando» dos casillas (2)",
       "descripcion": "",
       "segmentos": [
@@ -2852,7 +2852,7 @@
       ]
     },
     {
-      "id": "l_1792010447806132",
+      "id": "l_1792023222642132",
       "titulo": "«Saltando» dos casillas 2",
       "descripcion": "",
       "segmentos": [
@@ -2867,7 +2867,7 @@
       ]
     },
     {
-      "id": "l_1792010447806133",
+      "id": "l_1792023222642133",
       "titulo": "«Saltando» dos casillas 3",
       "descripcion": "",
       "segmentos": [
@@ -2882,7 +2882,7 @@
       ]
     },
     {
-      "id": "l_1792010447806134",
+      "id": "l_1792023222642134",
       "titulo": "Captura al paso",
       "descripcion": "",
       "segmentos": [
@@ -2898,7 +2898,7 @@
       ]
     },
     {
-      "id": "l_1792010447806135",
+      "id": "l_1792023222642135",
       "titulo": "Captura al paso (2)",
       "descripcion": "",
       "segmentos": [
@@ -2914,7 +2914,7 @@
       ]
     },
     {
-      "id": "l_1792010447806136",
+      "id": "l_1792023222642136",
       "titulo": "La estructura del peones",
       "descripcion": "",
       "segmentos": [
@@ -2929,7 +2929,7 @@
       ]
     },
     {
-      "id": "l_1792010447806137",
+      "id": "l_1792023222642137",
       "titulo": "La importancia de los peones",
       "descripcion": "",
       "segmentos": [
@@ -2945,7 +2945,7 @@
       ]
     },
     {
-      "id": "l_1792010447807138",
+      "id": "l_1792023222642138",
       "titulo": "Pregunta 85",
       "descripcion": "",
       "segmentos": [
@@ -2966,7 +2966,7 @@
       ]
     },
     {
-      "id": "l_1792010447807139",
+      "id": "l_1792023222642139",
       "titulo": "Pregunta 86",
       "descripcion": "",
       "segmentos": [
@@ -2987,7 +2987,7 @@
       ]
     },
     {
-      "id": "l_1792010447807140",
+      "id": "l_1792023222642140",
       "titulo": "Pregunta 87",
       "descripcion": "",
       "segmentos": [
@@ -3008,7 +3008,7 @@
       ]
     },
     {
-      "id": "l_1792010447807141",
+      "id": "l_1792023222642141",
       "titulo": "Pregunta 88",
       "descripcion": "",
       "segmentos": [
@@ -3028,7 +3028,7 @@
       ]
     },
     {
-      "id": "l_1792010447807142",
+      "id": "l_1792023222642142",
       "titulo": "Pregunta 89",
       "descripcion": "",
       "segmentos": [
@@ -3048,7 +3048,7 @@
       ]
     },
     {
-      "id": "l_1792010447807143",
+      "id": "l_1792023222642143",
       "titulo": "Pregunta 90",
       "descripcion": "",
       "segmentos": [
@@ -3068,7 +3068,7 @@
       ]
     },
     {
-      "id": "l_1792010447807144",
+      "id": "l_1792023222643144",
       "titulo": "Pregunta 91",
       "descripcion": "",
       "segmentos": [
@@ -3088,7 +3088,7 @@
       ]
     },
     {
-      "id": "l_1792010447807145",
+      "id": "l_1792023222643145",
       "titulo": "Ejercicio 4",
       "descripcion": "",
       "segmentos": [
@@ -3108,7 +3108,7 @@
       ]
     },
     {
-      "id": "l_1792010447807146",
+      "id": "l_1792023222643146",
       "titulo": "Pregunta 92",
       "descripcion": "",
       "segmentos": [
@@ -3129,7 +3129,7 @@
       ]
     },
     {
-      "id": "l_1792010447812147",
+      "id": "l_1792023222648147",
       "titulo": "Ejercicio 5",
       "descripcion": "",
       "segmentos": [
@@ -3215,7 +3215,7 @@
       ]
     },
     {
-      "id": "l_1792010447813148",
+      "id": "l_1792023222649148",
       "titulo": "Ejercicio 6",
       "descripcion": "",
       "segmentos": [
@@ -3241,7 +3241,7 @@
       ]
     },
     {
-      "id": "l_1792010447813149",
+      "id": "l_1792023222649149",
       "titulo": "Pregunta 93",
       "descripcion": "",
       "segmentos": [
@@ -3262,7 +3262,7 @@
       ]
     },
     {
-      "id": "l_1792010447813150",
+      "id": "l_1792023222649150",
       "titulo": "Pregunta 94",
       "descripcion": "",
       "segmentos": [
@@ -3283,7 +3283,7 @@
       ]
     },
     {
-      "id": "l_1792010447814151",
+      "id": "l_1792023222651151",
       "titulo": "Ejercicio 7",
       "descripcion": "",
       "segmentos": [
@@ -3346,7 +3346,7 @@
       ]
     },
     {
-      "id": "l_1792010447815152",
+      "id": "l_1792023222652152",
       "titulo": "Ejercicio 8",
       "descripcion": "",
       "segmentos": [
@@ -3380,7 +3380,7 @@
       ]
     },
     {
-      "id": "l_1792010447818153",
+      "id": "l_1792023222655153",
       "titulo": "Ejercicio 9",
       "descripcion": "",
       "segmentos": [
@@ -3461,7 +3461,7 @@
       ]
     },
     {
-      "id": "l_1792010447819154",
+      "id": "l_1792023222657154",
       "titulo": "Ejercicio 10",
       "descripcion": "",
       "segmentos": [
@@ -3515,7 +3515,7 @@
       ]
     },
     {
-      "id": "l_1792010447819155",
+      "id": "l_1792023222657155",
       "titulo": "Introducción",
       "descripcion": "",
       "segmentos": [
@@ -3530,7 +3530,7 @@
       ]
     },
     {
-      "id": "l_1792010447819156",
+      "id": "l_1792023222658156",
       "titulo": "Movimiento de torre",
       "descripcion": "",
       "segmentos": [
@@ -3546,7 +3546,7 @@
       ]
     },
     {
-      "id": "l_1792010447819157",
+      "id": "l_1792023222658157",
       "titulo": "Los obstáculos",
       "descripcion": "",
       "segmentos": [
@@ -3561,7 +3561,7 @@
       ]
     },
     {
-      "id": "l_1792010447820158",
+      "id": "l_1792023222658158",
       "titulo": "Los obstáculos (2)",
       "descripcion": "",
       "segmentos": [
@@ -3576,7 +3576,7 @@
       ]
     },
     {
-      "id": "l_1792010447820159",
+      "id": "l_1792023222658159",
       "titulo": "La captura",
       "descripcion": "",
       "segmentos": [
@@ -3592,7 +3592,7 @@
       ]
     },
     {
-      "id": "l_1792010447820160",
+      "id": "l_1792023222658160",
       "titulo": "La captura (2)",
       "descripcion": "",
       "segmentos": [
@@ -3607,7 +3607,7 @@
       ]
     },
     {
-      "id": "l_1792010447820161",
+      "id": "l_1792023222658161",
       "titulo": "Movilidad inicial del torre",
       "descripcion": "",
       "segmentos": [
@@ -3623,7 +3623,7 @@
       ]
     },
     {
-      "id": "l_1792010447820162",
+      "id": "l_1792023222658162",
       "titulo": "Conclusiones",
       "descripcion": "",
       "segmentos": [
@@ -3638,7 +3638,7 @@
       ]
     },
     {
-      "id": "l_1792010447820163",
+      "id": "l_1792023222658163",
       "titulo": "Conclusiones (2)",
       "descripcion": "",
       "segmentos": [
@@ -3654,7 +3654,7 @@
       ]
     },
     {
-      "id": "l_1792010447820164",
+      "id": "l_1792023222658164",
       "titulo": "Conclusiones (3)",
       "descripcion": "",
       "segmentos": [
@@ -3670,7 +3670,7 @@
       ]
     },
     {
-      "id": "l_1792010447820165",
+      "id": "l_1792023222658165",
       "titulo": "Pregunta 95",
       "descripcion": "",
       "segmentos": [
@@ -3691,7 +3691,7 @@
       ]
     },
     {
-      "id": "l_1792010447820166",
+      "id": "l_1792023222658166",
       "titulo": "Pregunta 96",
       "descripcion": "",
       "segmentos": [
@@ -3711,7 +3711,7 @@
       ]
     },
     {
-      "id": "l_1792010447820167",
+      "id": "l_1792023222658167",
       "titulo": "Pregunta 97",
       "descripcion": "",
       "segmentos": [
@@ -3731,7 +3731,7 @@
       ]
     },
     {
-      "id": "l_1792010447820168",
+      "id": "l_1792023222658168",
       "titulo": "Pregunta 98",
       "descripcion": "",
       "segmentos": [
@@ -3751,7 +3751,7 @@
       ]
     },
     {
-      "id": "l_1792010447820169",
+      "id": "l_1792023222658169",
       "titulo": "Pregunta 99",
       "descripcion": "",
       "segmentos": [
@@ -3771,7 +3771,7 @@
       ]
     },
     {
-      "id": "l_1792010447820170",
+      "id": "l_1792023222658170",
       "titulo": "Pregunta 100",
       "descripcion": "",
       "segmentos": [
@@ -3791,7 +3791,7 @@
       ]
     },
     {
-      "id": "l_1792010447821171",
+      "id": "l_1792023222659171",
       "titulo": "Ejercicio 11",
       "descripcion": "",
       "segmentos": [
@@ -3811,7 +3811,7 @@
       ]
     },
     {
-      "id": "l_1792010447821172",
+      "id": "l_1792023222659172",
       "titulo": "Ejercicio 12",
       "descripcion": "",
       "segmentos": [
@@ -3831,7 +3831,7 @@
       ]
     },
     {
-      "id": "l_1792010447822173",
+      "id": "l_1792023222660173",
       "titulo": "Ejercicio 13",
       "descripcion": "",
       "segmentos": [
@@ -3851,7 +3851,7 @@
       ]
     },
     {
-      "id": "l_1792010447822174",
+      "id": "l_1792023222660174",
       "titulo": "Ejercicio 14",
       "descripcion": "",
       "segmentos": [
@@ -3871,7 +3871,7 @@
       ]
     },
     {
-      "id": "l_1792010447823175",
+      "id": "l_1792023222661175",
       "titulo": "Ejercicio 15",
       "descripcion": "",
       "segmentos": [
@@ -3891,7 +3891,7 @@
       ]
     },
     {
-      "id": "l_1792010447830176",
+      "id": "l_1792023222669176",
       "titulo": "Ejercicio 16",
       "descripcion": "",
       "segmentos": [
@@ -3953,14 +3953,14 @@
       ]
     },
     {
-      "id": "l_1792010447836177",
+      "id": "l_1792023222674177",
       "titulo": "Ejercicio 17",
       "descripcion": "",
       "segmentos": [
         {
           "tipo": "MOVIMIENTO",
           "titulo": "Ejercicio 17",
-          "texto": "Juegan blancas: encuentra la jugada táctica. Evita ocupar las casillas atacadas por el adversario.",
+          "texto": "Juegan blancas: encuentra la jugada táctica. Evita ocupar las casillas atacadas por el adversario. [%csl Ge4]",
           "orientacion": "blanca",
           "fen": "7r/8/8/7p/7P/8/8/R7 w - - 0 1",
           "secuenciaCorrecta": [
@@ -4062,7 +4062,7 @@
       ]
     },
     {
-      "id": "l_1792010447855178",
+      "id": "l_1792023222693178",
       "titulo": "Ejercicio 18",
       "descripcion": "",
       "segmentos": [
@@ -4125,29 +4125,35 @@
       ]
     },
     {
-      "id": "l_1792010447856179",
+      "id": "l_1792023222696179",
       "titulo": "Ejercicio 19",
       "descripcion": "",
       "segmentos": [
         {
           "tipo": "MOVIMIENTO",
           "titulo": "Ejercicio 19",
-          "texto": "Promueve el peón a dama. Evita ocupar las casillas atacadas por el adversario.",
+          "texto": "No dejes que los peones adversarios se escapen y coronen. Evita ocupar las casillas atacadas por el adversario.",
           "orientacion": "blanca",
           "fen": "7R/8/8/8/4p3/3p4/8/8 w - - 0 1",
           "secuenciaCorrecta": [
-            "h8d8"
+            "h8d8",
+            "d3e3",
+            "d8d3",
+            "e3e2",
+            "d3e3",
+            "e2e1q",
+            "e3e1"
           ],
           "comentariosMovimiento": [
-            "Promueve el peón a dama. Evita ocupar las casillas atacadas por el adversario.",
-            "Promueve el peón a dama. Evita ocupar las casillas atacadas por el adversario.",
-            "Promueve el peón a dama. Evita ocupar las casillas atacadas por el adversario.",
-            "Promueve el peón a dama. Evita ocupar las casillas atacadas por el adversario."
+            "No dejes que los peones adversarios se escapen y coronen. Evita ocupar las casillas atacadas por el adversario.",
+            "No dejes que los peones adversarios se escapen y coronen. Evita ocupar las casillas atacadas por el adversario.",
+            "No dejes que los peones adversarios se escapen y coronen. Evita ocupar las casillas atacadas por el adversario.",
+            "No dejes que los peones adversarios se escapen y coronen. Evita ocupar las casillas atacadas por el adversario."
           ],
           "comentariosRival": [
-            "Promueve el peón a dama. Evita ocupar las casillas atacadas por el adversario.",
-            "Promueve el peón a dama. Evita ocupar las casillas atacadas por el adversario.",
-            "Promueve el peón a dama. Evita ocupar las casillas atacadas por el adversario."
+            "No dejes que los peones adversarios se escapen y coronen. Evita ocupar las casillas atacadas por el adversario.",
+            "No dejes que los peones adversarios se escapen y coronen. Evita ocupar las casillas atacadas por el adversario.",
+            "No dejes que los peones adversarios se escapen y coronen. Evita ocupar las casillas atacadas por el adversario."
           ],
           "arbol": {
             "0": {
@@ -4170,14 +4176,14 @@
       ]
     },
     {
-      "id": "l_1792010447868180",
+      "id": "l_1792023222710180",
       "titulo": "Ejercicio 20",
       "descripcion": "",
       "segmentos": [
         {
           "tipo": "MOVIMIENTO",
           "titulo": "Ejercicio 20",
-          "texto": "Promueve el peón a dama. Evita ocupar las casillas atacadas por el adversario.",
+          "texto": "No dejes que los peones adversarios se escapen y coronen. Evita ocupar las casillas atacadas por el adversario.",
           "orientacion": "blanca",
           "fen": "8/8/8/2ppp3/8/8/8/R7 w - - 0 1",
           "secuenciaCorrecta": [
@@ -4196,21 +4202,21 @@
             "e3e1"
           ],
           "comentariosMovimiento": [
-            "Promueve el peón a dama. Evita ocupar las casillas atacadas por el adversario.",
-            "Promueve el peón a dama. Evita ocupar las casillas atacadas por el adversario.",
-            "Promueve el peón a dama. Evita ocupar las casillas atacadas por el adversario.",
-            "Promueve el peón a dama. Evita ocupar las casillas atacadas por el adversario.",
-            "Promueve el peón a dama. Evita ocupar las casillas atacadas por el adversario.",
-            "Promueve el peón a dama. Evita ocupar las casillas atacadas por el adversario.",
-            "Promueve el peón a dama. Evita ocupar las casillas atacadas por el adversario."
+            "No dejes que los peones adversarios se escapen y coronen. Evita ocupar las casillas atacadas por el adversario.",
+            "No dejes que los peones adversarios se escapen y coronen. Evita ocupar las casillas atacadas por el adversario.",
+            "No dejes que los peones adversarios se escapen y coronen. Evita ocupar las casillas atacadas por el adversario.",
+            "No dejes que los peones adversarios se escapen y coronen. Evita ocupar las casillas atacadas por el adversario.",
+            "No dejes que los peones adversarios se escapen y coronen. Evita ocupar las casillas atacadas por el adversario.",
+            "No dejes que los peones adversarios se escapen y coronen. Evita ocupar las casillas atacadas por el adversario.",
+            "No dejes que los peones adversarios se escapen y coronen. Evita ocupar las casillas atacadas por el adversario."
           ],
           "comentariosRival": [
-            "Promueve el peón a dama. Evita ocupar las casillas atacadas por el adversario.",
-            "Promueve el peón a dama. Evita ocupar las casillas atacadas por el adversario.",
-            "Promueve el peón a dama. Evita ocupar las casillas atacadas por el adversario.",
-            "Promueve el peón a dama. Evita ocupar las casillas atacadas por el adversario.",
-            "Promueve el peón a dama. Evita ocupar las casillas atacadas por el adversario.",
-            "Promueve el peón a dama. Evita ocupar las casillas atacadas por el adversario."
+            "No dejes que los peones adversarios se escapen y coronen. Evita ocupar las casillas atacadas por el adversario.",
+            "No dejes que los peones adversarios se escapen y coronen. Evita ocupar las casillas atacadas por el adversario.",
+            "No dejes que los peones adversarios se escapen y coronen. Evita ocupar las casillas atacadas por el adversario.",
+            "No dejes que los peones adversarios se escapen y coronen. Evita ocupar las casillas atacadas por el adversario.",
+            "No dejes que los peones adversarios se escapen y coronen. Evita ocupar las casillas atacadas por el adversario.",
+            "No dejes que los peones adversarios se escapen y coronen. Evita ocupar las casillas atacadas por el adversario."
           ],
           "arbol": {
             "0": {
@@ -4244,7 +4250,7 @@
       ]
     },
     {
-      "id": "l_1792010447870181",
+      "id": "l_1792023222712181",
       "titulo": "Ejercicio 21",
       "descripcion": "",
       "segmentos": [
@@ -4270,7 +4276,7 @@
       ]
     },
     {
-      "id": "l_1792010447871182",
+      "id": "l_1792023222714182",
       "titulo": "Ejercicio 22",
       "descripcion": "",
       "segmentos": [
@@ -4281,7 +4287,9 @@
           "orientacion": "blanca",
           "fen": "R7/1p6/1r1P4/1Pp5/2P5/8/8/8 w - - 0 1",
           "secuenciaCorrecta": [
-            "a8d8"
+            "a8d8",
+            "b6d6",
+            "d8d6"
           ],
           "comentariosMovimiento": [
             "Encuentra la forma más rápida de capturar la torre del rival. Evita ocupar las casillas atacadas por el adversario.",
@@ -4294,14 +4302,14 @@
       ]
     },
     {
-      "id": "l_1792010447876183",
+      "id": "l_1792023222719183",
       "titulo": "Ejercicio 23",
       "descripcion": "",
       "segmentos": [
         {
           "tipo": "MOVIMIENTO",
           "titulo": "Ejercicio 23",
-          "texto": "Promueve el peón a dama. Evita ocupar las casillas atacadas por el adversario.",
+          "texto": "No dejes que los peones adversarios se escapen y coronen. Evita ocupar las casillas atacadas por el adversario.",
           "orientacion": "blanca",
           "fen": "7R/8/8/8/8/8/p1p1p3/8 w - - 0 1",
           "secuenciaCorrecta": [
@@ -4314,15 +4322,15 @@
             "a1c1"
           ],
           "comentariosMovimiento": [
-            "Promueve el peón a dama. Evita ocupar las casillas atacadas por el adversario.",
-            "Promueve el peón a dama. Evita ocupar las casillas atacadas por el adversario.",
-            "Promueve el peón a dama. Evita ocupar las casillas atacadas por el adversario.",
-            "Promueve el peón a dama. Evita ocupar las casillas atacadas por el adversario."
+            "No dejes que los peones adversarios se escapen y coronen. Evita ocupar las casillas atacadas por el adversario.",
+            "No dejes que los peones adversarios se escapen y coronen. Evita ocupar las casillas atacadas por el adversario.",
+            "No dejes que los peones adversarios se escapen y coronen. Evita ocupar las casillas atacadas por el adversario.",
+            "No dejes que los peones adversarios se escapen y coronen. Evita ocupar las casillas atacadas por el adversario."
           ],
           "comentariosRival": [
-            "Promueve el peón a dama. Evita ocupar las casillas atacadas por el adversario.",
-            "Promueve el peón a dama. Evita ocupar las casillas atacadas por el adversario.",
-            "Promueve el peón a dama. Evita ocupar las casillas atacadas por el adversario."
+            "No dejes que los peones adversarios se escapen y coronen. Evita ocupar las casillas atacadas por el adversario.",
+            "No dejes que los peones adversarios se escapen y coronen. Evita ocupar las casillas atacadas por el adversario.",
+            "No dejes que los peones adversarios se escapen y coronen. Evita ocupar las casillas atacadas por el adversario."
           ],
           "arbol": {
             "0": {
@@ -4399,14 +4407,14 @@
       ]
     },
     {
-      "id": "l_1792010447878184",
+      "id": "l_1792023222721184",
       "titulo": "Ejercicio 24",
       "descripcion": "",
       "segmentos": [
         {
           "tipo": "MOVIMIENTO",
           "titulo": "Ejercicio 24",
-          "texto": "Promueve el peón a dama. Evita ocupar las casillas atacadas por el adversario.",
+          "texto": "No dejes que los peones adversarios se escapen y coronen. Evita ocupar las casillas atacadas por el adversario.",
           "orientacion": "blanca",
           "fen": "8/6R1/8/6p1/7p/8/p7/8 w - - 0 1",
           "secuenciaCorrecta": [
@@ -4423,19 +4431,19 @@
             "g3g1"
           ],
           "comentariosMovimiento": [
-            "Promueve el peón a dama. Evita ocupar las casillas atacadas por el adversario.",
-            "Promueve el peón a dama. Evita ocupar las casillas atacadas por el adversario.",
-            "Promueve el peón a dama. Evita ocupar las casillas atacadas por el adversario.",
-            "Promueve el peón a dama. Evita ocupar las casillas atacadas por el adversario.",
-            "Promueve el peón a dama. Evita ocupar las casillas atacadas por el adversario.",
-            "Promueve el peón a dama. Evita ocupar las casillas atacadas por el adversario."
+            "No dejes que los peones adversarios se escapen y coronen. Evita ocupar las casillas atacadas por el adversario.",
+            "No dejes que los peones adversarios se escapen y coronen. Evita ocupar las casillas atacadas por el adversario.",
+            "No dejes que los peones adversarios se escapen y coronen. Evita ocupar las casillas atacadas por el adversario.",
+            "No dejes que los peones adversarios se escapen y coronen. Evita ocupar las casillas atacadas por el adversario.",
+            "No dejes que los peones adversarios se escapen y coronen. Evita ocupar las casillas atacadas por el adversario.",
+            "No dejes que los peones adversarios se escapen y coronen. Evita ocupar las casillas atacadas por el adversario."
           ],
           "comentariosRival": [
-            "Promueve el peón a dama. Evita ocupar las casillas atacadas por el adversario.",
-            "Promueve el peón a dama. Evita ocupar las casillas atacadas por el adversario.",
-            "Promueve el peón a dama. Evita ocupar las casillas atacadas por el adversario.",
-            "Promueve el peón a dama. Evita ocupar las casillas atacadas por el adversario.",
-            "Promueve el peón a dama. Evita ocupar las casillas atacadas por el adversario."
+            "No dejes que los peones adversarios se escapen y coronen. Evita ocupar las casillas atacadas por el adversario.",
+            "No dejes que los peones adversarios se escapen y coronen. Evita ocupar las casillas atacadas por el adversario.",
+            "No dejes que los peones adversarios se escapen y coronen. Evita ocupar las casillas atacadas por el adversario.",
+            "No dejes que los peones adversarios se escapen y coronen. Evita ocupar las casillas atacadas por el adversario.",
+            "No dejes que los peones adversarios se escapen y coronen. Evita ocupar las casillas atacadas por el adversario."
           ],
           "arbol": {
             "4": {
@@ -4454,14 +4462,14 @@
       ]
     },
     {
-      "id": "l_1792010447880185",
+      "id": "l_1792023222722185",
       "titulo": "Ejercicio 25",
       "descripcion": "",
       "segmentos": [
         {
           "tipo": "MOVIMIENTO",
           "titulo": "Ejercicio 25",
-          "texto": "Promueve el peón a dama. Evita ocupar las casillas atacadas por el adversario.",
+          "texto": "No dejes que los peones adversarios se escapen y coronen. Evita ocupar las casillas atacadas por el adversario.",
           "orientacion": "blanca",
           "fen": "8/8/8/8/4p3/3p4/8/3R4 w - - 0 1",
           "secuenciaCorrecta": [
@@ -4474,15 +4482,15 @@
             "e3e1"
           ],
           "comentariosMovimiento": [
-            "Promueve el peón a dama. Evita ocupar las casillas atacadas por el adversario.",
-            "Promueve el peón a dama. Evita ocupar las casillas atacadas por el adversario.",
-            "Promueve el peón a dama. Evita ocupar las casillas atacadas por el adversario.",
-            "Promueve el peón a dama. Evita ocupar las casillas atacadas por el adversario."
+            "No dejes que los peones adversarios se escapen y coronen. Evita ocupar las casillas atacadas por el adversario.",
+            "No dejes que los peones adversarios se escapen y coronen. Evita ocupar las casillas atacadas por el adversario.",
+            "No dejes que los peones adversarios se escapen y coronen. Evita ocupar las casillas atacadas por el adversario.",
+            "No dejes que los peones adversarios se escapen y coronen. Evita ocupar las casillas atacadas por el adversario."
           ],
           "comentariosRival": [
-            "Promueve el peón a dama. Evita ocupar las casillas atacadas por el adversario.",
-            "Promueve el peón a dama. Evita ocupar las casillas atacadas por el adversario.",
-            "Promueve el peón a dama. Evita ocupar las casillas atacadas por el adversario."
+            "No dejes que los peones adversarios se escapen y coronen. Evita ocupar las casillas atacadas por el adversario.",
+            "No dejes que los peones adversarios se escapen y coronen. Evita ocupar las casillas atacadas por el adversario.",
+            "No dejes que los peones adversarios se escapen y coronen. Evita ocupar las casillas atacadas por el adversario."
           ],
           "arbol": {
             "0": {
@@ -4503,14 +4511,14 @@
       ]
     },
     {
-      "id": "l_1792010447882186",
+      "id": "l_1792023222724186",
       "titulo": "Ejercicio 26",
       "descripcion": "",
       "segmentos": [
         {
           "tipo": "MOVIMIENTO",
           "titulo": "Ejercicio 26",
-          "texto": "Juegan blancas: encuentra la jugada táctica. Evita ocupar las casillas atacadas por el adversario.",
+          "texto": "Juegan blancas: encuentra la jugada táctica. Evita ocupar las casillas atacadas por el adversario. [%csl Gg5]",
           "orientacion": "blanca",
           "fen": "8/5p1r/5P2/8/8/8/R7/8 w - - 0 1",
           "secuenciaCorrecta": [
@@ -4542,7 +4550,7 @@
       ]
     },
     {
-      "id": "l_1792010447882187",
+      "id": "l_1792023222724187",
       "titulo": "Introducción",
       "descripcion": "",
       "segmentos": [
@@ -4557,7 +4565,7 @@
       ]
     },
     {
-      "id": "l_1792010447882188",
+      "id": "l_1792023222724188",
       "titulo": "Los alfiles de distinto color",
       "descripcion": "",
       "segmentos": [
@@ -4571,7 +4579,7 @@
       ]
     },
     {
-      "id": "l_1792010447882189",
+      "id": "l_1792023222724189",
       "titulo": "Los alfiles de distinto color (2)",
       "descripcion": "",
       "segmentos": [
@@ -4586,7 +4594,7 @@
       ]
     },
     {
-      "id": "l_1792010447882190",
+      "id": "l_1792023222724190",
       "titulo": "Los movimientos del alfil",
       "descripcion": "",
       "segmentos": [
@@ -4602,7 +4610,7 @@
       ]
     },
     {
-      "id": "l_1792010447882191",
+      "id": "l_1792023222724191",
       "titulo": "Los obstáculos y las capturas",
       "descripcion": "",
       "segmentos": [
@@ -4618,7 +4626,7 @@
       ]
     },
     {
-      "id": "l_1792010447882192",
+      "id": "l_1792023222724192",
       "titulo": "Los alfiles de distinto color 2",
       "descripcion": "",
       "segmentos": [
@@ -4634,7 +4642,7 @@
       ]
     },
     {
-      "id": "l_1792010447882193",
+      "id": "l_1792023222724193",
       "titulo": "Pregunta 101",
       "descripcion": "",
       "segmentos": [
@@ -4655,7 +4663,7 @@
       ]
     },
     {
-      "id": "l_1792010447882194",
+      "id": "l_1792023222724194",
       "titulo": "Pregunta 102",
       "descripcion": "",
       "segmentos": [
@@ -4676,17 +4684,19 @@
       ]
     },
     {
-      "id": "l_1792010447882195",
+      "id": "l_1792023222725195",
       "titulo": "Ejercicio 27",
       "descripcion": "",
       "segmentos": [
         {
           "tipo": "MOVIMIENTO",
           "titulo": "Ejercicio 27",
-          "texto": "No dejes que la pieza adversaria ocupe la casilla marcada",
+          "texto": "No dejes que la pieza adversaria ocupe la casilla marcada [%csl Gb8]",
           "orientacion": "blanca",
           "fen": "8/b7/8/8/8/8/8/4B3 w - - 0 1",
-          "secuenciaCorrecta": [],
+          "secuenciaCorrecta": [
+            "e1g3"
+          ],
           "comentariosMovimiento": [
             "No dejes que la pieza adversaria ocupe la casilla marcada"
           ]
@@ -4694,14 +4704,14 @@
       ]
     },
     {
-      "id": "l_1792010447882196",
+      "id": "l_1792023222725196",
       "titulo": "Ejercicio 28",
       "descripcion": "",
       "segmentos": [
         {
           "tipo": "MOVIMIENTO",
           "titulo": "Ejercicio 28",
-          "texto": "No dejes que la pieza adversaria ocupe la casilla marcada",
+          "texto": "No dejes que la pieza adversaria ocupe la casilla marcada [%csl Ga3]",
           "orientacion": "blanca",
           "fen": "5b2/8/8/8/8/8/8/2B5 w - - 0 1",
           "secuenciaCorrecta": [
@@ -4714,14 +4724,14 @@
       ]
     },
     {
-      "id": "l_1792010447883197",
+      "id": "l_1792023222726197",
       "titulo": "Ejercicio 29",
       "descripcion": "",
       "segmentos": [
         {
           "tipo": "MOVIMIENTO",
           "titulo": "Ejercicio 29",
-          "texto": "Atrapa la pieza negra",
+          "texto": "Atrapa la pieza negra [%csl Gf6]",
           "orientacion": "blanca",
           "fen": "7b/8/8/8/8/8/8/2B5 w - - 0 1",
           "secuenciaCorrecta": [
@@ -4734,14 +4744,14 @@
       ]
     },
     {
-      "id": "l_1792010447883198",
+      "id": "l_1792023222726198",
       "titulo": "Ejercicio 30",
       "descripcion": "",
       "segmentos": [
         {
           "tipo": "MOVIMIENTO",
           "titulo": "Ejercicio 30",
-          "texto": "Atrapa la pieza negra",
+          "texto": "Atrapa la pieza negra [%csl Gc2,Ga3]",
           "orientacion": "blanca",
           "fen": "8/8/7B/8/8/8/r7/8 w - - 0 1",
           "secuenciaCorrecta": [
@@ -4754,7 +4764,7 @@
       ]
     },
     {
-      "id": "l_1792010447883199",
+      "id": "l_1792023222726199",
       "titulo": "Pregunta 103",
       "descripcion": "",
       "segmentos": [
@@ -4774,7 +4784,7 @@
       ]
     },
     {
-      "id": "l_1792010447883200",
+      "id": "l_1792023222726200",
       "titulo": "Pregunta 104",
       "descripcion": "",
       "segmentos": [
@@ -4794,7 +4804,7 @@
       ]
     },
     {
-      "id": "l_1792010447883201",
+      "id": "l_1792023222726201",
       "titulo": "Pregunta 105",
       "descripcion": "",
       "segmentos": [
@@ -4814,7 +4824,7 @@
       ]
     },
     {
-      "id": "l_1792010447883202",
+      "id": "l_1792023222726202",
       "titulo": "Pregunta 106",
       "descripcion": "",
       "segmentos": [
@@ -4834,7 +4844,7 @@
       ]
     },
     {
-      "id": "l_1792010447883203",
+      "id": "l_1792023222726203",
       "titulo": "Pregunta 107",
       "descripcion": "",
       "segmentos": [
@@ -4854,7 +4864,7 @@
       ]
     },
     {
-      "id": "l_1792010447883204",
+      "id": "l_1792023222726204",
       "titulo": "Pregunta 108",
       "descripcion": "",
       "segmentos": [
@@ -4874,7 +4884,7 @@
       ]
     },
     {
-      "id": "l_1792010447883205",
+      "id": "l_1792023222726205",
       "titulo": "Pregunta 109",
       "descripcion": "",
       "segmentos": [
@@ -4894,7 +4904,7 @@
       ]
     },
     {
-      "id": "l_1792010447884206",
+      "id": "l_1792023222726206",
       "titulo": "Ejercicio 31",
       "descripcion": "",
       "segmentos": [
@@ -4914,14 +4924,14 @@
       ]
     },
     {
-      "id": "l_1792010447886207",
+      "id": "l_1792023222729207",
       "titulo": "Ejercicio 32",
       "descripcion": "",
       "segmentos": [
         {
           "tipo": "MOVIMIENTO",
           "titulo": "Ejercicio 32",
-          "texto": "Promueve el peón a dama. Evita ocupar las casillas atacadas por el adversario.",
+          "texto": "No dejes que los peones adversarios se escapen y coronen. Evita ocupar las casillas atacadas por el adversario.",
           "orientacion": "blanca",
           "fen": "2B5/8/1p6/2p5/3p4/4p3/5p2/8 w - - 0 1",
           "secuenciaCorrecta": [
@@ -4938,19 +4948,19 @@
             "e2f1"
           ],
           "comentariosMovimiento": [
-            "Promueve el peón a dama. Evita ocupar las casillas atacadas por el adversario.",
-            "Promueve el peón a dama. Evita ocupar las casillas atacadas por el adversario.",
-            "Promueve el peón a dama. Evita ocupar las casillas atacadas por el adversario.",
-            "Promueve el peón a dama. Evita ocupar las casillas atacadas por el adversario.",
-            "Promueve el peón a dama. Evita ocupar las casillas atacadas por el adversario.",
-            "Promueve el peón a dama. Evita ocupar las casillas atacadas por el adversario."
+            "No dejes que los peones adversarios se escapen y coronen. Evita ocupar las casillas atacadas por el adversario.",
+            "No dejes que los peones adversarios se escapen y coronen. Evita ocupar las casillas atacadas por el adversario.",
+            "No dejes que los peones adversarios se escapen y coronen. Evita ocupar las casillas atacadas por el adversario.",
+            "No dejes que los peones adversarios se escapen y coronen. Evita ocupar las casillas atacadas por el adversario.",
+            "No dejes que los peones adversarios se escapen y coronen. Evita ocupar las casillas atacadas por el adversario.",
+            "No dejes que los peones adversarios se escapen y coronen. Evita ocupar las casillas atacadas por el adversario."
           ],
           "comentariosRival": [
-            "Promueve el peón a dama. Evita ocupar las casillas atacadas por el adversario.",
-            "Promueve el peón a dama. Evita ocupar las casillas atacadas por el adversario.",
-            "Promueve el peón a dama. Evita ocupar las casillas atacadas por el adversario.",
-            "Promueve el peón a dama. Evita ocupar las casillas atacadas por el adversario.",
-            "Promueve el peón a dama. Evita ocupar las casillas atacadas por el adversario."
+            "No dejes que los peones adversarios se escapen y coronen. Evita ocupar las casillas atacadas por el adversario.",
+            "No dejes que los peones adversarios se escapen y coronen. Evita ocupar las casillas atacadas por el adversario.",
+            "No dejes que los peones adversarios se escapen y coronen. Evita ocupar las casillas atacadas por el adversario.",
+            "No dejes que los peones adversarios se escapen y coronen. Evita ocupar las casillas atacadas por el adversario.",
+            "No dejes que los peones adversarios se escapen y coronen. Evita ocupar las casillas atacadas por el adversario."
           ],
           "arbol": {
             "0": {
@@ -4999,7 +5009,7 @@
       ]
     },
     {
-      "id": "l_1792010447886208",
+      "id": "l_1792023222729208",
       "titulo": "Ejercicio 33",
       "descripcion": "",
       "segmentos": [
@@ -5025,7 +5035,7 @@
       ]
     },
     {
-      "id": "l_1792010447887209",
+      "id": "l_1792023222730209",
       "titulo": "Ejercicio 34",
       "descripcion": "",
       "segmentos": [
@@ -5051,14 +5061,14 @@
       ]
     },
     {
-      "id": "l_1792010447888210",
+      "id": "l_1792023222731210",
       "titulo": "Ejercicio 35",
       "descripcion": "",
       "segmentos": [
         {
           "tipo": "MOVIMIENTO",
           "titulo": "Ejercicio 35",
-          "texto": "Juegan blancas: encuentra la jugada táctica. Evita ocupar las casillas atacadas por el adversario.",
+          "texto": "Juegan blancas: encuentra la jugada táctica. Evita ocupar las casillas atacadas por el adversario. [%csl Gf6]",
           "orientacion": "blanca",
           "fen": "1b6/8/8/8/8/8/8/2B5 w - - 0 1",
           "secuenciaCorrecta": [
@@ -5092,14 +5102,14 @@
       ]
     },
     {
-      "id": "l_1792010447888211",
+      "id": "l_1792023222731211",
       "titulo": "Ejercicio 36",
       "descripcion": "",
       "segmentos": [
         {
           "tipo": "MOVIMIENTO",
           "titulo": "Ejercicio 36",
-          "texto": "Atrapa la pieza negra",
+          "texto": "Atrapa la pieza negra [%csl Ge6,Gf5]",
           "orientacion": "blanca",
           "fen": "6b1/8/8/8/B7/8/8/8 w - - 0 1",
           "secuenciaCorrecta": [
@@ -5118,14 +5128,14 @@
       ]
     },
     {
-      "id": "l_1792010447890212",
+      "id": "l_1792023222734212",
       "titulo": "Ejercicio 37",
       "descripcion": "",
       "segmentos": [
         {
           "tipo": "MOVIMIENTO",
           "titulo": "Ejercicio 37",
-          "texto": "Promueve el peón a dama. Evita ocupar las casillas atacadas por el adversario.",
+          "texto": "No dejes que los peones adversarios se escapen y coronen. Evita ocupar las casillas atacadas por el adversario.",
           "orientacion": "blanca",
           "fen": "8/p7/8/8/2B5/8/5p2/8 w - - 0 1",
           "secuenciaCorrecta": [
@@ -5138,15 +5148,15 @@
             "b5a4"
           ],
           "comentariosMovimiento": [
-            "Promueve el peón a dama. Evita ocupar las casillas atacadas por el adversario.",
-            "Promueve el peón a dama. Evita ocupar las casillas atacadas por el adversario.",
-            "Promueve el peón a dama. Evita ocupar las casillas atacadas por el adversario.",
-            "Promueve el peón a dama. Evita ocupar las casillas atacadas por el adversario."
+            "No dejes que los peones adversarios se escapen y coronen. Evita ocupar las casillas atacadas por el adversario.",
+            "No dejes que los peones adversarios se escapen y coronen. Evita ocupar las casillas atacadas por el adversario.",
+            "No dejes que los peones adversarios se escapen y coronen. Evita ocupar las casillas atacadas por el adversario.",
+            "No dejes que los peones adversarios se escapen y coronen. Evita ocupar las casillas atacadas por el adversario."
           ],
           "comentariosRival": [
-            "Promueve el peón a dama. Evita ocupar las casillas atacadas por el adversario.",
-            "Promueve el peón a dama. Evita ocupar las casillas atacadas por el adversario.",
-            "Promueve el peón a dama. Evita ocupar las casillas atacadas por el adversario."
+            "No dejes que los peones adversarios se escapen y coronen. Evita ocupar las casillas atacadas por el adversario.",
+            "No dejes que los peones adversarios se escapen y coronen. Evita ocupar las casillas atacadas por el adversario.",
+            "No dejes que los peones adversarios se escapen y coronen. Evita ocupar las casillas atacadas por el adversario."
           ],
           "arbol": {
             "0": {
@@ -5186,7 +5196,7 @@
       ]
     },
     {
-      "id": "l_1792010447894213",
+      "id": "l_1792023222738213",
       "titulo": "Ejercicio 38",
       "descripcion": "",
       "segmentos": [
@@ -5212,14 +5222,14 @@
       ]
     },
     {
-      "id": "l_1792010447896214",
+      "id": "l_1792023222740214",
       "titulo": "Ejercicio 39",
       "descripcion": "",
       "segmentos": [
         {
           "tipo": "MOVIMIENTO",
           "titulo": "Ejercicio 39",
-          "texto": "Promueve el peón a dama. Evita ocupar las casillas atacadas por el adversario.",
+          "texto": "No dejes que los peones adversarios se escapen y coronen. Evita ocupar las casillas atacadas por el adversario.",
           "orientacion": "blanca",
           "fen": "8/8/8/8/8/4p2B/5p2/8 w - - 0 1",
           "secuenciaCorrecta": [
@@ -5230,13 +5240,13 @@
             "e2f1"
           ],
           "comentariosMovimiento": [
-            "Promueve el peón a dama. Evita ocupar las casillas atacadas por el adversario.",
-            "Promueve el peón a dama. Evita ocupar las casillas atacadas por el adversario.",
-            "Promueve el peón a dama. Evita ocupar las casillas atacadas por el adversario."
+            "No dejes que los peones adversarios se escapen y coronen. Evita ocupar las casillas atacadas por el adversario.",
+            "No dejes que los peones adversarios se escapen y coronen. Evita ocupar las casillas atacadas por el adversario.",
+            "No dejes que los peones adversarios se escapen y coronen. Evita ocupar las casillas atacadas por el adversario."
           ],
           "comentariosRival": [
-            "Promueve el peón a dama. Evita ocupar las casillas atacadas por el adversario.",
-            "Promueve el peón a dama. Evita ocupar las casillas atacadas por el adversario."
+            "No dejes que los peones adversarios se escapen y coronen. Evita ocupar las casillas atacadas por el adversario.",
+            "No dejes que los peones adversarios se escapen y coronen. Evita ocupar las casillas atacadas por el adversario."
           ],
           "arbol": {
             "0": {
@@ -5287,14 +5297,14 @@
       ]
     },
     {
-      "id": "l_1792010447899215",
+      "id": "l_1792023222743215",
       "titulo": "Ejercicio 40",
       "descripcion": "",
       "segmentos": [
         {
           "tipo": "MOVIMIENTO",
           "titulo": "Ejercicio 40",
-          "texto": "Promueve el peón a dama. Evita ocupar las casillas atacadas por el adversario.",
+          "texto": "No dejes que los peones adversarios se escapen y coronen. Evita ocupar las casillas atacadas por el adversario.",
           "orientacion": "blanca",
           "fen": "1B6/8/8/8/3p4/2p5/8/8 w - - 0 1",
           "secuenciaCorrecta": [
@@ -5309,17 +5319,17 @@
             "d2c1"
           ],
           "comentariosMovimiento": [
-            "Promueve el peón a dama. Evita ocupar las casillas atacadas por el adversario.",
-            "Promueve el peón a dama. Evita ocupar las casillas atacadas por el adversario.",
-            "Promueve el peón a dama. Evita ocupar las casillas atacadas por el adversario.",
-            "Promueve el peón a dama. Evita ocupar las casillas atacadas por el adversario.",
-            "Promueve el peón a dama. Evita ocupar las casillas atacadas por el adversario."
+            "No dejes que los peones adversarios se escapen y coronen. Evita ocupar las casillas atacadas por el adversario.",
+            "No dejes que los peones adversarios se escapen y coronen. Evita ocupar las casillas atacadas por el adversario.",
+            "No dejes que los peones adversarios se escapen y coronen. Evita ocupar las casillas atacadas por el adversario.",
+            "No dejes que los peones adversarios se escapen y coronen. Evita ocupar las casillas atacadas por el adversario.",
+            "No dejes que los peones adversarios se escapen y coronen. Evita ocupar las casillas atacadas por el adversario."
           ],
           "comentariosRival": [
-            "Promueve el peón a dama. Evita ocupar las casillas atacadas por el adversario.",
-            "Promueve el peón a dama. Evita ocupar las casillas atacadas por el adversario.",
-            "Promueve el peón a dama. Evita ocupar las casillas atacadas por el adversario.",
-            "Promueve el peón a dama. Evita ocupar las casillas atacadas por el adversario."
+            "No dejes que los peones adversarios se escapen y coronen. Evita ocupar las casillas atacadas por el adversario.",
+            "No dejes que los peones adversarios se escapen y coronen. Evita ocupar las casillas atacadas por el adversario.",
+            "No dejes que los peones adversarios se escapen y coronen. Evita ocupar las casillas atacadas por el adversario.",
+            "No dejes que los peones adversarios se escapen y coronen. Evita ocupar las casillas atacadas por el adversario."
           ],
           "arbol": {
             "0": {
@@ -5375,7 +5385,7 @@
       ]
     },
     {
-      "id": "l_1792010447900216",
+      "id": "l_1792023222745216",
       "titulo": "Ejercicio 41",
       "descripcion": "",
       "segmentos": [
@@ -5401,7 +5411,7 @@
       ]
     },
     {
-      "id": "l_1792010447902217",
+      "id": "l_1792023222747217",
       "titulo": "Ejercicio 42",
       "descripcion": "",
       "segmentos": [
@@ -5431,14 +5441,14 @@
       ]
     },
     {
-      "id": "l_1792010447903218",
+      "id": "l_1792023222748218",
       "titulo": "Ejercicio 43",
       "descripcion": "",
       "segmentos": [
         {
           "tipo": "MOVIMIENTO",
           "titulo": "Ejercicio 43",
-          "texto": "Juegan blancas: encuentra la jugada táctica. Evita ocupar las casillas atacadas por el adversario.",
+          "texto": "Juegan blancas: encuentra la jugada táctica. Evita ocupar las casillas atacadas por el adversario. [%csl Gd5]",
           "orientacion": "blanca",
           "fen": "4b3/5p2/5P2/8/8/8/4B3/8 w - - 0 1",
           "secuenciaCorrecta": [
@@ -5483,19 +5493,24 @@
       ]
     },
     {
-      "id": "l_1792010447904219",
+      "id": "l_1792023222749219",
       "titulo": "Ejercicio 44",
       "descripcion": "",
       "segmentos": [
         {
           "tipo": "MOVIMIENTO",
           "titulo": "Ejercicio 44",
-          "texto": "Juegan blancas: encuentra la jugada táctica. Evita ocupar las casillas atacadas por el adversario.",
+          "texto": "Juegan blancas: encuentra la jugada táctica. Evita ocupar las casillas atacadas por el adversario. [%csl Gh6]",
           "orientacion": "blanca",
           "fen": "8/8/2p5/2P3p1/5pP1/5P2/3B4/6b1 w - - 0 1",
           "secuenciaCorrecta": [
             "d2c3",
-            "g1c5"
+            "g1c5",
+            "c3g7",
+            "c5f8",
+            "g7f8",
+            "c6c5",
+            "f8h6"
           ],
           "comentariosMovimiento": [
             "Juegan blancas: encuentra la jugada táctica. Evita ocupar las casillas atacadas por el adversario.",
@@ -5512,7 +5527,7 @@
       ]
     },
     {
-      "id": "l_1792010447904220",
+      "id": "l_1792023222749220",
       "titulo": "Introducción",
       "descripcion": "",
       "segmentos": [
@@ -5527,7 +5542,7 @@
       ]
     },
     {
-      "id": "l_1792010447904221",
+      "id": "l_1792023222749221",
       "titulo": "Los movimientos de la dama",
       "descripcion": "",
       "segmentos": [
@@ -5541,7 +5556,7 @@
       ]
     },
     {
-      "id": "l_1792010447904222",
+      "id": "l_1792023222749222",
       "titulo": "Los movimientos de la dama (2)",
       "descripcion": "",
       "segmentos": [
@@ -5556,7 +5571,7 @@
       ]
     },
     {
-      "id": "l_1792010447904223",
+      "id": "l_1792023222749223",
       "titulo": "Los movimientos de la dama (3)",
       "descripcion": "",
       "segmentos": [
@@ -5571,7 +5586,7 @@
       ]
     },
     {
-      "id": "l_1792010447904224",
+      "id": "l_1792023222749224",
       "titulo": "Los movimientos de la dama (4)",
       "descripcion": "",
       "segmentos": [
@@ -5586,7 +5601,7 @@
       ]
     },
     {
-      "id": "l_1792010447904225",
+      "id": "l_1792023222749225",
       "titulo": "Los movimientos de la dama (5)",
       "descripcion": "",
       "segmentos": [
@@ -5602,7 +5617,7 @@
       ]
     },
     {
-      "id": "l_1792010447904226",
+      "id": "l_1792023222749226",
       "titulo": "Los movimientos de la dama (6)",
       "descripcion": "",
       "segmentos": [
@@ -5618,7 +5633,7 @@
       ]
     },
     {
-      "id": "l_1792010447904227",
+      "id": "l_1792023222749227",
       "titulo": "Los movimientos de la dama (7)",
       "descripcion": "",
       "segmentos": [
@@ -5634,7 +5649,7 @@
       ]
     },
     {
-      "id": "l_1792010447904228",
+      "id": "l_1792023222749228",
       "titulo": "Los movimientos de la dama (8)",
       "descripcion": "",
       "segmentos": [
@@ -5650,7 +5665,7 @@
       ]
     },
     {
-      "id": "l_1792010447904229",
+      "id": "l_1792023222749229",
       "titulo": "Los movimientos de la dama (9)",
       "descripcion": "",
       "segmentos": [
@@ -5665,7 +5680,7 @@
       ]
     },
     {
-      "id": "l_1792010447904230",
+      "id": "l_1792023222749230",
       "titulo": "Los obstáculos",
       "descripcion": "",
       "segmentos": [
@@ -5681,7 +5696,7 @@
       ]
     },
     {
-      "id": "l_1792010447904231",
+      "id": "l_1792023222749231",
       "titulo": "Los obstáculos (2)",
       "descripcion": "",
       "segmentos": [
@@ -5697,7 +5712,7 @@
       ]
     },
     {
-      "id": "l_1792010447904232",
+      "id": "l_1792023222749232",
       "titulo": "Los obstáculos (3)",
       "descripcion": "",
       "segmentos": [
@@ -5713,7 +5728,7 @@
       ]
     },
     {
-      "id": "l_1792010447904233",
+      "id": "l_1792023222749233",
       "titulo": "Los obstáculos (4)",
       "descripcion": "",
       "segmentos": [
@@ -5728,7 +5743,7 @@
       ]
     },
     {
-      "id": "l_1792010447904234",
+      "id": "l_1792023222750234",
       "titulo": "La captura",
       "descripcion": "",
       "segmentos": [
@@ -5744,7 +5759,7 @@
       ]
     },
     {
-      "id": "l_1792010447905235",
+      "id": "l_1792023222750235",
       "titulo": "Conclusiones",
       "descripcion": "",
       "segmentos": [
@@ -5759,7 +5774,7 @@
       ]
     },
     {
-      "id": "l_1792010447905236",
+      "id": "l_1792023222750236",
       "titulo": "Conclusiones (2)",
       "descripcion": "",
       "segmentos": [
@@ -5775,7 +5790,7 @@
       ]
     },
     {
-      "id": "l_1792010447905237",
+      "id": "l_1792023222750237",
       "titulo": "Ejercicio 45",
       "descripcion": "",
       "segmentos": [
@@ -5795,7 +5810,7 @@
       ]
     },
     {
-      "id": "l_1792010447906238",
+      "id": "l_1792023222751238",
       "titulo": "Ejercicio 46",
       "descripcion": "",
       "segmentos": [
@@ -5805,7 +5820,9 @@
           "texto": "Juegan blancas y dan mate. Evita ocupar las casillas atacadas por el adversario.",
           "orientacion": "blanca",
           "fen": "5r2/8/8/1b6/8/4Q3/8/8 w - - 0 1",
-          "secuenciaCorrecta": [],
+          "secuenciaCorrecta": [
+            "e3c5"
+          ],
           "comentariosMovimiento": [
             "Juegan blancas y dan mate. Evita ocupar las casillas atacadas por el adversario."
           ]
@@ -5813,7 +5830,7 @@
       ]
     },
     {
-      "id": "l_1792010447907239",
+      "id": "l_1792023222752239",
       "titulo": "Ejercicio 47",
       "descripcion": "",
       "segmentos": [
@@ -5846,7 +5863,7 @@
       ]
     },
     {
-      "id": "l_1792010447908240",
+      "id": "l_1792023222753240",
       "titulo": "Ejercicio 48",
       "descripcion": "",
       "segmentos": [
@@ -5866,7 +5883,7 @@
       ]
     },
     {
-      "id": "l_1792010447908241",
+      "id": "l_1792023222753241",
       "titulo": "Ejercicio 49",
       "descripcion": "",
       "segmentos": [
@@ -5876,7 +5893,9 @@
           "texto": "Haz la jugada correcta.",
           "orientacion": "blanca",
           "fen": "6r1/8/8/8/8/8/8/Q7 w - - 0 1",
-          "secuenciaCorrecta": [],
+          "secuenciaCorrecta": [
+            "a1a2"
+          ],
           "comentariosMovimiento": [
             "Haz la jugada correcta."
           ]
@@ -5884,7 +5903,7 @@
       ]
     },
     {
-      "id": "l_1792010447909242",
+      "id": "l_1792023222754242",
       "titulo": "Ejercicio 50",
       "descripcion": "",
       "segmentos": [
@@ -5917,7 +5936,7 @@
       ]
     },
     {
-      "id": "l_1792010447912243",
+      "id": "l_1792023222757243",
       "titulo": "Ejercicio 51",
       "descripcion": "",
       "segmentos": [
@@ -5956,7 +5975,7 @@
       ]
     },
     {
-      "id": "l_1792010447913244",
+      "id": "l_1792023222758244",
       "titulo": "Ejercicio 52",
       "descripcion": "",
       "segmentos": [
@@ -5976,7 +5995,7 @@
       ]
     },
     {
-      "id": "l_1792010447913245",
+      "id": "l_1792023222758245",
       "titulo": "Ejercicio 53",
       "descripcion": "",
       "segmentos": [
@@ -5996,7 +6015,7 @@
       ]
     },
     {
-      "id": "l_1792010447916246",
+      "id": "l_1792023222761246",
       "titulo": "Ejercicio 54",
       "descripcion": "",
       "segmentos": [
@@ -6041,7 +6060,7 @@
       ]
     },
     {
-      "id": "l_1792010447918247",
+      "id": "l_1792023222763247",
       "titulo": "Ejercicio 55",
       "descripcion": "",
       "segmentos": [
@@ -6080,7 +6099,7 @@
       ]
     },
     {
-      "id": "l_1792010447918248",
+      "id": "l_1792023222763248",
       "titulo": "Pregunta 110",
       "descripcion": "",
       "segmentos": [
@@ -6100,7 +6119,7 @@
       ]
     },
     {
-      "id": "l_1792010447918249",
+      "id": "l_1792023222763249",
       "titulo": "Pregunta 111",
       "descripcion": "",
       "segmentos": [
@@ -6120,7 +6139,7 @@
       ]
     },
     {
-      "id": "l_1792010447918250",
+      "id": "l_1792023222764250",
       "titulo": "Pregunta 112",
       "descripcion": "",
       "segmentos": [
@@ -6140,7 +6159,7 @@
       ]
     },
     {
-      "id": "l_1792010447918251",
+      "id": "l_1792023222764251",
       "titulo": "Pregunta 113",
       "descripcion": "",
       "segmentos": [
@@ -6160,7 +6179,7 @@
       ]
     },
     {
-      "id": "l_1792010447918252",
+      "id": "l_1792023222764252",
       "titulo": "Pregunta 114",
       "descripcion": "",
       "segmentos": [
@@ -6182,7 +6201,7 @@
       ]
     },
     {
-      "id": "l_1792010447918253",
+      "id": "l_1792023222764253",
       "titulo": "Pregunta 115",
       "descripcion": "",
       "segmentos": [
@@ -6204,7 +6223,7 @@
       ]
     },
     {
-      "id": "l_1792010447918254",
+      "id": "l_1792023222764254",
       "titulo": "Pregunta 116",
       "descripcion": "",
       "segmentos": [
@@ -6225,7 +6244,7 @@
       ]
     },
     {
-      "id": "l_1792010447918255",
+      "id": "l_1792023222764255",
       "titulo": "Pregunta 117",
       "descripcion": "",
       "segmentos": [
@@ -6245,7 +6264,7 @@
       ]
     },
     {
-      "id": "l_1792010447918256",
+      "id": "l_1792023222764256",
       "titulo": "Pregunta 118",
       "descripcion": "",
       "segmentos": [
@@ -6265,7 +6284,7 @@
       ]
     },
     {
-      "id": "l_1792010447919257",
+      "id": "l_1792023222764257",
       "titulo": "Ejercicio 56",
       "descripcion": "",
       "segmentos": [
@@ -6285,7 +6304,7 @@
       ]
     },
     {
-      "id": "l_1792010447920258",
+      "id": "l_1792023222766258",
       "titulo": "Ejercicio 57",
       "descripcion": "",
       "segmentos": [
@@ -6305,7 +6324,7 @@
       ]
     },
     {
-      "id": "l_1792010447920259",
+      "id": "l_1792023222766259",
       "titulo": "Ejercicio 58",
       "descripcion": "",
       "segmentos": [
@@ -6315,7 +6334,9 @@
           "texto": "Ataca todas las piezas negras al mismo tiempo, gastando solo una jugada",
           "orientacion": "blanca",
           "fen": "8/1n6/7p/8/8/8/4Q3/8 w - - 0 1",
-          "secuenciaCorrecta": [],
+          "secuenciaCorrecta": [
+            "e2a6"
+          ],
           "comentariosMovimiento": [
             "Ataca todas las piezas negras al mismo tiempo, gastando solo una jugada"
           ]
@@ -6323,7 +6344,7 @@
       ]
     },
     {
-      "id": "l_1792010447921260",
+      "id": "l_1792023222766260",
       "titulo": "Ejercicio 59",
       "descripcion": "",
       "segmentos": [
@@ -6343,7 +6364,7 @@
       ]
     },
     {
-      "id": "l_1792010447922261",
+      "id": "l_1792023222768261",
       "titulo": "Ejercicio 60",
       "descripcion": "",
       "segmentos": [
@@ -6363,14 +6384,14 @@
       ]
     },
     {
-      "id": "l_1792010447925262",
+      "id": "l_1792023222771262",
       "titulo": "Ejercicio 61",
       "descripcion": "",
       "segmentos": [
         {
           "tipo": "MOVIMIENTO",
           "titulo": "Ejercicio 61",
-          "texto": "Juegan blancas: encuentra la jugada táctica. Evita ocupar las casillas atacadas por el adversario.",
+          "texto": "Juegan blancas: encuentra la jugada táctica. Evita ocupar las casillas atacadas por el adversario. [%csl Gh7]",
           "orientacion": "blanca",
           "fen": "8/5p2/5P2/1q5p/7P/8/7Q/8 w - - 0 1",
           "secuenciaCorrecta": [
@@ -6403,14 +6424,14 @@
       ]
     },
     {
-      "id": "l_1792010447931263",
+      "id": "l_1792023222777263",
       "titulo": "Ejercicio 62",
       "descripcion": "",
       "segmentos": [
         {
           "tipo": "MOVIMIENTO",
           "titulo": "Ejercicio 62",
-          "texto": "Promueve el peón a dama. Evita ocupar las casillas atacadas por el adversario.",
+          "texto": "No dejes que los peones adversarios se escapen y coronen. Evita ocupar las casillas atacadas por el adversario.",
           "orientacion": "blanca",
           "fen": "8/8/Q7/8/8/4p1p1/5p2/8 w - - 0 1",
           "secuenciaCorrecta": [
@@ -6421,15 +6442,15 @@
             "e2f2"
           ],
           "comentariosMovimiento": [
-            "Promueve el peón a dama. Evita ocupar las casillas atacadas por el adversario.",
-            "Promueve el peón a dama. Evita ocupar las casillas atacadas por el adversario.",
-            "Promueve el peón a dama. Evita ocupar las casillas atacadas por el adversario.",
-            "Promueve el peón a dama. Evita ocupar las casillas atacadas por el adversario."
+            "No dejes que los peones adversarios se escapen y coronen. Evita ocupar las casillas atacadas por el adversario.",
+            "No dejes que los peones adversarios se escapen y coronen. Evita ocupar las casillas atacadas por el adversario.",
+            "No dejes que los peones adversarios se escapen y coronen. Evita ocupar las casillas atacadas por el adversario.",
+            "No dejes que los peones adversarios se escapen y coronen. Evita ocupar las casillas atacadas por el adversario."
           ],
           "comentariosRival": [
-            "Promueve el peón a dama. Evita ocupar las casillas atacadas por el adversario.",
-            "Promueve el peón a dama. Evita ocupar las casillas atacadas por el adversario.",
-            "Promueve el peón a dama. Evita ocupar las casillas atacadas por el adversario."
+            "No dejes que los peones adversarios se escapen y coronen. Evita ocupar las casillas atacadas por el adversario.",
+            "No dejes que los peones adversarios se escapen y coronen. Evita ocupar las casillas atacadas por el adversario.",
+            "No dejes que los peones adversarios se escapen y coronen. Evita ocupar las casillas atacadas por el adversario."
           ],
           "arbol": {
             "0": {
@@ -6479,14 +6500,14 @@
       ]
     },
     {
-      "id": "l_1792010447936264",
+      "id": "l_1792023222782264",
       "titulo": "Ejercicio 63",
       "descripcion": "",
       "segmentos": [
         {
           "tipo": "MOVIMIENTO",
           "titulo": "Ejercicio 63",
-          "texto": "Juegan blancas: encuentra la jugada táctica. Evita ocupar las casillas atacadas por el adversario.",
+          "texto": "Juegan blancas: encuentra la jugada táctica. Evita ocupar las casillas atacadas por el adversario. [%csl Gc1]",
           "orientacion": "blanca",
           "fen": "8/3q4/8/8/8/8/6Q1/8 w - - 0 1",
           "secuenciaCorrecta": [
@@ -6520,14 +6541,14 @@
       ]
     },
     {
-      "id": "l_1792010447939265",
+      "id": "l_1792023222785265",
       "titulo": "Ejercicio 64",
       "descripcion": "",
       "segmentos": [
         {
           "tipo": "MOVIMIENTO",
           "titulo": "Ejercicio 64",
-          "texto": "Promueve el peón a dama. Evita ocupar las casillas atacadas por el adversario.",
+          "texto": "No dejes que los peones adversarios se escapen y coronen. Evita ocupar las casillas atacadas por el adversario.",
           "orientacion": "blanca",
           "fen": "Q7/8/8/8/8/4p1p1/5p2/8 w - - 0 1",
           "secuenciaCorrecta": [
@@ -6538,15 +6559,15 @@
             "e2f2"
           ],
           "comentariosMovimiento": [
-            "Promueve el peón a dama. Evita ocupar las casillas atacadas por el adversario.",
-            "Promueve el peón a dama. Evita ocupar las casillas atacadas por el adversario.",
-            "Promueve el peón a dama. Evita ocupar las casillas atacadas por el adversario.",
-            "Promueve el peón a dama. Evita ocupar las casillas atacadas por el adversario."
+            "No dejes que los peones adversarios se escapen y coronen. Evita ocupar las casillas atacadas por el adversario.",
+            "No dejes que los peones adversarios se escapen y coronen. Evita ocupar las casillas atacadas por el adversario.",
+            "No dejes que los peones adversarios se escapen y coronen. Evita ocupar las casillas atacadas por el adversario.",
+            "No dejes que los peones adversarios se escapen y coronen. Evita ocupar las casillas atacadas por el adversario."
           ],
           "comentariosRival": [
-            "Promueve el peón a dama. Evita ocupar las casillas atacadas por el adversario.",
-            "Promueve el peón a dama. Evita ocupar las casillas atacadas por el adversario.",
-            "Promueve el peón a dama. Evita ocupar las casillas atacadas por el adversario."
+            "No dejes que los peones adversarios se escapen y coronen. Evita ocupar las casillas atacadas por el adversario.",
+            "No dejes que los peones adversarios se escapen y coronen. Evita ocupar las casillas atacadas por el adversario.",
+            "No dejes que los peones adversarios se escapen y coronen. Evita ocupar las casillas atacadas por el adversario."
           ],
           "arbol": {
             "0": {
@@ -6571,31 +6592,32 @@
       ]
     },
     {
-      "id": "l_1792010447942266",
+      "id": "l_1792023222788266",
       "titulo": "Ejercicio 65",
       "descripcion": "",
       "segmentos": [
         {
           "tipo": "MOVIMIENTO",
           "titulo": "Ejercicio 65",
-          "texto": "Promueve el peón a dama. Evita ocupar las casillas atacadas por el adversario.",
+          "texto": "No dejes que los peones adversarios se escapen y coronen. Evita ocupar las casillas atacadas por el adversario.",
           "orientacion": "blanca",
           "fen": "8/8/8/8/5p2/3p4/4p3/6Q1 w - - 0 1",
           "secuenciaCorrecta": [
-            "g1f2"
+            "g1f2",
+            "e2f3"
           ],
           "comentariosMovimiento": [
-            "Promueve el peón a dama. Evita ocupar las casillas atacadas por el adversario.",
-            "Promueve el peón a dama. Evita ocupar las casillas atacadas por el adversario.",
-            "Promueve el peón a dama. Evita ocupar las casillas atacadas por el adversario.",
-            "Promueve el peón a dama. Evita ocupar las casillas atacadas por el adversario.",
-            "Promueve el peón a dama. Evita ocupar las casillas atacadas por el adversario."
+            "No dejes que los peones adversarios se escapen y coronen. Evita ocupar las casillas atacadas por el adversario.",
+            "No dejes que los peones adversarios se escapen y coronen. Evita ocupar las casillas atacadas por el adversario.",
+            "No dejes que los peones adversarios se escapen y coronen. Evita ocupar las casillas atacadas por el adversario.",
+            "No dejes que los peones adversarios se escapen y coronen. Evita ocupar las casillas atacadas por el adversario.",
+            "No dejes que los peones adversarios se escapen y coronen. Evita ocupar las casillas atacadas por el adversario."
           ],
           "comentariosRival": [
-            "Promueve el peón a dama. Evita ocupar las casillas atacadas por el adversario.",
-            "Promueve el peón a dama. Evita ocupar las casillas atacadas por el adversario.",
-            "Promueve el peón a dama. Evita ocupar las casillas atacadas por el adversario.",
-            "Promueve el peón a dama. Evita ocupar las casillas atacadas por el adversario."
+            "No dejes que los peones adversarios se escapen y coronen. Evita ocupar las casillas atacadas por el adversario.",
+            "No dejes que los peones adversarios se escapen y coronen. Evita ocupar las casillas atacadas por el adversario.",
+            "No dejes que los peones adversarios se escapen y coronen. Evita ocupar las casillas atacadas por el adversario.",
+            "No dejes que los peones adversarios se escapen y coronen. Evita ocupar las casillas atacadas por el adversario."
           ],
           "arbol": {
             "0": {
@@ -6636,14 +6658,14 @@
       ]
     },
     {
-      "id": "l_1792010447947267",
+      "id": "l_1792023222793267",
       "titulo": "Ejercicio 66",
       "descripcion": "",
       "segmentos": [
         {
           "tipo": "MOVIMIENTO",
           "titulo": "Ejercicio 66",
-          "texto": "Juegan blancas: encuentra la jugada táctica. Evita ocupar las casillas atacadas por el adversario.",
+          "texto": "Juegan blancas: encuentra la jugada táctica. Evita ocupar las casillas atacadas por el adversario. [%csl Ga1]",
           "orientacion": "blanca",
           "fen": "8/8/8/8/3p4/1Q1P4/5q2/8 w - - 0 1",
           "secuenciaCorrecta": [
@@ -6685,14 +6707,14 @@
       ]
     },
     {
-      "id": "l_1792010447949268",
+      "id": "l_1792023222795268",
       "titulo": "Ejercicio 67",
       "descripcion": "",
       "segmentos": [
         {
           "tipo": "MOVIMIENTO",
           "titulo": "Ejercicio 67",
-          "texto": "Juegan blancas: encuentra la jugada táctica. Evita ocupar las casillas atacadas por el adversario.",
+          "texto": "Juegan blancas: encuentra la jugada táctica. Evita ocupar las casillas atacadas por el adversario. [%csl Gb8]",
           "orientacion": "blanca",
           "fen": "2b5/1p6/1P6/8/7q/8/1Q6/8 w - - 0 1",
           "secuenciaCorrecta": [
@@ -6711,17 +6733,21 @@
       ]
     },
     {
-      "id": "l_1792010447949269",
+      "id": "l_1792023222796269",
       "titulo": "Ejercicio 68",
       "descripcion": "",
       "segmentos": [
         {
           "tipo": "MOVIMIENTO",
           "titulo": "Ejercicio 68",
-          "texto": "Juegan blancas: encuentra la jugada táctica. Evita ocupar las casillas atacadas por el adversario.",
+          "texto": "Juegan blancas: encuentra la jugada táctica. Evita ocupar las casillas atacadas por el adversario. [%csl Gh5]",
           "orientacion": "blanca",
           "fen": "8/8/1q6/8/8/8/3Q4/8 w - - 0 1",
-          "secuenciaCorrecta": [],
+          "secuenciaCorrecta": [
+            "d2g5",
+            "b6h6",
+            "g5h6"
+          ],
           "comentariosMovimiento": [
             "Juegan blancas: encuentra la jugada táctica. Evita ocupar las casillas atacadas por el adversario.",
             "Juegan blancas: encuentra la jugada táctica. Evita ocupar las casillas atacadas por el adversario."
@@ -6733,35 +6759,36 @@
       ]
     },
     {
-      "id": "l_1792010447952270",
+      "id": "l_1792023222799270",
       "titulo": "Ejercicio 69",
       "descripcion": "",
       "segmentos": [
         {
           "tipo": "MOVIMIENTO",
           "titulo": "Ejercicio 69",
-          "texto": "Promueve el peón a dama. Evita ocupar las casillas atacadas por el adversario.",
+          "texto": "No dejes que los peones adversarios se escapen y coronen. Evita ocupar las casillas atacadas por el adversario.",
           "orientacion": "blanca",
           "fen": "7Q/8/2p5/3p4/4p3/5p2/6p1/8 w - - 0 1",
           "secuenciaCorrecta": [
             "h8d4",
             "c6c5",
-            "d4c5"
+            "d4c5",
+            "g2d4"
           ],
           "comentariosMovimiento": [
-            "Promueve el peón a dama. Evita ocupar las casillas atacadas por el adversario.",
-            "Promueve el peón a dama. Evita ocupar las casillas atacadas por el adversario.",
-            "Promueve el peón a dama. Evita ocupar las casillas atacadas por el adversario.",
-            "Promueve el peón a dama. Evita ocupar las casillas atacadas por el adversario.",
-            "Promueve el peón a dama. Evita ocupar las casillas atacadas por el adversario.",
-            "Promueve el peón a dama. Evita ocupar las casillas atacadas por el adversario."
+            "No dejes que los peones adversarios se escapen y coronen. Evita ocupar las casillas atacadas por el adversario.",
+            "No dejes que los peones adversarios se escapen y coronen. Evita ocupar las casillas atacadas por el adversario.",
+            "No dejes que los peones adversarios se escapen y coronen. Evita ocupar las casillas atacadas por el adversario.",
+            "No dejes que los peones adversarios se escapen y coronen. Evita ocupar las casillas atacadas por el adversario.",
+            "No dejes que los peones adversarios se escapen y coronen. Evita ocupar las casillas atacadas por el adversario.",
+            "No dejes que los peones adversarios se escapen y coronen. Evita ocupar las casillas atacadas por el adversario."
           ],
           "comentariosRival": [
-            "Promueve el peón a dama. Evita ocupar las casillas atacadas por el adversario.",
-            "Promueve el peón a dama. Evita ocupar las casillas atacadas por el adversario.",
-            "Promueve el peón a dama. Evita ocupar las casillas atacadas por el adversario.",
-            "Promueve el peón a dama. Evita ocupar las casillas atacadas por el adversario.",
-            "Promueve el peón a dama. Evita ocupar las casillas atacadas por el adversario."
+            "No dejes que los peones adversarios se escapen y coronen. Evita ocupar las casillas atacadas por el adversario.",
+            "No dejes que los peones adversarios se escapen y coronen. Evita ocupar las casillas atacadas por el adversario.",
+            "No dejes que los peones adversarios se escapen y coronen. Evita ocupar las casillas atacadas por el adversario.",
+            "No dejes que los peones adversarios se escapen y coronen. Evita ocupar las casillas atacadas por el adversario.",
+            "No dejes que los peones adversarios se escapen y coronen. Evita ocupar las casillas atacadas por el adversario."
           ],
           "arbol": {
             "0": {
@@ -6795,7 +6822,7 @@
       ]
     },
     {
-      "id": "l_1792010447952271",
+      "id": "l_1792023222799271",
       "titulo": "Introducción",
       "descripcion": "",
       "segmentos": [
@@ -6810,7 +6837,7 @@
       ]
     },
     {
-      "id": "l_1792010447952272",
+      "id": "l_1792023222799272",
       "titulo": "Los movimientos del caballo",
       "descripcion": "",
       "segmentos": [
@@ -6826,7 +6853,7 @@
       ]
     },
     {
-      "id": "l_1792010447952273",
+      "id": "l_1792023222799273",
       "titulo": "Los obstáculos",
       "descripcion": "",
       "segmentos": [
@@ -6842,7 +6869,7 @@
       ]
     },
     {
-      "id": "l_1792010447952274",
+      "id": "l_1792023222799274",
       "titulo": "La captura",
       "descripcion": "",
       "segmentos": [
@@ -6858,7 +6885,7 @@
       ]
     },
     {
-      "id": "l_1792010447952275",
+      "id": "l_1792023222799275",
       "titulo": "Conclusiones",
       "descripcion": "",
       "segmentos": [
@@ -6874,7 +6901,7 @@
       ]
     },
     {
-      "id": "l_1792010447952276",
+      "id": "l_1792023222799276",
       "titulo": "Pregunta 119",
       "descripcion": "",
       "segmentos": [
@@ -6894,7 +6921,7 @@
       ]
     },
     {
-      "id": "l_1792010447952277",
+      "id": "l_1792023222799277",
       "titulo": "Pregunta 120",
       "descripcion": "",
       "segmentos": [
@@ -6914,7 +6941,7 @@
       ]
     },
     {
-      "id": "l_1792010447952278",
+      "id": "l_1792023222799278",
       "titulo": "Pregunta 121",
       "descripcion": "",
       "segmentos": [
@@ -6934,7 +6961,7 @@
       ]
     },
     {
-      "id": "l_1792010447960279",
+      "id": "l_1792023222807279",
       "titulo": "Ejercicio 70",
       "descripcion": "",
       "segmentos": [
@@ -7003,7 +7030,7 @@
       ]
     },
     {
-      "id": "l_1792010447963280",
+      "id": "l_1792023222810280",
       "titulo": "Ejercicio 71",
       "descripcion": "",
       "segmentos": [
@@ -7036,7 +7063,7 @@
       ]
     },
     {
-      "id": "l_1792010447965281",
+      "id": "l_1792023222812281",
       "titulo": "Ejercicio 72",
       "descripcion": "",
       "segmentos": [
@@ -7069,7 +7096,7 @@
       ]
     },
     {
-      "id": "l_1792010447967282",
+      "id": "l_1792023222815282",
       "titulo": "Ejercicio 73",
       "descripcion": "",
       "segmentos": [
@@ -7108,7 +7135,7 @@
       ]
     },
     {
-      "id": "l_1792010447967283",
+      "id": "l_1792023222815283",
       "titulo": "Ejercicio 74",
       "descripcion": "",
       "segmentos": [
@@ -7128,7 +7155,7 @@
       ]
     },
     {
-      "id": "l_1792010447973284",
+      "id": "l_1792023222821284",
       "titulo": "Ejercicio 75",
       "descripcion": "",
       "segmentos": [
@@ -7191,7 +7218,7 @@
       ]
     },
     {
-      "id": "l_1792010447974285",
+      "id": "l_1792023222822285",
       "titulo": "Ejercicio 76",
       "descripcion": "",
       "segmentos": [
@@ -7211,7 +7238,7 @@
       ]
     },
     {
-      "id": "l_1792010447974286",
+      "id": "l_1792023222822286",
       "titulo": "Pregunta 122",
       "descripcion": "",
       "segmentos": [
@@ -7231,7 +7258,7 @@
       ]
     },
     {
-      "id": "l_1792010447974287",
+      "id": "l_1792023222822287",
       "titulo": "Pregunta 123",
       "descripcion": "",
       "segmentos": [
@@ -7251,7 +7278,7 @@
       ]
     },
     {
-      "id": "l_1792010447974288",
+      "id": "l_1792023222822288",
       "titulo": "Pregunta 124",
       "descripcion": "",
       "segmentos": [
@@ -7271,7 +7298,7 @@
       ]
     },
     {
-      "id": "l_1792010447974289",
+      "id": "l_1792023222822289",
       "titulo": "Pregunta 125",
       "descripcion": "",
       "segmentos": [
@@ -7293,7 +7320,7 @@
       ]
     },
     {
-      "id": "l_1792010447974290",
+      "id": "l_1792023222822290",
       "titulo": "Pregunta 126",
       "descripcion": "",
       "segmentos": [
@@ -7313,7 +7340,7 @@
       ]
     },
     {
-      "id": "l_1792010447974291",
+      "id": "l_1792023222822291",
       "titulo": "Pregunta 127",
       "descripcion": "",
       "segmentos": [
@@ -7333,7 +7360,7 @@
       ]
     },
     {
-      "id": "l_1792010447974292",
+      "id": "l_1792023222822292",
       "titulo": "Pregunta 128",
       "descripcion": "",
       "segmentos": [
@@ -7353,7 +7380,7 @@
       ]
     },
     {
-      "id": "l_1792010447974293",
+      "id": "l_1792023222822293",
       "titulo": "Ejercicio 77",
       "descripcion": "",
       "segmentos": [
@@ -7373,7 +7400,7 @@
       ]
     },
     {
-      "id": "l_1792010447975294",
+      "id": "l_1792023222822294",
       "titulo": "Ejercicio 78",
       "descripcion": "",
       "segmentos": [
@@ -7393,7 +7420,7 @@
       ]
     },
     {
-      "id": "l_1792010447977295",
+      "id": "l_1792023222825295",
       "titulo": "Ejercicio 79",
       "descripcion": "",
       "segmentos": [
@@ -7450,7 +7477,7 @@
       ]
     },
     {
-      "id": "l_1792010447978296",
+      "id": "l_1792023222826296",
       "titulo": "Ejercicio 80",
       "descripcion": "",
       "segmentos": [
@@ -7493,7 +7520,7 @@
       ]
     },
     {
-      "id": "l_1792010447979297",
+      "id": "l_1792023222828297",
       "titulo": "Ejercicio 81",
       "descripcion": "",
       "segmentos": [
@@ -7556,7 +7583,7 @@
       ]
     },
     {
-      "id": "l_1792010447980298",
+      "id": "l_1792023222828298",
       "titulo": "Ejercicio 82",
       "descripcion": "",
       "segmentos": [
@@ -7576,7 +7603,7 @@
       ]
     },
     {
-      "id": "l_1792010447980299",
+      "id": "l_1792023222828299",
       "titulo": "Ejercicio 83",
       "descripcion": "",
       "segmentos": [
@@ -7596,7 +7623,7 @@
       ]
     },
     {
-      "id": "l_1792010447980300",
+      "id": "l_1792023222829300",
       "titulo": "Ejercicio 84",
       "descripcion": "",
       "segmentos": [
@@ -7616,7 +7643,7 @@
       ]
     },
     {
-      "id": "l_1792010447982301",
+      "id": "l_1792023222830301",
       "titulo": "Ejercicio 85",
       "descripcion": "",
       "segmentos": [
@@ -7661,7 +7688,7 @@
       ]
     },
     {
-      "id": "l_1792010447983302",
+      "id": "l_1792023222831302",
       "titulo": "Ejercicio 86",
       "descripcion": "",
       "segmentos": [
@@ -7706,14 +7733,14 @@
       ]
     },
     {
-      "id": "l_1792010447983303",
+      "id": "l_1792023222832303",
       "titulo": "Ejercicio 87",
       "descripcion": "",
       "segmentos": [
         {
           "tipo": "MOVIMIENTO",
           "titulo": "Ejercicio 87",
-          "texto": "Lleva el caballo a e5. Evita ocupar las casillas atacadas por el adversario.",
+          "texto": "Lleva el caballo a e5. Evita ocupar las casillas atacadas por el adversario. [%csl Ge5]",
           "orientacion": "blanca",
           "fen": "8/3n4/8/8/8/8/8/6N1 w - - 0 1",
           "secuenciaCorrecta": [
@@ -7732,14 +7759,14 @@
       ]
     },
     {
-      "id": "l_1792010447983304",
+      "id": "l_1792023222832304",
       "titulo": "Ejercicio 88",
       "descripcion": "",
       "segmentos": [
         {
           "tipo": "MOVIMIENTO",
           "titulo": "Ejercicio 88",
-          "texto": "Lleva el caballo a e5. Evita ocupar las casillas atacadas por el adversario.",
+          "texto": "Lleva el caballo a e5. Evita ocupar las casillas atacadas por el adversario. [%csl Ge5]",
           "orientacion": "blanca",
           "fen": "1n6/8/8/2p3p1/2Pp2P1/3P4/4N3/8 w - - 0 1",
           "secuenciaCorrecta": [
@@ -7762,14 +7789,14 @@
       ]
     },
     {
-      "id": "l_1792010447984305",
+      "id": "l_1792023222833305",
       "titulo": "Ejercicio 89",
       "descripcion": "",
       "segmentos": [
         {
           "tipo": "MOVIMIENTO",
           "titulo": "Ejercicio 89",
-          "texto": "Promueve el peón a dama. Evita ocupar las casillas atacadas por el adversario.",
+          "texto": "No dejes que los peones adversarios se escapen y coronen. Evita ocupar las casillas atacadas por el adversario.",
           "orientacion": "blanca",
           "fen": "8/8/8/6N1/7p/6p1/8/8 w - - 0 1",
           "secuenciaCorrecta": [
@@ -7782,15 +7809,15 @@
             "h3g1"
           ],
           "comentariosMovimiento": [
-            "Promueve el peón a dama. Evita ocupar las casillas atacadas por el adversario.",
-            "Promueve el peón a dama. Evita ocupar las casillas atacadas por el adversario.",
-            "Promueve el peón a dama. Evita ocupar las casillas atacadas por el adversario.",
-            "Promueve el peón a dama. Evita ocupar las casillas atacadas por el adversario."
+            "No dejes que los peones adversarios se escapen y coronen. Evita ocupar las casillas atacadas por el adversario.",
+            "No dejes que los peones adversarios se escapen y coronen. Evita ocupar las casillas atacadas por el adversario.",
+            "No dejes que los peones adversarios se escapen y coronen. Evita ocupar las casillas atacadas por el adversario.",
+            "No dejes que los peones adversarios se escapen y coronen. Evita ocupar las casillas atacadas por el adversario."
           ],
           "comentariosRival": [
-            "Promueve el peón a dama. Evita ocupar las casillas atacadas por el adversario.",
-            "Promueve el peón a dama. Evita ocupar las casillas atacadas por el adversario.",
-            "Promueve el peón a dama. Evita ocupar las casillas atacadas por el adversario."
+            "No dejes que los peones adversarios se escapen y coronen. Evita ocupar las casillas atacadas por el adversario.",
+            "No dejes que los peones adversarios se escapen y coronen. Evita ocupar las casillas atacadas por el adversario.",
+            "No dejes que los peones adversarios se escapen y coronen. Evita ocupar las casillas atacadas por el adversario."
           ],
           "arbol": {
             "0": {
@@ -7819,7 +7846,7 @@
       ]
     },
     {
-      "id": "l_1792010447985306",
+      "id": "l_1792023222834306",
       "titulo": "Ejercicio 90",
       "descripcion": "",
       "segmentos": [
@@ -7829,7 +7856,11 @@
           "texto": "Encuentra la forma más rápida de capturar el caballo del rival. Evita ocupar las casillas atacadas por el adversario.",
           "orientacion": "blanca",
           "fen": "8/1n3N2/8/8/8/8/1P6/8 w - - 0 1",
-          "secuenciaCorrecta": [],
+          "secuenciaCorrecta": [
+            "b2b4",
+            "b7a5",
+            "b4a5"
+          ],
           "comentariosMovimiento": [
             "Encuentra la forma más rápida de capturar el caballo del rival. Evita ocupar las casillas atacadas por el adversario.",
             "Encuentra la forma más rápida de capturar el caballo del rival. Evita ocupar las casillas atacadas por el adversario."
@@ -7841,14 +7872,14 @@
       ]
     },
     {
-      "id": "l_1792010447985307",
+      "id": "l_1792023222834307",
       "titulo": "Ejercicio 91",
       "descripcion": "",
       "segmentos": [
         {
           "tipo": "MOVIMIENTO",
           "titulo": "Ejercicio 91",
-          "texto": "Promueve el peón a dama. Evita ocupar las casillas atacadas por el adversario.",
+          "texto": "No dejes que los peones adversarios se escapen y coronen. Evita ocupar las casillas atacadas por el adversario.",
           "orientacion": "blanca",
           "fen": "8/8/8/8/4p3/3p3N/8/8 w - - 0 1",
           "secuenciaCorrecta": [
@@ -7861,15 +7892,15 @@
             "e3d1"
           ],
           "comentariosMovimiento": [
-            "Promueve el peón a dama. Evita ocupar las casillas atacadas por el adversario.",
-            "Promueve el peón a dama. Evita ocupar las casillas atacadas por el adversario.",
-            "Promueve el peón a dama. Evita ocupar las casillas atacadas por el adversario.",
-            "Promueve el peón a dama. Evita ocupar las casillas atacadas por el adversario."
+            "No dejes que los peones adversarios se escapen y coronen. Evita ocupar las casillas atacadas por el adversario.",
+            "No dejes que los peones adversarios se escapen y coronen. Evita ocupar las casillas atacadas por el adversario.",
+            "No dejes que los peones adversarios se escapen y coronen. Evita ocupar las casillas atacadas por el adversario.",
+            "No dejes que los peones adversarios se escapen y coronen. Evita ocupar las casillas atacadas por el adversario."
           ],
           "comentariosRival": [
-            "Promueve el peón a dama. Evita ocupar las casillas atacadas por el adversario.",
-            "Promueve el peón a dama. Evita ocupar las casillas atacadas por el adversario.",
-            "Promueve el peón a dama. Evita ocupar las casillas atacadas por el adversario."
+            "No dejes que los peones adversarios se escapen y coronen. Evita ocupar las casillas atacadas por el adversario.",
+            "No dejes que los peones adversarios se escapen y coronen. Evita ocupar las casillas atacadas por el adversario.",
+            "No dejes que los peones adversarios se escapen y coronen. Evita ocupar las casillas atacadas por el adversario."
           ],
           "arbol": {
             "0": {
@@ -7888,14 +7919,14 @@
       ]
     },
     {
-      "id": "l_1792010447986308",
+      "id": "l_1792023222835308",
       "titulo": "Ejercicio 92",
       "descripcion": "",
       "segmentos": [
         {
           "tipo": "MOVIMIENTO",
           "titulo": "Ejercicio 92",
-          "texto": "Lleva el caballo a a1. Evita ocupar las casillas atacadas por el adversario.",
+          "texto": "Lleva el caballo a a1. Evita ocupar las casillas atacadas por el adversario. [%csl Ga1]",
           "orientacion": "blanca",
           "fen": "8/8/8/8/8/8/8/2nN4 w - - 0 1",
           "secuenciaCorrecta": [
@@ -7918,14 +7949,14 @@
       ]
     },
     {
-      "id": "l_1792010447988309",
+      "id": "l_1792023222837309",
       "titulo": "Ejercicio 93",
       "descripcion": "",
       "segmentos": [
         {
           "tipo": "MOVIMIENTO",
           "titulo": "Ejercicio 93",
-          "texto": "Promueve el peón a dama. Evita ocupar las casillas atacadas por el adversario.",
+          "texto": "No dejes que los peones adversarios se escapen y coronen. Evita ocupar las casillas atacadas por el adversario.",
           "orientacion": "blanca",
           "fen": "8/8/8/8/5p2/3p1p1p/8/6N1 w - - 0 1",
           "secuenciaCorrecta": [
@@ -7942,19 +7973,19 @@
             "d1f2"
           ],
           "comentariosMovimiento": [
-            "Promueve el peón a dama. Evita ocupar las casillas atacadas por el adversario.",
-            "Promueve el peón a dama. Evita ocupar las casillas atacadas por el adversario.",
-            "Promueve el peón a dama. Evita ocupar las casillas atacadas por el adversario.",
-            "Promueve el peón a dama. Evita ocupar las casillas atacadas por el adversario.",
-            "Promueve el peón a dama. Evita ocupar las casillas atacadas por el adversario.",
-            "Promueve el peón a dama. Evita ocupar las casillas atacadas por el adversario."
+            "No dejes que los peones adversarios se escapen y coronen. Evita ocupar las casillas atacadas por el adversario.",
+            "No dejes que los peones adversarios se escapen y coronen. Evita ocupar las casillas atacadas por el adversario.",
+            "No dejes que los peones adversarios se escapen y coronen. Evita ocupar las casillas atacadas por el adversario.",
+            "No dejes que los peones adversarios se escapen y coronen. Evita ocupar las casillas atacadas por el adversario.",
+            "No dejes que los peones adversarios se escapen y coronen. Evita ocupar las casillas atacadas por el adversario.",
+            "No dejes que los peones adversarios se escapen y coronen. Evita ocupar las casillas atacadas por el adversario."
           ],
           "comentariosRival": [
-            "Promueve el peón a dama. Evita ocupar las casillas atacadas por el adversario.",
-            "Promueve el peón a dama. Evita ocupar las casillas atacadas por el adversario.",
-            "Promueve el peón a dama. Evita ocupar las casillas atacadas por el adversario.",
-            "Promueve el peón a dama. Evita ocupar las casillas atacadas por el adversario.",
-            "Promueve el peón a dama. Evita ocupar las casillas atacadas por el adversario."
+            "No dejes que los peones adversarios se escapen y coronen. Evita ocupar las casillas atacadas por el adversario.",
+            "No dejes que los peones adversarios se escapen y coronen. Evita ocupar las casillas atacadas por el adversario.",
+            "No dejes que los peones adversarios se escapen y coronen. Evita ocupar las casillas atacadas por el adversario.",
+            "No dejes que los peones adversarios se escapen y coronen. Evita ocupar las casillas atacadas por el adversario.",
+            "No dejes que los peones adversarios se escapen y coronen. Evita ocupar las casillas atacadas por el adversario."
           ],
           "arbol": {
             "0": {
@@ -7985,14 +8016,14 @@
       ]
     },
     {
-      "id": "l_1792010447988310",
+      "id": "l_1792023222837310",
       "titulo": "Ejercicio 94",
       "descripcion": "",
       "segmentos": [
         {
           "tipo": "MOVIMIENTO",
           "titulo": "Ejercicio 94",
-          "texto": "Lleva el caballo a f8. Evita ocupar las casillas atacadas por el adversario.",
+          "texto": "Lleva el caballo a f8. Evita ocupar las casillas atacadas por el adversario. [%csl Gf8]",
           "orientacion": "blanca",
           "fen": "2N5/7p/7P/2n5/8/8/8/8 w - - 0 1",
           "secuenciaCorrecta": [
@@ -8015,7 +8046,7 @@
       ]
     },
     {
-      "id": "l_1792010447989311",
+      "id": "l_1792023222838311",
       "titulo": "Ejercicio 95",
       "descripcion": "",
       "segmentos": [
@@ -8041,14 +8072,14 @@
       ]
     },
     {
-      "id": "l_1792010447990312",
+      "id": "l_1792023222839312",
       "titulo": "Ejercicio 96",
       "descripcion": "",
       "segmentos": [
         {
           "tipo": "MOVIMIENTO",
           "titulo": "Ejercicio 96",
-          "texto": "Promueve el peón a dama. Evita ocupar las casillas atacadas por el adversario.",
+          "texto": "No dejes que los peones adversarios se escapen y coronen. Evita ocupar las casillas atacadas por el adversario.",
           "orientacion": "blanca",
           "fen": "8/8/8/8/5N1p/8/6p1/8 w - - 0 1",
           "secuenciaCorrecta": [
@@ -8059,13 +8090,13 @@
             "g1h3"
           ],
           "comentariosMovimiento": [
-            "Promueve el peón a dama. Evita ocupar las casillas atacadas por el adversario.",
-            "Promueve el peón a dama. Evita ocupar las casillas atacadas por el adversario.",
-            "Promueve el peón a dama. Evita ocupar las casillas atacadas por el adversario."
+            "No dejes que los peones adversarios se escapen y coronen. Evita ocupar las casillas atacadas por el adversario.",
+            "No dejes que los peones adversarios se escapen y coronen. Evita ocupar las casillas atacadas por el adversario.",
+            "No dejes que los peones adversarios se escapen y coronen. Evita ocupar las casillas atacadas por el adversario."
           ],
           "comentariosRival": [
-            "Promueve el peón a dama. Evita ocupar las casillas atacadas por el adversario.",
-            "Promueve el peón a dama. Evita ocupar las casillas atacadas por el adversario."
+            "No dejes que los peones adversarios se escapen y coronen. Evita ocupar las casillas atacadas por el adversario.",
+            "No dejes que los peones adversarios se escapen y coronen. Evita ocupar las casillas atacadas por el adversario."
           ],
           "arbol": {
             "0": {
@@ -8090,14 +8121,14 @@
       ]
     },
     {
-      "id": "l_1792010447991313",
+      "id": "l_1792023222840313",
       "titulo": "Ejercicio 97",
       "descripcion": "",
       "segmentos": [
         {
           "tipo": "MOVIMIENTO",
           "titulo": "Ejercicio 97",
-          "texto": "Promueve el peón a dama. Evita ocupar las casillas atacadas por el adversario.",
+          "texto": "No dejes que los peones adversarios se escapen y coronen. Evita ocupar las casillas atacadas por el adversario.",
           "orientacion": "blanca",
           "fen": "8/8/8/8/3pp3/8/8/N7 w - - 0 1",
           "secuenciaCorrecta": [
@@ -8112,17 +8143,17 @@
             "e3d1"
           ],
           "comentariosMovimiento": [
-            "Promueve el peón a dama. Evita ocupar las casillas atacadas por el adversario.",
-            "Promueve el peón a dama. Evita ocupar las casillas atacadas por el adversario.",
-            "Promueve el peón a dama. Evita ocupar las casillas atacadas por el adversario.",
-            "Promueve el peón a dama. Evita ocupar las casillas atacadas por el adversario.",
-            "Promueve el peón a dama. Evita ocupar las casillas atacadas por el adversario."
+            "No dejes que los peones adversarios se escapen y coronen. Evita ocupar las casillas atacadas por el adversario.",
+            "No dejes que los peones adversarios se escapen y coronen. Evita ocupar las casillas atacadas por el adversario.",
+            "No dejes que los peones adversarios se escapen y coronen. Evita ocupar las casillas atacadas por el adversario.",
+            "No dejes que los peones adversarios se escapen y coronen. Evita ocupar las casillas atacadas por el adversario.",
+            "No dejes que los peones adversarios se escapen y coronen. Evita ocupar las casillas atacadas por el adversario."
           ],
           "comentariosRival": [
-            "Promueve el peón a dama. Evita ocupar las casillas atacadas por el adversario.",
-            "Promueve el peón a dama. Evita ocupar las casillas atacadas por el adversario.",
-            "Promueve el peón a dama. Evita ocupar las casillas atacadas por el adversario.",
-            "Promueve el peón a dama. Evita ocupar las casillas atacadas por el adversario."
+            "No dejes que los peones adversarios se escapen y coronen. Evita ocupar las casillas atacadas por el adversario.",
+            "No dejes que los peones adversarios se escapen y coronen. Evita ocupar las casillas atacadas por el adversario.",
+            "No dejes que los peones adversarios se escapen y coronen. Evita ocupar las casillas atacadas por el adversario.",
+            "No dejes que los peones adversarios se escapen y coronen. Evita ocupar las casillas atacadas por el adversario."
           ],
           "arbol": {
             "0": {
@@ -8141,7 +8172,7 @@
       ]
     },
     {
-      "id": "l_1792010447991314",
+      "id": "l_1792023222840314",
       "titulo": "Introducción",
       "descripcion": "",
       "segmentos": [
@@ -8156,7 +8187,7 @@
       ]
     },
     {
-      "id": "l_1792010447991315",
+      "id": "l_1792023222840315",
       "titulo": "Introducción (2)",
       "descripcion": "",
       "segmentos": [
@@ -8171,7 +8202,7 @@
       ]
     },
     {
-      "id": "l_1792010447991316",
+      "id": "l_1792023222840316",
       "titulo": "Introducción (3)",
       "descripcion": "",
       "segmentos": [
@@ -8186,7 +8217,7 @@
       ]
     },
     {
-      "id": "l_1792010447991317",
+      "id": "l_1792023222840317",
       "titulo": "Movimiento del rey",
       "descripcion": "",
       "segmentos": [
@@ -8201,7 +8232,7 @@
       ]
     },
     {
-      "id": "l_1792010447991318",
+      "id": "l_1792023222840318",
       "titulo": "La captura",
       "descripcion": "",
       "segmentos": [
@@ -8217,7 +8248,7 @@
       ]
     },
     {
-      "id": "l_1792010447991319",
+      "id": "l_1792023222840319",
       "titulo": "La pieza más valiosa de todas",
       "descripcion": "",
       "segmentos": [
@@ -8232,7 +8263,7 @@
       ]
     },
     {
-      "id": "l_1792010447991320",
+      "id": "l_1792023222840320",
       "titulo": "La pieza más valiosa de todas (2)",
       "descripcion": "",
       "segmentos": [
@@ -8247,7 +8278,7 @@
       ]
     },
     {
-      "id": "l_1792010447991321",
+      "id": "l_1792023222840321",
       "titulo": "La pieza más valiosa de todas (3)",
       "descripcion": "",
       "segmentos": [
@@ -8262,7 +8293,7 @@
       ]
     },
     {
-      "id": "l_1792010447991322",
+      "id": "l_1792023222840322",
       "titulo": "Los dos reyes",
       "descripcion": "",
       "segmentos": [
@@ -8277,7 +8308,7 @@
       ]
     },
     {
-      "id": "l_1792010447991323",
+      "id": "l_1792023222840323",
       "titulo": "Conclusiones",
       "descripcion": "",
       "segmentos": [
@@ -8292,7 +8323,7 @@
       ]
     },
     {
-      "id": "l_1792010447991324",
+      "id": "l_1792023222840324",
       "titulo": "Conclusiones (2)",
       "descripcion": "",
       "segmentos": [
@@ -8307,7 +8338,7 @@
       ]
     },
     {
-      "id": "l_1792010447991325",
+      "id": "l_1792023222840325",
       "titulo": "Conclusiones (3)",
       "descripcion": "",
       "segmentos": [
@@ -8322,7 +8353,7 @@
       ]
     },
     {
-      "id": "l_1792010447991326",
+      "id": "l_1792023222840326",
       "titulo": "Conclusiones (4)",
       "descripcion": "",
       "segmentos": [
@@ -8337,7 +8368,7 @@
       ]
     },
     {
-      "id": "l_1792010447991327",
+      "id": "l_1792023222840327",
       "titulo": "Ejercicio 98",
       "descripcion": "",
       "segmentos": [
@@ -8357,7 +8388,7 @@
       ]
     },
     {
-      "id": "l_1792010447991328",
+      "id": "l_1792023222841328",
       "titulo": "Ejercicio 99",
       "descripcion": "",
       "segmentos": [
@@ -8377,7 +8408,7 @@
       ]
     },
     {
-      "id": "l_1792010447992329",
+      "id": "l_1792023222841329",
       "titulo": "Ejercicio 100",
       "descripcion": "",
       "segmentos": [
@@ -8397,7 +8428,7 @@
       ]
     },
     {
-      "id": "l_1792010447992330",
+      "id": "l_1792023222841330",
       "titulo": "Ejercicio 101",
       "descripcion": "",
       "segmentos": [
@@ -8417,7 +8448,7 @@
       ]
     },
     {
-      "id": "l_1792010447993331",
+      "id": "l_1792023222842331",
       "titulo": "Ejercicio 102",
       "descripcion": "",
       "segmentos": [
@@ -8437,7 +8468,7 @@
       ]
     },
     {
-      "id": "l_1792010447993332",
+      "id": "l_1792023222842332",
       "titulo": "Ejercicio 103",
       "descripcion": "",
       "segmentos": [
@@ -8457,7 +8488,7 @@
       ]
     },
     {
-      "id": "l_1792010447993333",
+      "id": "l_1792023222843333",
       "titulo": "Ejercicio 104",
       "descripcion": "",
       "segmentos": [
@@ -8477,7 +8508,7 @@
       ]
     },
     {
-      "id": "l_1792010447994334",
+      "id": "l_1792023222843334",
       "titulo": "Ejercicio 105",
       "descripcion": "",
       "segmentos": [
@@ -8497,7 +8528,7 @@
       ]
     },
     {
-      "id": "l_1792010447994335",
+      "id": "l_1792023222843335",
       "titulo": "Ejercicio 106",
       "descripcion": "",
       "segmentos": [
@@ -8517,7 +8548,7 @@
       ]
     },
     {
-      "id": "l_1792010447994336",
+      "id": "l_1792023222844336",
       "titulo": "Ejercicio 107",
       "descripcion": "",
       "segmentos": [
@@ -8537,7 +8568,7 @@
       ]
     },
     {
-      "id": "l_1792010447995337",
+      "id": "l_1792023222844337",
       "titulo": "Ejercicio 108",
       "descripcion": "",
       "segmentos": [
@@ -8557,7 +8588,7 @@
       ]
     },
     {
-      "id": "l_1792010447995338",
+      "id": "l_1792023222844338",
       "titulo": "Ejercicio 109",
       "descripcion": "",
       "segmentos": [
@@ -8577,7 +8608,7 @@
       ]
     },
     {
-      "id": "l_1792010447995339",
+      "id": "l_1792023222844339",
       "titulo": "Pregunta 129",
       "descripcion": "",
       "segmentos": [
@@ -8598,7 +8629,7 @@
       ]
     },
     {
-      "id": "l_1792010447995340",
+      "id": "l_1792023222844340",
       "titulo": "Pregunta 130",
       "descripcion": "",
       "segmentos": [
@@ -8620,7 +8651,7 @@
       ]
     },
     {
-      "id": "l_1792010447995341",
+      "id": "l_1792023222844341",
       "titulo": "Ejercicio 110",
       "descripcion": "",
       "segmentos": [
@@ -8640,7 +8671,7 @@
       ]
     },
     {
-      "id": "l_1792010447995342",
+      "id": "l_1792023222844342",
       "titulo": "Pregunta 131",
       "descripcion": "",
       "segmentos": [
@@ -8660,14 +8691,14 @@
       ]
     },
     {
-      "id": "l_1792010447996343",
+      "id": "l_1792023222845343",
       "titulo": "Ejercicio 111",
       "descripcion": "",
       "segmentos": [
         {
           "tipo": "MOVIMIENTO",
           "titulo": "Ejercicio 111",
-          "texto": "Juegan blancas: encuentra la jugada táctica. Evita ocupar las casillas atacadas por el adversario.",
+          "texto": "Juegan blancas: encuentra la jugada táctica. Evita ocupar las casillas atacadas por el adversario. [%csl Ge2]",
           "orientacion": "blanca",
           "fen": "8/8/8/2K5/7k/8/8/8 w - - 0 1",
           "secuenciaCorrecta": [
@@ -8690,14 +8721,14 @@
       ]
     },
     {
-      "id": "l_1792010447997344",
+      "id": "l_1792023222846344",
       "titulo": "Ejercicio 112",
       "descripcion": "",
       "segmentos": [
         {
           "tipo": "MOVIMIENTO",
           "titulo": "Ejercicio 112",
-          "texto": "Juegan blancas: encuentra la jugada táctica. Evita ocupar las casillas atacadas por el adversario.",
+          "texto": "Juegan blancas: encuentra la jugada táctica. Evita ocupar las casillas atacadas por el adversario. [%csl Gf7]",
           "orientacion": "blanca",
           "fen": "8/8/8/3k4/6K1/8/8/8 w - - 0 1",
           "secuenciaCorrecta": [
@@ -8753,14 +8784,14 @@
       ]
     },
     {
-      "id": "l_1792010447998345",
+      "id": "l_1792023222847345",
       "titulo": "Ejercicio 113",
       "descripcion": "",
       "segmentos": [
         {
           "tipo": "MOVIMIENTO",
           "titulo": "Ejercicio 113",
-          "texto": "Promueve el peón a dama. Evita ocupar las casillas atacadas por el adversario.",
+          "texto": "No dejes que los peones adversarios se escapen y coronen. Evita ocupar las casillas atacadas por el adversario.",
           "orientacion": "blanca",
           "fen": "8/8/8/8/8/3p1p2/8/3K4 w - - 0 1",
           "secuenciaCorrecta": [
@@ -8773,15 +8804,15 @@
             "e2f1"
           ],
           "comentariosMovimiento": [
-            "Promueve el peón a dama. Evita ocupar las casillas atacadas por el adversario.",
-            "Promueve el peón a dama. Evita ocupar las casillas atacadas por el adversario.",
-            "Promueve el peón a dama. Evita ocupar las casillas atacadas por el adversario.",
-            "Promueve el peón a dama. Evita ocupar las casillas atacadas por el adversario."
+            "No dejes que los peones adversarios se escapen y coronen. Evita ocupar las casillas atacadas por el adversario.",
+            "No dejes que los peones adversarios se escapen y coronen. Evita ocupar las casillas atacadas por el adversario.",
+            "No dejes que los peones adversarios se escapen y coronen. Evita ocupar las casillas atacadas por el adversario.",
+            "No dejes que los peones adversarios se escapen y coronen. Evita ocupar las casillas atacadas por el adversario."
           ],
           "comentariosRival": [
-            "Promueve el peón a dama. Evita ocupar las casillas atacadas por el adversario.",
-            "Promueve el peón a dama. Evita ocupar las casillas atacadas por el adversario.",
-            "Promueve el peón a dama. Evita ocupar las casillas atacadas por el adversario."
+            "No dejes que los peones adversarios se escapen y coronen. Evita ocupar las casillas atacadas por el adversario.",
+            "No dejes que los peones adversarios se escapen y coronen. Evita ocupar las casillas atacadas por el adversario.",
+            "No dejes que los peones adversarios se escapen y coronen. Evita ocupar las casillas atacadas por el adversario."
           ],
           "arbol": {
             "0": {
@@ -8800,14 +8831,14 @@
       ]
     },
     {
-      "id": "l_1792010447999346",
+      "id": "l_1792023222849346",
       "titulo": "Ejercicio 114",
       "descripcion": "",
       "segmentos": [
         {
           "tipo": "MOVIMIENTO",
           "titulo": "Ejercicio 114",
-          "texto": "Promueve el peón a dama. Evita ocupar las casillas atacadas por el adversario.",
+          "texto": "No dejes que los peones adversarios se escapen y coronen. Evita ocupar las casillas atacadas por el adversario.",
           "orientacion": "blanca",
           "fen": "8/8/8/8/3p1p2/4p3/8/4K3 w - - 0 1",
           "secuenciaCorrecta": [
@@ -8820,15 +8851,15 @@
             "e3d2"
           ],
           "comentariosMovimiento": [
-            "Promueve el peón a dama. Evita ocupar las casillas atacadas por el adversario.",
-            "Promueve el peón a dama. Evita ocupar las casillas atacadas por el adversario.",
-            "Promueve el peón a dama. Evita ocupar las casillas atacadas por el adversario.",
-            "Promueve el peón a dama. Evita ocupar las casillas atacadas por el adversario."
+            "No dejes que los peones adversarios se escapen y coronen. Evita ocupar las casillas atacadas por el adversario.",
+            "No dejes que los peones adversarios se escapen y coronen. Evita ocupar las casillas atacadas por el adversario.",
+            "No dejes que los peones adversarios se escapen y coronen. Evita ocupar las casillas atacadas por el adversario.",
+            "No dejes que los peones adversarios se escapen y coronen. Evita ocupar las casillas atacadas por el adversario."
           ],
           "comentariosRival": [
-            "Promueve el peón a dama. Evita ocupar las casillas atacadas por el adversario.",
-            "Promueve el peón a dama. Evita ocupar las casillas atacadas por el adversario.",
-            "Promueve el peón a dama. Evita ocupar las casillas atacadas por el adversario."
+            "No dejes que los peones adversarios se escapen y coronen. Evita ocupar las casillas atacadas por el adversario.",
+            "No dejes que los peones adversarios se escapen y coronen. Evita ocupar las casillas atacadas por el adversario.",
+            "No dejes que los peones adversarios se escapen y coronen. Evita ocupar las casillas atacadas por el adversario."
           ],
           "arbol": {
             "0": {
@@ -8850,7 +8881,7 @@
       ]
     },
     {
-      "id": "l_1792010448000347",
+      "id": "l_1792023222850347",
       "titulo": "Ejercicio 115",
       "descripcion": "",
       "segmentos": [
@@ -8876,14 +8907,14 @@
       ]
     },
     {
-      "id": "l_1792010448002348",
+      "id": "l_1792023222851348",
       "titulo": "Ejercicio 116",
       "descripcion": "",
       "segmentos": [
         {
           "tipo": "MOVIMIENTO",
           "titulo": "Ejercicio 116",
-          "texto": "Promueve el peón a dama. Evita ocupar las casillas atacadas por el adversario.",
+          "texto": "No dejes que los peones adversarios se escapen y coronen. Evita ocupar las casillas atacadas por el adversario.",
           "orientacion": "blanca",
           "fen": "8/p7/5K2/p7/8/8/8/8 w - - 0 1",
           "secuenciaCorrecta": [
@@ -8902,27 +8933,27 @@
             "b2a3"
           ],
           "comentariosMovimiento": [
-            "Promueve el peón a dama. Evita ocupar las casillas atacadas por el adversario.",
-            "Promueve el peón a dama. Evita ocupar las casillas atacadas por el adversario.",
-            "Promueve el peón a dama. Evita ocupar las casillas atacadas por el adversario.",
-            "Promueve el peón a dama. Evita ocupar las casillas atacadas por el adversario.",
-            "Promueve el peón a dama. Evita ocupar las casillas atacadas por el adversario.",
-            "Promueve el peón a dama. Evita ocupar las casillas atacadas por el adversario.",
-            "Promueve el peón a dama. Evita ocupar las casillas atacadas por el adversario."
+            "No dejes que los peones adversarios se escapen y coronen. Evita ocupar las casillas atacadas por el adversario.",
+            "No dejes que los peones adversarios se escapen y coronen. Evita ocupar las casillas atacadas por el adversario.",
+            "No dejes que los peones adversarios se escapen y coronen. Evita ocupar las casillas atacadas por el adversario.",
+            "No dejes que los peones adversarios se escapen y coronen. Evita ocupar las casillas atacadas por el adversario.",
+            "No dejes que los peones adversarios se escapen y coronen. Evita ocupar las casillas atacadas por el adversario.",
+            "No dejes que los peones adversarios se escapen y coronen. Evita ocupar las casillas atacadas por el adversario.",
+            "No dejes que los peones adversarios se escapen y coronen. Evita ocupar las casillas atacadas por el adversario."
           ],
           "comentariosRival": [
-            "Promueve el peón a dama. Evita ocupar las casillas atacadas por el adversario.",
-            "Promueve el peón a dama. Evita ocupar las casillas atacadas por el adversario.",
-            "Promueve el peón a dama. Evita ocupar las casillas atacadas por el adversario.",
-            "Promueve el peón a dama. Evita ocupar las casillas atacadas por el adversario.",
-            "Promueve el peón a dama. Evita ocupar las casillas atacadas por el adversario.",
-            "Promueve el peón a dama. Evita ocupar las casillas atacadas por el adversario."
+            "No dejes que los peones adversarios se escapen y coronen. Evita ocupar las casillas atacadas por el adversario.",
+            "No dejes que los peones adversarios se escapen y coronen. Evita ocupar las casillas atacadas por el adversario.",
+            "No dejes que los peones adversarios se escapen y coronen. Evita ocupar las casillas atacadas por el adversario.",
+            "No dejes que los peones adversarios se escapen y coronen. Evita ocupar las casillas atacadas por el adversario.",
+            "No dejes que los peones adversarios se escapen y coronen. Evita ocupar las casillas atacadas por el adversario.",
+            "No dejes que los peones adversarios se escapen y coronen. Evita ocupar las casillas atacadas por el adversario."
           ]
         }
       ]
     },
     {
-      "id": "l_1792010448002349",
+      "id": "l_1792023222852349",
       "titulo": "Ejercicio 117",
       "descripcion": "",
       "segmentos": [
@@ -8948,7 +8979,7 @@
       ]
     },
     {
-      "id": "l_1792010448003350",
+      "id": "l_1792023222852350",
       "titulo": "Ejercicio 118",
       "descripcion": "",
       "segmentos": [
@@ -8974,14 +9005,14 @@
       ]
     },
     {
-      "id": "l_1792010448005351",
+      "id": "l_1792023222854351",
       "titulo": "Ejercicio 119",
       "descripcion": "",
       "segmentos": [
         {
           "tipo": "MOVIMIENTO",
           "titulo": "Ejercicio 119",
-          "texto": "Promueve el peón a dama. Evita ocupar las casillas atacadas por el adversario.",
+          "texto": "No dejes que los peones adversarios se escapen y coronen. Evita ocupar las casillas atacadas por el adversario.",
           "orientacion": "blanca",
           "fen": "8/4pK2/3p1p2/8/8/8/8/8 w - - 0 1",
           "secuenciaCorrecta": [
@@ -8996,17 +9027,17 @@
             "d5e4"
           ],
           "comentariosMovimiento": [
-            "Promueve el peón a dama. Evita ocupar las casillas atacadas por el adversario.",
-            "Promueve el peón a dama. Evita ocupar las casillas atacadas por el adversario.",
-            "Promueve el peón a dama. Evita ocupar las casillas atacadas por el adversario.",
-            "Promueve el peón a dama. Evita ocupar las casillas atacadas por el adversario.",
-            "Promueve el peón a dama. Evita ocupar las casillas atacadas por el adversario."
+            "No dejes que los peones adversarios se escapen y coronen. Evita ocupar las casillas atacadas por el adversario.",
+            "No dejes que los peones adversarios se escapen y coronen. Evita ocupar las casillas atacadas por el adversario.",
+            "No dejes que los peones adversarios se escapen y coronen. Evita ocupar las casillas atacadas por el adversario.",
+            "No dejes que los peones adversarios se escapen y coronen. Evita ocupar las casillas atacadas por el adversario.",
+            "No dejes que los peones adversarios se escapen y coronen. Evita ocupar las casillas atacadas por el adversario."
           ],
           "comentariosRival": [
-            "Promueve el peón a dama. Evita ocupar las casillas atacadas por el adversario.",
-            "Promueve el peón a dama. Evita ocupar las casillas atacadas por el adversario.",
-            "Promueve el peón a dama. Evita ocupar las casillas atacadas por el adversario.",
-            "Promueve el peón a dama. Evita ocupar las casillas atacadas por el adversario."
+            "No dejes que los peones adversarios se escapen y coronen. Evita ocupar las casillas atacadas por el adversario.",
+            "No dejes que los peones adversarios se escapen y coronen. Evita ocupar las casillas atacadas por el adversario.",
+            "No dejes que los peones adversarios se escapen y coronen. Evita ocupar las casillas atacadas por el adversario.",
+            "No dejes que los peones adversarios se escapen y coronen. Evita ocupar las casillas atacadas por el adversario."
           ],
           "arbol": {
             "0": {
@@ -9034,7 +9065,7 @@
       ]
     },
     {
-      "id": "l_1792010448005352",
+      "id": "l_1792023222855352",
       "titulo": "Ejercicio 120",
       "descripcion": "",
       "segmentos": [
@@ -9072,14 +9103,14 @@
       ]
     },
     {
-      "id": "l_1792010448007353",
+      "id": "l_1792023222857353",
       "titulo": "Ejercicio 121",
       "descripcion": "",
       "segmentos": [
         {
           "tipo": "MOVIMIENTO",
           "titulo": "Ejercicio 121",
-          "texto": "Promueve el peón a dama. Evita ocupar las casillas atacadas por el adversario.",
+          "texto": "No dejes que los peones adversarios se escapen y coronen. Evita ocupar las casillas atacadas por el adversario.",
           "orientacion": "blanca",
           "fen": "8/8/8/4p3/1p6/3K4/8/8 w - - 0 1",
           "secuenciaCorrecta": [
@@ -9094,17 +9125,17 @@
             "d2e1"
           ],
           "comentariosMovimiento": [
-            "Promueve el peón a dama. Evita ocupar las casillas atacadas por el adversario.",
-            "Promueve el peón a dama. Evita ocupar las casillas atacadas por el adversario.",
-            "Promueve el peón a dama. Evita ocupar las casillas atacadas por el adversario.",
-            "Promueve el peón a dama. Evita ocupar las casillas atacadas por el adversario.",
-            "Promueve el peón a dama. Evita ocupar las casillas atacadas por el adversario."
+            "No dejes que los peones adversarios se escapen y coronen. Evita ocupar las casillas atacadas por el adversario.",
+            "No dejes que los peones adversarios se escapen y coronen. Evita ocupar las casillas atacadas por el adversario.",
+            "No dejes que los peones adversarios se escapen y coronen. Evita ocupar las casillas atacadas por el adversario.",
+            "No dejes que los peones adversarios se escapen y coronen. Evita ocupar las casillas atacadas por el adversario.",
+            "No dejes que los peones adversarios se escapen y coronen. Evita ocupar las casillas atacadas por el adversario."
           ],
           "comentariosRival": [
-            "Promueve el peón a dama. Evita ocupar las casillas atacadas por el adversario.",
-            "Promueve el peón a dama. Evita ocupar las casillas atacadas por el adversario.",
-            "Promueve el peón a dama. Evita ocupar las casillas atacadas por el adversario.",
-            "Promueve el peón a dama. Evita ocupar las casillas atacadas por el adversario."
+            "No dejes que los peones adversarios se escapen y coronen. Evita ocupar las casillas atacadas por el adversario.",
+            "No dejes que los peones adversarios se escapen y coronen. Evita ocupar las casillas atacadas por el adversario.",
+            "No dejes que los peones adversarios se escapen y coronen. Evita ocupar las casillas atacadas por el adversario.",
+            "No dejes que los peones adversarios se escapen y coronen. Evita ocupar las casillas atacadas por el adversario."
           ],
           "arbol": {
             "0": {
@@ -9126,7 +9157,7 @@
       ]
     },
     {
-      "id": "l_1792010448007354",
+      "id": "l_1792023222857354",
       "titulo": "Introducción",
       "descripcion": "",
       "segmentos": [
@@ -9142,7 +9173,7 @@
       ]
     },
     {
-      "id": "l_1792010448007355",
+      "id": "l_1792023222857355",
       "titulo": "Ejemplos de jaques",
       "descripcion": "",
       "segmentos": [
@@ -9157,7 +9188,7 @@
       ]
     },
     {
-      "id": "l_1792010448007356",
+      "id": "l_1792023222857356",
       "titulo": "Ejemplos de jaques (2)",
       "descripcion": "",
       "segmentos": [
@@ -9172,7 +9203,7 @@
       ]
     },
     {
-      "id": "l_1792010448007357",
+      "id": "l_1792023222857357",
       "titulo": "Ejemplos de jaques (3)",
       "descripcion": "",
       "segmentos": [
@@ -9187,7 +9218,7 @@
       ]
     },
     {
-      "id": "l_1792010448007358",
+      "id": "l_1792023222857358",
       "titulo": "La defensa del jaque",
       "descripcion": "",
       "segmentos": [
@@ -9201,7 +9232,7 @@
       ]
     },
     {
-      "id": "l_1792010448007359",
+      "id": "l_1792023222857359",
       "titulo": "La defensa del jaque (2)",
       "descripcion": "",
       "segmentos": [
@@ -9217,7 +9248,7 @@
       ]
     },
     {
-      "id": "l_1792010448007360",
+      "id": "l_1792023222857360",
       "titulo": "La defensa del jaque (3)",
       "descripcion": "",
       "segmentos": [
@@ -9233,7 +9264,7 @@
       ]
     },
     {
-      "id": "l_1792010448007361",
+      "id": "l_1792023222857361",
       "titulo": "La defensa del jaque (4)",
       "descripcion": "",
       "segmentos": [
@@ -9249,7 +9280,7 @@
       ]
     },
     {
-      "id": "l_1792010448007362",
+      "id": "l_1792023222857362",
       "titulo": "Mate",
       "descripcion": "",
       "segmentos": [
@@ -9264,7 +9295,7 @@
       ]
     },
     {
-      "id": "l_1792010448007363",
+      "id": "l_1792023222857363",
       "titulo": "Ejemplos",
       "descripcion": "",
       "segmentos": [
@@ -9279,7 +9310,7 @@
       ]
     },
     {
-      "id": "l_1792010448007364",
+      "id": "l_1792023222857364",
       "titulo": "Ejemplos (2)",
       "descripcion": "",
       "segmentos": [
@@ -9294,7 +9325,7 @@
       ]
     },
     {
-      "id": "l_1792010448008365",
+      "id": "l_1792023222857365",
       "titulo": "Ejemplos (3)",
       "descripcion": "",
       "segmentos": [
@@ -9309,7 +9340,7 @@
       ]
     },
     {
-      "id": "l_1792010448008366",
+      "id": "l_1792023222857366",
       "titulo": "Ejemplos (4)",
       "descripcion": "",
       "segmentos": [
@@ -9325,7 +9356,7 @@
       ]
     },
     {
-      "id": "l_1792010448008367",
+      "id": "l_1792023222857367",
       "titulo": "Ahogado",
       "descripcion": "",
       "segmentos": [
@@ -9340,7 +9371,7 @@
       ]
     },
     {
-      "id": "l_1792010448008368",
+      "id": "l_1792023222857368",
       "titulo": "Ahogado con piezas presentes",
       "descripcion": "",
       "segmentos": [
@@ -9355,7 +9386,7 @@
       ]
     },
     {
-      "id": "l_1792010448008369",
+      "id": "l_1792023222857369",
       "titulo": "Exemplo 2",
       "descripcion": "",
       "segmentos": [
@@ -9370,7 +9401,7 @@
       ]
     },
     {
-      "id": "l_1792010448008370",
+      "id": "l_1792023222857370",
       "titulo": "Exemplo 2 (2)",
       "descripcion": "",
       "segmentos": [
@@ -9385,7 +9416,7 @@
       ]
     },
     {
-      "id": "l_1792010448008371",
+      "id": "l_1792023222857371",
       "titulo": "Exemplo 2 (3)",
       "descripcion": "",
       "segmentos": [
@@ -9400,7 +9431,7 @@
       ]
     },
     {
-      "id": "l_1792010448008372",
+      "id": "l_1792023222857372",
       "titulo": "Exemplo 2 (4)",
       "descripcion": "",
       "segmentos": [
@@ -9415,7 +9446,7 @@
       ]
     },
     {
-      "id": "l_1792010448008373",
+      "id": "l_1792023222858373",
       "titulo": "Ejercicio 122",
       "descripcion": "",
       "segmentos": [
@@ -9435,7 +9466,7 @@
       ]
     },
     {
-      "id": "l_1792010448008374",
+      "id": "l_1792023222858374",
       "titulo": "Ejercicio 123",
       "descripcion": "",
       "segmentos": [
@@ -9455,7 +9486,7 @@
       ]
     },
     {
-      "id": "l_1792010448009375",
+      "id": "l_1792023222859375",
       "titulo": "Ejercicio 124",
       "descripcion": "",
       "segmentos": [
@@ -9475,7 +9506,7 @@
       ]
     },
     {
-      "id": "l_1792010448010376",
+      "id": "l_1792023222860376",
       "titulo": "Ejercicio 125",
       "descripcion": "",
       "segmentos": [
@@ -9495,7 +9526,7 @@
       ]
     },
     {
-      "id": "l_1792010448011377",
+      "id": "l_1792023222861377",
       "titulo": "Ejercicio 126",
       "descripcion": "",
       "segmentos": [
@@ -9515,7 +9546,7 @@
       ]
     },
     {
-      "id": "l_1792010448011378",
+      "id": "l_1792023222862378",
       "titulo": "Ejercicio 127",
       "descripcion": "",
       "segmentos": [
@@ -9535,7 +9566,7 @@
       ]
     },
     {
-      "id": "l_1792010448011379",
+      "id": "l_1792023222862379",
       "titulo": "Ejercicio 128",
       "descripcion": "",
       "segmentos": [
@@ -9555,7 +9586,7 @@
       ]
     },
     {
-      "id": "l_1792010448012380",
+      "id": "l_1792023222863380",
       "titulo": "Ejercicio 129",
       "descripcion": "",
       "segmentos": [
@@ -9575,7 +9606,7 @@
       ]
     },
     {
-      "id": "l_1792010448012381",
+      "id": "l_1792023222863381",
       "titulo": "Ejercicio 130",
       "descripcion": "",
       "segmentos": [
@@ -9595,7 +9626,7 @@
       ]
     },
     {
-      "id": "l_1792010448013382",
+      "id": "l_1792023222864382",
       "titulo": "Ejercicio 131",
       "descripcion": "",
       "segmentos": [
@@ -9615,7 +9646,7 @@
       ]
     },
     {
-      "id": "l_1792010448013383",
+      "id": "l_1792023222864383",
       "titulo": "Ejercicio 132",
       "descripcion": "",
       "segmentos": [
@@ -9635,7 +9666,7 @@
       ]
     },
     {
-      "id": "l_1792010448013384",
+      "id": "l_1792023222865384",
       "titulo": "Ejercicio 133",
       "descripcion": "",
       "segmentos": [
@@ -9655,7 +9686,7 @@
       ]
     },
     {
-      "id": "l_1792010448014385",
+      "id": "l_1792023222866385",
       "titulo": "Ejercicio 134",
       "descripcion": "",
       "segmentos": [
@@ -9675,7 +9706,7 @@
       ]
     },
     {
-      "id": "l_1792010448016386",
+      "id": "l_1792023222867386",
       "titulo": "Ejercicio 135",
       "descripcion": "",
       "segmentos": [
@@ -9695,7 +9726,7 @@
       ]
     },
     {
-      "id": "l_1792010448016387",
+      "id": "l_1792023222867387",
       "titulo": "Ejercicio 136",
       "descripcion": "",
       "segmentos": [
@@ -9715,7 +9746,7 @@
       ]
     },
     {
-      "id": "l_1792010448016388",
+      "id": "l_1792023222867388",
       "titulo": "Ejercicio 137",
       "descripcion": "",
       "segmentos": [
@@ -9735,7 +9766,7 @@
       ]
     },
     {
-      "id": "l_1792010448018389",
+      "id": "l_1792023222868389",
       "titulo": "Ejercicio 138",
       "descripcion": "",
       "segmentos": [
@@ -9755,7 +9786,7 @@
       ]
     },
     {
-      "id": "l_1792010448018390",
+      "id": "l_1792023222869390",
       "titulo": "Ejercicio 139",
       "descripcion": "",
       "segmentos": [
@@ -9775,7 +9806,7 @@
       ]
     },
     {
-      "id": "l_1792010448019391",
+      "id": "l_1792023222870391",
       "titulo": "Ejercicio 140",
       "descripcion": "",
       "segmentos": [
@@ -9795,7 +9826,7 @@
       ]
     },
     {
-      "id": "l_1792010448019392",
+      "id": "l_1792023222870392",
       "titulo": "Ejercicio 141",
       "descripcion": "",
       "segmentos": [
@@ -9815,7 +9846,7 @@
       ]
     },
     {
-      "id": "l_1792010448019393",
+      "id": "l_1792023222870393",
       "titulo": "Ejercicio 142",
       "descripcion": "",
       "segmentos": [
@@ -9835,7 +9866,7 @@
       ]
     },
     {
-      "id": "l_1792010448020394",
+      "id": "l_1792023222870394",
       "titulo": "Ejercicio 143",
       "descripcion": "",
       "segmentos": [
@@ -9855,7 +9886,7 @@
       ]
     },
     {
-      "id": "l_1792010448022395",
+      "id": "l_1792023222872395",
       "titulo": "Ejercicio 144",
       "descripcion": "",
       "segmentos": [
@@ -9875,7 +9906,7 @@
       ]
     },
     {
-      "id": "l_1792010448025396",
+      "id": "l_1792023222875396",
       "titulo": "Ejercicio 145",
       "descripcion": "",
       "segmentos": [
@@ -9895,7 +9926,7 @@
       ]
     },
     {
-      "id": "l_1792010448026397",
+      "id": "l_1792023222876397",
       "titulo": "Ejercicio 146",
       "descripcion": "",
       "segmentos": [
@@ -9915,7 +9946,7 @@
       ]
     },
     {
-      "id": "l_1792010448026398",
+      "id": "l_1792023222876398",
       "titulo": "Ejercicio 147",
       "descripcion": "",
       "segmentos": [
@@ -9935,7 +9966,7 @@
       ]
     },
     {
-      "id": "l_1792010448028399",
+      "id": "l_1792023222879399",
       "titulo": "Ejercicio 148",
       "descripcion": "",
       "segmentos": [
@@ -9955,7 +9986,7 @@
       ]
     },
     {
-      "id": "l_1792010448029400",
+      "id": "l_1792023222879400",
       "titulo": "Ejercicio 149",
       "descripcion": "",
       "segmentos": [
@@ -9975,7 +10006,7 @@
       ]
     },
     {
-      "id": "l_1792010448031401",
+      "id": "l_1792023222881401",
       "titulo": "Ejercicio 150",
       "descripcion": "",
       "segmentos": [
@@ -9995,7 +10026,7 @@
       ]
     },
     {
-      "id": "l_1792010448033402",
+      "id": "l_1792023222884402",
       "titulo": "Ejercicio 151",
       "descripcion": "",
       "segmentos": [
@@ -10015,7 +10046,7 @@
       ]
     },
     {
-      "id": "l_1792010448033403",
+      "id": "l_1792023222884403",
       "titulo": "Pregunta 132",
       "descripcion": "",
       "segmentos": [
@@ -10035,7 +10066,7 @@
       ]
     },
     {
-      "id": "l_1792010448033404",
+      "id": "l_1792023222884404",
       "titulo": "Pregunta 133",
       "descripcion": "",
       "segmentos": [
@@ -10055,7 +10086,7 @@
       ]
     },
     {
-      "id": "l_1792010448033405",
+      "id": "l_1792023222884405",
       "titulo": "Pregunta 134",
       "descripcion": "",
       "segmentos": [
@@ -10075,7 +10106,7 @@
       ]
     },
     {
-      "id": "l_1792010448033406",
+      "id": "l_1792023222884406",
       "titulo": "Pregunta 135",
       "descripcion": "",
       "segmentos": [
@@ -10095,7 +10126,7 @@
       ]
     },
     {
-      "id": "l_1792010448033407",
+      "id": "l_1792023222884407",
       "titulo": "Pregunta 136",
       "descripcion": "",
       "segmentos": [
@@ -10115,7 +10146,7 @@
       ]
     },
     {
-      "id": "l_1792010448033408",
+      "id": "l_1792023222884408",
       "titulo": "Pregunta 137",
       "descripcion": "",
       "segmentos": [
@@ -10135,7 +10166,7 @@
       ]
     },
     {
-      "id": "l_1792010448033409",
+      "id": "l_1792023222884409",
       "titulo": "Pregunta 138",
       "descripcion": "",
       "segmentos": [
@@ -10155,7 +10186,7 @@
       ]
     },
     {
-      "id": "l_1792010448033410",
+      "id": "l_1792023222884410",
       "titulo": "Pregunta 139",
       "descripcion": "",
       "segmentos": [
@@ -10175,7 +10206,7 @@
       ]
     },
     {
-      "id": "l_1792010448033411",
+      "id": "l_1792023222884411",
       "titulo": "Pregunta 140",
       "descripcion": "",
       "segmentos": [
@@ -10195,7 +10226,7 @@
       ]
     },
     {
-      "id": "l_1792010448033412",
+      "id": "l_1792023222884412",
       "titulo": "Pregunta 141",
       "descripcion": "",
       "segmentos": [
@@ -10215,7 +10246,7 @@
       ]
     },
     {
-      "id": "l_1792010448033413",
+      "id": "l_1792023222884413",
       "titulo": "Pregunta 142",
       "descripcion": "",
       "segmentos": [
@@ -10235,7 +10266,7 @@
       ]
     },
     {
-      "id": "l_1792010448033414",
+      "id": "l_1792023222884414",
       "titulo": "Pregunta 143",
       "descripcion": "",
       "segmentos": [
@@ -10255,7 +10286,7 @@
       ]
     },
     {
-      "id": "l_1792010448033415",
+      "id": "l_1792023222884415",
       "titulo": "Pregunta 144",
       "descripcion": "",
       "segmentos": [
@@ -10275,7 +10306,7 @@
       ]
     },
     {
-      "id": "l_1792010448034416",
+      "id": "l_1792023222884416",
       "titulo": "Pregunta 145",
       "descripcion": "",
       "segmentos": [
@@ -10295,7 +10326,7 @@
       ]
     },
     {
-      "id": "l_1792010448034417",
+      "id": "l_1792023222884417",
       "titulo": "Pregunta 146",
       "descripcion": "",
       "segmentos": [
@@ -10315,7 +10346,7 @@
       ]
     },
     {
-      "id": "l_1792010448034418",
+      "id": "l_1792023222884418",
       "titulo": "Pregunta 147",
       "descripcion": "",
       "segmentos": [
@@ -10335,7 +10366,7 @@
       ]
     },
     {
-      "id": "l_1792010448034419",
+      "id": "l_1792023222884419",
       "titulo": "Pregunta 148",
       "descripcion": "",
       "segmentos": [
@@ -10355,7 +10386,7 @@
       ]
     },
     {
-      "id": "l_1792010448034420",
+      "id": "l_1792023222884420",
       "titulo": "Introducción",
       "descripcion": "",
       "segmentos": [
@@ -10370,7 +10401,7 @@
       ]
     },
     {
-      "id": "l_1792010448034421",
+      "id": "l_1792023222884421",
       "titulo": "Introducción (2)",
       "descripcion": "",
       "segmentos": [
@@ -10385,7 +10416,7 @@
       ]
     },
     {
-      "id": "l_1792010448034422",
+      "id": "l_1792023222884422",
       "titulo": "Introducción (3)",
       "descripcion": "",
       "segmentos": [
@@ -10400,7 +10431,7 @@
       ]
     },
     {
-      "id": "l_1792010448034423",
+      "id": "l_1792023222884423",
       "titulo": "Ejemplos",
       "descripcion": "",
       "segmentos": [
@@ -10415,7 +10446,7 @@
       ]
     },
     {
-      "id": "l_1792010448034424",
+      "id": "l_1792023222884424",
       "titulo": "Ejemplos (2)",
       "descripcion": "",
       "segmentos": [
@@ -10430,7 +10461,7 @@
       ]
     },
     {
-      "id": "l_1792010448034425",
+      "id": "l_1792023222885425",
       "titulo": "Ejemplos (3)",
       "descripcion": "",
       "segmentos": [
@@ -10445,7 +10476,7 @@
       ]
     },
     {
-      "id": "l_1792010448034426",
+      "id": "l_1792023222885426",
       "titulo": "Tipos de enroque",
       "descripcion": "",
       "segmentos": [
@@ -10461,7 +10492,7 @@
       ]
     },
     {
-      "id": "l_1792010448034427",
+      "id": "l_1792023222885427",
       "titulo": "Tipos de enroque (2)",
       "descripcion": "",
       "segmentos": [
@@ -10477,7 +10508,7 @@
       ]
     },
     {
-      "id": "l_1792010448034428",
+      "id": "l_1792023222885428",
       "titulo": "Las reglas del enroque",
       "descripcion": "",
       "segmentos": [
@@ -10492,7 +10523,7 @@
       ]
     },
     {
-      "id": "l_1792010448034429",
+      "id": "l_1792023222885429",
       "titulo": "Las reglas del enroque (2)",
       "descripcion": "",
       "segmentos": [
@@ -10507,7 +10538,7 @@
       ]
     },
     {
-      "id": "l_1792010448034430",
+      "id": "l_1792023222885430",
       "titulo": "Las reglas del enroque (3)",
       "descripcion": "",
       "segmentos": [
@@ -10522,7 +10553,7 @@
       ]
     },
     {
-      "id": "l_1792010448034431",
+      "id": "l_1792023222885431",
       "titulo": "Las reglas del enroque (4)",
       "descripcion": "",
       "segmentos": [
@@ -10537,7 +10568,7 @@
       ]
     },
     {
-      "id": "l_1792010448034432",
+      "id": "l_1792023222885432",
       "titulo": "Las reglas del enroque (5)",
       "descripcion": "",
       "segmentos": [
@@ -10552,7 +10583,7 @@
       ]
     },
     {
-      "id": "l_1792010448034433",
+      "id": "l_1792023222885433",
       "titulo": "Las reglas del enroque (6)",
       "descripcion": "",
       "segmentos": [
@@ -10568,7 +10599,7 @@
       ]
     },
     {
-      "id": "l_1792010448034434",
+      "id": "l_1792023222885434",
       "titulo": "Condiciones de enroque",
       "descripcion": "",
       "segmentos": [
@@ -10583,7 +10614,7 @@
       ]
     },
     {
-      "id": "l_1792010448034435",
+      "id": "l_1792023222885435",
       "titulo": "Ejemplo 1",
       "descripcion": "",
       "segmentos": [
@@ -10599,7 +10630,7 @@
       ]
     },
     {
-      "id": "l_1792010448034436",
+      "id": "l_1792023222885436",
       "titulo": "Ejemplo 2",
       "descripcion": "",
       "segmentos": [
@@ -10615,7 +10646,7 @@
       ]
     },
     {
-      "id": "l_1792010448034437",
+      "id": "l_1792023222885437",
       "titulo": "Ejemplo 3",
       "descripcion": "",
       "segmentos": [
@@ -10631,7 +10662,7 @@
       ]
     },
     {
-      "id": "l_1792010448034438",
+      "id": "l_1792023222885438",
       "titulo": "Ejemplo 4",
       "descripcion": "",
       "segmentos": [
@@ -10646,7 +10677,7 @@
       ]
     },
     {
-      "id": "l_1792010448034439",
+      "id": "l_1792023222885439",
       "titulo": "Ejemplo 5",
       "descripcion": "",
       "segmentos": [
@@ -10662,7 +10693,7 @@
       ]
     },
     {
-      "id": "l_1792010448034440",
+      "id": "l_1792023222885440",
       "titulo": "Pregunta 149",
       "descripcion": "",
       "segmentos": [
@@ -10682,7 +10713,7 @@
       ]
     },
     {
-      "id": "l_1792010448034441",
+      "id": "l_1792023222885441",
       "titulo": "Pregunta 150",
       "descripcion": "",
       "segmentos": [
@@ -10705,7 +10736,7 @@
       ]
     },
     {
-      "id": "l_1792010448034442",
+      "id": "l_1792023222885442",
       "titulo": "Pregunta 151",
       "descripcion": "",
       "segmentos": [
@@ -10725,7 +10756,7 @@
       ]
     },
     {
-      "id": "l_1792010448034443",
+      "id": "l_1792023222885443",
       "titulo": "Pregunta 152",
       "descripcion": "",
       "segmentos": [
@@ -10748,7 +10779,7 @@
       ]
     },
     {
-      "id": "l_1792010448034444",
+      "id": "l_1792023222885444",
       "titulo": "Pregunta 153",
       "descripcion": "",
       "segmentos": [
@@ -10768,7 +10799,7 @@
       ]
     },
     {
-      "id": "l_1792010448034445",
+      "id": "l_1792023222885445",
       "titulo": "Pregunta 154",
       "descripcion": "",
       "segmentos": [
@@ -10788,7 +10819,7 @@
       ]
     },
     {
-      "id": "l_1792010448035446",
+      "id": "l_1792023222885446",
       "titulo": "Pregunta 155",
       "descripcion": "",
       "segmentos": [
@@ -10811,7 +10842,7 @@
       ]
     },
     {
-      "id": "l_1792010448035447",
+      "id": "l_1792023222885447",
       "titulo": "Pregunta 156",
       "descripcion": "",
       "segmentos": [
@@ -10831,7 +10862,7 @@
       ]
     },
     {
-      "id": "l_1792010448035448",
+      "id": "l_1792023222885448",
       "titulo": "Pregunta 157",
       "descripcion": "",
       "segmentos": [
@@ -10854,7 +10885,7 @@
       ]
     },
     {
-      "id": "l_1792010448035449",
+      "id": "l_1792023222885449",
       "titulo": "Pregunta 158",
       "descripcion": "",
       "segmentos": [
@@ -10874,7 +10905,7 @@
       ]
     },
     {
-      "id": "l_1792010448035450",
+      "id": "l_1792023222885450",
       "titulo": "Pregunta 159",
       "descripcion": "",
       "segmentos": [
@@ -10897,7 +10928,7 @@
       ]
     },
     {
-      "id": "l_1792010448035451",
+      "id": "l_1792023222885451",
       "titulo": "Pregunta 160",
       "descripcion": "",
       "segmentos": [
@@ -10917,7 +10948,7 @@
       ]
     },
     {
-      "id": "l_1792010448035452",
+      "id": "l_1792023222885452",
       "titulo": "Pregunta 161",
       "descripcion": "",
       "segmentos": [
@@ -10940,7 +10971,7 @@
       ]
     },
     {
-      "id": "l_1792010448035453",
+      "id": "l_1792023222885453",
       "titulo": "Pregunta 162",
       "descripcion": "",
       "segmentos": [
@@ -10960,7 +10991,7 @@
       ]
     },
     {
-      "id": "l_1792010448035454",
+      "id": "l_1792023222885454",
       "titulo": "Pregunta 163",
       "descripcion": "",
       "segmentos": [
@@ -10980,7 +11011,7 @@
       ]
     },
     {
-      "id": "l_1792010448035455",
+      "id": "l_1792023222886455",
       "titulo": "Pregunta 164",
       "descripcion": "",
       "segmentos": [
@@ -11003,7 +11034,7 @@
       ]
     },
     {
-      "id": "l_1792010448035456",
+      "id": "l_1792023222886456",
       "titulo": "Pregunta 165",
       "descripcion": "",
       "segmentos": [
@@ -11023,7 +11054,7 @@
       ]
     },
     {
-      "id": "l_1792010448035457",
+      "id": "l_1792023222886457",
       "titulo": "Pregunta 166",
       "descripcion": "",
       "segmentos": [
@@ -11046,7 +11077,7 @@
       ]
     },
     {
-      "id": "l_1792010448035458",
+      "id": "l_1792023222886458",
       "titulo": "Pregunta 167",
       "descripcion": "",
       "segmentos": [
@@ -11066,7 +11097,7 @@
       ]
     },
     {
-      "id": "l_1792010448035459",
+      "id": "l_1792023222886459",
       "titulo": "Pregunta 168",
       "descripcion": "",
       "segmentos": [
@@ -11086,7 +11117,7 @@
       ]
     },
     {
-      "id": "l_1792010448035460",
+      "id": "l_1792023222886460",
       "titulo": "Pregunta 169",
       "descripcion": "",
       "segmentos": [
@@ -11109,7 +11140,7 @@
       ]
     },
     {
-      "id": "l_1792010448035461",
+      "id": "l_1792023222886461",
       "titulo": "Pregunta 170",
       "descripcion": "",
       "segmentos": [
@@ -11129,7 +11160,7 @@
       ]
     },
     {
-      "id": "l_1792010448035462",
+      "id": "l_1792023222886462",
       "titulo": "Pregunta 171",
       "descripcion": "",
       "segmentos": [
@@ -11152,7 +11183,7 @@
       ]
     },
     {
-      "id": "l_1792010448035463",
+      "id": "l_1792023222886463",
       "titulo": "Pregunta 172",
       "descripcion": "",
       "segmentos": [
@@ -11172,7 +11203,7 @@
       ]
     },
     {
-      "id": "l_1792010448035464",
+      "id": "l_1792023222886464",
       "titulo": "Pregunta 173",
       "descripcion": "",
       "segmentos": [
@@ -11192,7 +11223,7 @@
       ]
     },
     {
-      "id": "l_1792010448035465",
+      "id": "l_1792023222886465",
       "titulo": "Pregunta 174",
       "descripcion": "",
       "segmentos": [
@@ -11212,7 +11243,7 @@
       ]
     },
     {
-      "id": "l_1792010448035466",
+      "id": "l_1792023222886466",
       "titulo": "Pregunta 175",
       "descripcion": "",
       "segmentos": [
@@ -11235,7 +11266,7 @@
       ]
     },
     {
-      "id": "l_1792010448035467",
+      "id": "l_1792023222886467",
       "titulo": "Pregunta 176",
       "descripcion": "",
       "segmentos": [
@@ -11255,7 +11286,7 @@
       ]
     },
     {
-      "id": "l_1792010448035468",
+      "id": "l_1792023222886468",
       "titulo": "Pregunta 177",
       "descripcion": "",
       "segmentos": [
@@ -11278,7 +11309,7 @@
       ]
     },
     {
-      "id": "l_1792010448035469",
+      "id": "l_1792023222886469",
       "titulo": "Pregunta 178",
       "descripcion": "",
       "segmentos": [
@@ -11298,7 +11329,7 @@
       ]
     },
     {
-      "id": "l_1792010448035470",
+      "id": "l_1792023222886470",
       "titulo": "Pregunta 179",
       "descripcion": "",
       "segmentos": [
@@ -11318,7 +11349,7 @@
       ]
     },
     {
-      "id": "l_1792010448035471",
+      "id": "l_1792023222886471",
       "titulo": "Pregunta 180",
       "descripcion": "",
       "segmentos": [
@@ -11341,7 +11372,7 @@
       ]
     },
     {
-      "id": "l_1792010448035472",
+      "id": "l_1792023222886472",
       "titulo": "Pregunta 181",
       "descripcion": "",
       "segmentos": [
@@ -11361,7 +11392,7 @@
       ]
     },
     {
-      "id": "l_1792010448035473",
+      "id": "l_1792023222886473",
       "titulo": "Pregunta 182",
       "descripcion": "",
       "segmentos": [
@@ -11381,7 +11412,7 @@
       ]
     },
     {
-      "id": "l_1792010448035474",
+      "id": "l_1792023222886474",
       "titulo": "Pregunta 183",
       "descripcion": "",
       "segmentos": [
@@ -11401,7 +11432,7 @@
       ]
     },
     {
-      "id": "l_1792010448060475",
+      "id": "l_1792023222912475",
       "titulo": "Ejercicio 152",
       "descripcion": "",
       "segmentos": [
@@ -11472,7 +11503,7 @@
       ]
     },
     {
-      "id": "l_1792010448061476",
+      "id": "l_1792023222913476",
       "titulo": "Pregunta 184",
       "descripcion": "",
       "segmentos": [
@@ -11492,7 +11523,7 @@
       ]
     },
     {
-      "id": "l_1792010448061477",
+      "id": "l_1792023222913477",
       "titulo": "Pregunta 185",
       "descripcion": "",
       "segmentos": [
@@ -11512,7 +11543,7 @@
       ]
     },
     {
-      "id": "l_1792010448061478",
+      "id": "l_1792023222913478",
       "titulo": "Pregunta 186",
       "descripcion": "",
       "segmentos": [
@@ -11532,7 +11563,7 @@
       ]
     },
     {
-      "id": "l_1792010448061479",
+      "id": "l_1792023222913479",
       "titulo": "Pregunta 187",
       "descripcion": "",
       "segmentos": [
@@ -11552,7 +11583,7 @@
       ]
     },
     {
-      "id": "l_1792010448061480",
+      "id": "l_1792023222913480",
       "titulo": "Pregunta 188",
       "descripcion": "",
       "segmentos": [
@@ -11572,7 +11603,7 @@
       ]
     },
     {
-      "id": "l_1792010448061481",
+      "id": "l_1792023222913481",
       "titulo": "Pregunta 189",
       "descripcion": "",
       "segmentos": [
@@ -11592,7 +11623,7 @@
       ]
     },
     {
-      "id": "l_1792010448061482",
+      "id": "l_1792023222913482",
       "titulo": "Pregunta 190",
       "descripcion": "",
       "segmentos": [
@@ -11612,7 +11643,7 @@
       ]
     },
     {
-      "id": "l_1792010448061483",
+      "id": "l_1792023222913483",
       "titulo": "Pregunta 191",
       "descripcion": "",
       "segmentos": [
