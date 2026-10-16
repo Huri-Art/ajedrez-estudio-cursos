@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "actualizado": "2026-10-15",
+  "actualizado": "2026-10-16",
   "cursos": [
     {
       "id": "c_1774042840347",
@@ -229,8 +229,8 @@
       "imagenUrl": "https://c1.chessking.com/course-image/r136x193/0c/7/0c78a2b7-d65c-4694-b738-853877dc0402.jpg",
       "version": 1,
       "bundleUrl": "cursos/23_University2.json",
-      "numLecciones": 1002,
-      "numEjercicios": 946
+      "numLecciones": 961,
+      "numEjercicios": 928
     },
     {
       "id": "c_1792182724423",
@@ -239,8 +239,8 @@
       "imagenUrl": "https://c1.chessking.com/course-image/r136x193/c8/1/c81149af-6bf9-49a8-97d9-3ce760e8bac5.jpg",
       "version": 1,
       "bundleUrl": "cursos/24_University3.json",
-      "numLecciones": 0,
-      "numEjercicios": 0
+      "numLecciones": 1031,
+      "numEjercicios": 927
     }
   ]
 }
