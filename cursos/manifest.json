@@ -231,6 +231,16 @@
       "bundleUrl": "cursos/23_University2.json",
       "numLecciones": 1002,
       "numEjercicios": 946
+    },
+    {
+      "id": "c_1792182724423",
+      "titulo": "Nivel 3 - Jugador de club: de 600 a 1000 ELO",
+      "descripcion": "El presente nivel incluye temas que enseñan las siguientes habilidades y técnicas: * Aprendizaje del mate en 1 jugada en cualquier posición con muchas piezas * Capacidad para dar mate con rey y dama, o con rey y torre al rey adversario * Capacidad de reconocer las piezas propias que están atacadas, retirándolas o defendiéndolas del ataque * Conocimiento del concepto \"regla del cuadrado\" en los finales * Conocimiento de conceptos \"ataque doble\", \"tenedor\", \"clavada\" * Conocimiento de los principios básicos de cómo jugar la apertura (desarrollo de piezas)",
+      "imagenUrl": "https://c1.chessking.com/course-image/r136x193/c8/1/c81149af-6bf9-49a8-97d9-3ce760e8bac5.jpg",
+      "version": 1,
+      "bundleUrl": "cursos/24_University3.json",
+      "numLecciones": 0,
+      "numEjercicios": 0
     }
   ]
 }
