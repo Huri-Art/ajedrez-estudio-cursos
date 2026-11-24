@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "actualizado": "2026-10-16",
+  "actualizado": "2026-11-24",
   "cursos": [
     {
       "id": "c_1774042840347",
@@ -229,8 +229,8 @@
       "imagenUrl": "https://c1.chessking.com/course-image/r136x193/0c/7/0c78a2b7-d65c-4694-b738-853877dc0402.jpg",
       "version": 1,
       "bundleUrl": "cursos/23_University2.json",
-      "numLecciones": 961,
-      "numEjercicios": 928
+      "numLecciones": 1002,
+      "numEjercicios": 946
     },
     {
       "id": "c_1792182724423",
