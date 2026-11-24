@@ -241,6 +241,16 @@
       "bundleUrl": "cursos/24_University3.json",
       "numLecciones": 1031,
       "numEjercicios": 927
+    },
+    {
+      "id": "c_1795559884503",
+      "titulo": "Bobby Fischer enseña a jugar Ajedrez Parte 5",
+      "descripcion": "Capitulo 5 del curso",
+      "imagenUrl": "https://imgv2-1-f.scribdassets.com/img/document/250052576/original/78cefe5a94/1?v=1",
+      "version": 1,
+      "bundleUrl": "cursos/25_Bobby_Teach5.json",
+      "numLecciones": 53,
+      "numEjercicios": 46
     }
   ]
 }
