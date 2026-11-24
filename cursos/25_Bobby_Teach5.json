@@ -1,0 +1,1139 @@
+{
+  "id": "c_1795559884503",
+  "titulo": "Bobby Fischer enseña a jugar Ajedrez Parte 5",
+  "descripcion": "Capitulo 5 del curso",
+  "imagenUrl": "https://imgv2-1-f.scribdassets.com/img/document/250052576/original/78cefe5a94/1?v=1",
+  "lecciones": [
+    {
+      "id": "l_17955598845050",
+      "titulo": "ATAQUES A LA CORTINA DE PEONES ENEMIGOS",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "INFO",
+          "titulo": "ATAQUES A LA CORTINA DE PEONES ENEMIGOS",
+          "texto": "A veces el Rey de su oponente parece completamente seguro, rodeado por sus propias piezas por todos los lados. En la realidad, puede dársele fácilmente mate, sacrificando piezas que producen el rompimiento de sus defensas. Todos los temas que contiene este capítulo se refieren a los sacrificios necesarios para demoler la estructura defensiva de los Peones frente al Rey enemigo",
+          "mostrarTablero": false,
+          "orientacion": "blanca"
+        }
+      ]
+    },
+    {
+      "id": "l_17955598845061",
+      "titulo": "Diagrama 195",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "INFO",
+          "titulo": "Diagrama 195",
+          "texto": "",
+          "mostrarTablero": true,
+          "orientacion": "blanca",
+          "fen": "5rk1/1p2Qppp/p7/8/8/1B4Pq/PP1r3P/4R2K w - - 0 1",
+          "pgn": "{En esta posición, las blancas pueden dar mate en dos movimientos, pero deben encontrar el primer movimiento clave. Con cualquier otra jugada, las blancas pierden la partida.} Qxf7+ {Primer movimiento clave de las blancas: la Dama captura el Peón, da jaque y sacrifica su Dama} Rxf7 {La Torre negra captura la Dama. (Observe que el Rey negro no puede capturar, a causa del Alfil blanco.)} Re8# {La Torre blanca da el mate! La Torre negra, por estar clavada, no puede interponerse.} *"
+        }
+      ]
+    },
+    {
+      "id": "l_17955598845062",
+      "titulo": "Diagrama 196",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "INFO",
+          "titulo": "Diagrama 196",
+          "texto": "",
+          "mostrarTablero": true,
+          "orientacion": "blanca",
+          "fen": "5rk1/1p2Qppp/p7/8/8/1B4Pq/PP1r3P/4R2K w - - 0 1",
+          "pgn": "{Veamos nuevamente esta posición:} Qxf7+ {La Dama blanca ha capturado al Peón, dando jaque. las negras deciden mover su Rey} Kh8 {Ahora las blancas pueden capturar la Torre con la Dama, Mate.} Qxf8# *"
+        }
+      ]
+    },
+    {
+      "id": "l_17955598845073",
+      "titulo": "Diagrama 197",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "QUIZ",
+          "titulo": "Diagrama 197",
+          "texto": "En las cuatro posiciones que siguen, usted tendrá que decidir si se consigue dar mate, mediante un sacrificio similar al visto en el ejemplo anterior. ¿Produce mate el movimiento de las blancas que muestra la flecha: la Dama captura el Peón?",
+          "mostrarTablero": true,
+          "orientacion": "blanca",
+          "opciones": [
+            "Si",
+            "No"
+          ],
+          "respuestaCorrecta": "No",
+          "fen": "6rk/1Q4pp/8/8/8/P7/1P1q4/K3R3 w - - 0 1"
+        }
+      ]
+    },
+    {
+      "id": "l_17955598845074",
+      "titulo": "Diagrama 198",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "QUIZ",
+          "titulo": "Diagrama 198",
+          "texto": "[%cal Rb7g7] ¿El jaque de la Dama blanca al capturar el Peón, conduce al mate?",
+          "mostrarTablero": true,
+          "orientacion": "blanca",
+          "opciones": [
+            "Si",
+            "No"
+          ],
+          "respuestaCorrecta": "Si",
+          "fen": "6rk/1Q4pp/8/8/8/P1B5/1Pq5/K3R3 w - - 0 1"
+        }
+      ]
+    },
+    {
+      "id": "l_17955598845265",
+      "titulo": "Diagrama 198 II",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 198 II",
+          "texto": "¿El jaque de la Dama blanca al capturar el Peón, conduce al jaque mate?",
+          "orientacion": "blanca",
+          "fen": "6rk/1Q4pp/8/8/8/P1B5/1Pq5/K3R3 w - - 0 1",
+          "secuenciaCorrecta": [
+            "b7g7",
+            "g8g7",
+            "e1e8"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_17955598845266",
+      "titulo": "Diagrama 199",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "QUIZ",
+          "titulo": "Diagrama 199",
+          "texto": "[%cal Ra5c7] La Dama blanca captura el Peón, tal como lo indica la flecha. ¿Se produce mate?",
+          "mostrarTablero": true,
+          "orientacion": "blanca",
+          "opciones": [
+            "Si",
+            "No"
+          ],
+          "respuestaCorrecta": "Si",
+          "fen": "1kq5/ppp5/r3p1p1/Q6p/4P3/2P3B1/b5PP/5R1K w - - 0 1"
+        }
+      ]
+    },
+    {
+      "id": "l_17955598845327",
+      "titulo": "Diagrama 199 II",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 199 II",
+          "texto": "La Dama blanca captura el Peón, ¿Se produce mate?",
+          "orientacion": "blanca",
+          "fen": "1kq5/ppp5/r3p1p1/Q6p/4P3/2P3B1/b5PP/5R1K w - - 0 1",
+          "secuenciaCorrecta": [
+            "a5c7",
+            "c8c7",
+            "f1f8"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_17955598845328",
+      "titulo": "Diagrama 200",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "QUIZ",
+          "titulo": "Diagrama 200",
+          "texto": "[%cal Rf3f7] La Dama blanca captura el Peón, tal como lo indica la flecha. ¿Se produce mate?",
+          "mostrarTablero": true,
+          "orientacion": "blanca",
+          "opciones": [
+            "Si",
+            "No"
+          ],
+          "respuestaCorrecta": "",
+          "fen": "1b3rk1/1p3p1p/2p3p1/8/2B5/1P1R1Q2/P4PPq/5K2 w - - 0 1"
+        }
+      ]
+    },
+    {
+      "id": "l_17955598845329",
+      "titulo": "Respuesta:Diagrama 200",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "INFO",
+          "titulo": "Respuesta:Diagrama 200",
+          "texto": "",
+          "mostrarTablero": true,
+          "orientacion": "blanca",
+          "fen": "1b3rk1/1p3p1p/2p3p1/8/2B5/1P1R1Q2/P4PPq/5K2 w - - 0 1",
+          "pgn": "{La Dama blanca captura el Peón, tal como lo indica la flecha. ¿Se produce mate?} Qxf7+ Rxf7 Rd8+ Kg7 {No. Las blancas no pueden dar mate, pues el Rey negro tiene un cuadrado de escape. Las negras deben capturar la Dama blanca con la Torre y luego escapar con su Rey cuando las blancas le den jaque con la Torre.)} *"
+        }
+      ]
+    },
+    {
+      "id": "l_179555988453210",
+      "titulo": "Diagrama 201",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "QUIZ",
+          "titulo": "Diagrama 201",
+          "texto": "[%cal Rf7b7] La Dama blanca captura el Peón negro, tal como lo indica la flecha. ¿Se produce mate?",
+          "mostrarTablero": true,
+          "orientacion": "blanca",
+          "opciones": [
+            "Si",
+            "No"
+          ],
+          "respuestaCorrecta": "Si",
+          "fen": "kr6/pp3Q2/5p2/6p1/1n4P1/1P2PB2/q1PPK3/7R w - - 0 1"
+        }
+      ]
+    },
+    {
+      "id": "l_179555988453711",
+      "titulo": "Diagrama 201 II",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 201 II",
+          "texto": "La Dama blanca captura el Peón negro, ¿Se produce mate?",
+          "orientacion": "blanca",
+          "fen": "kr6/pp3Q2/5p2/6p1/1n4P1/1P2PB2/q1PPK3/7R w - - 0 1",
+          "secuenciaCorrecta": [
+            "f7b7",
+            "b8b7",
+            "h1h8"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_179555988454212",
+      "titulo": "Diagrama 202",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 202",
+          "texto": "",
+          "orientacion": "negra",
+          "fen": "6qk/2p3pp/1p6/8/8/1bB3QP/r5P1/5R1K w - - 0 1",
+          "secuenciaCorrecta": [
+            "g3g7",
+            "g8g7",
+            "f1f8",
+            "b3g8"
+          ],
+          "comentariosMovimiento": [
+            "",
+            "Porque puede interponerse el Alfil negro. Después que las negras capturen la Dama con la Dama, la Torre blanca da jaque. El Alfil se interpone."
+          ],
+          "comentariosRival": [
+            "La Dama blanca captura el Peón y da jaque. ¿Porque este movimiento no conduce al mate?",
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_179555988454513",
+      "titulo": "Diagrama 203",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 203",
+          "texto": "",
+          "orientacion": "negra",
+          "fen": "5rk1/1p3ppp/p7/5Qn1/7q/1B5P/P5PK/2R5 w - - 0 1",
+          "secuenciaCorrecta": [
+            "f5f7",
+            "g5f7"
+          ],
+          "comentariosMovimiento": [
+            "Porque el Caballo negro captura la Dama blanca. Si no fuera por eso, las negras estarían mate."
+          ],
+          "comentariosRival": [
+            "La Dama blanca toma el Peón y da jaque. Esta jugada no conduce al mate porque...?"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_179555988454614",
+      "titulo": "Diagrama 204",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 204",
+          "texto": "",
+          "orientacion": "negra",
+          "fen": "1kq5/ppp5/8/Q3B3/8/5b2/PP6/K5Rr w - - 0 1",
+          "secuenciaCorrecta": [
+            "a5c7",
+            "c8c7"
+          ],
+          "comentariosMovimiento": [
+            "La Torre blanca no puede dar jaque.Está clavada."
+          ],
+          "comentariosRival": [
+            "La Dama toma el Peón negro. Jaque. Este movimiento no conduce al mate porque..."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_179555988455215",
+      "titulo": "Diagrama 205",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 205",
+          "texto": "Tomado de una partida mía. Si usted jugara con las negras, ¿qué haría aquí? ¡Piense! Las negras amenazan a las blancas de dos maneras. Una es evidente, pero la otra ...",
+          "orientacion": "negra",
+          "fen": "3rr3/R6p/2Q1Bppk/8/2P5/4b3/PP1q1PPP/5RK1 b - - 0 1",
+          "secuenciaCorrecta": [
+            "d2f2",
+            "f1f2",
+            "d8d1"
+          ],
+          "comentariosMovimiento": [
+            "la Dama captura el Peón. Jaque. Esta jugada conduce al mate. Esta posición está tomada de mi partida con el Maestro suizo Bhend.",
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_179555988455316",
+      "titulo": "Diagrama 205 II",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 205 II",
+          "texto": "Esta posición está tomada de mi partida con el Maestro suizo Bhend. Pero me tocaba jugar a mí (blancas) y no a las negras.",
+          "orientacion": "blanca",
+          "fen": "3rr3/R6p/2Q1Bppk/8/2P5/4b3/PP1q1PPP/5RK1 w - - 0 1",
+          "secuenciaCorrecta": [
+            "a7d7"
+          ],
+          "comentariosMovimiento": [
+            "Moví la Torre en la horizontal, tres cuadrados, colocándola entre la Dama negra y la Torre. Así se pudieron evitar las amenazas de mate."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_179555988456317",
+      "titulo": "Diagrama 206",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 206",
+          "texto": "En esta posicion, las blancas combinan el tema de la captura del Peón vecino al Rey con el del alejamiento del Rey",
+          "orientacion": "blanca",
+          "fen": "5rk1/5ppp/p7/p5N1/5Q2/3n2P1/Pq4BP/4R1K1 w - - 0 1",
+          "secuenciaCorrecta": [
+            "f4f7",
+            "f8f7",
+            "e1e8",
+            "f7f8",
+            "g2d5",
+            "g8h8",
+            "e8f8"
+          ],
+          "comentariosMovimiento": [
+            "Las blancas comienzan por entregar su Dama: la Dama captura el Peón. Jaque",
+            "la Torre blanca da jaque, pero esta vez se puede interponer la Torre negra.",
+            "Pero ahora el Alfil blanco puede alejar al Rey negro. Esta parte de la combinación ya resulta conocida para usted. las blancas dan mate",
+            ""
+          ],
+          "comentariosRival": [
+            "La Dama blanca ha hecho su jaque y será capturada por la Torre negra. Observe que el Caballo blanco impide al Rey negro capturar la Dama.",
+            "",
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_179555988456518",
+      "titulo": "Diagrama 207",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 207",
+          "texto": "Usted tiene que estar seguro de que todos los elementos de la combinación están presentes. De otra manera, usted sencillamente perderá su Dama.En este ejemplo la Dama blanca ya fue sacrificada, tal como la posición lo Indica. Aparentemente el sacrificio resultará fructífero. Sin embargo, no es así. ¿Como se salvaran las negras?",
+          "orientacion": "negra",
+          "fen": "rn3rk1/1pp2Qpp/1b6/p7/2P5/P4BN1/1q3PPP/R3R1K1 b - - 0 1",
+          "secuenciaCorrecta": [
+            "g8f7"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_179555988457119",
+      "titulo": "Diagrama 208",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 208",
+          "texto": "Observe cómo fracasa completamente el sacrificio: Aquí va la Dama blanca",
+          "orientacion": "negra",
+          "fen": "1r3rk1/pp1R1ppp/2p5/1n2p3/2Q1P3/P7/1q2BPPP/3R2K1 w - - 0 1",
+          "secuenciaCorrecta": [
+            "c4f7",
+            "f8f7",
+            "d7d8",
+            "f7f8",
+            "e2c4",
+            "g8h8"
+          ],
+          "comentariosMovimiento": [
+            "",
+            "las negras tienen una defensa simple: interponen su Torre. Las negras deben resistir su impulso de capturar primero la Torre blanca con su Torre. Esa jugada haría perder la partida a las negras.",
+            "¡pero espere un minuto! ¿Qué van a hacer ahora las blancas? Nada. La última fila de las negras es sólida. Las blancas no pueden dar mate y han perdido su Dama. Pero si las negras hubieran cambiado Torres, las blancas podrían ahora dar mate, capturando la Torre negra restante con su última Torre."
+          ],
+          "comentariosRival": [
+            "La Dama ha capturado al Peón, Jaque",
+            "La Torre negra capturó, permitiendo a la Torre blanca dar jaque.",
+            "El Alfil blanco da jaque. El Rey se refugia en el rincón. Todo tal como fue planeado"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_179555988457820",
+      "titulo": "Diagrama 209",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 209",
+          "texto": "Observe si en esta posición existen todos los elementos necesarios para dar mate:",
+          "orientacion": "blanca",
+          "fen": "kr6/pp4p1/5p2/2r5/q1p5/2Pp1QP1/PP3PB1/K2R3R w - - 0 1",
+          "secuenciaCorrecta": [
+            "f3b7",
+            "b8b7",
+            "h1h8",
+            "a4e8",
+            "h8e8",
+            "c5c8",
+            "e8c8"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_179555988458621",
+      "titulo": "Diagrama 210",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 210",
+          "texto": "¿Resulta el sacrificio en este caso?",
+          "orientacion": "blanca",
+          "fen": "5rk1/RQ3ppp/1p5q/2p5/2pP4/1P4P1/1P2PPBr/6K1 w - - 0 1",
+          "secuenciaCorrecta": [
+            "b7f7",
+            "f8f7",
+            "a7a8",
+            "f7f8",
+            "g2d5",
+            "h6e6",
+            "d5e6",
+            "g8h8",
+            "a8f8"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_179555988458722",
+      "titulo": "Diagrama 211",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 211",
+          "texto": "",
+          "orientacion": "blanca",
+          "fen": "r4qk1/1pp2ppp/r7/3Q1p2/5Pn1/pB1R2P1/1PP5/2KR4 w - - 0 1",
+          "secuenciaCorrecta": [
+            "d5f7",
+            "g8h8"
+          ],
+          "comentariosMovimiento": [
+            "¿cómo pueden salvarse las negras?"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_179555988459623",
+      "titulo": "Diagrama 212",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 212",
+          "texto": "",
+          "orientacion": "blanca",
+          "fen": "r1b2rk1/pp3ppp/1qp5/8/2pP4/P1N5/1P3QPP/4RRK1 w - - 0 1",
+          "secuenciaCorrecta": [
+            "f2f7",
+            "f8f7",
+            "e1e8",
+            "f7f8",
+            "f1f8"
+          ],
+          "comentariosMovimiento": [
+            "Aqui la Dama blanca ha tomado el Peón, dando jaque. La Torre negra captura.",
+            "La Torre blanca da jaque, la Torre negra debe interponerse",
+            ""
+          ],
+          "comentariosRival": [
+            "",
+            "Ahora observe la posición. Dos contra uno en la última fila. Las blancas pueden dar mate con cualquiera de las dos Torres."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_179555988460024",
+      "titulo": "Diagrama 213",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 213",
+          "texto": "Otra variante:",
+          "orientacion": "blanca",
+          "fen": "6rk/R2Q2pp/8/2p2p2/2Pp1B1P/1r4P1/5PK1/3q4 w - - 0 1",
+          "secuenciaCorrecta": [
+            "d7g7",
+            "g8g7",
+            "a7a8",
+            "g7g8",
+            "f4e5"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_179555988460425",
+      "titulo": "Diagrama 214",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 214",
+          "texto": "Imagine la combinación de mate completa y mencione la pieza blanca que da el mate",
+          "orientacion": "blanca",
+          "fen": "5rk1/pp3ppp/7q/n3p3/2Q1P1n1/1B3N2/PP3PPP/2R3K1 w - - 0 1",
+          "secuenciaCorrecta": [
+            "c4f7",
+            "f8f7",
+            "c1c8"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_179555988461026",
+      "titulo": "Diagrama 215",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 215",
+          "texto": "Imagine la combinación de mate completa y mencione la pieza blanca que da el mate",
+          "orientacion": "blanca",
+          "fen": "1kr5/1ppR4/4p3/4Q1p1/8/1P2PpPq/1BP1bP1P/R5K1 w - - 0 1",
+          "secuenciaCorrecta": [
+            "e5c7",
+            "c8c7",
+            "d7d8",
+            "c7c8",
+            "b2e5"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_179555988461727",
+      "titulo": "Diagrama 216",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 216",
+          "texto": "Imagine la combinación de mate completa y mencione la pieza blanca que da el mate",
+          "orientacion": "blanca",
+          "fen": "6rk/2p3pp/p1p3P1/3p1N1P/P3Pq2/3Pb3/1Q4P1/1R5K w - - 0 1",
+          "secuenciaCorrecta": [
+            "b2g7",
+            "g8g7",
+            "b1b8",
+            "g7g8",
+            "g6g7"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_179555988462328",
+      "titulo": "Diagrama 217",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 217",
+          "texto": "Imagine la combinación de mate completa y mencione la pieza blanca que da el mate",
+          "orientacion": "blanca",
+          "fen": "5rk1/RQ3p1p/6p1/2p5/1p3bn1/1P6/1BPq1PPP/5BK1 w - - 0 1",
+          "secuenciaCorrecta": [
+            "b7f7",
+            "f8f7",
+            "a7a8",
+            "f7f8",
+            "f1c4",
+            "d2d5",
+            "c4d5"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_179555988463029",
+      "titulo": "Diagrama 218",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 218",
+          "texto": "Imagine la combinación de mate completa y mencione la pieza blanca que da el mate",
+          "orientacion": "blanca",
+          "fen": "5rk1/5ppp/7q/p7/1p1p4/P2P4/1P2RQPP/2r2R1K w - - 0 1",
+          "secuenciaCorrecta": [
+            "f2f7",
+            "f8f7",
+            "e2e8",
+            "f7f8",
+            "f1f8"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_179555988463530",
+      "titulo": "Diagrama 219",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 219",
+          "texto": "Aquí fracasa el sacrificio de la Dama, que se puede hacer en su lugar?",
+          "orientacion": "blanca",
+          "fen": "4q1rk/3Q2pp/6p1/1p6/p2B4/P1P5/1P2rPP1/2K4R w - - 0 1",
+          "secuenciaCorrecta": [
+            "h1h7",
+            "h8h7",
+            "d7h3"
+          ],
+          "comentariosMovimiento": [
+            "",
+            "El Rey negro ha sido obligado a capturar la Torre. Y ahora la Dama blanca da mate. Observe que el Rey está acorralado. Es una posición similar a la de un mate en la última fila"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_179555988464131",
+      "titulo": "Diagrama 220",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 220",
+          "texto": "En los cinco diagramas que siguen, decida si resulta justificable el sacrificio de piezas",
+          "orientacion": "blanca",
+          "fen": "1q3r1k/2p3pp/6p1/2pB4/3p4/P5P1/KPb3P1/5R1Q w - - 0 1",
+          "secuenciaCorrecta": [
+            "h1h7",
+            "h8h7",
+            "f1h1"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_179555988464532",
+      "titulo": "Diagrama 221",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 221",
+          "texto": "Decida si resulta justificable el sacrificio de piezas",
+          "orientacion": "blanca",
+          "fen": "5r1k/q1p1Nppp/8/p7/1bR1Q3/1P4P1/P4PP1/6K1 w - - 0 1",
+          "secuenciaCorrecta": [
+            "e4h7",
+            "h8h7",
+            "c4h4"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_179555988464733",
+      "titulo": "Diagrama 222",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 222",
+          "texto": "",
+          "orientacion": "negra",
+          "fen": "1q4rk/p5pp/4p3/3p3Q/1ppP4/2P2PP1/PP3PK1/5R2 w - - 0 1",
+          "secuenciaCorrecta": [
+            "h5h7",
+            "h8h7",
+            "f1h1",
+            "h7g6"
+          ],
+          "comentariosMovimiento": [
+            "",
+            "No, El Rey negro tiene un cuadrado de escape"
+          ],
+          "comentariosRival": [
+            "¿Pueden dar mate las blancas comenzando por capturar el Peón con la Dama?",
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_179555988465034",
+      "titulo": "Diagrama 223",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 223",
+          "texto": "",
+          "orientacion": "negra",
+          "fen": "kr1q4/pp6/1p6/4r3/8/QPP5/2KP4/3R3R w - - 0 1",
+          "secuenciaCorrecta": [
+            "a3a7",
+            "a8a7",
+            "d1a1",
+            "e5a5",
+            "a1a5",
+            "b6a5"
+          ],
+          "comentariosMovimiento": [
+            "",
+            "",
+            "No, las blancas no dan mate. Después que la Dama captura el Peón y da jaque, el Rey negro toma la Dama y cuando la Torre blanca se mueve hacia la izquierda y da jaque, las negras interponen su Torre"
+          ],
+          "comentariosRival": [
+            "¿Pueden dar mate las blancas comenzando por capturar el Peón con la Dama?",
+            "",
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_179555988465235",
+      "titulo": "Diagrama 224",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 224",
+          "texto": "",
+          "orientacion": "negra",
+          "fen": "4rrqk/1pp3pp/6p1/p2p4/P2P3Q/1P4R1/2P2PP1/R5K1 w - - 0 1",
+          "secuenciaCorrecta": [
+            "h4h7",
+            "g8h7"
+          ],
+          "comentariosMovimiento": [
+            "No. No hay mate en el caso que las negras respondan capturando la Dama con la Dama. Si, en cambio, el Rey negro captura la Dama, las blancas darán mate."
+          ],
+          "comentariosRival": [
+            "¿Pueden dar mate las blancas comenzando por capturar el Peón con la Dama?"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_179555988465736",
+      "titulo": "Diagrama 225",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 225",
+          "texto": "En algunas de las posiciones que siguen a continuación, las blancas utilizarán el sistema de sacrificar piezas para dar mate. En otras, las blancas darán mate de manera distinta. Muestre el primer movimiento de las blancas",
+          "orientacion": "blanca",
+          "fen": "1kr5/ppp4R/8/5p2/4bQ2/RP6/1B3qr1/K7 w - - 0 1",
+          "secuenciaCorrecta": [
+            "f4c7",
+            "c8c7",
+            "h7h8",
+            "c7c8",
+            "b2e5",
+            "b8a8",
+            "h8c8"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_179555988466137",
+      "titulo": "Diagrama 226",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 226",
+          "texto": "Muestre los movimientos de las blancas",
+          "orientacion": "blanca",
+          "fen": "q6k/6pp/1n6/rNp5/2PpQ1P1/Pb3N2/1P6/2K1R3 w - - 0 1",
+          "secuenciaCorrecta": [
+            "e4e8",
+            "a8e8",
+            "e1e8"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_179555988466938",
+      "titulo": "Diagrama 227",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 227",
+          "texto": "Muestre los movimientos de las blancas",
+          "orientacion": "blanca",
+          "fen": "1q3r1k/6pp/8/p1p1pP2/3bP1P1/1B1Q4/PP4K1/7R w - - 0 1",
+          "secuenciaCorrecta": [
+            "h1h7",
+            "h8h7",
+            "d3h3"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_179555988467339",
+      "titulo": "Diagrama 228",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 228",
+          "texto": "Muestre los movimientos de las blancas",
+          "orientacion": "blanca",
+          "fen": "kr6/pp2n3/8/2P5/3p2qp/3P2P1/R1PK2Q1/1R6 w - - 0 1",
+          "secuenciaCorrecta": [
+            "a2a7",
+            "a8a7",
+            "b1a1"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_179555988467940",
+      "titulo": "Diagrama 229",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 229",
+          "texto": "En este caso, las blancas siguen un método algo diferente para dar mate.",
+          "orientacion": "blanca",
+          "fen": "k6r/pp5q/2p2Qp1/5p2/2N4P/1P4B1/5P1P/1K6 w - - 0 1",
+          "secuenciaCorrecta": [
+            "c4b6",
+            "a7b6",
+            "f6a1"
+          ],
+          "comentariosMovimiento": [
+            "El movimiento clave es un jaque dado por el Caballo blanco. El Rey no se puede mover. El Peón negro está obligado a capturar.",
+            "La Dama blanca da el mate"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_179555988468241",
+      "titulo": "Diagrama 230",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 230",
+          "texto": "¿Cuál es el primer movimiento de las blancas en esta posición?",
+          "orientacion": "blanca",
+          "fen": "b5rk/5Qpp/8/8/1P5N/P7/1Brq2P1/5RK1 w - - 0 1",
+          "secuenciaCorrecta": [
+            "f7g7",
+            "g8g7",
+            "f1f8"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_179555988468942",
+      "titulo": "Diagrama 231",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 231",
+          "texto": "¿Cuál es el primer movimiento de las blancas en esta posición?",
+          "orientacion": "blanca",
+          "fen": "q5rk/5Qpp/1rb5/8/1P5N/P4P2/B5K1/4R3 w - - 0 1",
+          "secuenciaCorrecta": [
+            "h4g6",
+            "h7g6",
+            "e1h1"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_179555988469043",
+      "titulo": "Diagrama 232",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 232",
+          "texto": "¿Cuál es el primer movimiento de las blancas en esta posición?",
+          "orientacion": "blanca",
+          "fen": "1b4rk/2q2Qpp/2r5/8/1P1n3N/P4R2/6K1/2B2R2 w - - 0 1",
+          "secuenciaCorrecta": [
+            "f7g8",
+            "h8g8",
+            "f3f8"
+          ],
+          "comentariosMovimiento": [
+            "",
+            "Observe que en este caso el jaque del Caballo fracasa. pues las negras podrían replicar dando jaque al Rey blanco, mediante la captura del Caballo con su Torre."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_179555988469744",
+      "titulo": "Diagrama 233",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 233",
+          "texto": "Esta posición no parece peligrosa. Sin embargo, las blancas pueden dar mate en tres jugadas. Deben primero obligar al Rey a ir al rincón, y luego dar mate utilizando alguno de los caminos recién aprendidos.",
+          "orientacion": "blanca",
+          "fen": "2r2rk1/5ppp/p1Np4/1p2b3/2P5/4P1P1/PP3PP1/2KR3R w - - 0 1",
+          "secuenciaCorrecta": [
+            "c6e7",
+            "g8h8",
+            "h1h7",
+            "h8h7",
+            "d1h1"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_179555988470045",
+      "titulo": "Diagrama 234",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 234",
+          "texto": "¿Pueden dar mate las blancas?",
+          "orientacion": "blanca",
+          "fen": "2r3rk/ppq2ppp/1n2p3/3nN3/3PQ3/P1BR4/1P3PPP/4R1K1 w - - 0 1",
+          "secuenciaCorrecta": [
+            "e4h7",
+            "h8h7",
+            "d3h3"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_179555988470446",
+      "titulo": "Diagrama 235",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 235",
+          "texto": "¿Pueden dar mate las blancas?",
+          "orientacion": "blanca",
+          "fen": "1kr1r1b1/ppp3p1/5p2/2Npp2p/2PP4/R1R1PP2/PP4PP/K7 w - - 0 1",
+          "secuenciaCorrecta": [
+            "c5d7",
+            "b8a8",
+            "a3a7",
+            "a8a7",
+            "c3a3"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_179555988471547",
+      "titulo": "Diagrama 236",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 236",
+          "texto": "¿Pueden dar mate las blancas?",
+          "orientacion": "blanca",
+          "fen": "5r1k/pbq3pp/1p2Q3/n1p1n3/4P3/3PP3/PPPN4/2K3RR w - - 0 1",
+          "secuenciaCorrecta": [
+            "h1h7",
+            "h8h7",
+            "g1h1"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_179555988471848",
+      "titulo": "Diagrama 237",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 237",
+          "texto": "¿Porque las blancas no pueden dar mate?",
+          "orientacion": "negra",
+          "fen": "3r3k/1b4pp/1q2Bp2/4pP1Q/pp6/8/PPP5/1K3R2 w - - 0 1",
+          "secuenciaCorrecta": [
+            "h5h7",
+            "h8h7",
+            "f1h1",
+            "b7h1"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_179555988471949",
+      "titulo": "Diagrama 238",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 238",
+          "texto": "Las blancas han obligado a las negras a debilitar sus Peones frente al Rey. Indique el movimiento de las blancas en su combinación de mate:",
+          "orientacion": "blanca",
+          "fen": "4r2k/p4p1p/1q2p1pP/2p1P1Q1/3nB1P1/P7/1P3P2/2R3K1 w - - 0 1",
+          "secuenciaCorrecta": [
+            "g5f6",
+            "h8g8",
+            "f6g7"
+          ],
+          "comentariosMovimiento": [
+            "",
+            "Esta posición está tomada de mi partida con Arthur Feuerstein en Nueva York en 1957. Mi oponente evitó llegar a esta posición, entregando piezas, y perdió la partida pronto"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_179555988472350",
+      "titulo": "Diagrama 239",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "MOVIMIENTO",
+          "titulo": "Diagrama 239",
+          "texto": "¿Pueden dar mate las blancas?",
+          "orientacion": "blanca",
+          "fen": "2n3rk/6pp/2q1p3/pp2Pp2/2p2N2/2P3P1/PPB2P2/K2RR3 w - - 0 1",
+          "secuenciaCorrecta": [
+            "f4g6",
+            "h7g6",
+            "e1h1",
+            "c6h1",
+            "d1h1"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l_179555988472451",
+      "titulo": "RESUMEN",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "INFO",
+          "titulo": "RESUMEN",
+          "texto": "",
+          "mostrarTablero": true,
+          "orientacion": "blanca",
+          "fen": "5rk1/5ppp/3p4/3B2q1/R3P1n1/2r5/P3Q1PP/5R1K w - - 0 1",
+          "pgn": "{Al terminar este capítulo usted ha adquirido varias armas y técnicas nece· sarias para producir el jaque mate. A continuación se presenta una combi· nación muy complicada que se produjo en mi partida con James Sherwin en el Campeonato de los Estados Unidos en 1957.} Rxf7 {¡Yo (blancas) capturé el Peón con la Torre! Si las negras hubieran capturado mi Torre con la suya, yo les habría dado mate (¿ve usted cómo podría hacerse?)} Rc1+ {En la realidad, Sherwin movió su Torre a mi última fila y me dio jaque. Yo podría haber interpuesto mi Torre, permitiendo a mi Alfil (cuya diagonal quedaría descubierta) dar jaque. Pero se me ocurrió algo mejor: ¡Interponer mi Dama!} Qf1 {En esta situación, las negras deben hacer frente a la amenaza que mi Torre capture su Torre, dando mate. El problema no se resolvía con la captura de mi Dama por su Torre, pues en tal caso yo le habría capturado esa Torre con la mía. descubriendo un jaque con mi Alfil.} Rxf1 Rxf1+ {SI Sherwin hubiera movido su Rey al rincón, yo le habría dado mate capturando su Torre con la mía. En caso de que se interpusiera la Torre. darra mate a las negras la Torre del extremo izquierdo. Capturar mi Alfil con su Dama tampoco servirra de gran cosa, porque yo habría dado jaque capturando su Torre con la mra, para proceder luego a tomar la Dama negra con el Peón} *"
+        }
+      ]
+    },
+    {
+      "id": "l_179555988472452",
+      "titulo": "RESUMEN II",
+      "descripcion": "",
+      "segmentos": [
+        {
+          "tipo": "INFO",
+          "titulo": "RESUMEN II",
+          "texto": "",
+          "mostrarTablero": true,
+          "orientacion": "blanca",
+          "fen": "5rk1/5ppp/3p4/3B2q1/R3P1n1/2r5/P3Q1PP/5R1K w - - 0 1",
+          "pgn": "Rxf7 Rc1+ Qf1 h5 {Sherwin trató de sacar el mejor partido de una mala posición, avanzando su Peón colocándolo junto a su Dama. De esta manera creó un cuadrado de escape para su Rey. Ahora yo le capturé la Torre con la Dama.} Qxc1 {Esto me significó la ganancia de una Torre. Pronto las negras abandonaron. Observe que si las negras hubieran preferido dar jaque capturando la Dama blanca con su Dama, de todas manera:; habrían quedado con una Torre de menos ¿Cómo? ¡Se habría interpuesto la Torre blanca! Ello habría expuesto al Rey negro al jaque del Alfil y, mientras las negras se defendían de este ataque, yo habría capturado su Dama. ESTE ES EL FINAL DEL CAPITULO 5} *"
+        }
+      ]
+    }
+  ]
+}
